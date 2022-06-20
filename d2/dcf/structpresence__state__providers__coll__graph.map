@@ -1,0 +1,8 @@
+<map id="presence_state_providers" name="presence_state_providers">
+<area shape="rect" id="node2" href="$d3/d20/structpresence__state__provider.html" title="A presence state provider. " alt="" coords="5,184,185,211"/>
+<area shape="rect" id="node3" href="$d8/d9e/structmessage.html" title="message" alt="" coords="55,95,136,121"/>
+<area shape="rect" id="node4" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="209,184,328,211"/>
+<area shape="rect" id="node5" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="176,95,327,121"/>
+<area shape="rect" id="node6" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="351,95,464,121"/>
+<area shape="rect" id="node7" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="376,5,439,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ast_mwi_subscriber" name="ast_mwi_subscriber">
+<area shape="rect" id="node2" href="$d7/d67/structstasis__state__subscriber.html" title="stasis_state_subscriber" alt="" coords="148,288,320,315"/>
+<area shape="rect" id="node3" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="5,109,148,136"/>
+<area shape="rect" id="node4" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="7,5,146,32"/>
+<area shape="rect" id="node5" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="249,5,347,32"/>
+<area shape="rect" id="node6" href="$d6/d75/structstasis__state.html" title="stasis_state" alt="" coords="345,199,443,225"/>
+<area shape="rect" id="node7" href="$d8/d54/structstasis__forward.html" title="Forwarding information. " alt="" coords="337,109,451,136"/>
+<area shape="rect" id="node8" href="$d8/d25/structstasis__state__manager.html" title="stasis_state_manager" alt="" coords="475,109,639,136"/>
+<area shape="rect" id="node9" href="$d7/d55/structstasis__message.html" title="stasis_message" alt="" coords="663,109,789,136"/>
+</map>

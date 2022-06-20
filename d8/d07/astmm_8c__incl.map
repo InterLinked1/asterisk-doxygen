@@ -1,0 +1,11 @@
+<map id="astmm.c" name="astmm.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1255,80,1339,107"/>
+<area shape="rect" id="node22" href="$d4/d78/__private_8h.html" title="Prototypes for public functions only of internal interest,. " alt="" coords="1363,80,1502,107"/>
+<area shape="rect" id="node23" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1527,80,1653,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1513,229,1667,256"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="800,155,937,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1229,155,1364,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1517,304,1663,331"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="5,229,148,256"/>
+<area shape="rect" id="node24" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="1523,155,1657,181"/>
+</map>

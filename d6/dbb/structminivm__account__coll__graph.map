@@ -1,0 +1,4 @@
+<map id="minivm_account" name="minivm_account">
+<area shape="rect" id="node2" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="19,124,118,151"/>
+<area shape="rect" id="node3" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="13,5,124,32"/>
+</map>

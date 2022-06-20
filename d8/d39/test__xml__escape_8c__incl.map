@@ -1,0 +1,22 @@
+<map id="test_xml_escape.c" name="test_xml_escape.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="803,304,887,331"/>
+<area shape="rect" id="node22" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1225,155,1339,181"/>
+<area shape="rect" id="node48" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1214,80,1350,107"/>
+<area shape="rect" id="node49" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1025,80,1139,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="467,528,622,555"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="696,379,833,405"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="857,379,992,405"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="471,603,618,629"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1369,453,1512,480"/>
+<area shape="rect" id="node23" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1758,229,1897,256"/>
+<area shape="rect" id="node33" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1536,453,1599,480"/>
+<area shape="rect" id="node36" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1907,379,2020,405"/>
+<area shape="rect" id="node41" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2339,453,2465,480"/>
+<area shape="rect" id="node42" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="2085,229,2231,256"/>
+<area shape="rect" id="node44" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2582,229,2739,256"/>
+<area shape="rect" id="node46" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1013,229,1143,256"/>
+<area shape="rect" id="node35" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1810,528,1957,555"/>
+<area shape="rect" id="node40" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="1695,453,1845,480"/>
+<area shape="rect" id="node45" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2583,304,2709,331"/>
+<area shape="rect" id="node50" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1057,155,1158,181"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="res_mwi_external_ami.c" name="res_mwi_external_ami.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="605,229,689,256"/>
+<area shape="rect" id="node22" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1247,80,1383,107"/>
+<area shape="rect" id="node31" href="$df/dd3/res__mwi__external_8h.html" title="Core external MWI support. " alt="" coords="1408,80,1606,107"/>
+<area shape="rect" id="node32" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="1630,80,1776,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="608,453,763,480"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="658,304,796,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="500,304,634,331"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="612,528,759,555"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1042,379,1185,405"/>
+<area shape="rect" id="node23" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1631,229,1746,256"/>
+<area shape="rect" id="node24" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2248,304,2387,331"/>
+<area shape="rect" id="node25" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1488,379,1550,405"/>
+<area shape="rect" id="node26" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1265,304,1378,331"/>
+<area shape="rect" id="node27" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1574,379,1701,405"/>
+<area shape="rect" id="node28" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1504,304,1651,331"/>
+<area shape="rect" id="node29" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1931,304,2088,331"/>
+<area shape="rect" id="node30" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1776,304,1907,331"/>
+<area shape="rect" id="node33" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="1468,155,1618,181"/>
+<area shape="rect" id="node35" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="1858,229,1993,256"/>
+<area shape="rect" id="node34" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1408,229,1558,256"/>
+<area shape="rect" id="node36" href="$d0/d62/xml_8h.html" title="Asterisk XML abstraction layer. " alt="" coords="2113,304,2224,331"/>
+</map>

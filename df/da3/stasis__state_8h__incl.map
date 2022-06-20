@@ -1,0 +1,13 @@
+<map id="stasis_state.h" name="stasis_state.h">
+<area shape="rect" id="node2" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="335,80,460,107"/>
+<area shape="rect" id="node3" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="111,155,225,181"/>
+<area shape="rect" id="node5" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="402,155,547,181"/>
+<area shape="rect" id="node10" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="263,155,377,181"/>
+<area shape="rect" id="node11" href="$dd/d20/event_8h.html" title="asterisk/event.h" alt="" coords="737,155,861,181"/>
+<area shape="rect" id="node4" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="5,229,152,256"/>
+<area shape="rect" id="node6" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="176,229,315,256"/>
+<area shape="rect" id="node7" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="339,229,453,256"/>
+<area shape="rect" id="node8" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="477,229,627,256"/>
+<area shape="rect" id="node9" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="651,229,786,256"/>
+<area shape="rect" id="node12" href="$d6/d37/event__defs_8h.html" title="Generic event system. " alt="" coords="810,229,969,256"/>
+</map>

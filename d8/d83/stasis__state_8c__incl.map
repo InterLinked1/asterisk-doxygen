@@ -1,0 +1,14 @@
+<map id="stasis_state.c" name="stasis_state.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="935,155,1019,181"/>
+<area shape="rect" id="node22" href="$d1/d96/stasis__state_8h.html" title="Stasis State API. " alt="" coords="1383,80,1548,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="335,229,489,256"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="847,229,985,256"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1009,229,1143,256"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,304,152,331"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1325,304,1467,331"/>
+<area shape="rect" id="node23" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1465,155,1591,181"/>
+<area shape="rect" id="node24" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="1609,229,1724,256"/>
+<area shape="rect" id="node25" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="1749,229,1894,256"/>
+<area shape="rect" id="node26" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1471,229,1585,256"/>
+<area shape="rect" id="node27" href="$dd/d20/event_8h.html" title="asterisk/event.h" alt="" coords="1322,229,1446,256"/>
+</map>

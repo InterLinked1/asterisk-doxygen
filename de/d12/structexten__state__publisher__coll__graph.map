@@ -1,0 +1,10 @@
+<map id="exten_state_publisher" name="exten_state_publisher">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="260,184,373,211"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="5,439,183,465"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="241,297,393,323"/>
+<area shape="rect" id="node5" href="$d3/dd9/structast__sip__outbound__publish__client.html" title="Outbound publish client state information (persists for lifetime of a publish) " alt="" coords="538,289,725,331"/>
+<area shape="rect" id="node6" href="$d6/d73/structast__sip__outbound__publish.html" title="Outbound publish information. " alt="" coords="538,184,725,211"/>
+<area shape="rect" id="node7" href="$d0/dca/structast__sip__auth__vector.html" title="ast_sip_auth_vector" alt="" coords="427,95,577,121"/>
+<area shape="rect" id="node8" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="619,5,771,32"/>
+<area shape="rect" id="node9" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="768,95,919,121"/>
+</map>

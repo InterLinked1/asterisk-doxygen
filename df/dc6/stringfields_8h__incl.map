@@ -1,0 +1,9 @@
+<map id="stringfields.h" name="stringfields.h">
+<area shape="rect" id="node2" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="5,304,152,331"/>
+<area shape="rect" id="node3" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="182,80,309,107"/>
+<area shape="rect" id="node4" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="365,155,478,181"/>
+<area shape="rect" id="node6" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="225,229,287,256"/>
+<area shape="rect" id="node9" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="549,229,699,256"/>
+<area shape="rect" id="node10" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="723,229,850,256"/>
+<area shape="rect" id="node11" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="874,229,1017,256"/>
+</map>

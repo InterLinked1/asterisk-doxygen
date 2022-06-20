@@ -1,0 +1,8 @@
+<map id="skel_config" name="skel_config">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="222,184,336,211"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="140,424,317,451"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="152,282,304,309"/>
+<area shape="rect" id="node5" href="$d8/dc0/structskel__global__config.html" title="A structure to hold global configuration&#45;related options. " alt="" coords="405,184,542,211"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="355,5,507,32"/>
+<area shape="rect" id="node7" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="504,95,654,121"/>
+</map>

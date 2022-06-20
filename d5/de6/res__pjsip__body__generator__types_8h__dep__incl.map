@@ -1,0 +1,10 @@
+<map id="res_pjsip_body_generator_types.h" name="res_pjsip_body_generator_types.h">
+<area shape="rect" id="node2" href="$d9/d81/res__pjsip__dialog__info__body__generator_8c.html" title="res_pjsip_dialog_info\l_body_generator.c" alt="" coords="5,95,159,136"/>
+<area shape="rect" id="node3" href="$d2/d3d/res__pjsip__exten__state_8c.html" title="res_pjsip_exten_state.c" alt="" coords="183,102,355,129"/>
+<area shape="rect" id="node4" href="$d8/d25/res__pjsip__mwi_8c.html" title="res_pjsip_mwi.c" alt="" coords="379,102,500,129"/>
+<area shape="rect" id="node5" href="$d4/d94/res__pjsip__mwi__body__generator_8c.html" title="res_pjsip_mwi_body\l_generator.c" alt="" coords="524,95,672,136"/>
+<area shape="rect" id="node6" href="$d0/d38/res__pjsip__pidf__body__generator_8c.html" title="res_pjsip_pidf_body\l_generator.c" alt="" coords="697,95,843,136"/>
+<area shape="rect" id="node7" href="$d7/d45/res__pjsip__pidf__digium__body__supplement_8c.html" title="res_pjsip_pidf_digium\l_body_supplement.c" alt="" coords="868,95,1027,136"/>
+<area shape="rect" id="node8" href="$da/dea/res__pjsip__pidf__eyebeam__body__supplement_8c.html" title="res_pjsip_pidf_eyebeam\l_body_supplement.c" alt="" coords="1051,95,1225,136"/>
+<area shape="rect" id="node9" href="$de/d6f/res__pjsip__xpidf__body__generator_8c.html" title="res_pjsip_xpidf_body\l_generator.c" alt="" coords="1249,95,1403,136"/>
+</map>

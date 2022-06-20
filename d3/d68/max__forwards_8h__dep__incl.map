@@ -1,0 +1,11 @@
+<map id="max_forwards.h" name="max_forwards.h">
+<area shape="rect" id="node2" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node3" href="$dd/d55/app__followme_8c.html" title="Find&#45;Me Follow&#45;Me application. " alt="" coords="117,80,237,107"/>
+<area shape="rect" id="node4" href="$da/dfb/app__queue_8c.html" title="True call queues with optional send URL on answer. " alt="" coords="261,80,365,107"/>
+<area shape="rect" id="node5" href="$d9/d3d/func__channel_8c.html" title="Channel info dialplan functions. " alt="" coords="389,80,506,107"/>
+<area shape="rect" id="node6" href="$d4/d28/channel_8c.html" title="Channel Management. " alt="" coords="530,80,613,107"/>
+<area shape="rect" id="node7" href="$de/d43/dial_8c.html" title="Dialing API. " alt="" coords="637,80,692,107"/>
+<area shape="rect" id="node8" href="$d5/d92/features_8c.html" title="Routines implementing call features as call pickup, parking and transfer. " alt="" coords="716,80,803,107"/>
+<area shape="rect" id="node9" href="$d7/ddd/max__forwards_8c.html" title="max_forwards.c" alt="" coords="827,80,950,107"/>
+<area shape="rect" id="node10" href="$da/d49/resource__channels_8c.html" title="Implementation for ARI stubs. " alt="" coords="975,80,1128,107"/>
+</map>

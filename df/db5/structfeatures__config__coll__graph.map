@@ -1,0 +1,13 @@
+<map id="features_config" name="features_config">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="991,331,1105,357"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1571,361,1748,388"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="1277,432,1429,459"/>
+<area shape="rect" id="node5" href="$d7/de7/structast__featuremap__config.html" title="Configuration for the builtin features. " alt="" coords="695,235,864,261"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,115,157,141"/>
+<area shape="rect" id="node7" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="317,185,468,212"/>
+<area shape="rect" id="node10" href="$df/db6/structast__features__xfer__config.html" title="Feature configuration relating to transfers. " alt="" coords="492,8,671,35"/>
+<area shape="rect" id="node11" href="$db/da0/structast__features__general__config.html" title="General features configuration items. " alt="" coords="701,155,858,197"/>
+<area shape="rect" id="node12" href="$d2/d6f/structast__features__pickup__config.html" title="Configuration relating to call pickup. " alt="" coords="704,90,855,131"/>
+<area shape="rect" id="node8" href="$dc/de3/structdummy__config.html" title="dummy_config" alt="" coords="990,103,1106,129"/>
+<area shape="rect" id="node9" href="$d5/da5/structfeatures__global__config.html" title="Configuration from the &quot;general&quot; section of features.conf. " alt="" coords="965,153,1131,180"/>
+</map>

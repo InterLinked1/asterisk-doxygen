@@ -1,0 +1,48 @@
+<map id="tcptls.h" name="tcptls.h">
+<area shape="rect" id="node2" href="$de/d26/app__externalivr_8c.html" title="External IVR application interface. " alt="" coords="497,80,627,107"/>
+<area shape="rect" id="node3" href="$d1/d94/sip_8h.html" title="chan_sip header file " alt="" coords="652,80,704,107"/>
+<area shape="rect" id="node15" href="$dd/d56/http_8h.html" title="Support for Private Asterisk HTTP Servers. " alt="" coords="3560,80,3620,107"/>
+<area shape="rect" id="node39" href="$dd/d43/http_8c.html" title="http server for AMI access " alt="" coords="2438,155,2497,181"/>
+<area shape="rect" id="node40" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="4150,155,4241,181"/>
+<area shape="rect" id="node43" href="$d6/dc9/res__http__post_8c.html" title="HTTP POST upload support for Asterisk HTTP server. " alt="" coords="4265,155,4387,181"/>
+<area shape="rect" id="node47" href="$dc/d9b/tcptls_8c.html" title="Code to support TCP and TLS server/client. " alt="" coords="3747,80,3815,107"/>
+<area shape="rect" id="node4" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="603,237,692,263"/>
+<area shape="rect" id="node5" href="$d5/d87/globals_8h.html" title="sip global declaration header file " alt="" coords="465,155,544,181"/>
+<area shape="rect" id="node6" href="$d8/d06/sip_2dialplan__functions_8c.html" title="sip channel dialplan functions and unit tests " alt="" coords="362,237,509,263"/>
+<area shape="rect" id="node7" href="$d1/d2b/config__parser_8h.html" title="sip.conf parser header file " alt="" coords="716,155,835,181"/>
+<area shape="rect" id="node8" href="$d8/d9c/config__parser_8c.html" title="sip config parsing functions and unit tests " alt="" coords="716,237,835,263"/>
+<area shape="rect" id="node9" href="$d1/dc9/dialog_8h.html" title="sip dialog management header file " alt="" coords="569,155,641,181"/>
+<area shape="rect" id="node10" href="$d4/dd3/sip_2include_2dialplan__functions_8h.html" title="SIP dialplan functions header file. " alt="" coords="293,155,441,181"/>
+<area shape="rect" id="node11" href="$d2/d1d/channels_2sip_2include_2security__events_8h.html" title="Generate security events in the SIP channel. " alt="" coords="859,155,993,181"/>
+<area shape="rect" id="node12" href="$d4/dea/channels_2sip_2security__events_8c.html" title="Generate security events in the SIP channel. " alt="" coords="859,237,993,263"/>
+<area shape="rect" id="node13" href="$d5/d85/reqresp__parser_8c.html" title="sip request parsing functions and unit tests " alt="" coords="5,155,135,181"/>
+<area shape="rect" id="node14" href="$d1/dba/channels_2sip_2utils_8c.html" title="Utility functions for chan_sip. " alt="" coords="159,155,218,181"/>
+<area shape="rect" id="node16" href="$d0/d0c/http__websocket_8h.html" title="Support for WebSocket connections within the Asterisk HTTP server and client WebSocket connections to..." alt="" coords="3417,155,3552,181"/>
+<area shape="rect" id="node21" href="$de/d4c/res__http__websocket_8c.html" title="WebSocket support for the Asterisk internal HTTP server. " alt="" coords="4174,237,4334,263"/>
+<area shape="rect" id="node25" href="$d4/d59/ari_8h.html" title="Asterisk RESTful API hooks. " alt="" coords="2521,155,2571,181"/>
+<area shape="rect" id="node41" href="$db/dde/internal_8h.html" title="Internal API&#39;s for res_ari. " alt="" coords="3310,155,3393,181"/>
+<area shape="rect" id="node44" href="$d9/de9/res__phoneprov_8c.html" title="Phone provisioning application for the asterisk internal http server. " alt="" coords="3628,155,3755,181"/>
+<area shape="rect" id="node45" href="$d7/d1b/res__prometheus_8c.html" title="Core Prometheus metrics API. " alt="" coords="3779,155,3918,181"/>
+<area shape="rect" id="node46" href="$d4/d45/test__http__media__cache_8c.html" title="Tests for the HTTP media cache backend. " alt="" coords="3943,155,4125,181"/>
+<area shape="rect" id="node17" href="$d8/d44/ari__websockets_8c.html" title="WebSocket support for RESTful API&#39;s. " alt="" coords="3294,237,3425,263"/>
+<area shape="rect" id="node18" href="$dc/dec/res_2ari_2config_8c.html" title="Config framework stuffz for ARI. " alt="" coords="3449,237,3520,263"/>
+<area shape="rect" id="node19" href="$dd/df4/resource__events_8c.html" title="/api&#45;docs/events.{format} implementation&#45; WebSocket resource " alt="" coords="3197,319,3335,345"/>
+<area shape="rect" id="node20" href="$d6/d87/res__ari__events_8c.html" title="WebSocket resource. " alt="" coords="3835,319,3961,345"/>
+<area shape="rect" id="node22" href="$d3/d17/config__transport_8c.html" title="config_transport.c" alt="" coords="3596,237,3733,263"/>
+<area shape="rect" id="node23" href="$d2/db8/res__pjsip__transport__websocket_8c.html" title="res_pjsip_transport\l_websocket.c" alt="" coords="3758,229,3902,271"/>
+<area shape="rect" id="node24" href="$de/de9/test__websocket__client_8c.html" title="Websocket Client Unit Tests. " alt="" coords="3926,237,4099,263"/>
+<area shape="rect" id="node26" href="$d7/d0c/resource__applications_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_applications.c. " alt="" coords="1411,237,1585,263"/>
+<area shape="rect" id="node27" href="$d3/ddb/resource__asterisk_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_asterisk.c. ..." alt="" coords="1609,237,1755,263"/>
+<area shape="rect" id="node28" href="$d5/d36/resource__bridges_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_bridges.c. " alt="" coords="2611,237,2755,263"/>
+<area shape="rect" id="node29" href="$d0/d12/resource__channels_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_channels.c. ..." alt="" coords="2779,237,2934,263"/>
+<area shape="rect" id="node30" href="$db/d87/resource__device__states_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_deviceStates.c. " alt="" coords="1017,237,1203,263"/>
+<area shape="rect" id="node31" href="$d6/d2d/resource__endpoints_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_endpoints.c. " alt="" coords="1227,237,1387,263"/>
+<area shape="rect" id="node32" href="$d1/dda/resource__events_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_events.c. " alt="" coords="2959,237,3099,263"/>
+<area shape="rect" id="node33" href="$d0/db9/resource__mailboxes_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_mailboxes.c. " alt="" coords="1779,237,1942,263"/>
+<area shape="rect" id="node34" href="$de/d64/resource__playbacks_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_playbacks.c. " alt="" coords="1966,237,2126,263"/>
+<area shape="rect" id="node35" href="$dd/dfd/resource__recordings_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_recordings.c. " alt="" coords="2151,237,2315,263"/>
+<area shape="rect" id="node36" href="$d3/dde/resource__sounds_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_sounds.c. " alt="" coords="2339,237,2481,263"/>
+<area shape="rect" id="node37" href="$d7/dbc/res__ari_8c.html" title="HTTP binding for the Stasis API. " alt="" coords="3123,237,3199,263"/>
+<area shape="rect" id="node38" href="$da/d03/test__ari_8c.html" title="Test ARI API. David M. Lee, II &lt;dlee@digium.com&gt; . " alt="" coords="2505,237,2587,263"/>
+<area shape="rect" id="node42" href="$d8/dfa/res_2ari_2cli_8c.html" title="Command line for ARI. " alt="" coords="3223,237,3269,263"/>
+</map>

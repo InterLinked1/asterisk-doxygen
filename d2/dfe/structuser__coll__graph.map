@@ -1,0 +1,9 @@
+<map id="user" name="user">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="233,5,385,32"/>
+<area shape="rect" id="node3" href="$d3/dc7/structphone__profile.html" title="structure to hold phone profiles read from phoneprov.conf " alt="" coords="496,213,604,240"/>
+<area shape="rect" id="node4" href="$d0/d01/structphoneprov__file.html" title="structure to hold file data " alt="" coords="573,109,688,136"/>
+<area shape="rect" id="node7" href="$d0/d5a/structextension.html" title="structure to hold extensions " alt="" coords="271,213,355,240"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="238,109,388,136"/>
+<area shape="rect" id="node5" href="$dd/de6/structvarshead.html" title="varshead" alt="" coords="770,109,851,136"/>
+<area shape="rect" id="node6" href="$d0/d7d/structast__var__t.html" title="ast_var_t" alt="" coords="770,5,851,32"/>
+</map>

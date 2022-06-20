@@ -1,0 +1,9 @@
+<map id="techs" name="techs">
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="173,187,293,213"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,97,156,124"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,97,293,124"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="205,7,268,33"/>
+<area shape="rect" id="node6" href="$dd/dca/structast__calendar__tech.html" title="Individual calendaring technology data. " alt="" coords="317,187,455,213"/>
+<area shape="rect" id="node7" href="$d4/d98/structast__module__user.html" title="ast_module_user" alt="" coords="320,97,452,124"/>
+<area shape="rect" id="node8" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="337,7,435,33"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="uris" name="uris">
+<area shape="rect" id="node2" href="$d0/d6c/structast__http__uri.html" title="Definition of a URI handler. " alt="" coords="268,317,367,344"/>
+<area shape="rect" id="node3" href="$d6/d49/structast__tcptls__session__instance.html" title="describes a server instance " alt="" coords="248,213,387,255"/>
+<area shape="rect" id="node4" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="5,124,72,151"/>
+<area shape="rect" id="node5" href="$da/d2b/structast__tcptls__session__args.html" title="arguments for the accepting thread " alt="" coords="277,124,451,151"/>
+<area shape="rect" id="node6" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="155,5,261,32"/>
+<area shape="rect" id="node7" href="$de/d03/structast__iostream.html" title="ast_iostream" alt="" coords="476,124,583,151"/>
+<area shape="rect" id="node8" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="449,317,567,344"/>
+<area shape="rect" id="node9" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="422,221,573,247"/>
+<area shape="rect" id="node10" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="597,221,710,247"/>
+<area shape="rect" id="node11" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="622,124,685,151"/>
+</map>

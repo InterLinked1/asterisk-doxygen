@@ -1,0 +1,8 @@
+<map id="module_config" name="module_config">
+<area shape="rect" id="node2" href="$d4/d69/structast__cdr__config.html" title="The global options available for CDRs. " alt="" coords="53,184,167,211"/>
+<area shape="rect" id="node3" href="$d3/d11/structast__cdr__config_1_1batch__settings.html" title="batch_settings" alt="" coords="79,95,195,121"/>
+<area shape="rect" id="node4" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="24,5,103,32"/>
+<area shape="rect" id="node5" href="$dc/dfa/structhepv3__global__config.html" title="Global configuration for the module. " alt="" coords="192,184,343,211"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="191,5,343,32"/>
+<area shape="rect" id="node7" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="395,95,545,121"/>
+</map>

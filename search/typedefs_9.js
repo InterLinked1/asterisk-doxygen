@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['j_5ffp',['J_fp',['../dc/dc2/f2c_8h.html#a1182f7e30167ca7a3953417a04e914d0',1,'f2c.h']]],
+  ['jb_5fconf',['jb_conf',['../dd/da9/jitterbuf_8h.html#a2bb9498ad9d41857db28d6c88bb569d9',1,'jitterbuf.h']]],
+  ['jb_5fcreate_5fimpl',['jb_create_impl',['../dc/d14/abstract__jb_8h.html#a54c44e2383ce3e9d24b6799fef7dea34',1,'abstract_jb.h']]],
+  ['jb_5fdestroy_5fimpl',['jb_destroy_impl',['../dc/d14/abstract__jb_8h.html#a03abba5bc897bc3eb16b8098e55a7f37',1,'abstract_jb.h']]],
+  ['jb_5fempty_5fand_5freset_5fimpl',['jb_empty_and_reset_impl',['../dc/d14/abstract__jb_8h.html#a33fa62b36b8b807e3d9e7d08caf9d064',1,'abstract_jb.h']]],
+  ['jb_5fforce_5fresynch_5fimpl',['jb_force_resynch_impl',['../dc/d14/abstract__jb_8h.html#aec72c3122e811a00611b76fec7f28494',1,'abstract_jb.h']]],
+  ['jb_5fframe',['jb_frame',['../dd/da9/jitterbuf_8h.html#a1bf14f89838a55920ad4f33ba05d71b2',1,'jitterbuf.h']]],
+  ['jb_5fget_5fimpl',['jb_get_impl',['../dc/d14/abstract__jb_8h.html#aad0c9f149ec0399d797f73fd46375cda',1,'abstract_jb.h']]],
+  ['jb_5finfo',['jb_info',['../dd/da9/jitterbuf_8h.html#a41bccb468ad48e82caad81ef17ab3fd7',1,'jitterbuf.h']]],
+  ['jb_5fis_5flate_5fimpl',['jb_is_late_impl',['../dc/d14/abstract__jb_8h.html#acaf75e457b0857c3c9dd4609353dd99d',1,'abstract_jb.h']]],
+  ['jb_5fnext_5fimpl',['jb_next_impl',['../dc/d14/abstract__jb_8h.html#ac2b4e776a0b00e27ece234305c3ae6ed',1,'abstract_jb.h']]],
+  ['jb_5foutput_5ffunction_5ft',['jb_output_function_t',['../dd/da9/jitterbuf_8h.html#a71e8b001f4d0d18015b4c3d0fb266dbd',1,'jitterbuf.h']]],
+  ['jb_5fput_5ffirst_5fimpl',['jb_put_first_impl',['../dc/d14/abstract__jb_8h.html#aee382021c9343373418a8471eaa94086',1,'abstract_jb.h']]],
+  ['jb_5fput_5fimpl',['jb_put_impl',['../dc/d14/abstract__jb_8h.html#abd32a56002c89e68f909eec210ab7ae2',1,'abstract_jb.h']]],
+  ['jb_5fremove_5fimpl',['jb_remove_impl',['../dc/d14/abstract__jb_8h.html#aba40ab2b693707729ccdda65ec1edd7a',1,'abstract_jb.h']]],
+  ['jitterbuf',['jitterbuf',['../dd/da9/jitterbuf_8h.html#a53e58e69364614a4ba406d97be294aed',1,'jitterbuf.h']]]
+];

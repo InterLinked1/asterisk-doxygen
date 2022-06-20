@@ -1,0 +1,8 @@
+<map id="ast_ari_conf" name="ast_ari_conf">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="220,184,333,211"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="140,424,317,451"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="152,282,304,309"/>
+<area shape="rect" id="node5" href="$dd/d01/structast__ari__conf__general.html" title="Global configuration options for ARI. " alt="" coords="399,184,554,211"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="358,5,510,32"/>
+<area shape="rect" id="node7" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="506,95,657,121"/>
+</map>

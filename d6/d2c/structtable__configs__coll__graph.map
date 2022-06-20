@@ -1,0 +1,5 @@
+<map id="table_configs" name="table_configs">
+<area shape="rect" id="node2" href="$dc/d0e/structldap__table__config.html" title="Table configuration. " alt="" coords="5,228,139,255"/>
+<area shape="rect" id="node3" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="23,124,121,151"/>
+<area shape="rect" id="node4" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="17,5,127,32"/>
+</map>

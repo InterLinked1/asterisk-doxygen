@@ -1,0 +1,9 @@
+<map id="core_local.h" name="core_local.h">
+<area shape="rect" id="node2" href="$da/dfb/app__queue_8c.html" title="True call queues with optional send URL on answer. " alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$d0/d95/bridge_8c.html" title="Bridging API. " alt="" coords="134,80,207,107"/>
+<area shape="rect" id="node4" href="$da/dc9/cel_8c.html" title="Channel Event Logging API. " alt="" coords="232,80,283,107"/>
+<area shape="rect" id="node5" href="$de/d47/core__local_8c.html" title="Local proxy channel driver. " alt="" coords="307,80,405,107"/>
+<area shape="rect" id="node6" href="$da/d49/resource__channels_8c.html" title="Implementation for ARI stubs. " alt="" coords="429,80,582,107"/>
+<area shape="rect" id="node7" href="$d1/db7/parking__bridge__features_8c.html" title="Parking Bridge DTMF and Interval features. " alt="" coords="607,80,793,107"/>
+<area shape="rect" id="node8" href="$db/dc4/test__cel_8c.html" title="CEL unit tests. " alt="" coords="817,80,900,107"/>
+</map>

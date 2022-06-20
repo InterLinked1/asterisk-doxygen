@@ -1,0 +1,45 @@
+<map id="res_pjsip_refer.c" name="res_pjsip_refer.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="291,80,375,107"/>
+<area shape="rect" id="node8" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="1256,244,1400,271"/>
+<area shape="rect" id="node24" href="$db/d3c/framehook_8h.html" title="FrameHook Architecture. " alt="" coords="2404,468,2561,495"/>
+<area shape="rect" id="node32" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="2141,319,2331,345"/>
+<area shape="rect" id="node35" href="$d9/de7/res__pjsip__session_8h.html" title="asterisk/res_pjsip\l_session.h" alt="" coords="1983,155,2115,196"/>
+<area shape="rect" id="node37" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="3116,80,3252,107"/>
+<area shape="rect" id="node38" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="2457,319,2567,345"/>
+<area shape="rect" id="node43" href="$d0/d1e/taskprocessor_8h.html" title="An API for managing task processing threads that can be shared across modules. " alt="" coords="2863,80,3041,107"/>
+<area shape="rect" id="node44" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="3015,162,3143,189"/>
+<area shape="rect" id="node49" href="$dc/d4e/stasis__bridges_8h.html" title="asterisk/stasis_bridges.h" alt="" coords="2660,80,2839,107"/>
+<area shape="rect" id="node50" href="$d4/da3/causes_8h.html" title="Internal Asterisk hangup causes. " alt="" coords="3276,80,3409,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="5,162,160,189"/>
+<area shape="rect" id="node4" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="185,162,322,189"/>
+<area shape="rect" id="node5" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="346,162,481,189"/>
+<area shape="rect" id="node13" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1621,543,1779,569"/>
+<area shape="rect" id="node14" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1485,617,1611,644"/>
+<area shape="rect" id="node16" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1365,393,1512,420"/>
+<area shape="rect" id="node17" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="2450,617,2601,644"/>
+<area shape="rect" id="node18" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2259,393,2397,420"/>
+<area shape="rect" id="node25" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="717,468,867,495"/>
+<area shape="rect" id="node26" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="2592,319,2725,345"/>
+<area shape="rect" id="node28" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="1371,319,1507,345"/>
+<area shape="rect" id="node29" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="1763,319,1883,345"/>
+<area shape="rect" id="node31" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="1582,319,1738,345"/>
+<area shape="rect" id="node33" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="601,393,796,420"/>
+<area shape="rect" id="node34" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="639,543,774,569"/>
+<area shape="rect" id="node15" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="2534,692,2647,719"/>
+<area shape="rect" id="node19" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="2050,543,2177,569"/>
+<area shape="rect" id="node22" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="2585,468,2732,495"/>
+<area shape="rect" id="node23" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="2756,468,2871,495"/>
+<area shape="rect" id="node20" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="1947,617,2077,644"/>
+<area shape="rect" id="node21" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="643,692,770,719"/>
+<area shape="rect" id="node27" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="2969,393,3084,420"/>
+<area shape="rect" id="node30" href="$d7/d00/sched_8h.html" title="Scheduler Routines (derived from cheops) " alt="" coords="1691,393,1818,420"/>
+<area shape="rect" id="node36" href="$de/d5f/sdp__srtp_8h.html" title="SRTP and SDP Security descriptions. " alt="" coords="2033,244,2175,271"/>
+<area shape="rect" id="node39" href="$da/da2/devicestate_8h.html" title="Device state management. " alt="" coords="2732,393,2895,420"/>
+<area shape="rect" id="node40" href="$d6/dd7/presencestate_8h.html" title="Presence state management. " alt="" coords="2422,393,2602,420"/>
+<area shape="rect" id="node41" href="$d6/da0/hashtab_8h.html" title="Generic (perhaps overly so) hashtable implementation Hash Table support in Asterisk. " alt="" coords="2795,617,2935,644"/>
+<area shape="rect" id="node42" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="1738,468,1873,495"/>
+<area shape="rect" id="node45" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="2902,319,3090,345"/>
+<area shape="rect" id="node46" href="$de/d41/bridge__channel_8h.html" title="asterisk/bridge_channel.h" alt="" coords="2813,244,2998,271"/>
+<area shape="rect" id="node47" href="$dd/dff/bridge__roles_8h.html" title="Channel Bridging Roles API. " alt="" coords="2754,543,2921,569"/>
+<area shape="rect" id="node48" href="$d3/d08/dsp_8h.html" title="Convenient Signal Processing routines. " alt="" coords="3125,244,3235,271"/>
+</map>

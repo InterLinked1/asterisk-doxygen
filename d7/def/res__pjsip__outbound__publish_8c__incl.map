@@ -1,0 +1,30 @@
+<map id="res_pjsip_outbound_publish.c" name="res_pjsip_outbound_publish.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1357,102,1441,129"/>
+<area shape="rect" id="node24" href="$df/dd5/res__pjproject_8h.html" title="asterisk/res_pjproject.h" alt="" coords="2729,102,2900,129"/>
+<area shape="rect" id="node27" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="2511,102,2655,129"/>
+<area shape="rect" id="node37" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="1817,341,1967,367"/>
+<area shape="rect" id="node46" href="$dd/dd4/res__pjsip__outbound__publish_8h.html" title="asterisk/res_pjsip\l_outbound_publish.h" alt="" coords="1549,333,1704,375"/>
+<area shape="rect" id="node47" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="491,184,627,211"/>
+<area shape="rect" id="node48" href="$d0/d1e/taskprocessor_8h.html" title="An API for managing task processing threads that can be shared across modules. " alt="" coords="2925,102,3102,129"/>
+<area shape="rect" id="node49" href="$d3/d40/threadpool_8h.html" title="asterisk/threadpool.h" alt="" coords="3127,102,3284,129"/>
+<area shape="rect" id="node50" href="$d7/d5c/res__pjsip__private_8h.html" title="res_pjsip/include/res\l_pjsip_private.h" alt="" coords="645,95,795,136"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1237,184,1392,211"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="651,184,789,211"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1417,184,1551,211"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1405,259,1552,285"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1129,259,1271,285"/>
+<area shape="rect" id="node31" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2537,423,2695,449"/>
+<area shape="rect" id="node32" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2969,497,3095,524"/>
+<area shape="rect" id="node33" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2813,259,2960,285"/>
+<area shape="rect" id="node34" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1759,423,1910,449"/>
+<area shape="rect" id="node35" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2063,259,2201,285"/>
+<area shape="rect" id="node38" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="2973,341,3123,367"/>
+<area shape="rect" id="node39" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="3096,184,3229,211"/>
+<area shape="rect" id="node40" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="2835,184,2971,211"/>
+<area shape="rect" id="node41" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="2376,184,2496,211"/>
+<area shape="rect" id="node42" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="2654,184,2810,211"/>
+<area shape="rect" id="node43" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="2163,184,2352,211"/>
+<area shape="rect" id="node44" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="3085,259,3280,285"/>
+<area shape="rect" id="node45" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="3355,341,3490,367"/>
+<area shape="rect" id="node36" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="181,341,296,367"/>
+</map>

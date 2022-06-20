@@ -1,0 +1,30 @@
+<map id="config_domain_aliases.c" name="config_domain_aliases.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="798,80,882,107"/>
+<area shape="rect" id="node24" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="2076,80,2220,107"/>
+<area shape="rect" id="node32" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2146,528,2273,555"/>
+<area shape="rect" id="node40" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="2819,155,2952,181"/>
+<area shape="rect" id="node49" href="$d7/d5c/res__pjsip__private_8h.html" title="include/res_pjsip_private.h" alt="" coords="918,80,1109,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="592,155,747,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="771,155,909,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="433,155,567,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,229,152,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="465,528,607,555"/>
+<area shape="rect" id="node28" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2415,304,2572,331"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1693,379,1819,405"/>
+<area shape="rect" id="node33" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1977,229,2124,256"/>
+<area shape="rect" id="node36" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1463,304,1614,331"/>
+<area shape="rect" id="node37" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2187,229,2325,256"/>
+<area shape="rect" id="node39" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="2597,304,2747,331"/>
+<area shape="rect" id="node43" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="1877,155,2013,181"/>
+<area shape="rect" id="node44" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="2088,155,2208,181"/>
+<area shape="rect" id="node45" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="1163,155,1319,181"/>
+<area shape="rect" id="node46" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="2283,155,2472,181"/>
+<area shape="rect" id="node47" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="2463,229,2657,256"/>
+<area shape="rect" id="node48" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="1741,304,1875,331"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1829,528,1976,555"/>
+<area shape="rect" id="node31" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1699,453,1813,480"/>
+<area shape="rect" id="node38" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="2247,304,2391,331"/>
+<area shape="rect" id="node41" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="2733,229,2913,256"/>
+<area shape="rect" id="node42" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="2937,229,3052,256"/>
+<area shape="rect" id="node50" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="945,155,1081,181"/>
+</map>

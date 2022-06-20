@@ -1,0 +1,9 @@
+<map id="jack_data" name="jack_data">
+<area shape="rect" id="node2" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="113,187,205,213"/>
+<area shape="rect" id="node3" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="152,307,307,333"/>
+<area shape="rect" id="node8" href="$d2/d49/structast__audiohook.html" title="ast_audiohook" alt="" coords="331,307,446,333"/>
+<area shape="rect" id="node4" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="116,97,202,124"/>
+<area shape="rect" id="node5" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="110,7,208,33"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="640,187,792,213"/>
+<area shape="rect" id="node7" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="789,307,940,333"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="pickup.h" name="pickup.h">
+<area shape="rect" id="node2" href="$d9/db1/app__directed__pickup_8c.html" title="Directed Call Pickup Support. " alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node3" href="$d1/d97/chan__dahdi_8c.html" title="DAHDI for Pseudo TDM. " alt="" coords="194,80,301,107"/>
+<area shape="rect" id="node4" href="$d0/dd6/chan__mgcp_8c.html" title="Implementation of Media Gateway Control Protocol. " alt="" coords="325,80,431,107"/>
+<area shape="rect" id="node5" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="456,80,567,107"/>
+<area shape="rect" id="node6" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="591,80,691,107"/>
+<area shape="rect" id="node7" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="715,80,804,107"/>
+<area shape="rect" id="node8" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="829,80,938,107"/>
+<area shape="rect" id="node9" href="$d1/d6d/chan__unistim_8c.html" title="chan_unistim channel driver for Asterisk " alt="" coords="963,80,1081,107"/>
+<area shape="rect" id="node10" href="$d2/d09/sig__analog_8c.html" title="Analog signaling module. " alt="" coords="1106,80,1207,107"/>
+<area shape="rect" id="node11" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="1231,80,1314,107"/>
+<area shape="rect" id="node12" href="$da/dc9/cel_8c.html" title="Channel Event Logging API. " alt="" coords="1338,80,1389,107"/>
+<area shape="rect" id="node13" href="$d9/dbf/pickup_8c.html" title="Routines implementing call pickup. " alt="" coords="1413,80,1487,107"/>
+<area shape="rect" id="node14" href="$d4/d92/res__pjsip__session_8c.html" title="res_pjsip_session.c" alt="" coords="1511,80,1655,107"/>
+<area shape="rect" id="node15" href="$db/dc4/test__cel_8c.html" title="CEL unit tests. " alt="" coords="1679,80,1762,107"/>
+</map>

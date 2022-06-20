@@ -1,0 +1,10 @@
+<map id="ast_hintdevice" name="ast_hintdevice">
+<area shape="rect" id="node2" href="$d8/dac/structast__hint.html" title="Structure for dial plan hints. " alt="" coords="309,231,383,257"/>
+<area shape="rect" id="node3" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="115,111,228,137"/>
+<area shape="rect" id="node4" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="7,231,184,257"/>
+<area shape="rect" id="node5" href="$d7/d00/structast__exten.html" title="ast_exten: An extension The dialplan is saved as a linked list with each context having it&#39;s own link..." alt="" coords="483,111,569,137"/>
+<area shape="rect" id="node6" href="$d6/d7c/structast__context.html" title="ast_context: An extension context &#45; must remain in sync with fake_context " alt="" coords="555,231,652,257"/>
+<area shape="rect" id="node7" href="$d0/d4a/structast__hashtab.html" title="ast_hashtab" alt="" coords="566,5,667,32"/>
+<area shape="rect" id="node8" href="$d0/da3/structast__app.html" title="ast_app: A registered application " alt="" coords="404,5,477,32"/>
+<area shape="rect" id="node9" href="$d6/d37/structast__state__cb.html" title="ast_state_cb: An extension state notify register item " alt="" coords="291,111,395,137"/>
+</map>

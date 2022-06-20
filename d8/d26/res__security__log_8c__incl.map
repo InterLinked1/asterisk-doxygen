@@ -1,0 +1,28 @@
+<map id="res_security_log.c" name="res_security_log.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="452,162,536,189"/>
+<area shape="rect" id="node22" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1898,80,2034,107"/>
+<area shape="rect" id="node27" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2480,319,2607,345"/>
+<area shape="rect" id="node30" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1634,319,1765,345"/>
+<area shape="rect" id="node31" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="2062,393,2241,420"/>
+<area shape="rect" id="node32" href="$d0/d29/include_2asterisk_2security__events_8h.html" title="Security Event Reporting API. " alt="" coords="2367,80,2555,107"/>
+<area shape="rect" id="node37" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="2217,80,2342,107"/>
+<area shape="rect" id="node38" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="2678,162,2793,189"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="447,393,602,420"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="789,244,927,271"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="5,244,140,271"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="451,468,598,495"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1375,319,1517,345"/>
+<area shape="rect" id="node23" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1833,162,1947,189"/>
+<area shape="rect" id="node24" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2415,244,2554,271"/>
+<area shape="rect" id="node25" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1789,319,1852,345"/>
+<area shape="rect" id="node26" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1739,244,1852,271"/>
+<area shape="rect" id="node28" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1517,244,1663,271"/>
+<area shape="rect" id="node29" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1942,319,2099,345"/>
+<area shape="rect" id="node33" href="$dd/d20/event_8h.html" title="asterisk/event.h" alt="" coords="2329,162,2453,189"/>
+<area shape="rect" id="node35" href="$d7/dc2/security__events__defs_8h.html" title="Security Event Reporting Data Structures. " alt="" coords="2478,155,2654,196"/>
+<area shape="rect" id="node34" href="$d6/d37/event__defs_8h.html" title="Generic event system. " alt="" coords="2579,244,2737,271"/>
+<area shape="rect" id="node36" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2762,244,2909,271"/>
+<area shape="rect" id="node39" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="2160,162,2305,189"/>
+<area shape="rect" id="node40" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="2240,244,2391,271"/>
+<area shape="rect" id="node41" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="1928,244,2063,271"/>
+</map>

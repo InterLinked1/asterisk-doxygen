@@ -1,0 +1,7 @@
+<map id="calendar.h" name="calendar.h">
+<area shape="rect" id="node2" href="$d7/dc3/res__calendar_8c.html" title="Calendaring API. " alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$dc/d18/res__calendar__caldav_8c.html" title="Resource for handling CalDAV calendars. " alt="" coords="144,80,307,107"/>
+<area shape="rect" id="node4" href="$d2/d4f/res__calendar__ews_8c.html" title="Resource for handling MS Exchange Web Service calendars. " alt="" coords="331,80,477,107"/>
+<area shape="rect" id="node5" href="$d2/d23/res__calendar__exchange_8c.html" title="Resource for handling MS Exchange calendars. " alt="" coords="501,80,685,107"/>
+<area shape="rect" id="node6" href="$df/d58/res__calendar__icalendar_8c.html" title="Resource for handling iCalendar calendars. " alt="" coords="709,80,888,107"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="actions" name="actions">
+<area shape="rect" id="node2" href="$d2/dcc/structmanager__action.html" title="manager_action" alt="" coords="338,349,465,376"/>
+<area shape="rect" id="node3" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="58,244,155,271"/>
+<area shape="rect" id="node4" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="59,349,186,376"/>
+<area shape="rect" id="node5" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="5,95,136,121"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="404,5,556,32"/>
+<area shape="rect" id="node7" href="$d8/d46/structast__xml__doc__item.html" title="Struct that contains the XML documentation for a particular item. Note that this is an ao2 ref counte..." alt="" coords="237,244,376,271"/>
+<area shape="rect" id="node9" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="411,95,562,121"/>
+<area shape="rect" id="node8" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="320,95,387,121"/>
+<area shape="rect" id="node10" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="489,349,607,376"/>
+</map>

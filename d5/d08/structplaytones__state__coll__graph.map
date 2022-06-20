@@ -1,0 +1,8 @@
+<map id="playtones_state" name="playtones_state">
+<area shape="rect" id="node2" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="156,187,248,213"/>
+<area shape="rect" id="node3" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="33,305,188,332"/>
+<area shape="rect" id="node4" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="159,97,246,124"/>
+<area shape="rect" id="node5" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="154,7,251,33"/>
+<area shape="rect" id="node6" href="$d3/dc3/structplaytones__item.html" title="playtones_item" alt="" coords="325,187,445,213"/>
+<area shape="rect" id="node7" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="470,187,556,213"/>
+</map>

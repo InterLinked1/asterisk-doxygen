@@ -1,0 +1,18 @@
+<map id="header_data" name="header_data">
+<area shape="rect" id="node2" href="$d4/d51/structast__sip__channel__pvt.html" title="A structure which contains a channel implementation and session. " alt="" coords="1058,7,1209,33"/>
+<area shape="rect" id="node3" href="$d2/dec/structast__sip__session.html" title="A structure describing a SIP session. " alt="" coords="727,397,850,424"/>
+<area shape="rect" id="node11" href="$d5/dfa/structast__sip__session__delayed__request.html" title="Structure used for sending delayed requests. " alt="" coords="1044,315,1223,357"/>
+<area shape="rect" id="node4" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="14,243,127,269"/>
+<area shape="rect" id="node7" href="$d4/d03/structast__sip__aor.html" title="A SIP address of record. " alt="" coords="377,243,471,269"/>
+<area shape="rect" id="node17" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="375,347,473,373"/>
+<area shape="rect" id="node5" href="$de/dd5/structast__sip__session__media__state.html" title="Structure which contains media state information (streams, sessions) " alt="" coords="339,54,509,95"/>
+<area shape="rect" id="node6" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="355,397,493,424"/>
+<area shape="rect" id="node8" href="$d6/de5/structast__dsp.html" title="ast_dsp" alt="" coords="388,511,460,537"/>
+<area shape="rect" id="node9" href="$dd/da0/structast__sip__session__suspender.html" title="struct controlling the suspension of the session&#39;s serializer. " alt="" coords="326,561,522,588"/>
+<area shape="rect" id="node10" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="364,612,484,639"/>
+<area shape="rect" id="node12" href="$df/db8/structast__sip__session__supplement.html" title="A supplement to SIP message processing. " alt="" coords="321,701,527,728"/>
+<area shape="rect" id="node13" href="$d3/d46/structast__sip__endpoint.html" title="An entity with which Asterisk communicates. " alt="" coords="5,533,136,560"/>
+<area shape="rect" id="node15" href="$d8/d8a/structast__sip__contact.html" title="Contact associated with an address of record. " alt="" coords="363,752,485,779"/>
+<area shape="rect" id="node14" href="$d1/dcb/structast__party__id.html" title="Information needed to identify an endpoint in a call. " alt="" coords="374,803,474,829"/>
+<area shape="rect" id="node16" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="363,192,485,219"/>
+</map>

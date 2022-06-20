@@ -1,0 +1,28 @@
+<map id="confbridge_user" name="confbridge_user">
+<area shape="rect" id="node2" href="$da/df3/structconfbridge__conference.html" title="The structure that represents a conference bridge. " alt="" coords="2011,273,2177,300"/>
+<area shape="rect" id="node20" href="$d3/db9/structconfbridge__state.html" title="A conference state object to hold the various state callback functions. " alt="" coords="1707,437,1837,464"/>
+<area shape="rect" id="node3" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="1703,45,1841,72"/>
+<area shape="rect" id="node6" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="1997,23,2191,49"/>
+<area shape="rect" id="node4" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="1405,56,1494,83"/>
+<area shape="rect" id="node5" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="1360,5,1539,32"/>
+<area shape="rect" id="node7" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="1739,247,1805,273"/>
+<area shape="rect" id="node8" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="1379,247,1519,273"/>
+<area shape="rect" id="node9" href="$d4/d84/structast__bridge.html" title="Structure that contains information about a bridge. " alt="" coords="729,424,819,451"/>
+<area shape="rect" id="node13" href="$d2/dd3/structast__bridge__methods.html" title="Bridge virtual methods table definition. " alt="" coords="1059,449,1212,476"/>
+<area shape="rect" id="node10" href="$d1/d04/structast__bridge__technology.html" title="Structure that is the essence of a bridge technology. " alt="" coords="323,599,490,625"/>
+<area shape="rect" id="node11" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,265,157,292"/>
+<area shape="rect" id="node14" href="$d0/d99/structast__bridge__snapshot.html" title="Structure that contains a snapshot of information about a bridge. " alt="" coords="329,497,484,524"/>
+<area shape="rect" id="node18" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="331,265,482,292"/>
+<area shape="rect" id="node21" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="891,135,990,161"/>
+<area shape="rect" id="node23" href="$dc/d0c/structbridge__profile__sounds.html" title="bridge_profile_sounds" alt="" coords="693,217,855,244"/>
+<area shape="rect" id="node12" href="$d3/d0f/structast__bridge__channels__list.html" title="ast_bridge_channels_list" alt="" coords="317,396,496,423"/>
+<area shape="rect" id="node15" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="42,651,121,677"/>
+<area shape="rect" id="node24" href="$db/dba/structast__bridge__features.html" title="Structure that contains features information. " alt="" coords="520,697,669,724"/>
+<area shape="rect" id="node16" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="358,548,455,575"/>
+<area shape="rect" id="node17" href="$d0/d50/structast__bridge__softmix.html" title="ast_bridge_softmix" alt="" coords="335,447,478,473"/>
+<area shape="rect" id="node19" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="363,135,450,161"/>
+<area shape="rect" id="node22" href="$d7/db8/structbridge__profile.html" title="bridge_profile" alt="" coords="1081,248,1189,275"/>
+<area shape="rect" id="node25" href="$d6/d97/structast__bridge__tech__optimizations.html" title="Structure specific to bridge technologies capable of performing talking optimizations. " alt="" coords="1027,500,1244,527"/>
+<area shape="rect" id="node26" href="$df/d46/structpost__join__action.html" title="post_join_action" alt="" coords="1073,640,1198,667"/>
+<area shape="rect" id="node27" href="$de/df0/structuser__profile.html" title="user_profile" alt="" coords="1087,399,1183,425"/>
+</map>

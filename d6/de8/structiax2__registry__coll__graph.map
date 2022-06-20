@@ -1,0 +1,7 @@
+<map id="iax2_registry" name="iax2_registry">
+<area shape="rect" id="node2" href="$df/d9f/structast__dnsmgr__entry.html" title="ast_dnsmgr_entry" alt="" coords="135,200,274,227"/>
+<area shape="rect" id="node3" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="98,95,218,121"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,5,293,32"/>
+<area shape="rect" id="node6" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="255,95,362,121"/>
+</map>

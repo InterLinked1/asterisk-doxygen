@@ -1,0 +1,33 @@
+<map id="res_corosync.c" name="res_corosync.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1127,319,1211,345"/>
+<area shape="rect" id="node24" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1576,162,1712,189"/>
+<area shape="rect" id="node31" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1819,468,1946,495"/>
+<area shape="rect" id="node35" href="$d4/dfb/poll-compat_8h.html" title="asterisk/poll&#45;compat.h" alt="" coords="654,244,818,271"/>
+<area shape="rect" id="node38" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1977,244,2103,271"/>
+<area shape="rect" id="node39" href="$dd/d20/event_8h.html" title="asterisk/event.h" alt="" coords="2438,319,2562,345"/>
+<area shape="rect" id="node41" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1467,244,1568,271"/>
+<area shape="rect" id="node43" href="$da/da2/devicestate_8h.html" title="Device state management. " alt="" coords="1389,162,1552,189"/>
+<area shape="rect" id="node45" href="$dc/d33/mwi_8h.html" title="Asterisk MWI API. " alt="" coords="1649,80,1762,107"/>
+<area shape="rect" id="node47" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="2141,244,2267,271"/>
+<area shape="rect" id="node48" href="$d4/d25/stasis__message__router_8h.html" title="asterisk/stasis_message\l_router.h" alt="" coords="2128,155,2307,196"/>
+<area shape="rect" id="node49" href="$d3/df0/stasis__system_8h.html" title="asterisk/stasis_system.h" alt="" coords="2331,162,2509,189"/>
+<area shape="rect" id="node50" href="$d0/d1e/taskprocessor_8h.html" title="An API for managing task processing threads that can be shared across modules. " alt="" coords="2585,80,2762,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1453,543,1608,569"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="738,393,875,420"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1102,393,1237,420"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1457,617,1604,644"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1258,468,1401,495"/>
+<area shape="rect" id="node25" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1617,319,1732,345"/>
+<area shape="rect" id="node26" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1707,393,1845,420"/>
+<area shape="rect" id="node27" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1569,468,1631,495"/>
+<area shape="rect" id="node30" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1467,393,1581,420"/>
+<area shape="rect" id="node32" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1920,393,2067,420"/>
+<area shape="rect" id="node33" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2091,393,2248,420"/>
+<area shape="rect" id="node34" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1261,393,1392,420"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1867,543,2013,569"/>
+<area shape="rect" id="node36" href="$d9/dab/select_8h.html" title="Bitfield expansions for ast_select. " alt="" coords="673,319,799,345"/>
+<area shape="rect" id="node40" href="$d6/d37/event__defs_8h.html" title="Generic event system. " alt="" coords="2421,393,2579,420"/>
+<area shape="rect" id="node42" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1442,319,1593,345"/>
+<area shape="rect" id="node44" href="$d9/d95/channelstate_8h.html" title="Channel states. " alt="" coords="1272,244,1443,271"/>
+<area shape="rect" id="node46" href="$d1/d96/stasis__state_8h.html" title="Stasis State API. " alt="" coords="1837,162,2003,189"/>
+</map>

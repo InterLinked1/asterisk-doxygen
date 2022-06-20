@@ -1,0 +1,9 @@
+<map id="ast_tcptls_session_instance" name="ast_tcptls_session_instance">
+<area shape="rect" id="node2" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="67,213,134,240"/>
+<area shape="rect" id="node3" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="5,95,145,121"/>
+<area shape="rect" id="node4" href="$da/d2b/structast__tcptls__session__args.html" title="arguments for the accepting thread " alt="" coords="215,213,389,240"/>
+<area shape="rect" id="node5" href="$d5/d90/structast__tls__config.html" title="ast_tls_config" alt="" coords="170,95,279,121"/>
+<area shape="rect" id="node6" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="185,5,264,32"/>
+<area shape="rect" id="node7" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="343,95,450,121"/>
+<area shape="rect" id="node8" href="$de/d03/structast__iostream.html" title="ast_iostream" alt="" coords="571,213,678,240"/>
+</map>

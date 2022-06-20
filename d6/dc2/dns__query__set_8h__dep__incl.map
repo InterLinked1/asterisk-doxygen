@@ -1,0 +1,13 @@
+<map id="dns_query_set.h" name="dns_query_set.h">
+<area shape="rect" id="node2" href="$d4/d07/dns__internal_8h.html" title="Internal DNS structure definitions. " alt="" coords="521,80,633,107"/>
+<area shape="rect" id="node5" href="$d5/da5/dns__query__set_8c.html" title="DNS Query Set API. " alt="" coords="5,155,132,181"/>
+<area shape="rect" id="node10" href="$d3/d10/test__dns__query__set_8c.html" title="test_dns_query_set.c" alt="" coords="1035,155,1193,181"/>
+<area shape="rect" id="node12" href="$d4/d43/pjsip__resolver_8c.html" title="pjsip_resolver.c" alt="" coords="708,80,827,107"/>
+<area shape="rect" id="node3" href="$dc/d00/dns__core_8c.html" title="Core DNS Functionality. " alt="" coords="157,155,247,181"/>
+<area shape="rect" id="node4" href="$d3/de7/dns__naptr_8c.html" title="DNS NAPTR Record Support. " alt="" coords="271,155,367,181"/>
+<area shape="rect" id="node6" href="$d8/dad/dns__recurring_8c.html" title="DNS Recurring Query Support. " alt="" coords="391,155,511,181"/>
+<area shape="rect" id="node7" href="$db/d8e/dns__srv_8c.html" title="DNS SRV Record Support. " alt="" coords="536,155,617,181"/>
+<area shape="rect" id="node8" href="$da/d40/dns__txt_8c.html" title="DNS TXT Record Parsing API. " alt="" coords="642,155,722,181"/>
+<area shape="rect" id="node9" href="$da/d14/test__dns_8c.html" title="test_dns.c" alt="" coords="746,155,834,181"/>
+<area shape="rect" id="node11" href="$d5/d36/test__dns__recurring_8c.html" title="test_dns_recurring.c" alt="" coords="858,155,1010,181"/>
+</map>

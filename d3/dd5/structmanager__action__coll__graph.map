@@ -1,0 +1,12 @@
+<map id="manager_action" name="manager_action">
+<area shape="rect" id="node2" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="314,259,411,285"/>
+<area shape="rect" id="node3" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="341,364,467,391"/>
+<area shape="rect" id="node4" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="151,109,281,136"/>
+<area shape="rect" id="node5" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node6" href="$d4/d98/structast__module__user.html" title="ast_module_user" alt="" coords="150,5,282,32"/>
+<area shape="rect" id="node7" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="672,5,824,32"/>
+<area shape="rect" id="node8" href="$d8/d46/structast__xml__doc__item.html" title="Struct that contains the XML documentation for a particular item. Note that this is an ao2 ref counte..." alt="" coords="491,259,629,285"/>
+<area shape="rect" id="node11" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="687,109,838,136"/>
+<area shape="rect" id="node9" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="407,109,473,136"/>
+<area shape="rect" id="node10" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="363,5,503,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fax_module" name="fax_module">
+<area shape="rect" id="node2" href="$d9/d0e/structast__fax__tech.html" title="used to register a FAX technology module with res_fax " alt="" coords="177,187,280,213"/>
+<area shape="rect" id="node3" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="45,96,143,123"/>
+<area shape="rect" id="node4" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="5,187,132,213"/>
+<area shape="rect" id="node5" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="29,5,159,32"/>
+<area shape="rect" id="node6" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="219,96,305,123"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ast_ari_response" name="ast_ari_response">
+<area shape="rect" id="node2" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="42,95,109,121"/>
+<area shape="rect" id="node3" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node4" href="$d1/da1/structast__json.html" title="Abstract JSON element (object, array, string, int, ...). " alt="" coords="133,95,207,121"/>
+</map>

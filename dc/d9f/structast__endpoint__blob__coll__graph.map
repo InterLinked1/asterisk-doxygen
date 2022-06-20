@@ -1,0 +1,6 @@
+<map id="ast_endpoint_blob" name="ast_endpoint_blob">
+<area shape="rect" id="node2" href="$d1/da1/structast__json.html" title="Abstract JSON element (object, array, string, int, ...). " alt="" coords="5,184,80,211"/>
+<area shape="rect" id="node3" href="$da/dd1/structast__endpoint__snapshot.html" title="A snapshot of an endpoint&#39;s state. " alt="" coords="104,184,275,211"/>
+<area shape="rect" id="node4" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="71,5,223,32"/>
+<area shape="rect" id="node5" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="219,95,370,121"/>
+</map>

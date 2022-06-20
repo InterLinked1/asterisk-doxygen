@@ -1,0 +1,16 @@
+<map id="stasis_endpoints.h" name="stasis_endpoints.h">
+<area shape="rect" id="node2" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="115,169,266,196"/>
+<area shape="rect" id="node5" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="375,169,500,196"/>
+<area shape="rect" id="node11" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="876,393,1033,420"/>
+<area shape="rect" id="node15" href="$d3/d8f/stasis__cache__pattern_8h.html" title="Caching pattern for Stasis Message Bus API topics. " alt="" coords="299,80,458,121"/>
+<area shape="rect" id="node3" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="120,244,235,271"/>
+<area shape="rect" id="node4" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="5,319,152,345"/>
+<area shape="rect" id="node6" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="547,244,693,271"/>
+<area shape="rect" id="node12" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="408,244,523,271"/>
+<area shape="rect" id="node13" href="$dd/d20/event_8h.html" title="asterisk/event.h" alt="" coords="259,244,383,271"/>
+<area shape="rect" id="node7" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="549,319,688,345"/>
+<area shape="rect" id="node8" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="411,319,525,345"/>
+<area shape="rect" id="node9" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="713,319,863,345"/>
+<area shape="rect" id="node10" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="887,319,1022,345"/>
+<area shape="rect" id="node14" href="$d6/d37/event__defs_8h.html" title="Generic event system. " alt="" coords="177,319,335,345"/>
+</map>

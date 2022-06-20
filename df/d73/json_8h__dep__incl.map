@@ -1,0 +1,51 @@
+<map id="json.h" name="json.h">
+<area shape="rect" id="node2" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1305,80,1376,107"/>
+<area shape="rect" id="node5" href="$dc/d04/app__chanspy_8c.html" title="ChanSpy: Listen in on any channel. " alt="" coords="1723,304,1838,331"/>
+<area shape="rect" id="node6" href="$d0/dcf/app__confbridge_8c.html" title="Conference Bridge application. " alt="" coords="2267,304,2398,331"/>
+<area shape="rect" id="node8" href="$df/d44/app__meetme_8c.html" title="Meet me conference bridge and Shared Line Appearances. " alt="" coords="96,304,215,331"/>
+<area shape="rect" id="node9" href="$de/dfe/app__minivm_8c.html" title="MiniVoiceMail &#45; A Minimal Voicemail System for Asterisk. " alt="" coords="848,304,959,331"/>
+<area shape="rect" id="node11" href="$d4/da5/app__userevent_8c.html" title="UserEvent application – send manager event. " alt="" coords="983,304,1111,331"/>
+<area shape="rect" id="node12" href="$d3/d83/main_2app_8c.html" title="Convenient Application Routines. " alt="" coords="1969,304,2027,331"/>
+<area shape="rect" id="node13" href="$dc/df2/cdr_8c.html" title="Call Detail Record API. " alt="" coords="1464,304,1516,331"/>
+<area shape="rect" id="node14" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="501,304,591,331"/>
+<area shape="rect" id="node15" href="$da/dbe/rtp__engine_8c.html" title="Pluggable RTP Architecture. " alt="" coords="1598,304,1699,331"/>
+<area shape="rect" id="node16" href="$dc/d2b/stasis__channels_8c.html" title="Stasis Messages and Data Types for Channel Objects. " alt="" coords="3236,304,3371,331"/>
+<area shape="rect" id="node17" href="$dd/da3/res__stasis__snoop_8c.html" title="Stasis application snoop control support. " alt="" coords="2853,304,2996,331"/>
+<area shape="rect" id="node18" href="$db/dc4/test__cel_8c.html" title="CEL unit tests. " alt="" coords="1862,304,1945,331"/>
+<area shape="rect" id="node21" href="$d9/d47/cdr__beanstalkd_8c.html" title="Asterisk Beanstalkd CDR records. " alt="" coords="2394,229,2525,256"/>
+<area shape="rect" id="node22" href="$d1/d0c/cel__beanstalkd_8c.html" title="Asterisk Channel Event Beanstalkd backend. " alt="" coords="2549,229,2677,256"/>
+<area shape="rect" id="node23" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="186,229,269,256"/>
+<area shape="rect" id="node24" href="$d6/d13/file_8c.html" title="Generic File Format Support. " alt="" coords="2042,229,2093,256"/>
+<area shape="rect" id="node25" href="$df/d98/json_8c.html" title="JSON abstraction layer. " alt="" coords="2701,229,2759,256"/>
+<area shape="rect" id="node26" href="$d1/d22/logger_8c.html" title="Asterisk Logger. " alt="" coords="1279,229,1351,256"/>
+<area shape="rect" id="node27" href="$d4/d8f/res__hep__rtcp_8c.html" title="RTCP logging with Homer. " alt="" coords="395,229,511,256"/>
+<area shape="rect" id="node29" href="$d9/d2d/res__stir__shaken_8c.html" title="res_stir_shaken.c" alt="" coords="2117,229,2250,256"/>
+<area shape="rect" id="node30" href="$dc/d6b/res__xmpp_8c.html" title="XMPP client and component module. " alt="" coords="2274,229,2370,256"/>
+<area shape="rect" id="node34" href="$da/ddd/named__acl_8c.html" title="Named Access Control Lists. " alt="" coords="1835,155,1937,181"/>
+<area shape="rect" id="node35" href="$d8/d30/main_2security__events_8c.html" title="Security Event Reporting Helpers. " alt="" coords="1962,155,2095,181"/>
+<area shape="rect" id="node36" href="$d8/db9/test_8c.html" title="Unit Test Framework. " alt="" coords="2119,155,2178,181"/>
+<area shape="rect" id="node37" href="$dd/d1e/res__security__log_8c.html" title="Security Event Logging. " alt="" coords="2202,155,2338,181"/>
+<area shape="rect" id="node38" href="$db/dd3/res__stun__monitor_8c.html" title="STUN Network Monitor. " alt="" coords="2362,155,2506,181"/>
+<area shape="rect" id="node39" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="668,80,765,107"/>
+<area shape="rect" id="node40" href="$d4/d59/ari_8h.html" title="Asterisk RESTful API hooks. " alt="" coords="3341,80,3391,107"/>
+<area shape="rect" id="node41" href="$db/d43/bucket_8c.html" title="Bucket File API. " alt="" coords="3416,80,3492,107"/>
+<area shape="rect" id="node42" href="$dd/d43/http_8c.html" title="http server for AMI access " alt="" coords="3517,80,3575,107"/>
+<area shape="rect" id="node43" href="$d7/d69/sorcery_8c.html" title="Sorcery Data Access Layer API. " alt="" coords="3600,80,3679,107"/>
+<area shape="rect" id="node44" href="$d8/d1e/ari__model__validators_8h.html" title="Generated file &#45; Build validators for ARI model objects. " alt="" coords="3703,80,3869,107"/>
+<area shape="rect" id="node45" href="$db/dde/internal_8h.html" title="Internal API&#39;s for res_ari. " alt="" coords="3894,80,3977,107"/>
+<area shape="rect" id="node46" href="$d6/d37/resource__sounds_8c.html" title="/api&#45;docs/sounds.{format} implementation&#45; Sound resources " alt="" coords="4001,80,4144,107"/>
+<area shape="rect" id="node47" href="$d8/dce/res__sorcery__astdb_8c.html" title="Sorcery Astdb Object Wizard. " alt="" coords="4168,80,4319,107"/>
+<area shape="rect" id="node48" href="$d1/d2d/test__bucket_8c.html" title="Bucket Unit Tests. " alt="" coords="4343,80,4451,107"/>
+<area shape="rect" id="node49" href="$db/d9e/test__json_8c.html" title="Test JSON API. " alt="" coords="4475,80,4566,107"/>
+<area shape="rect" id="node50" href="$d6/d12/test__sorcery_8c.html" title="Sorcery Unit Tests. " alt="" coords="4591,80,4701,107"/>
+<area shape="rect" id="node3" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1397,155,1481,181"/>
+<area shape="rect" id="node4" href="$d9/d4a/stasis__channels_8h.html" title="stasis_channels.h" alt="" coords="1528,229,1663,256"/>
+<area shape="rect" id="node7" href="$df/dde/app__fax_8c.html" title="app_fax.c" alt="" coords="1339,304,1422,331"/>
+<area shape="rect" id="node10" href="$d8/d93/app__mixmonitor_8c.html" title="MixMonitor() &#45; Record a call and mix the audio during the recording. " alt="" coords="1145,304,1281,331"/>
+<area shape="rect" id="node19" href="$d1/da0/app__cdr_8c.html" title="Applications connected with CDR engine. " alt="" coords="535,229,618,256"/>
+<area shape="rect" id="node20" href="$d2/db9/app__forkcdr_8c.html" title="Fork CDR application. " alt="" coords="642,229,749,256"/>
+<area shape="rect" id="node28" href="$d3/d93/include_2asterisk_2app_8h.html" title="Application convenience functions, designed to give consistent look and feel to Asterisk apps..." alt="" coords="1129,155,1187,181"/>
+<area shape="rect" id="node31" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="395,155,497,181"/>
+<area shape="rect" id="node32" href="$d4/d25/stasis__message__router_8h.html" title="stasis_message_router.h" alt="" coords="136,155,319,181"/>
+<area shape="rect" id="node33" href="$d1/d96/stasis__state_8h.html" title="Stasis State API. " alt="" coords="943,155,1053,181"/>
+</map>

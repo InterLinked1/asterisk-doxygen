@@ -1,0 +1,8 @@
+<map id="translator_path" name="translator_path">
+<area shape="rect" id="node2" href="$db/d29/structast__translator.html" title="Descriptor of a translator. " alt="" coords="204,320,315,347"/>
+<area shape="rect" id="node3" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="80,96,177,123"/>
+<area shape="rect" id="node4" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="77,187,204,213"/>
+<area shape="rect" id="node7" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="228,187,315,213"/>
+<area shape="rect" id="node5" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="63,5,194,32"/>
+<area shape="rect" id="node6" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="351,187,437,213"/>
+</map>

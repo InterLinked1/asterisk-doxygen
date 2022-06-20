@@ -1,0 +1,9 @@
+<map id="rtp_glue_data" name="rtp_glue_data">
+<area shape="rect" id="node2" href="$d8/d6b/structrtp__glue__stream.html" title="rtp_glue_stream" alt="" coords="342,228,469,255"/>
+<area shape="rect" id="node3" href="$df/d7a/structast__rtp__instance.html" title="ast_rtp_instance" alt="" coords="253,124,381,151"/>
+<area shape="rect" id="node4" href="$d4/d11/structast__srtp.html" title="ast_srtp" alt="" coords="235,228,309,255"/>
+<area shape="rect" id="node5" href="$d2/d14/structast__rtp__engine.html" title="ast_rtp_engine" alt="" coords="172,5,289,32"/>
+<area shape="rect" id="node6" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node7" href="$d8/dc9/structast__rtp__glue.html" title="ast_rtp_glue" alt="" coords="456,5,557,32"/>
+<area shape="rect" id="node8" href="$d4/d0e/structast__rtp__codecs.html" title="ast_rtp_codecs" alt="" coords="313,5,431,32"/>
+</map>

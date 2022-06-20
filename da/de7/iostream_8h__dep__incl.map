@@ -1,0 +1,29 @@
+<map id="iostream.h" name="iostream.h">
+<area shape="rect" id="node2" href="$d4/ddf/tcptls_8h.html" title="Generic support for tcp/tls servers in Asterisk. " alt="" coords="1213,80,1283,107"/>
+<area shape="rect" id="node27" href="$dc/d9b/tcptls_8c.html" title="Code to support TCP and TLS server/client. " alt="" coords="1690,155,1758,181"/>
+<area shape="rect" id="node28" href="$d1/dc8/iostream_8c.html" title="iostream.c" alt="" coords="1560,80,1651,107"/>
+<area shape="rect" id="node3" href="$de/d26/app__externalivr_8c.html" title="External IVR application interface. " alt="" coords="1132,155,1263,181"/>
+<area shape="rect" id="node4" href="$d1/d94/sip_8h.html" title="chan_sip header file " alt="" coords="1614,155,1666,181"/>
+<area shape="rect" id="node16" href="$dd/d56/http_8h.html" title="Support for Private Asterisk HTTP Servers. " alt="" coords="654,155,714,181"/>
+<area shape="rect" id="node20" href="$dd/d43/http_8c.html" title="http server for AMI access " alt="" coords="1180,229,1239,256"/>
+<area shape="rect" id="node21" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="5,229,96,256"/>
+<area shape="rect" id="node23" href="$d6/dc9/res__http__post_8c.html" title="HTTP POST upload support for Asterisk HTTP server. " alt="" coords="1034,229,1155,256"/>
+<area shape="rect" id="node5" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="1781,304,1870,331"/>
+<area shape="rect" id="node6" href="$d5/d87/globals_8h.html" title="sip global declaration header file " alt="" coords="1551,229,1630,256"/>
+<area shape="rect" id="node7" href="$d8/d06/sip_2dialplan__functions_8c.html" title="sip channel dialplan functions and unit tests " alt="" coords="1563,304,1709,331"/>
+<area shape="rect" id="node8" href="$d1/d2b/config__parser_8h.html" title="sip.conf parser header file " alt="" coords="2134,229,2253,256"/>
+<area shape="rect" id="node9" href="$d8/d9c/config__parser_8c.html" title="sip config parsing functions and unit tests " alt="" coords="2245,304,2363,331"/>
+<area shape="rect" id="node10" href="$d1/dc9/dialog_8h.html" title="sip dialog management header file " alt="" coords="1655,229,1727,256"/>
+<area shape="rect" id="node11" href="$d4/dd3/sip_2include_2dialplan__functions_8h.html" title="SIP dialplan functions header file. " alt="" coords="1751,229,1899,256"/>
+<area shape="rect" id="node12" href="$d2/d1d/channels_2sip_2include_2security__events_8h.html" title="Generate security events in the SIP channel. " alt="" coords="1975,229,2110,256"/>
+<area shape="rect" id="node13" href="$d4/dea/channels_2sip_2security__events_8c.html" title="Generate security events in the SIP channel. " alt="" coords="2013,304,2147,331"/>
+<area shape="rect" id="node14" href="$d5/d85/reqresp__parser_8c.html" title="sip request parsing functions and unit tests " alt="" coords="1314,229,1443,256"/>
+<area shape="rect" id="node15" href="$d1/dba/channels_2sip_2utils_8c.html" title="Utility functions for chan_sip. " alt="" coords="1468,229,1527,256"/>
+<area shape="rect" id="node17" href="$d0/d0c/http__websocket_8h.html" title="Support for WebSocket connections within the Asterisk HTTP server and client WebSocket connections to..." alt="" coords="875,229,1010,256"/>
+<area shape="rect" id="node18" href="$de/d4c/res__http__websocket_8c.html" title="WebSocket support for the Asterisk internal HTTP server. " alt="" coords="459,304,619,331"/>
+<area shape="rect" id="node19" href="$d4/d59/ari_8h.html" title="Asterisk RESTful API hooks. " alt="" coords="800,229,851,256"/>
+<area shape="rect" id="node22" href="$db/dde/internal_8h.html" title="Internal API&#39;s for res_ari. " alt="" coords="171,229,253,256"/>
+<area shape="rect" id="node24" href="$d9/de9/res__phoneprov_8c.html" title="Phone provisioning application for the asterisk internal http server. " alt="" coords="278,229,405,256"/>
+<area shape="rect" id="node25" href="$d7/d1b/res__prometheus_8c.html" title="Core Prometheus metrics API. " alt="" coords="429,229,568,256"/>
+<area shape="rect" id="node26" href="$d4/d45/test__http__media__cache_8c.html" title="Tests for the HTTP media cache backend. " alt="" coords="593,229,775,256"/>
+</map>

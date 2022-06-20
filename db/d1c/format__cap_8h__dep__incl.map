@@ -1,0 +1,51 @@
+<map id="format_cap.h" name="format_cap.h">
+<area shape="rect" id="node2" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1606,87,1690,114"/>
+<area shape="rect" id="node8" href="$d3/d45/chan__ooh323_8h.html" title="chan_ooh323.h" alt="" coords="899,244,1019,271"/>
+<area shape="rect" id="node21" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="1046,244,1144,271"/>
+<area shape="rect" id="node22" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="634,244,745,271"/>
+<area shape="rect" id="node23" href="$da/dbe/rtp__engine_8c.html" title="Pluggable RTP Architecture. " alt="" coords="770,244,871,271"/>
+<area shape="rect" id="node24" href="$d8/d4f/test__config_8c.html" title="Configuration unit tests. " alt="" coords="3404,244,3506,271"/>
+<area shape="rect" id="node27" href="$db/d0b/resource__bridges_8c.html" title="Implementation for ARI stubs. " alt="" coords="344,244,486,271"/>
+<area shape="rect" id="node35" href="$d5/d82/res__pjsip__sdp__rtp_8c.html" title="SIP SDP media stream handling. " alt="" coords="276,169,420,196"/>
+<area shape="rect" id="node36" href="$dc/d13/pjsip__session__caps_8c.html" title="pjsip_session_caps.c" alt="" coords="3142,169,3296,196"/>
+<area shape="rect" id="node37" href="$dd/d49/test__stream_8c.html" title="Media Stream API Unit Tests. " alt="" coords="3321,169,3432,196"/>
+<area shape="rect" id="node38" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="188,87,290,114"/>
+<area shape="rect" id="node39" href="$d8/d4d/stream_8c.html" title="Media Stream API. " alt="" coords="72,169,150,196"/>
+<area shape="rect" id="node40" href="$db/d39/translate_8h.html" title="Support for translation of data formats. translate.c. " alt="" coords="775,169,866,196"/>
+<area shape="rect" id="node41" href="$d2/d17/codec__pref_8c.html" title="Media Format Bitfield Compatibility API. " alt="" coords="1868,87,1970,114"/>
+<area shape="rect" id="node42" href="$db/d09/channels_2iax2_2format__compatibility_8c.html" title="Media Format Bitfield Compatibility API. " alt="" coords="1995,87,2158,114"/>
+<area shape="rect" id="node43" href="$d6/dc8/config__options_8c.html" title="Configuration Option&#45;handling. " alt="" coords="2182,87,2307,114"/>
+<area shape="rect" id="node44" href="$d3/dc9/format__cap_8c.html" title="Format Capabilities API. " alt="" coords="2331,87,2438,114"/>
+<area shape="rect" id="node45" href="$de/dfe/media__index_8c.html" title="Sound file format and description indexer. " alt="" coords="2462,87,2576,114"/>
+<area shape="rect" id="node46" href="$d7/d69/sorcery_8c.html" title="Sorcery Data Access Layer API. " alt="" coords="2601,87,2680,114"/>
+<area shape="rect" id="node47" href="$d4/d8b/sounds_8c.html" title="Sound file format and description index. " alt="" coords="2704,87,2782,114"/>
+<area shape="rect" id="node48" href="$d6/d37/resource__sounds_8c.html" title="/api&#45;docs/sounds.{format} implementation&#45; Sound resources " alt="" coords="2806,87,2949,114"/>
+<area shape="rect" id="node49" href="$d1/db6/test__format__cap_8c.html" title="Format Capabilities API Unit Tests. " alt="" coords="2974,87,3112,114"/>
+<area shape="rect" id="node50" href="$d6/d36/test__res__pjsip__session__caps_8c.html" title="res_pjsip_session format caps tests " alt="" coords="3136,80,3302,121"/>
+<area shape="rect" id="node3" href="$d0/db6/app__mysql_8c.html" title="MYSQL dialplan application. " alt="" coords="2814,244,2917,271"/>
+<area shape="rect" id="node4" href="$dc/d07/cdr_8h.html" title="Call Detail Record API. " alt="" coords="596,169,650,196"/>
+<area shape="rect" id="node5" href="$d0/d29/cdr__mysql_8c.html" title="MySQL CDR backend. " alt="" coords="511,244,610,271"/>
+<area shape="rect" id="node6" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="2574,169,2632,196"/>
+<area shape="rect" id="node7" href="$d3/d51/chan__mobile_8c.html" title="Bluetooth Mobile Device channel driver. " alt="" coords="2942,244,3056,271"/>
+<area shape="rect" id="node9" href="$db/d62/app__adsiprog_8c.html" title="Program Asterisk ADSI Scripts into phone. " alt="" coords="1660,244,1778,271"/>
+<area shape="rect" id="node10" href="$de/d11/app__agent__pool_8c.html" title="Call center agent pool. " alt="" coords="1501,244,1636,271"/>
+<area shape="rect" id="node11" href="$dc/d5c/app__alarmreceiver_8c.html" title="Central Station Alarm receiver for Ademco Contact ID. " alt="" coords="1180,244,1330,271"/>
+<area shape="rect" id="node12" href="$d2/d48/app__amd_8c.html" title="Answering machine detection. " alt="" coords="1803,244,1896,271"/>
+<area shape="rect" id="node13" href="$d0/df4/app__attended__transfer_8c.html" title="Attended transfer by caller channel. " alt="" coords="1920,244,2099,271"/>
+<area shape="rect" id="node14" href="$d6/d0f/app__authenticate_8c.html" title="Execute arbitrary authenticate commands. " alt="" coords="2124,244,2269,271"/>
+<area shape="rect" id="node15" href="$d7/d7c/app__blind__transfer_8c.html" title="Blind transfer by caller channel. " alt="" coords="2293,244,2444,271"/>
+<area shape="rect" id="node16" href="$dc/d22/app__bridgewait_8c.html" title="Application to place the channel into a holding Bridge. " alt="" coords="3236,244,3365,271"/>
+<area shape="rect" id="node17" href="$d2/d43/app__chanisavail_8c.html" title="Check if Channel is Available. " alt="" coords="2468,244,2602,271"/>
+<area shape="rect" id="node18" href="$d7/d1b/app__channelredirect_8c.html" title="ChannelRedirect application. " alt="" coords="2627,244,2790,271"/>
+<area shape="rect" id="node19" href="$dc/d04/app__chanspy_8c.html" title="ChanSpy: Listen in on any channel. " alt="" coords="1355,244,1470,271"/>
+<area shape="rect" id="node20" href="$d0/dcf/app__confbridge_8c.html" title="Conference Bridge application. " alt="" coords="3080,244,3211,271"/>
+<area shape="rect" id="node25" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="940,169,1007,196"/>
+<area shape="rect" id="node26" href="$d9/d4a/stasis__channels_8h.html" title="stasis_channels.h" alt="" coords="1133,169,1268,196"/>
+<area shape="rect" id="node28" href="$dd/d18/res__config__mysql_8c.html" title="MySQL CDR backend. " alt="" coords="1496,169,1638,196"/>
+<area shape="rect" id="node29" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="1662,169,1797,196"/>
+<area shape="rect" id="node30" href="$d9/daa/app__audiosocket_8c.html" title="AudioSocket application – transmit and receive audio through a TCP socket. " alt="" coords="1822,169,1963,196"/>
+<area shape="rect" id="node31" href="$d8/d6e/app__bridgeaddchan_8c.html" title="Application to place the channel into an existing Bridge. " alt="" coords="1988,169,2146,196"/>
+<area shape="rect" id="node32" href="$db/dce/say_8h.html" title="Say numbers and dates (maybe words one day too) " alt="" coords="3012,169,3066,196"/>
+<area shape="rect" id="node33" href="$d1/da0/app__cdr_8c.html" title="Applications connected with CDR engine. " alt="" coords="2171,169,2254,196"/>
+<area shape="rect" id="node34" href="$d6/df5/app__celgenuserevent_8c.html" title="Generate User&#45;Defined CEL event. " alt="" coords="2278,169,2448,196"/>
+</map>

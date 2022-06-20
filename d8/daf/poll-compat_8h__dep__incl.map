@@ -1,0 +1,51 @@
+<map id="poll&#45;compat.h" name="poll&#45;compat.h">
+<area shape="rect" id="node2" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2190,80,2274,107"/>
+<area shape="rect" id="node6" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="4089,229,4172,256"/>
+<area shape="rect" id="node32" href="$da/d45/chan__alsa_8c.html" title="ALSA sound card channel driver. " alt="" coords="2814,229,2911,256"/>
+<area shape="rect" id="node33" href="$d3/d97/res__musiconhold_8c.html" title="Routines implementing music on hold. " alt="" coords="3752,229,3893,256"/>
+<area shape="rect" id="node45" href="$dc/dac/io_8h.html" title="I/O Management (derived from Cheops&#45;NG) " alt="" coords="4329,80,4375,107"/>
+<area shape="rect" id="node46" href="$d2/d19/poll_8c.html" title="poll.c" alt="" coords="4470,80,4525,107"/>
+<area shape="rect" id="node47" href="$d3/d62/timing_8c.html" title="Timing source management. " alt="" coords="4549,80,4622,107"/>
+<area shape="rect" id="node48" href="$d1/da4/res__corosync_8c.html" title="res_corosync.c" alt="" coords="4647,80,4764,107"/>
+<area shape="rect" id="node49" href="$dc/dfe/res__timing__kqueue_8c.html" title="kqueue timing interface " alt="" coords="4788,80,4943,107"/>
+<area shape="rect" id="node50" href="$d2/d94/test__poll_8c.html" title="Poll Tests. " alt="" coords="4967,80,5054,107"/>
+<area shape="rect" id="node3" href="$d0/db6/app__mysql_8c.html" title="MYSQL dialplan application. " alt="" coords="1694,229,1797,256"/>
+<area shape="rect" id="node4" href="$dc/d07/cdr_8h.html" title="Call Detail Record API. " alt="" coords="4211,155,4264,181"/>
+<area shape="rect" id="node5" href="$d0/d29/cdr__mysql_8c.html" title="MySQL CDR backend. " alt="" coords="4220,229,4319,256"/>
+<area shape="rect" id="node7" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="1706,155,1763,181"/>
+<area shape="rect" id="node8" href="$d3/d51/chan__mobile_8c.html" title="Bluetooth Mobile Device channel driver. " alt="" coords="2936,229,3051,256"/>
+<area shape="rect" id="node9" href="$d3/d45/chan__ooh323_8h.html" title="chan_ooh323.h" alt="" coords="3921,229,4041,256"/>
+<area shape="rect" id="node10" href="$db/d62/app__adsiprog_8c.html" title="Program Asterisk ADSI Scripts into phone. " alt="" coords="2022,229,2141,256"/>
+<area shape="rect" id="node11" href="$de/d11/app__agent__pool_8c.html" title="Call center agent pool. " alt="" coords="3075,229,3210,256"/>
+<area shape="rect" id="node12" href="$dc/d5c/app__alarmreceiver_8c.html" title="Central Station Alarm receiver for Ademco Contact ID. " alt="" coords="2165,229,2315,256"/>
+<area shape="rect" id="node13" href="$d2/d48/app__amd_8c.html" title="Answering machine detection. " alt="" coords="2340,229,2433,256"/>
+<area shape="rect" id="node14" href="$d0/df4/app__attended__transfer_8c.html" title="Attended transfer by caller channel. " alt="" coords="2457,229,2636,256"/>
+<area shape="rect" id="node15" href="$d6/d0f/app__authenticate_8c.html" title="Execute arbitrary authenticate commands. " alt="" coords="27,229,173,256"/>
+<area shape="rect" id="node16" href="$d7/d7c/app__blind__transfer_8c.html" title="Blind transfer by caller channel. " alt="" coords="197,229,347,256"/>
+<area shape="rect" id="node17" href="$dc/d22/app__bridgewait_8c.html" title="Application to place the channel into a holding Bridge. " alt="" coords="2661,229,2790,256"/>
+<area shape="rect" id="node18" href="$d2/d43/app__chanisavail_8c.html" title="Check if Channel is Available. " alt="" coords="371,229,506,256"/>
+<area shape="rect" id="node19" href="$d7/d1b/app__channelredirect_8c.html" title="ChannelRedirect application. " alt="" coords="531,229,693,256"/>
+<area shape="rect" id="node20" href="$dc/d04/app__chanspy_8c.html" title="ChanSpy: Listen in on any channel. " alt="" coords="3372,229,3487,256"/>
+<area shape="rect" id="node21" href="$d0/dcf/app__confbridge_8c.html" title="Conference Bridge application. " alt="" coords="2373,379,2504,405"/>
+<area shape="rect" id="node22" href="$dc/d4e/stasis__bridges_8h.html" title="stasis_bridges.h" alt="" coords="1872,229,1997,256"/>
+<area shape="rect" id="node23" href="$d4/de3/confbridge_8h.html" title="confbridge.h" alt="" coords="2585,304,2687,331"/>
+<area shape="rect" id="node24" href="$d3/d3a/app__dahdiras_8c.html" title="Execute an ISDN RAS. " alt="" coords="718,229,837,256"/>
+<area shape="rect" id="node25" href="$dc/dc4/app__db_8c.html" title="Database access functions. " alt="" coords="860,229,940,256"/>
+<area shape="rect" id="node26" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="3590,229,3677,256"/>
+<area shape="rect" id="node27" href="$d9/db1/app__directed__pickup_8c.html" title="Directed Call Pickup Support. " alt="" coords="965,229,1129,256"/>
+<area shape="rect" id="node28" href="$d4/d7e/app__disa_8c.html" title="DISA – Direct Inward System Access Application. " alt="" coords="1153,229,1244,256"/>
+<area shape="rect" id="node29" href="$dc/dc1/app__dtmfstore_8c.html" title="Technology independent asynchronous DTMF collection. " alt="" coords="1269,229,1395,256"/>
+<area shape="rect" id="node30" href="$d2/ddd/app__dumpchan_8c.html" title="Application to dump channel variables. " alt="" coords="1419,229,1551,256"/>
+<area shape="rect" id="node31" href="$d9/d7c/app__exec_8c.html" title="Exec application. " alt="" coords="1575,229,1670,256"/>
+<area shape="rect" id="node34" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="4120,155,4187,181"/>
+<area shape="rect" id="node35" href="$d9/d4a/stasis__channels_8h.html" title="stasis_channels.h" alt="" coords="3675,155,3810,181"/>
+<area shape="rect" id="node36" href="$dd/d18/res__config__mysql_8c.html" title="MySQL CDR backend. " alt="" coords="2295,155,2438,181"/>
+<area shape="rect" id="node37" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="3215,155,3350,181"/>
+<area shape="rect" id="node38" href="$d9/daa/app__audiosocket_8c.html" title="AudioSocket application – transmit and receive audio through a TCP socket. " alt="" coords="2513,155,2655,181"/>
+<area shape="rect" id="node39" href="$d8/d6e/app__bridgeaddchan_8c.html" title="Application to place the channel into an existing Bridge. " alt="" coords="2679,155,2838,181"/>
+<area shape="rect" id="node40" href="$db/dce/say_8h.html" title="Say numbers and dates (maybe words one day too) " alt="" coords="3545,155,3599,181"/>
+<area shape="rect" id="node41" href="$d1/da0/app__cdr_8c.html" title="Applications connected with CDR engine. " alt="" coords="2913,155,2996,181"/>
+<area shape="rect" id="node42" href="$d6/df5/app__celgenuserevent_8c.html" title="Generate User&#45;Defined CEL event. " alt="" coords="3020,155,3191,181"/>
+<area shape="rect" id="node43" href="$d6/db3/aoc_8h.html" title="Generic Advice of Charge encode and decode routines. " alt="" coords="3886,155,3943,181"/>
+<area shape="rect" id="node44" href="$d4/de3/app__echo_8c.html" title="Echo application – play back what you hear to evaluate latency. " alt="" coords="3374,155,3469,181"/>
+</map>

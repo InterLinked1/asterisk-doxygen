@@ -1,0 +1,22 @@
+<map id="softmix_channel" name="softmix_channel">
+<area shape="rect" id="node2" href="$dc/d0f/structvideo__follow__talker__data.html" title="video_follow_talker_data" alt="" coords="1003,165,1180,192"/>
+<area shape="rect" id="node3" href="$d6/de5/structast__dsp.html" title="ast_dsp" alt="" coords="1055,216,1127,243"/>
+<area shape="rect" id="node4" href="$d0/d5b/structast__dsp__busy__pattern.html" title="ast_dsp_busy_pattern" alt="" coords="677,117,839,144"/>
+<area shape="rect" id="node5" href="$d6/d6a/structtone__detect__state__t.html" title="tone_detect_state_t" alt="" coords="501,227,652,253"/>
+<area shape="rect" id="node6" href="$d1/d12/structgoertzel__state__t.html" title="goertzel_state_t" alt="" coords="21,145,147,172"/>
+<area shape="rect" id="node9" href="$d5/d5b/structmf__detect__state__t.html" title="mf_detect_state_t" alt="" coords="305,169,444,196"/>
+<area shape="rect" id="node10" href="$df/d42/structdtmf__detect__state__t.html" title="dtmf_detect_state_t" alt="" coords="299,119,451,145"/>
+<area shape="rect" id="node7" href="$d3/d6f/structfragment__t.html" title="fragment_t" alt="" coords="711,16,805,43"/>
+<area shape="rect" id="node8" href="$d7/dd0/structdigit__detect__state__t.html" title="digit_detect_state_t" alt="" coords="683,168,833,195"/>
+<area shape="rect" id="node11" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="715,456,801,483"/>
+<area shape="rect" id="node19" href="$d3/dcc/structsoftmix__remb__collector.html" title="softmix_remb_collector" alt="" coords="1006,407,1177,433"/>
+<area shape="rect" id="node12" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="300,456,449,483"/>
+<area shape="rect" id="node13" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="38,367,130,393"/>
+<area shape="rect" id="node16" href="$d8/dc7/structast__slinfactory.html" title="ast_slinfactory" alt="" coords="864,372,979,399"/>
+<area shape="rect" id="node14" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="5,612,163,639"/>
+<area shape="rect" id="node15" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="1031,457,1151,484"/>
+<area shape="rect" id="node17" href="$d3/dd1/structconvolve__channel__pair.html" title="convolve_channel_pair" alt="" coords="1008,624,1175,651"/>
+<area shape="rect" id="node18" href="$d3/d90/structconvolve__channel.html" title="convolve_channel" alt="" coords="691,627,825,653"/>
+<area shape="rect" id="node20" href="$d7/dd3/structast__rtp__rtcp__feedback.html" title="An object that represents data received in a feedback report. " alt="" coords="676,520,840,547"/>
+<area shape="rect" id="node21" href="$d4/d88/structast__rtp__rtcp__feedback__remb.html" title="A REMB feedback message (see draft&#45;alvestrand&#45;rmcat&#45;remb&#45;03 for details) " alt="" coords="272,547,477,573"/>
+</map>

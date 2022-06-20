@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['q15_5fone',['Q15_ONE',['../d2/d2d/arch_8h.html#a0505e3542714209c89d51b6646de299d',1,'arch.h']]],
+  ['q15one',['Q15ONE',['../d2/d2d/arch_8h.html#a6c7eade301479d89760d3baab65f6249',1,'arch.h']]],
+  ['qconst16',['QCONST16',['../d5/d04/fixed__generic_8h.html#a13b0b04631d6d5b2623e3f5e6246af4b',1,'fixed_generic.h']]],
+  ['qconst32',['QCONST32',['../d5/d04/fixed__generic_8h.html#a5dba7de670cda1c68ad76f75c50638f9',1,'fixed_generic.h']]],
+  ['qi_5felement',['QI_ELEMENT',['../d3/d6d/isdn__lib__intern_8h.html#a01e2caf6063486f5db8c9bfef4a6a17f',1,'isdn_lib_intern.h']]],
+  ['qndrv_5fver',['QNDRV_VER',['../da/dde/chan__phone_8c.html#a595bb85454e48634bf7dc6b4a8be7b54',1,'chan_phone.c']]],
+  ['quad_5fmax',['QUAD_MAX',['../d7/d07/ael__structs_8h.html#abd999cf57efc40752cba86de308dad1e',1,'QUAD_MAX():&#160;ael_structs.h'],['../d3/dd1/ast__expr2_8c.html#abd999cf57efc40752cba86de308dad1e',1,'QUAD_MAX():&#160;ast_expr2.c']]],
+  ['quad_5fmin',['QUAD_MIN',['../d7/d07/ael__structs_8h.html#a79b994773d26cf864a8dec50a940d71f',1,'QUAD_MIN():&#160;ael_structs.h'],['../d3/dd1/ast__expr2_8c.html#a79b994773d26cf864a8dec50a940d71f',1,'QUAD_MIN():&#160;ast_expr2.c']]],
+  ['queue_5fevent_5fvariables',['QUEUE_EVENT_VARIABLES',['../da/dfb/app__queue_8c.html#a533ee4344c442cf6da3e610598ecca75',1,'app_queue.c']]],
+  ['queue_5fpaused_5fdevstate',['QUEUE_PAUSED_DEVSTATE',['../da/dfb/app__queue_8c.html#a5186e735a8b6b1d630a236fce8db0fd7',1,'app_queue.c']]],
+  ['queue_5fref',['queue_ref',['../da/dfb/app__queue_8c.html#aa08344a84581d62ffa83c87eea5da4ba',1,'app_queue.c']]],
+  ['queue_5fsize',['QUEUE_SIZE',['../d3/dac/chan__oss_8c.html#a142810068f1b99cd93d3fc9f0e160e02',1,'chan_oss.c']]],
+  ['queue_5ft_5fref',['queue_t_ref',['../da/dfb/app__queue_8c.html#a92781796b10a269001fffa4646ac1a1f',1,'app_queue.c']]],
+  ['queue_5ft_5funref',['queue_t_unref',['../da/dfb/app__queue_8c.html#a8ae24afed07fd0a8f2cad72571999061',1,'app_queue.c']]],
+  ['queue_5funknown_5fpaused_5fdevstate',['QUEUE_UNKNOWN_PAUSED_DEVSTATE',['../da/dfb/app__queue_8c.html#ad1b4e6774a06546a16f8870ab8618753',1,'app_queue.c']]],
+  ['queue_5funpaused_5fdevstate',['QUEUE_UNPAUSED_DEVSTATE',['../da/dfb/app__queue_8c.html#a232b6e5850a21fb799fdec8a3072bd45',1,'app_queue.c']]],
+  ['queue_5funref',['queue_unref',['../da/dfb/app__queue_8c.html#a8e51eaa0402ef1ffba4520220c4dbbab',1,'app_queue.c']]],
+  ['queuelog',['QUEUELOG',['../d1/d8c/logger_8h.html#a862a4fc7926f6d3294362303efe690fe',1,'QUEUELOG():&#160;logger.h'],['../d4/dc5/extconf_8c.html#a862a4fc7926f6d3294362303efe690fe',1,'QUEUELOG():&#160;extconf.c']]],
+  ['queues_5ft_5flink',['queues_t_link',['../da/dfb/app__queue_8c.html#a6d56dcc1f330ae7fe1b5a1ee832077c1',1,'app_queue.c']]],
+  ['queues_5ft_5funlink',['queues_t_unlink',['../da/dfb/app__queue_8c.html#a677f1c4c1a61e9e02d180803d8b8a008',1,'app_queue.c']]]
+];

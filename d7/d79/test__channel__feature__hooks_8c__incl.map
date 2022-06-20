@@ -1,0 +1,44 @@
+<map id="test_channel_feature_hooks.c" name="test_channel_feature_hooks.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="86,543,170,569"/>
+<area shape="rect" id="node14" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1644,169,1780,196"/>
+<area shape="rect" id="node16" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1499,916,1562,943"/>
+<area shape="rect" id="node24" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="238,468,351,495"/>
+<area shape="rect" id="node26" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1060,393,1199,420"/>
+<area shape="rect" id="node41" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="897,169,1025,196"/>
+<area shape="rect" id="node47" href="$d4/d1e/bridge__basic_8h.html" title="Basic bridge subclass API. " alt="" coords="1049,95,1217,121"/>
+<area shape="rect" id="node48" href="$de/d47/features_8h.html" title="Call Parking and Pickup API Includes code and algorithms from the Zapata library. ..." alt="" coords="783,95,924,121"/>
+<area shape="rect" id="node50" href="$db/d1c/format__cache_8h.html" title="Media Format Cache API. " alt="" coords="2547,95,2723,121"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="623,991,777,1017"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="437,767,574,793"/>
+<area shape="rect" id="node13" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="166,617,301,644"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="627,1065,773,1092"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="967,916,1110,943"/>
+<area shape="rect" id="node15" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1404,543,1519,569"/>
+<area shape="rect" id="node19" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1029,841,1142,868"/>
+<area shape="rect" id="node20" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1987,617,2144,644"/>
+<area shape="rect" id="node21" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="325,617,456,644"/>
+<area shape="rect" id="node18" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1531,991,1677,1017"/>
+<area shape="rect" id="node22" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="323,692,458,719"/>
+<area shape="rect" id="node23" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="819,767,970,793"/>
+<area shape="rect" id="node25" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="340,543,441,569"/>
+<area shape="rect" id="node27" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="1173,468,1317,495"/>
+<area shape="rect" id="node28" href="$dc/d14/abstract__jb_8h.html" title="Common implementation&#45;independent jitterbuffer stuff. " alt="" coords="2151,692,2310,719"/>
+<area shape="rect" id="node29" href="$d4/dfb/poll-compat_8h.html" title="asterisk/poll&#45;compat.h" alt="" coords="1902,468,2066,495"/>
+<area shape="rect" id="node30" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="1173,692,1299,719"/>
+<area shape="rect" id="node31" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="477,468,624,495"/>
+<area shape="rect" id="node32" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="2142,468,2269,495"/>
+<area shape="rect" id="node33" href="$dc/d07/cdr_8h.html" title="Call Detail Record API. " alt="" coords="891,468,997,495"/>
+<area shape="rect" id="node34" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="894,543,1045,569"/>
+<area shape="rect" id="node35" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="1542,468,1703,495"/>
+<area shape="rect" id="node36" href="$d9/d95/channelstate_8h.html" title="Channel states. " alt="" coords="43,468,213,495"/>
+<area shape="rect" id="node37" href="$de/dc8/ccss_8h.html" title="Call Completion Supplementary Services API. " alt="" coords="649,468,765,495"/>
+<area shape="rect" id="node38" href="$db/d3c/framehook_8h.html" title="FrameHook Architecture. " alt="" coords="1123,617,1280,644"/>
+<area shape="rect" id="node39" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1341,468,1467,495"/>
+<area shape="rect" id="node40" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1727,468,1878,495"/>
+<area shape="rect" id="node42" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="1035,319,1223,345"/>
+<area shape="rect" id="node43" href="$de/d41/bridge__channel_8h.html" title="asterisk/bridge_channel.h" alt="" coords="1030,244,1215,271"/>
+<area shape="rect" id="node44" href="$dd/dff/bridge__roles_8h.html" title="Channel Bridging Roles API. " alt="" coords="719,393,886,420"/>
+<area shape="rect" id="node45" href="$d3/d08/dsp_8h.html" title="Convenient Signal Processing routines. " alt="" coords="1291,244,1402,271"/>
+<area shape="rect" id="node46" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="891,244,1005,271"/>
+<area shape="rect" id="node49" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="874,319,985,345"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="aco_info" name="aco_info">
+<area shape="rect" id="node2" href="$d9/d9c/structaco__file.html" title="The representation of a single configuration file to be processed. " alt="" coords="67,273,137,300"/>
+<area shape="rect" id="node3" href="$de/d71/structaco__type.html" title="Type information about a category&#45;level configurable object. " alt="" coords="62,184,142,211"/>
+<area shape="rect" id="node4" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node5" href="$dc/dc7/structaco__type__internal.html" title="aco_type_internal" alt="" coords="101,95,236,121"/>
+<area shape="rect" id="node6" href="$de/d60/structaco__info__internal.html" title="Bits of aco_info that shouldn&#39;t be assigned outside this file. " alt="" coords="162,273,293,300"/>
+<area shape="rect" id="node7" href="$d2/dd8/structao2__global__obj.html" title="ao2_global_obj" alt="" coords="317,273,434,300"/>
+<area shape="rect" id="node8" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="316,184,435,211"/>
+<area shape="rect" id="node9" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="273,95,424,121"/>
+<area shape="rect" id="node10" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="448,95,561,121"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sip_pvt::request_queue" name="sip_pvt::request_queue">
+<area shape="rect" id="node2" href="$d7/d82/structsip__request.html" title="sip_request: The data grabbed from the UDP socket " alt="" coords="226,392,322,419"/>
+<area shape="rect" id="node3" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="237,95,303,121"/>
+<area shape="rect" id="node6" href="$d6/d49/structast__tcptls__session__instance.html" title="describes a server instance " alt="" coords="146,184,285,225"/>
+<area shape="rect" id="node4" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="200,5,340,32"/>
+<area shape="rect" id="node5" href="$d5/da7/structsip__socket.html" title="The SIP socket definition. " alt="" coords="152,303,241,329"/>
+<area shape="rect" id="node7" href="$db/db6/structast__websocket.html" title="Structure definition for session. " alt="" coords="5,191,121,218"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="res_pjsip_private.h" name="res_pjsip_private.h">
+<area shape="rect" id="node2" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="655,80,791,107"/>
+<area shape="rect" id="node13" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="877,155,1014,181"/>
+<area shape="rect" id="node3" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="550,155,664,181"/>
+<area shape="rect" id="node4" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="696,229,835,256"/>
+<area shape="rect" id="node5" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="506,304,569,331"/>
+<area shape="rect" id="node8" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="52,229,165,256"/>
+<area shape="rect" id="node9" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="22,304,149,331"/>
+<area shape="rect" id="node10" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="190,229,336,256"/>
+<area shape="rect" id="node11" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="360,229,518,256"/>
+<area shape="rect" id="node12" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="542,229,672,256"/>
+</map>

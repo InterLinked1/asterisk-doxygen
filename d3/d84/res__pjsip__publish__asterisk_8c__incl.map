@@ -1,0 +1,30 @@
+<map id="res_pjsip_publish_asterisk.c" name="res_pjsip_publish_asterisk.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="975,251,1059,278"/>
+<area shape="rect" id="node25" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="2655,87,2799,114"/>
+<area shape="rect" id="node34" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1683,408,1810,435"/>
+<area shape="rect" id="node46" href="$dd/dd4/res__pjsip__outbound__publish_8h.html" title="asterisk/res_pjsip\l_outbound_publish.h" alt="" coords="3439,244,3593,285"/>
+<area shape="rect" id="node47" href="$dc/db0/res__pjsip__pubsub_8h.html" title="asterisk/res_pjsip\l_pubsub.h" alt="" coords="3594,80,3726,121"/>
+<area shape="rect" id="node48" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1312,87,1448,114"/>
+<area shape="rect" id="node49" href="$dc/d33/mwi_8h.html" title="Asterisk MWI API. " alt="" coords="1495,87,1609,114"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="345,333,500,360"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="869,333,1006,360"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1030,333,1165,360"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,408,152,435"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="435,408,578,435"/>
+<area shape="rect" id="node29" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2059,408,2216,435"/>
+<area shape="rect" id="node31" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="3083,483,3210,509"/>
+<area shape="rect" id="node32" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2347,251,2493,278"/>
+<area shape="rect" id="node35" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="3387,333,3538,360"/>
+<area shape="rect" id="node36" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1915,251,2053,278"/>
+<area shape="rect" id="node38" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1801,333,1951,360"/>
+<area shape="rect" id="node39" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1735,169,1868,196"/>
+<area shape="rect" id="node40" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="2780,169,2916,196"/>
+<area shape="rect" id="node41" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="2156,169,2276,196"/>
+<area shape="rect" id="node42" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="2941,169,3097,196"/>
+<area shape="rect" id="node43" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="1943,169,2132,196"/>
+<area shape="rect" id="node44" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="2128,251,2323,278"/>
+<area shape="rect" id="node45" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="3223,251,3358,278"/>
+<area shape="rect" id="node30" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="2064,483,2211,509"/>
+<area shape="rect" id="node37" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1517,333,1632,360"/>
+<area shape="rect" id="node50" href="$d1/d96/stasis__state_8h.html" title="Stasis State API. " alt="" coords="1393,169,1559,196"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="res_audiosocket.h" name="res_audiosocket.h">
+<area shape="rect" id="node2" href="$d9/daa/app__audiosocket_8c.html" title="AudioSocket application – transmit and receive audio through a TCP socket. " alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node3" href="$dd/d8a/chan__audiosocket_8c.html" title="AudioSocket Channel. " alt="" coords="171,80,319,107"/>
+<area shape="rect" id="node4" href="$df/ddd/res__audiosocket_8c.html" title="AudioSocket support for Asterisk. " alt="" coords="343,80,481,107"/>
+</map>

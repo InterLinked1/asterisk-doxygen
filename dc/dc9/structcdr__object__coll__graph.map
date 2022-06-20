@@ -1,0 +1,15 @@
+<map id="cdr_object" name="cdr_object">
+<area shape="rect" id="node2" href="$dc/d50/structcdr__object__snapshot.html" title="A wrapper object around a snapshot. Fields that are mutable by the CDR engine are replicated here..." alt="" coords="955,489,1109,516"/>
+<area shape="rect" id="node3" href="$dd/dbe/structast__channel__snapshot.html" title="Structure representing a snapshot of channel state. " alt="" coords="677,272,843,299"/>
+<area shape="rect" id="node4" href="$d4/d7a/structast__channel__snapshot__hangup.html" title="Structure containing hangup information for a channel snapshot. " alt="" coords="336,177,501,218"/>
+<area shape="rect" id="node5" href="$d6/d08/structast__channel__snapshot__caller.html" title="Structure containing caller information for a channel snapshot. " alt="" coords="336,242,501,283"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,283,157,309"/>
+<area shape="rect" id="node8" href="$dc/d3d/structast__channel__snapshot__dialplan.html" title="Structure containing dialplan information for a channel snapshot. " alt="" coords="336,307,501,349"/>
+<area shape="rect" id="node12" href="$d6/d29/structast__channel__snapshot__base.html" title="Structure containing base information for a channel snapshot. " alt="" coords="317,125,520,152"/>
+<area shape="rect" id="node7" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="379,5,458,32"/>
+<area shape="rect" id="node9" href="$da/d20/structast__channel__snapshot__bridge.html" title="Structure containing bridge information for a channel snapshot. " alt="" coords="336,373,501,414"/>
+<area shape="rect" id="node10" href="$d5/d88/structast__channel__snapshot__peer.html" title="Structure containing peer information for a channel snapshot. " alt="" coords="318,439,519,465"/>
+<area shape="rect" id="node11" href="$d4/d52/structast__channel__snapshot__connected.html" title="Structure containing connected information for a channel snapshot. " alt="" coords="336,59,501,101"/>
+<area shape="rect" id="node13" href="$dd/de6/structvarshead.html" title="varshead" alt="" coords="378,489,459,516"/>
+<area shape="rect" id="node14" href="$d1/d0f/structcdr__object__fn__table.html" title="A virtual table used for cdr_object. " alt="" coords="959,603,1105,629"/>
+</map>

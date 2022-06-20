@@ -1,0 +1,8 @@
+<map id="pbx_outgoing" name="pbx_outgoing">
+<area shape="rect" id="node2" href="$db/db7/structast__dial.html" title="Main dialing structure. Contains global options, channels being dialed, and more! ..." alt="" coords="276,201,347,228"/>
+<area shape="rect" id="node3" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="167,97,287,124"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,7,156,33"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,7,293,33"/>
+<area shape="rect" id="node6" href="$d3/d1a/structast__dial__channel.html" title="Dialing channel structure. Contains per&#45;channel dialing options, asterisk channel, and more! " alt="" coords="311,97,439,124"/>
+<area shape="rect" id="node7" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="326,7,425,33"/>
+</map>

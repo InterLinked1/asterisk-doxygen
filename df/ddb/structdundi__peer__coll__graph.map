@@ -1,0 +1,13 @@
+<map id="dundi_peer" name="dundi_peer">
+<area shape="rect" id="node2" href="$d0/d86/structast__eid.html" title="An Entity ID is essentially a MAC address, brief and unique. " alt="" coords="535,5,603,32"/>
+<area shape="rect" id="node3" href="$db/d36/structdundi__transaction.html" title="dundi_transaction" alt="" coords="582,125,718,152"/>
+<area shape="rect" id="node4" href="$d4/d8f/structdundi__request.html" title="dundi_request" alt="" coords="335,232,448,259"/>
+<area shape="rect" id="node6" href="$db/d96/structdundi__result.html" title="dundi_result" alt="" coords="459,125,559,152"/>
+<area shape="rect" id="node10" href="$db/de6/structdundi__packet.html" title="dundi_packet" alt="" coords="681,232,787,259"/>
+<area shape="rect" id="node5" href="$d3/d2f/structdundi__entity__info.html" title="dundi_entity_info" alt="" coords="189,125,319,152"/>
+<area shape="rect" id="node7" href="$d0/d3a/structdundi__hint__metadata.html" title="dundi_hint_metadata" alt="" coords="5,125,164,152"/>
+<area shape="rect" id="node8" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="831,5,938,32"/>
+<area shape="rect" id="node9" href="$d6/dfc/structdundi__transaction_1_1packetlist.html" title="packetlist" alt="" coords="599,337,682,364"/>
+<area shape="rect" id="node11" href="$df/d4c/structdundi__peer_1_1permissionlist.html" title="permissionlist" alt="" coords="975,125,1085,152"/>
+<area shape="rect" id="node12" href="$d4/d4c/structpermission.html" title="permission" alt="" coords="984,5,1076,32"/>
+</map>

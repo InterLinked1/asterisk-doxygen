@@ -1,0 +1,9 @@
+<map id="core_unreal.h" name="core_unreal.h">
+<area shape="rect" id="node2" href="$d8/d4f/conf__chan__announce_8c.html" title="ConfBridge announcer channel driver. " alt="" coords="5,80,173,107"/>
+<area shape="rect" id="node3" href="$df/d0c/chan__bridge__media_8c.html" title="Bridge Media Channels driver. " alt="" coords="198,80,357,107"/>
+<area shape="rect" id="node4" href="$d0/d95/bridge_8c.html" title="Bridging API. " alt="" coords="381,80,454,107"/>
+<area shape="rect" id="node5" href="$de/d47/core__local_8c.html" title="Local proxy channel driver. " alt="" coords="478,80,575,107"/>
+<area shape="rect" id="node6" href="$df/d2e/core__unreal_8c.html" title="Unreal channel derivatives framework for channel drivers like local channels. " alt="" coords="599,80,707,107"/>
+<area shape="rect" id="node7" href="$db/d0b/resource__bridges_8c.html" title="Implementation for ARI stubs. " alt="" coords="731,80,874,107"/>
+<area shape="rect" id="node8" href="$d2/d80/res__stasis_8c.html" title="Stasis application support. " alt="" coords="898,80,995,107"/>
+</map>

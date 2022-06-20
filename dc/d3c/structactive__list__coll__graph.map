@@ -1,0 +1,8 @@
+<map id="active_list" name="active_list">
+<area shape="rect" id="node2" href="$df/d30/structiax2__thread.html" title="iax2_thread" alt="" coords="192,199,289,225"/>
+<area shape="rect" id="node3" href="$d3/d48/structiax2__pkt__buf.html" title="iax2_pkt_buf" alt="" coords="5,95,108,121"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="327,95,447,121"/>
+<area shape="rect" id="node5" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="235,5,385,32"/>
+<area shape="rect" id="node6" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="409,5,523,32"/>
+<area shape="rect" id="node7" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="190,95,297,121"/>
+</map>

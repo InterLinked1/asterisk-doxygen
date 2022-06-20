@@ -1,0 +1,19 @@
+<map id="unistimsession" name="unistimsession">
+<area shape="rect" id="node6" href="$d1/d66/structunistim__device.html" title="A device containing one or more lines. " alt="" coords="1145,263,1263,289"/>
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="441,137,561,164"/>
+<area shape="rect" id="node11" href="$d2/dbf/structunistim__line.html" title="unistim_line" alt="" coords="1412,200,1511,227"/>
+<area shape="rect" id="node13" href="$d0/dfe/structunistim__subchannel.html" title="unistim_subchannel" alt="" coords="1605,284,1755,311"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="184,112,335,139"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="203,163,316,189"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="5,163,68,189"/>
+<area shape="rect" id="node7" href="$dd/d77/structast__tone__zone.html" title="A set of tones for a given locale. " alt="" coords="827,516,943,543"/>
+<area shape="rect" id="node14" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="1289,479,1388,505"/>
+<area shape="rect" id="node8" href="$d5/dab/structast__tone__zone__sound.html" title="Description of a tone. " alt="" coords="420,539,583,565"/>
+<area shape="rect" id="node9" href="$dc/d1d/structast__ha.html" title="internal representation of ACL entries In principle user applications would have no need for this..." alt="" coords="853,407,918,433"/>
+<area shape="rect" id="node10" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="448,369,555,396"/>
+<area shape="rect" id="node15" href="$df/d7a/structast__rtp__instance.html" title="ast_rtp_instance" alt="" coords="991,345,1119,372"/>
+<area shape="rect" id="node12" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="1143,59,1265,85"/>
+<area shape="rect" id="node16" href="$d9/da1/structast__silence__generator.html" title="ast_silence_generator" alt="" coords="804,457,967,484"/>
+<area shape="rect" id="node17" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="455,449,547,476"/>
+<area shape="rect" id="node18" href="$d7/d43/structwsabuf.html" title="wsabuf" alt="" coords="468,243,535,269"/>
+</map>

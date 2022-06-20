@@ -1,0 +1,8 @@
+<map id="stasis_message_router" name="stasis_message_router">
+<area shape="rect" id="node2" href="$d6/d05/structstasis__message__route.html" title="stasis_message_route" alt="" coords="274,184,441,211"/>
+<area shape="rect" id="node3" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="97,95,239,121"/>
+<area shape="rect" id="node4" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node5" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="169,5,266,32"/>
+<area shape="rect" id="node6" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="344,95,504,121"/>
+<area shape="rect" id="node7" href="$dd/d3e/structstasis__message__vtable.html" title="Virtual table providing methods for messages. " alt="" coords="339,5,509,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="func_confbridge_data" name="func_confbridge_data">
+<area shape="rect" id="node2" href="$dc/dd3/structconf__menu.html" title="conf_menu" alt="" coords="28,303,121,329"/>
+<area shape="rect" id="node3" href="$dd/d43/structconf__menu__entry.html" title="conf_menu_entry" alt="" coords="8,199,141,225"/>
+<area shape="rect" id="node4" href="$d1/d6f/structconf__menu__action.html" title="conf_menu_action" alt="" coords="5,95,144,121"/>
+<area shape="rect" id="node5" href="$de/df0/structuser__profile.html" title="user_profile" alt="" coords="145,303,241,329"/>
+<area shape="rect" id="node6" href="$d7/db8/structbridge__profile.html" title="bridge_profile" alt="" coords="266,303,374,329"/>
+<area shape="rect" id="node7" href="$dc/d0c/structbridge__profile__sounds.html" title="bridge_profile_sounds" alt="" coords="239,199,401,225"/>
+<area shape="rect" id="node8" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="272,5,424,32"/>
+<area shape="rect" id="node9" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="421,95,571,121"/>
+</map>

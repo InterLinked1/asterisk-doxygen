@@ -1,0 +1,31 @@
+<map id="utils.c" name="utils.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="539,229,623,256"/>
+<area shape="rect" id="node22" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1494,229,1609,256"/>
+<area shape="rect" id="node36" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="863,229,965,256"/>
+<area shape="rect" id="node38" href="$d1/d94/sip_8h.html" title="chan_sip header file " alt="" coords="1271,80,1373,107"/>
+<area shape="rect" id="node50" href="$da/d22/sip__utils_8h.html" title="sip utils header file " alt="" coords="1847,80,1981,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="501,528,655,555"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="524,304,661,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="685,304,820,331"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="505,603,651,629"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1053,453,1196,480"/>
+<area shape="rect" id="node23" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1786,304,1925,331"/>
+<area shape="rect" id="node30" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1315,453,1377,480"/>
+<area shape="rect" id="node31" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1289,379,1403,405"/>
+<area shape="rect" id="node32" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1428,453,1555,480"/>
+<area shape="rect" id="node33" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1478,304,1625,331"/>
+<area shape="rect" id="node34" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2018,304,2175,331"/>
+<area shape="rect" id="node35" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1115,304,1246,331"/>
+<area shape="rect" id="node37" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="927,304,1077,331"/>
+<area shape="rect" id="node39" href="$d4/ddf/tcptls_8h.html" title="Generic support for tcp/tls servers in Asterisk. " alt="" coords="1846,155,1969,181"/>
+<area shape="rect" id="node40" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1933,229,2079,256"/>
+<area shape="rect" id="node41" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="864,155,977,181"/>
+<area shape="rect" id="node42" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1103,155,1242,181"/>
+<area shape="rect" id="node43" href="$d3/d93/include_2asterisk_2app_8h.html" title="Application convenience functions, designed to give consistent look and feel to Asterisk apps..." alt="" coords="1266,155,1378,181"/>
+<area shape="rect" id="node44" href="$d2/d0f/indications_8h.html" title="Tone Indication Support. " alt="" coords="1615,155,1771,181"/>
+<area shape="rect" id="node45" href="$d0/d29/include_2asterisk_2security__events_8h.html" title="Security Event Reporting API. " alt="" coords="1403,155,1591,181"/>
+<area shape="rect" id="node46" href="$de/d47/features_8h.html" title="Call Parking and Pickup API Includes code and algorithms from the Zapata library. ..." alt="" coords="647,229,789,256"/>
+<area shape="rect" id="node47" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="2044,155,2200,181"/>
+<area shape="rect" id="node48" href="$d0/daa/include_2asterisk_2features__config_8h.html" title="asterisk/features_config.h" alt="" coords="2103,229,2290,256"/>
+<area shape="rect" id="node49" href="$d9/d7f/route_8h.html" title="sip_route header file " alt="" coords="1141,229,1209,256"/>
+</map>

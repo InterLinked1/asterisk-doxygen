@@ -1,0 +1,16 @@
+<map id="smdi.h" name="smdi.h">
+<area shape="rect" id="node3" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="652,304,715,331"/>
+<area shape="rect" id="node9" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="510,80,636,107"/>
+<area shape="rect" id="node18" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="661,80,797,107"/>
+<area shape="rect" id="node19" href="$df/d3c/optional__api_8h.html" title="Optional API function macros. " alt="" coords="977,80,1142,107"/>
+<area shape="rect" id="node4" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="486,379,641,405"/>
+<area shape="rect" id="node8" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="178,379,325,405"/>
+<area shape="rect" id="node5" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="490,453,637,480"/>
+<area shape="rect" id="node10" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="516,155,630,181"/>
+<area shape="rect" id="node11" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="52,229,190,256"/>
+<area shape="rect" id="node13" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="362,229,475,256"/>
+<area shape="rect" id="node14" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="258,304,384,331"/>
+<area shape="rect" id="node15" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="500,229,646,256"/>
+<area shape="rect" id="node16" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="37,304,194,331"/>
+<area shape="rect" id="node17" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="721,229,852,256"/>
+</map>

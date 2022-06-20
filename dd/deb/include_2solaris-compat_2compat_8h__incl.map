@@ -1,0 +1,15 @@
+<map id="compat.h" name="compat.h">
+<area shape="rect" id="node3" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="623,80,701,107"/>
+<area shape="rect" id="node6" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="531,229,646,256"/>
+<area shape="rect" id="node18" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="434,155,613,181"/>
+<area shape="rect" id="node19" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="712,155,847,181"/>
+<area shape="rect" id="node7" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1043,304,1182,331"/>
+<area shape="rect" id="node9" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="441,379,504,405"/>
+<area shape="rect" id="node13" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="800,304,913,331"/>
+<area shape="rect" id="node15" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="711,379,837,405"/>
+<area shape="rect" id="node16" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="629,304,775,331"/>
+<area shape="rect" id="node17" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="529,379,686,405"/>
+<area shape="rect" id="node11" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="534,453,681,480"/>
+<area shape="rect" id="node20" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="128,229,265,256"/>
+<area shape="rect" id="node21" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="671,229,821,256"/>
+</map>

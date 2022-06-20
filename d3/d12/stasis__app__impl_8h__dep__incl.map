@@ -1,0 +1,15 @@
+<map id="stasis_app_impl.h" name="stasis_app_impl.h">
+<area shape="rect" id="node2" href="$d1/d25/app__stasis_8c.html" title="Stasis dialplan application. " alt="" coords="5,80,107,107"/>
+<area shape="rect" id="node3" href="$db/d0b/resource__bridges_8c.html" title="Implementation for ARI stubs. " alt="" coords="131,80,274,107"/>
+<area shape="rect" id="node4" href="$d2/d80/res__stasis_8c.html" title="Stasis application support. " alt="" coords="298,80,395,107"/>
+<area shape="rect" id="node5" href="$d4/d26/res__stasis__answer_8c.html" title="Stasis application control support. " alt="" coords="419,80,567,107"/>
+<area shape="rect" id="node6" href="$dd/d71/res__stasis__device__state_8c.html" title="res_stasis_device_state.c" alt="" coords="591,80,777,107"/>
+<area shape="rect" id="node7" href="$d5/daa/res__stasis__mailbox_8c.html" title="res_stasis_mailbox.c" alt="" coords="801,80,956,107"/>
+<area shape="rect" id="node8" href="$d7/de1/res__stasis__playback_8c.html" title="res_stasis playback support. " alt="" coords="980,80,1140,107"/>
+<area shape="rect" id="node9" href="$d8/d4c/res__stasis__recording_8c.html" title="res_stasis recording support. " alt="" coords="1165,80,1329,107"/>
+<area shape="rect" id="node10" href="$dd/da3/res__stasis__snoop_8c.html" title="Stasis application snoop control support. " alt="" coords="1353,80,1495,107"/>
+<area shape="rect" id="node11" href="$d0/d09/command_8h.html" title="Internal API for the Stasis application commands. " alt="" coords="1583,80,1681,107"/>
+<area shape="rect" id="node12" href="$d5/d2e/command_8c.html" title="Stasis application command support. " alt="" coords="1477,155,1576,181"/>
+<area shape="rect" id="node13" href="$de/de3/control_8c.html" title="Stasis application control support. " alt="" coords="1600,155,1677,181"/>
+<area shape="rect" id="node14" href="$d9/de0/stasis__bridge_8c.html" title="Stasis bridge subclass. " alt="" coords="1701,155,1819,181"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="parking_manager.c" name="parking_manager.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="445,80,529,107"/>
+<area shape="rect" id="node22" href="$d3/d38/res__parking_8h.html" title="Call Parking Resource Internal API. " alt="" coords="1417,80,1525,107"/>
+<area shape="rect" id="node25" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="901,752,1036,779"/>
+<area shape="rect" id="node28" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="873,528,1000,555"/>
+<area shape="rect" id="node29" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1295,603,1410,629"/>
+<area shape="rect" id="node37" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="1414,229,1542,256"/>
+<area shape="rect" id="node45" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="724,453,904,480"/>
+<area shape="rect" id="node47" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1883,229,2019,256"/>
+<area shape="rect" id="node48" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="2265,603,2366,629"/>
+<area shape="rect" id="node49" href="$de/d47/features_8h.html" title="Call Parking and Pickup API Includes code and algorithms from the Zapata library. ..." alt="" coords="1661,155,1802,181"/>
+<area shape="rect" id="node50" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="1965,80,2111,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="494,155,649,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="641,827,779,853"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="335,155,469,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="498,229,645,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="855,901,997,928"/>
+<area shape="rect" id="node23" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="1623,379,1733,405"/>
+<area shape="rect" id="node43" href="$d2/d33/parking_8h.html" title="Call Parking API. " alt="" coords="1299,155,1433,181"/>
+<area shape="rect" id="node44" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="1075,379,1265,405"/>
+<area shape="rect" id="node24" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1177,453,1315,480"/>
+<area shape="rect" id="node27" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="1891,528,2038,555"/>
+<area shape="rect" id="node30" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1054,677,1211,704"/>
+<area shape="rect" id="node32" href="$d7/d00/sched_8h.html" title="Scheduler Routines (derived from cheops) " alt="" coords="1441,453,1568,480"/>
+<area shape="rect" id="node33" href="$da/da2/devicestate_8h.html" title="Device state management. " alt="" coords="1390,528,1553,555"/>
+<area shape="rect" id="node34" href="$d6/dd7/presencestate_8h.html" title="Presence state management. " alt="" coords="1592,453,1772,480"/>
+<area shape="rect" id="node35" href="$d6/da0/hashtab_8h.html" title="Generic (perhaps overly so) hashtable implementation Hash Table support in Asterisk. " alt="" coords="1796,453,1936,480"/>
+<area shape="rect" id="node36" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="1559,603,1693,629"/>
+<area shape="rect" id="node26" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1961,827,2112,853"/>
+<area shape="rect" id="node31" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1390,677,1521,704"/>
+<area shape="rect" id="node38" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="1289,379,1477,405"/>
+<area shape="rect" id="node39" href="$de/d41/bridge__channel_8h.html" title="asterisk/bridge_channel.h" alt="" coords="1076,304,1261,331"/>
+<area shape="rect" id="node40" href="$dd/dff/bridge__roles_8h.html" title="Channel Bridging Roles API. " alt="" coords="2017,752,2184,779"/>
+<area shape="rect" id="node41" href="$d3/d08/dsp_8h.html" title="Convenient Signal Processing routines. " alt="" coords="1285,304,1396,331"/>
+<area shape="rect" id="node42" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="1421,304,1535,331"/>
+</map>

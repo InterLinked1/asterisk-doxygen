@@ -1,0 +1,51 @@
+<map id="plc.h" name="plc.h">
+<area shape="rect" id="node2" href="$db/d39/translate_8h.html" title="Support for translation of data formats. translate.c. " alt="" coords="3166,80,3257,107"/>
+<area shape="rect" id="node50" href="$d7/d1f/plc_8c.html" title="SpanDSP &#45; a series of DSP components for telephony. " alt="" coords="3281,80,3331,107"/>
+<area shape="rect" id="node3" href="$dc/d5c/app__alarmreceiver_8c.html" title="Central Station Alarm receiver for Ademco Contact ID. " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$dc/d04/app__chanspy_8c.html" title="ChanSpy: Listen in on any channel. " alt="" coords="181,155,295,181"/>
+<area shape="rect" id="node5" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="320,155,407,181"/>
+<area shape="rect" id="node6" href="$d4/d7e/app__disa_8c.html" title="DISA – Direct Inward System Access Application. " alt="" coords="431,155,522,181"/>
+<area shape="rect" id="node7" href="$d2/ddd/app__dumpchan_8c.html" title="Application to dump channel variables. " alt="" coords="547,155,679,181"/>
+<area shape="rect" id="node8" href="$d0/dd8/app__flash_8c.html" title="App to flash a DAHDI trunk. " alt="" coords="703,155,797,181"/>
+<area shape="rect" id="node9" href="$dd/d55/app__followme_8c.html" title="Find&#45;Me Follow&#45;Me application. " alt="" coords="822,155,942,181"/>
+<area shape="rect" id="node10" href="$da/d8a/app__ices_8c.html" title="Stream to an icecast server via ICES (see contrib/asterisk&#45;ices.xml) " alt="" coords="967,155,1056,181"/>
+<area shape="rect" id="node11" href="$df/d44/app__meetme_8c.html" title="Meet me conference bridge and Shared Line Appearances. " alt="" coords="1080,155,1199,181"/>
+<area shape="rect" id="node12" href="$d1/d9a/app__mp3_8c.html" title="Silly application to play an MP3 file – uses mpg123. " alt="" coords="1223,155,1317,181"/>
+<area shape="rect" id="node13" href="$df/d1d/app__nbscat_8c.html" title="Silly application to play an NBScat file – uses nbscat8k. " alt="" coords="1341,155,1447,181"/>
+<area shape="rect" id="node14" href="$d7/d17/app__privacy_8c.html" title="Block all calls without Caller*ID, require phone # to be entered. " alt="" coords="1471,155,1578,181"/>
+<area shape="rect" id="node15" href="$da/dfb/app__queue_8c.html" title="True call queues with optional send URL on answer. " alt="" coords="1602,155,1706,181"/>
+<area shape="rect" id="node16" href="$d3/dba/app__talkdetect_8c.html" title="Playback a file with audio detect. " alt="" coords="1730,155,1858,181"/>
+<area shape="rect" id="node17" href="$d0/d72/app__zapateller_8c.html" title="Playback the special information tone to get rid of telemarketers. " alt="" coords="1883,155,2009,181"/>
+<area shape="rect" id="node18" href="$d8/df0/bridge__softmix__internal_8h.html" title="Multi&#45;party software based channel mixing (header) " alt="" coords="2033,155,2216,181"/>
+<area shape="rect" id="node19" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="2240,155,2337,181"/>
+<area shape="rect" id="node20" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="2361,155,2472,181"/>
+<area shape="rect" id="node21" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="2496,155,2596,181"/>
+<area shape="rect" id="node22" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="2620,155,2709,181"/>
+<area shape="rect" id="node23" href="$d2/d35/codec__a__mu_8c.html" title="codec_a_mu.c &#45; translate between alaw and ulaw directly " alt="" coords="2734,155,2849,181"/>
+<area shape="rect" id="node24" href="$d0/dd5/codec__adpcm_8c.html" title="codec_adpcm.c &#45; translate between signed linear and Dialogic ADPCM " alt="" coords="2873,155,2995,181"/>
+<area shape="rect" id="node25" href="$d2/d58/codec__alaw_8c.html" title="codec_alaw.c &#45; translate between signed linear and alaw " alt="" coords="3020,155,3125,181"/>
+<area shape="rect" id="node26" href="$dc/d47/codec__codec2_8c.html" title="Translate between signed linear and Codec 2. " alt="" coords="3149,155,3273,181"/>
+<area shape="rect" id="node27" href="$de/d52/codec__dahdi_8c.html" title="Translate between various formats natively through DAHDI transcoding. " alt="" coords="3297,155,3411,181"/>
+<area shape="rect" id="node28" href="$d2/dba/codec__g722_8c.html" title="codec_g722.c &#45; translate between signed linear and ITU G.722&#45;64kbps " alt="" coords="3435,155,3545,181"/>
+<area shape="rect" id="node29" href="$d0/d89/codec__g726_8c.html" title="codec_g726.c &#45; translate between signed linear and ITU G.726&#45;32kbps (both RFC3551 and AAL2 codeword p..." alt="" coords="3569,155,3680,181"/>
+<area shape="rect" id="node30" href="$d0/d10/codec__gsm_8c.html" title="Translate between signed linear and Global System for Mobile Communications (GSM) ..." alt="" coords="3705,155,3811,181"/>
+<area shape="rect" id="node31" href="$dc/d8e/codec__ilbc_8c.html" title="Translate between signed linear and Internet Low Bitrate Codec. " alt="" coords="3835,155,3934,181"/>
+<area shape="rect" id="node32" href="$dd/df9/codec__lpc10_8c.html" title="Translate between signed linear and LPC10 (Linear Predictor Code) " alt="" coords="3958,155,4070,181"/>
+<area shape="rect" id="node33" href="$d0/d66/codec__resample_8c.html" title="Resample slinear audio. " alt="" coords="4094,155,4233,181"/>
+<area shape="rect" id="node34" href="$dc/d23/codec__speex_8c.html" title="Translate between signed linear and Speex (Open Codec) " alt="" coords="4257,155,4373,181"/>
+<area shape="rect" id="node35" href="$db/d2a/codec__ulaw_8c.html" title="codec_ulaw.c &#45; translate between signed linear and ulaw " alt="" coords="4397,155,4503,181"/>
+<area shape="rect" id="node36" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="4526,155,4609,181"/>
+<area shape="rect" id="node37" href="$d9/d4f/audiohook_8c.html" title="Audiohooks Architecture. " alt="" coords="4633,155,4731,181"/>
+<area shape="rect" id="node38" href="$d5/d66/autoservice_8c.html" title="Automatic channel service routines. " alt="" coords="4755,155,4862,181"/>
+<area shape="rect" id="node39" href="$d4/d28/channel_8c.html" title="Channel Management. " alt="" coords="4886,155,4969,181"/>
+<area shape="rect" id="node40" href="$df/dd3/main_2cli_8c.html" title="Standard Command Line Interface. " alt="" coords="4993,155,5040,181"/>
+<area shape="rect" id="node41" href="$de/d47/core__local_8c.html" title="Local proxy channel driver. " alt="" coords="5064,155,5161,181"/>
+<area shape="rect" id="node42" href="$d5/d92/features_8c.html" title="Routines implementing call features as call pickup, parking and transfer. " alt="" coords="5185,155,5272,181"/>
+<area shape="rect" id="node43" href="$d6/d13/file_8c.html" title="Generic File Format Support. " alt="" coords="5297,155,5347,181"/>
+<area shape="rect" id="node44" href="$df/d55/main_2frame_8c.html" title="Frame and codec manipulation routines. " alt="" coords="5372,155,5443,181"/>
+<area shape="rect" id="node45" href="$d3/d10/image_8c.html" title="Image Management. " alt="" coords="5467,155,5540,181"/>
+<area shape="rect" id="node46" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="5565,155,5655,181"/>
+<area shape="rect" id="node47" href="$da/dbe/rtp__engine_8c.html" title="Pluggable RTP Architecture. " alt="" coords="5679,155,5781,181"/>
+<area shape="rect" id="node48" href="$df/dcf/slinfactory_8c.html" title="A machine to gather up arbitrary frames and convert them to raw slinear on demand. " alt="" coords="5805,155,5901,181"/>
+<area shape="rect" id="node49" href="$dc/d2b/stasis__channels_8c.html" title="Stasis Messages and Data Types for Channel Objects. " alt="" coords="5925,155,6060,181"/>
+</map>

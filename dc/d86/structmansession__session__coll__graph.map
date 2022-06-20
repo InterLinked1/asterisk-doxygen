@@ -1,0 +1,18 @@
+<map id="mansession_session" name="mansession_session">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="587,127,700,153"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1167,108,1344,135"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="872,100,1024,127"/>
+<area shape="rect" id="node5" href="$d9/d94/structeventqent.html" title="eventqent" alt="" coords="600,243,687,269"/>
+<area shape="rect" id="node6" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="583,293,703,320"/>
+<area shape="rect" id="node7" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="263,223,413,249"/>
+<area shape="rect" id="node8" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="281,273,395,300"/>
+<area shape="rect" id="node9" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="45,259,107,285"/>
+<area shape="rect" id="node10" href="$d4/d88/structmansession__session_1_1mansession__datastores.html" title="mansession_datastores" alt="" coords="556,344,731,371"/>
+<area shape="rect" id="node11" href="$d4/d5d/structast__datastore.html" title="Structure for a data store object. " alt="" coords="283,363,393,389"/>
+<area shape="rect" id="node12" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="27,363,125,389"/>
+<area shape="rect" id="node13" href="$d9/dfb/structast__datastore__info.html" title="Structure for a data store type. " alt="" coords="5,413,147,440"/>
+<area shape="rect" id="node14" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="594,433,693,460"/>
+<area shape="rect" id="node15" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="283,452,393,479"/>
+<area shape="rect" id="node16" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="590,484,697,511"/>
+<area shape="rect" id="node17" href="$de/d03/structast__iostream.html" title="ast_iostream" alt="" coords="590,535,697,561"/>
+</map>

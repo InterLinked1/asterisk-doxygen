@@ -1,0 +1,12 @@
+<map id="astobj2.h" name="astobj2.h">
+<area shape="rect" id="node2" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="1509,155,1646,181"/>
+<area shape="rect" id="node18" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="482,155,596,181"/>
+<area shape="rect" id="node23" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="352,304,499,331"/>
+<area shape="rect" id="node29" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="520,80,670,107"/>
+<area shape="rect" id="node3" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="833,229,976,256"/>
+<area shape="rect" id="node20" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="638,229,701,256"/>
+<area shape="rect" id="node26" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="464,229,614,256"/>
+<area shape="rect" id="node27" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="24,229,150,256"/>
+<area shape="rect" id="node21" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="291,379,446,405"/>
+<area shape="rect" id="node28" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="106,304,241,331"/>
+</map>

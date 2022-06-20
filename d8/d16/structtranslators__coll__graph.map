@@ -1,0 +1,12 @@
+<map id="translators" name="translators">
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="19,321,139,348"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="155,231,305,257"/>
+<area shape="rect" id="node11" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="164,321,283,348"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="5,231,119,257"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="31,97,93,124"/>
+<area shape="rect" id="node6" href="$d9/d15/structtranslator.html" title="translator" alt="" coords="307,321,391,348"/>
+<area shape="rect" id="node7" href="$db/d29/structast__translator.html" title="Descriptor of a translator. " alt="" coords="400,231,511,257"/>
+<area shape="rect" id="node8" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="368,7,465,33"/>
+<area shape="rect" id="node10" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="580,97,667,124"/>
+<area shape="rect" id="node9" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="412,97,499,124"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ast_sip_auth" name="ast_sip_auth">
+<area shape="rect" id="node2" href="$db/da2/structast__sorcery__object__details.html" title="Structure which contains details about a sorcery object. " alt="" coords="5,184,148,225"/>
+<area shape="rect" id="node3" href="$de/da7/structast__sorcery__object.html" title="Structure for internal sorcery object information. " alt="" coords="5,95,148,121"/>
+<area shape="rect" id="node4" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="27,5,126,32"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="213,95,365,121"/>
+<area shape="rect" id="node6" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="333,191,484,218"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sla_failed_station" name="sla_failed_station">
+<area shape="rect" id="node2" href="$dd/d95/structsla__station.html" title="sla_station" alt="" coords="72,199,163,225"/>
+<area shape="rect" id="node3" href="$db/db7/structast__dial.html" title="Main dialing structure. Contains global options, channels being dialed, and more! ..." alt="" coords="82,109,153,136"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node5" href="$d3/d1a/structast__dial__channel.html" title="Dialing channel structure. Contains per&#45;channel dialing options, asterisk channel, and more! " alt="" coords="149,5,277,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="cache_dump_data" name="cache_dump_data">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="236,184,349,211"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="140,424,317,451"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="152,282,304,309"/>
+<area shape="rect" id="node5" href="$d0/d86/structast__eid.html" title="An Entity ID is essentially a MAC address, brief and unique. " alt="" coords="462,184,530,211"/>
+<area shape="rect" id="node6" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="555,184,715,211"/>
+<area shape="rect" id="node7" href="$dd/d3e/structstasis__message__vtable.html" title="Virtual table providing methods for messages. " alt="" coords="550,95,720,121"/>
+<area shape="rect" id="node8" href="$d5/d78/structast__event.html" title="An event. " alt="" coords="488,5,574,32"/>
+<area shape="rect" id="node9" href="$d1/da1/structast__json.html" title="Abstract JSON element (object, array, string, int, ...). " alt="" coords="598,5,672,32"/>
+<area shape="rect" id="node10" href="$dd/d96/structast__manager__event__blob.html" title="Struct containing info for an AMI event to send out. " alt="" coords="696,5,880,32"/>
+</map>

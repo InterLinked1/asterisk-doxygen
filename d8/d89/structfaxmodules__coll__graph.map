@@ -1,0 +1,7 @@
+<map id="faxmodules" name="faxmodules">
+<area shape="rect" id="node2" href="$d9/d07/structfax__module.html" title="registered FAX technology modules are put into this list " alt="" coords="69,187,165,213"/>
+<area shape="rect" id="node3" href="$d9/d0e/structast__fax__tech.html" title="used to register a FAX technology module with res_fax " alt="" coords="65,97,168,124"/>
+<area shape="rect" id="node4" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="5,7,103,33"/>
+<area shape="rect" id="node5" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="179,7,265,33"/>
+<area shape="rect" id="node6" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="189,187,308,213"/>
+</map>

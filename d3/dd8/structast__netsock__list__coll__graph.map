@@ -1,0 +1,4 @@
+<map id="ast_netsock_list" name="ast_netsock_list">
+<area shape="rect" id="node2" href="$d5/d55/structio__context.html" title="Global IO variables are now in a struct in order to be made threadsafe. " alt="" coords="23,95,111,121"/>
+<area shape="rect" id="node3" href="$da/d54/structio__rec.html" title="Kept for each file descriptor. " alt="" coords="37,5,97,32"/>
+</map>

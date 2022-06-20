@@ -1,0 +1,6 @@
+<map id="sem.h" name="sem.h">
+<area shape="rect" id="node2" href="$d0/d81/func__presencestate_8c.html" title="Custom presence provider. " alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$d3/d32/bridge__channel_8c.html" title="Bridging Channel API. " alt="" coords="189,80,319,107"/>
+<area shape="rect" id="node4" href="$d2/d0b/sem_8c.html" title="Asterisk semaphore support. " alt="" coords="343,80,405,107"/>
+<area shape="rect" id="node5" href="$d4/deb/taskprocessor_8c.html" title="Maintain a container of uniquely&#45;named taskprocessor threads that can be shared across modules..." alt="" coords="429,80,551,107"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="adsi.h" name="adsi.h">
+<area shape="rect" id="node2" href="$db/d62/app__adsiprog_8c.html" title="Program Asterisk ADSI Scripts into phone. " alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$dc/d7b/app__getcpeid_8c.html" title="Get ADSI CPE ID. " alt="" coords="148,80,267,107"/>
+<area shape="rect" id="node4" href="$dc/df4/app__voicemail_8c.html" title="Comedian Mail &#45; Voicemail System. " alt="" coords="291,80,415,107"/>
+<area shape="rect" id="node5" href="$d1/d97/chan__dahdi_8c.html" title="DAHDI for Pseudo TDM. " alt="" coords="439,80,546,107"/>
+<area shape="rect" id="node6" href="$de/d78/adsi_8c.html" title="ADSI Support (built upon Caller*ID) " alt="" coords="570,80,629,107"/>
+<area shape="rect" id="node7" href="$dd/d27/res__adsi_8c.html" title="ADSI support. " alt="" coords="653,80,740,107"/>
+<area shape="rect" id="node8" href="$d9/dbe/test__utils_8c.html" title="Unit Tests for utils API. " alt="" coords="765,80,855,107"/>
+</map>

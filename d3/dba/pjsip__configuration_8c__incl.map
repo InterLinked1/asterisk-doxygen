@@ -1,0 +1,43 @@
+<map id="pjsip_configuration.c" name="pjsip_configuration.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="209,80,293,107"/>
+<area shape="rect" id="node10" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="1716,80,1860,107"/>
+<area shape="rect" id="node23" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1111,617,1246,644"/>
+<area shape="rect" id="node24" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="785,468,900,495"/>
+<area shape="rect" id="node28" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1455,311,1580,338"/>
+<area shape="rect" id="node29" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="1554,393,1699,420"/>
+<area shape="rect" id="node32" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="804,155,937,181"/>
+<area shape="rect" id="node40" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="1199,155,1334,181"/>
+<area shape="rect" id="node41" href="$d7/d5c/res__pjsip__private_8h.html" title="include/res_pjsip_private.h" alt="" coords="446,311,637,338"/>
+<area shape="rect" id="node43" href="$d1/d9f/res__pjsip__cli_8h.html" title="asterisk/res_pjsip\l_cli.h" alt="" coords="926,304,1058,345"/>
+<area shape="rect" id="node45" href="$d5/d59/acl_8h.html" title="Access Control of various sorts. " alt="" coords="2825,155,2932,181"/>
+<area shape="rect" id="node46" href="$de/d47/callerid_8h.html" title="CallerID (and other GR30) management and generation Includes code and algorithms from the Zapata libr..." alt="" coords="2097,80,2231,107"/>
+<area shape="rect" id="node47" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="861,393,974,420"/>
+<area shape="rect" id="node48" href="$d4/d67/statsd_8h.html" title="asterisk/statsd.h" alt="" coords="2255,80,2383,107"/>
+<area shape="rect" id="node49" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="1013,155,1123,181"/>
+<area shape="rect" id="node50" href="$d0/d29/include_2asterisk_2security__events_8h.html" title="Security Event Reporting API. " alt="" coords="2407,80,2595,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node4" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="771,692,909,719"/>
+<area shape="rect" id="node7" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="235,155,370,181"/>
+<area shape="rect" id="node15" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1321,543,1479,569"/>
+<area shape="rect" id="node17" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1706,617,1833,644"/>
+<area shape="rect" id="node20" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2481,311,2628,338"/>
+<area shape="rect" id="node21" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1809,692,1959,719"/>
+<area shape="rect" id="node22" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1775,229,1913,256"/>
+<area shape="rect" id="node31" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1605,311,1755,338"/>
+<area shape="rect" id="node34" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="2592,229,2728,256"/>
+<area shape="rect" id="node35" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="1927,155,2047,181"/>
+<area shape="rect" id="node37" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="1938,229,2094,256"/>
+<area shape="rect" id="node38" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="1460,155,1649,181"/>
+<area shape="rect" id="node39" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1505,229,1700,256"/>
+<area shape="rect" id="node16" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1261,841,1408,868"/>
+<area shape="rect" id="node18" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1611,767,1725,793"/>
+<area shape="rect" id="node19" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1605,841,1731,868"/>
+<area shape="rect" id="node27" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="1706,468,1857,495"/>
+<area shape="rect" id="node25" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1921,543,2060,569"/>
+<area shape="rect" id="node26" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1111,543,1241,569"/>
+<area shape="rect" id="node30" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="1151,468,1286,495"/>
+<area shape="rect" id="node33" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="657,393,837,420"/>
+<area shape="rect" id="node36" href="$dc/dac/io_8h.html" title="I/O Management (derived from Cheops&#45;NG) " alt="" coords="2419,229,2517,256"/>
+<area shape="rect" id="node42" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="445,393,581,420"/>
+<area shape="rect" id="node44" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="975,468,1076,495"/>
+</map>

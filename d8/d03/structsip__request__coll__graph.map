@@ -1,0 +1,11 @@
+<map id="sip_request" name="sip_request">
+<area shape="rect" id="node2" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="544,124,611,151"/>
+<area shape="rect" id="node5" href="$d6/d49/structast__tcptls__session__instance.html" title="describes a server instance " alt="" coords="308,213,447,255"/>
+<area shape="rect" id="node10" href="$d7/de7/structwebsocket__client.html" title="websocket_client" alt="" coords="217,317,348,344"/>
+<area shape="rect" id="node3" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="507,5,647,32"/>
+<area shape="rect" id="node4" href="$d5/da7/structsip__socket.html" title="The SIP socket definition. " alt="" coords="507,511,597,537"/>
+<area shape="rect" id="node6" href="$da/d2b/structast__tcptls__session__args.html" title="arguments for the accepting thread " alt="" coords="187,124,362,151"/>
+<area shape="rect" id="node7" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="221,5,328,32"/>
+<area shape="rect" id="node9" href="$db/db6/structast__websocket.html" title="Structure definition for session. " alt="" coords="134,421,250,448"/>
+<area shape="rect" id="node8" href="$de/d03/structast__iostream.html" title="ast_iostream" alt="" coords="56,124,163,151"/>
+</map>

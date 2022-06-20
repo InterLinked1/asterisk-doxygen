@@ -1,0 +1,6 @@
+<map id="ast_rtp_mime_type" name="ast_rtp_mime_type">
+<area shape="rect" id="node2" href="$dd/de9/structast__rtp__payload__type.html" title="ast_rtp_payload_type" alt="" coords="5,213,164,240"/>
+<area shape="rect" id="node3" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="117,95,209,121"/>
+<area shape="rect" id="node4" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="229,213,383,240"/>
+<area shape="rect" id="node5" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="120,5,207,32"/>
+</map>

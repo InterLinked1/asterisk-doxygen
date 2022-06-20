@@ -1,0 +1,31 @@
+<map id="res_prometheus.c" name="res_prometheus.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="929,319,1013,345"/>
+<area shape="rect" id="node22" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1704,169,1840,196"/>
+<area shape="rect" id="node33" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2035,468,2162,495"/>
+<area shape="rect" id="node37" href="$dd/d56/http_8h.html" title="Support for Private Asterisk HTTP Servers. " alt="" coords="2240,87,2355,114"/>
+<area shape="rect" id="node42" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="1582,87,1762,114"/>
+<area shape="rect" id="node44" href="$d5/db9/ast__version_8h.html" title="Asterisk version information. " alt="" coords="1889,87,2050,114"/>
+<area shape="rect" id="node45" href="$de/d35/buildinfo_8h.html" title="asterisk/buildinfo.h" alt="" coords="2075,87,2216,114"/>
+<area shape="rect" id="node46" href="$d0/db1/res__prometheus_8h.html" title="asterisk/res_prometheus.h" alt="" coords="1447,319,1641,345"/>
+<area shape="rect" id="node47" href="$d0/d89/prometheus__internal_8h.html" title="prometheus/prometheus\l_internal.h" alt="" coords="2379,80,2562,121"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="519,692,673,719"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="715,468,853,495"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="903,393,1038,420"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="523,767,669,793"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1363,617,1506,644"/>
+<area shape="rect" id="node23" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1887,244,2001,271"/>
+<area shape="rect" id="node24" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1716,319,1855,345"/>
+<area shape="rect" id="node25" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1530,617,1593,644"/>
+<area shape="rect" id="node27" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1677,543,1790,569"/>
+<area shape="rect" id="node30" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1919,617,2046,644"/>
+<area shape="rect" id="node31" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1879,319,2025,345"/>
+<area shape="rect" id="node32" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2020,393,2177,420"/>
+<area shape="rect" id="node34" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1241,319,1372,345"/>
+<area shape="rect" id="node26" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1660,692,1807,719"/>
+<area shape="rect" id="node35" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1447,393,1582,420"/>
+<area shape="rect" id="node36" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1658,468,1809,495"/>
+<area shape="rect" id="node38" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="2239,169,2366,196"/>
+<area shape="rect" id="node39" href="$d4/ddf/tcptls_8h.html" title="Generic support for tcp/tls servers in Asterisk. " alt="" coords="2092,169,2215,196"/>
+<area shape="rect" id="node40" href="$dd/d27/iostream_8h.html" title="Generic abstraction for input/output streams. " alt="" coords="1717,244,1862,271"/>
+<area shape="rect" id="node41" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2121,244,2268,271"/>
+</map>

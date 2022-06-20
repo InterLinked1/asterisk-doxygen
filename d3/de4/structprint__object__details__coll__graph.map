@@ -1,0 +1,12 @@
+<map id="print_object_details" name="print_object_details">
+<area shape="rect" id="node2" href="$d3/dad/structast__cli__args.html" title="ast_cli_args" alt="" coords="159,303,256,329"/>
+<area shape="rect" id="node3" href="$d2/d6b/structsorcery__memory__cache.html" title="Structure for storing a memory cache. " alt="" coords="280,303,455,329"/>
+<area shape="rect" id="node4" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="415,95,528,121"/>
+<area shape="rect" id="node5" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="281,213,459,240"/>
+<area shape="rect" id="node11" href="$d2/d88/structast__sorcery.html" title="Full structure for sorcery. " alt="" coords="582,213,678,240"/>
+<area shape="rect" id="node6" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="170,95,290,121"/>
+<area shape="rect" id="node7" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node10" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="27,95,145,121"/>
+<area shape="rect" id="node8" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="191,5,304,32"/>
+<area shape="rect" id="node9" href="$dc/dec/structast__heap.html" title="ast_heap" alt="" coords="76,213,157,240"/>
+</map>

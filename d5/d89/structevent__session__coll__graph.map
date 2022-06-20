@@ -1,0 +1,10 @@
+<map id="event_session" name="event_session">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="237,199,350,225"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="140,439,317,465"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="152,297,304,323"/>
+<area shape="rect" id="node5" href="$d1/dfb/structast__ari__websocket__session.html" title="ast_ari_websocket_session" alt="" coords="439,199,634,225"/>
+<area shape="rect" id="node6" href="$db/db6/structast__websocket.html" title="Structure definition for session. " alt="" coords="478,109,594,136"/>
+<area shape="rect" id="node7" href="$d7/de7/structwebsocket__client.html" title="websocket_client" alt="" coords="328,5,459,32"/>
+<area shape="rect" id="node8" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="483,5,590,32"/>
+<area shape="rect" id="node9" href="$de/d03/structast__iostream.html" title="ast_iostream" alt="" coords="619,5,726,32"/>
+</map>

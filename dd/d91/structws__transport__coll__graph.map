@@ -1,0 +1,9 @@
+<map id="ws_transport" name="ws_transport">
+<area shape="rect" id="node2" href="$db/db6/structast__websocket.html" title="Structure definition for session. " alt="" coords="449,407,565,433"/>
+<area shape="rect" id="node3" href="$d7/de7/structwebsocket__client.html" title="websocket_client" alt="" coords="169,317,300,344"/>
+<area shape="rect" id="node4" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="5,124,72,151"/>
+<area shape="rect" id="node7" href="$d6/d49/structast__tcptls__session__instance.html" title="describes a server instance " alt="" coords="249,213,388,255"/>
+<area shape="rect" id="node5" href="$da/d2b/structast__tcptls__session__args.html" title="arguments for the accepting thread " alt="" coords="97,124,271,151"/>
+<area shape="rect" id="node6" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="267,5,373,32"/>
+<area shape="rect" id="node8" href="$de/d03/structast__iostream.html" title="ast_iostream" alt="" coords="453,124,560,151"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="adsi_script" name="adsi_script">
+<area shape="rect" id="node2" href="$d1/dcb/structadsi__display.html" title="adsi_display" alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node3" href="$d2/d9e/structadsi__flag.html" title="adsi_flag" alt="" coords="129,5,207,32"/>
+<area shape="rect" id="node4" href="$d8/d53/structadsi__soft__key.html" title="adsi_soft_key" alt="" coords="231,5,339,32"/>
+<area shape="rect" id="node5" href="$da/dc2/structadsi__state.html" title="adsi_state" alt="" coords="364,5,452,32"/>
+<area shape="rect" id="node6" href="$d4/d79/structadsi__subscript.html" title="adsi_subscript" alt="" coords="477,5,590,32"/>
+</map>

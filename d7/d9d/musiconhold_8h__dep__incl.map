@@ -1,0 +1,40 @@
+<map id="musiconhold.h" name="musiconhold.h">
+<area shape="rect" id="node2" href="$d3/d45/chan__ooh323_8h.html" title="chan_ooh323.h" alt="" coords="151,87,271,114"/>
+<area shape="rect" id="node6" href="$dc/d22/app__bridgewait_8c.html" title="Application to place the channel into a holding Bridge. " alt="" coords="296,87,425,114"/>
+<area shape="rect" id="node7" href="$d0/dcf/app__confbridge_8c.html" title="Conference Bridge application. " alt="" coords="450,87,581,114"/>
+<area shape="rect" id="node8" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="605,87,692,114"/>
+<area shape="rect" id="node9" href="$dd/d55/app__followme_8c.html" title="Find&#45;Me Follow&#45;Me application. " alt="" coords="717,87,837,114"/>
+<area shape="rect" id="node10" href="$df/d44/app__meetme_8c.html" title="Meet me conference bridge and Shared Line Appearances. " alt="" coords="861,87,980,114"/>
+<area shape="rect" id="node11" href="$da/dfb/app__queue_8c.html" title="True call queues with optional send URL on answer. " alt="" coords="1005,87,1109,114"/>
+<area shape="rect" id="node12" href="$db/da3/conf__state__multi__marked_8c.html" title="Confbridge state handling for the MULTI_MARKED state. " alt="" coords="1133,87,1327,114"/>
+<area shape="rect" id="node13" href="$d2/df4/bridge__builtin__interval__features_8c.html" title="Built in bridging interval features. " alt="" coords="1352,80,1513,121"/>
+<area shape="rect" id="node14" href="$d8/d66/bridge__holding_8c.html" title="Bridging technology for storing channels in a bridge for the purpose of holding, parking, queues, and other such states where a channel may need to be in a bridge but not actually communicating with anything. " alt="" coords="1537,87,1664,114"/>
+<area shape="rect" id="node15" href="$da/d45/chan__alsa_8c.html" title="ALSA sound card channel driver. " alt="" coords="1688,87,1785,114"/>
+<area shape="rect" id="node16" href="$d3/d4e/chan__console_8c.html" title="Cross&#45;platform console channel driver. " alt="" coords="1810,87,1930,114"/>
+<area shape="rect" id="node17" href="$d1/d97/chan__dahdi_8c.html" title="DAHDI for Pseudo TDM. " alt="" coords="1954,87,2061,114"/>
+<area shape="rect" id="node18" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="2085,87,2183,114"/>
+<area shape="rect" id="node19" href="$d0/dd6/chan__mgcp_8c.html" title="Implementation of Media Gateway Control Protocol. " alt="" coords="2207,87,2314,114"/>
+<area shape="rect" id="node20" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="2339,87,2449,114"/>
+<area shape="rect" id="node21" href="$de/da4/chan__motif_8c.html" title="Motif Jingle Channel Driver. " alt="" coords="2473,87,2576,114"/>
+<area shape="rect" id="node22" href="$d3/dac/chan__oss_8c.html" title="Channel driver for OSS sound cards. " alt="" coords="2601,87,2694,114"/>
+<area shape="rect" id="node23" href="$da/dde/chan__phone_8c.html" title="Generic Linux Telephony Interface driver. " alt="" coords="2719,87,2829,114"/>
+<area shape="rect" id="node24" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="2853,87,2953,114"/>
+<area shape="rect" id="node25" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="2977,87,3067,114"/>
+<area shape="rect" id="node26" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="3091,87,3201,114"/>
+<area shape="rect" id="node27" href="$d1/d6d/chan__unistim_8c.html" title="chan_unistim channel driver for Asterisk " alt="" coords="3225,87,3344,114"/>
+<area shape="rect" id="node28" href="$d0/d95/bridge_8c.html" title="Bridging API. " alt="" coords="3368,87,3441,114"/>
+<area shape="rect" id="node29" href="$d3/d32/bridge__channel_8c.html" title="Bridging Channel API. " alt="" coords="3466,87,3597,114"/>
+<area shape="rect" id="node30" href="$d4/d28/channel_8c.html" title="Channel Management. " alt="" coords="3621,87,3703,114"/>
+<area shape="rect" id="node31" href="$df/d2e/core__unreal_8c.html" title="Unreal channel derivatives framework for channel drivers like local channels. " alt="" coords="3728,87,3836,114"/>
+<area shape="rect" id="node32" href="$de/d43/dial_8c.html" title="Dialing API. " alt="" coords="3860,87,3915,114"/>
+<area shape="rect" id="node33" href="$d5/d92/features_8c.html" title="Routines implementing call features as call pickup, parking and transfer. " alt="" coords="3939,87,4025,114"/>
+<area shape="rect" id="node34" href="$db/d94/pbx_8c.html" title="Core PBX routines. " alt="" coords="4050,87,4106,114"/>
+<area shape="rect" id="node35" href="$db/d0b/resource__bridges_8c.html" title="Implementation for ARI stubs. " alt="" coords="4131,87,4273,114"/>
+<area shape="rect" id="node36" href="$dd/de9/res__agi_8c.html" title="AGI &#45; the Asterisk Gateway Interface. " alt="" coords="4297,87,4376,114"/>
+<area shape="rect" id="node37" href="$d3/d97/res__musiconhold_8c.html" title="Routines implementing music on hold. " alt="" coords="4401,87,4542,114"/>
+<area shape="rect" id="node38" href="$d2/d80/res__stasis_8c.html" title="Stasis application support. " alt="" coords="4567,87,4664,114"/>
+<area shape="rect" id="node39" href="$de/de3/control_8c.html" title="Stasis application control support. " alt="" coords="4689,87,4766,114"/>
+<area shape="rect" id="node3" href="$d7/d49/chan__ooh323_8c.html" title="chan_ooh323.c" alt="" coords="5,169,124,196"/>
+<area shape="rect" id="node4" href="$d3/d3d/ooh323cDriver_8h.html" title="ooh323cDriver.h" alt="" coords="148,169,275,196"/>
+<area shape="rect" id="node5" href="$d2/dae/ooh323cDriver_8c.html" title="ooh323cDriver.c" alt="" coords="149,244,274,271"/>
+</map>

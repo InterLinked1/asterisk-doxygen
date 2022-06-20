@@ -1,0 +1,9 @@
+<map id="sla_event" name="sla_event">
+<area shape="rect" id="node2" href="$d5/d5a/structsla__trunk__ref.html" title="A station&#39;s reference to a trunk. " alt="" coords="221,291,325,317"/>
+<area shape="rect" id="node3" href="$d4/dbe/structsla__trunk.html" title="sla_trunk" alt="" coords="333,201,413,228"/>
+<area shape="rect" id="node4" href="$d0/db1/structsla__station__ref.html" title="A reference to a station. " alt="" coords="64,96,179,123"/>
+<area shape="rect" id="node5" href="$dd/d95/structsla__station.html" title="sla_station" alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="396,5,548,32"/>
+<area shape="rect" id="node7" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="260,96,359,123"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="609,96,759,123"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="http_websocket.h" name="http_websocket.h">
+<area shape="rect" id="node2" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="5,87,95,114"/>
+<area shape="rect" id="node3" href="$d8/d44/ari__websockets_8c.html" title="WebSocket support for RESTful API&#39;s. " alt="" coords="119,87,250,114"/>
+<area shape="rect" id="node4" href="$dc/dec/res_2ari_2config_8c.html" title="Config framework stuffz for ARI. " alt="" coords="275,87,345,114"/>
+<area shape="rect" id="node5" href="$dd/df4/resource__events_8c.html" title="/api&#45;docs/events.{format} implementation&#45; WebSocket resource " alt="" coords="370,87,509,114"/>
+<area shape="rect" id="node6" href="$d6/d87/res__ari__events_8c.html" title="WebSocket resource. " alt="" coords="533,87,660,114"/>
+<area shape="rect" id="node7" href="$de/d4c/res__http__websocket_8c.html" title="WebSocket support for the Asterisk internal HTTP server. " alt="" coords="685,87,845,114"/>
+<area shape="rect" id="node8" href="$d3/d17/config__transport_8c.html" title="config_transport.c" alt="" coords="869,87,1007,114"/>
+<area shape="rect" id="node9" href="$d2/db8/res__pjsip__transport__websocket_8c.html" title="res_pjsip_transport\l_websocket.c" alt="" coords="1031,80,1175,121"/>
+<area shape="rect" id="node10" href="$de/de9/test__websocket__client_8c.html" title="Websocket Client Unit Tests. " alt="" coords="1199,87,1373,114"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="stream.h" name="stream.h">
+<area shape="rect" id="node2" href="$d0/dcf/app__confbridge_8c.html" title="Conference Bridge application. " alt="" coords="1421,80,1551,107"/>
+<area shape="rect" id="node3" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="1576,80,1663,107"/>
+<area shape="rect" id="node4" href="$d0/d78/app__stream__echo_8c.html" title="Stream echo application. " alt="" coords="1687,80,1835,107"/>
+<area shape="rect" id="node5" href="$dd/d92/confbridge__manager_8c.html" title="Confbridge manager events for stasis messages. " alt="" coords="1859,80,2023,107"/>
+<area shape="rect" id="node6" href="$d1/d27/bridge__native__rtp_8c.html" title="Native RTP bridging technology module. " alt="" coords="2047,80,2191,107"/>
+<area shape="rect" id="node7" href="$da/daf/bridge__simple_8c.html" title="Simple two channel bridging module. " alt="" coords="2215,80,2338,107"/>
+<area shape="rect" id="node8" href="$db/d4e/bridge__softmix_8c.html" title="Multi&#45;party software based channel mixing. " alt="" coords="2363,80,2489,107"/>
+<area shape="rect" id="node9" href="$d8/d8c/res__pjsip_8h.html" title="res_pjsip.h" alt="" coords="2666,80,2757,107"/>
+<area shape="rect" id="node10" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="5,155,105,181"/>
+<area shape="rect" id="node12" href="$de/dfc/pjsip_2dialplan__functions_8c.html" title="PJSIP channel dialplan functions. " alt="" coords="130,155,277,181"/>
+<area shape="rect" id="node25" href="$dc/df6/pjsip__configuration_8c.html" title="pjsip_configuration.c" alt="" coords="301,155,453,181"/>
+<area shape="rect" id="node38" href="$d5/d82/res__pjsip__sdp__rtp_8c.html" title="SIP SDP media stream handling. " alt="" coords="4491,155,4635,181"/>
+<area shape="rect" id="node39" href="$dc/d13/pjsip__session__caps_8c.html" title="pjsip_session_caps.c" alt="" coords="4659,155,4814,181"/>
+<area shape="rect" id="node40" href="$d4/d92/res__pjsip__session_8c.html" title="res_pjsip_session.c" alt="" coords="4838,155,4982,181"/>
+<area shape="rect" id="node41" href="$dc/d80/res__pjsip__t38_8c.html" title="SIP T.38 handling. " alt="" coords="5006,155,5123,181"/>
+<area shape="rect" id="node42" href="$d3/d32/bridge__channel_8c.html" title="Bridging Channel API. " alt="" coords="2983,80,3114,107"/>
+<area shape="rect" id="node43" href="$d4/d28/channel_8c.html" title="Channel Management. " alt="" coords="3138,80,3221,107"/>
+<area shape="rect" id="node44" href="$db/de2/channel__internal__api_8c.html" title="Channel Accessor API. " alt="" coords="3245,80,3409,107"/>
+<area shape="rect" id="node45" href="$df/dd3/main_2cli_8c.html" title="Standard Command Line Interface. " alt="" coords="3433,80,3480,107"/>
+<area shape="rect" id="node46" href="$de/d47/core__local_8c.html" title="Local proxy channel driver. " alt="" coords="3504,80,3601,107"/>
+<area shape="rect" id="node47" href="$df/d2e/core__unreal_8c.html" title="Unreal channel derivatives framework for channel drivers like local channels. " alt="" coords="3625,80,3733,107"/>
+<area shape="rect" id="node48" href="$d5/d92/features_8c.html" title="Routines implementing call features as call pickup, parking and transfer. " alt="" coords="3757,80,3844,107"/>
+<area shape="rect" id="node49" href="$d8/d4d/stream_8c.html" title="Media Stream API. " alt="" coords="3868,80,3947,107"/>
+<area shape="rect" id="node50" href="$dd/d49/test__stream_8c.html" title="Media Stream API Unit Tests. " alt="" coords="3971,80,4081,107"/>
+<area shape="rect" id="node11" href="$d9/d6d/cli__commands_8c.html" title="PJSIP channel CLI functions. " alt="" coords="1135,155,1261,181"/>
+<area shape="rect" id="node13" href="$dd/d92/func__pjsip__aor_8c.html" title="Get information about a PJSIP AOR. " alt="" coords="1285,155,1407,181"/>
+<area shape="rect" id="node14" href="$de/d6a/func__pjsip__contact_8c.html" title="Get information about a PJSIP contact. " alt="" coords="1432,155,1583,181"/>
+<area shape="rect" id="node15" href="$d0/d7b/func__pjsip__endpoint_8c.html" title="Get information about a PJSIP endpoint. " alt="" coords="1607,155,1765,181"/>
+<area shape="rect" id="node16" href="$d6/d5d/pjsip__outbound__registrations_8c.html" title="Prometheus PJSIP Outbound Registration Metrics. " alt="" coords="1789,155,2007,181"/>
+<area shape="rect" id="node17" href="$d7/da2/res__hep__pjsip_8c.html" title="PJSIP logging with Homer. " alt="" coords="2031,155,2151,181"/>
+<area shape="rect" id="node18" href="$d5/dcb/config__auth_8c.html" title="config_auth.c" alt="" coords="2175,155,2282,181"/>
+<area shape="rect" id="node19" href="$d9/d9e/config__domain__aliases_8c.html" title="config_domain_aliases.c" alt="" coords="2307,155,2484,181"/>
+<area shape="rect" id="node20" href="$dd/dfd/config__global_8c.html" title="config_global.c" alt="" coords="2508,155,2624,181"/>
+<area shape="rect" id="node21" href="$df/dfd/config__system_8c.html" title="config_system.c" alt="" coords="2649,155,2774,181"/>
+<area shape="rect" id="node22" href="$d3/d17/config__transport_8c.html" title="config_transport.c" alt="" coords="2799,155,2936,181"/>
+<area shape="rect" id="node23" href="$d0/dad/location_8c.html" title="location.c" alt="" coords="2961,155,3043,181"/>
+<area shape="rect" id="node24" href="$d0/df0/pjsip__cli_8c.html" title="pjsip_cli.c" alt="" coords="3067,155,3150,181"/>
+<area shape="rect" id="node26" href="$d7/dad/pjsip__distributor_8c.html" title="pjsip_distributor.c" alt="" coords="3174,155,3307,181"/>
+<area shape="rect" id="node27" href="$db/d73/pjsip__global__headers_8c.html" title="pjsip_global_headers.c" alt="" coords="3332,155,3499,181"/>
+<area shape="rect" id="node28" href="$d3/d9e/pjsip__message__filter_8c.html" title="pjsip_message_filter.c" alt="" coords="3523,155,3686,181"/>
+<area shape="rect" id="node29" href="$df/dda/pjsip__options_8c.html" title="pjsip_options.c" alt="" coords="3711,155,3827,181"/>
+<area shape="rect" id="node30" href="$d4/d43/pjsip__resolver_8c.html" title="pjsip_resolver.c" alt="" coords="3851,155,3969,181"/>
+<area shape="rect" id="node31" href="$de/dfa/pjsip__scheduler_8c.html" title="res_pjsip Scheduler " alt="" coords="3993,155,4123,181"/>
+<area shape="rect" id="node32" href="$d2/dc0/pjsip__session_8c.html" title="pjsip_session.c" alt="" coords="4147,155,4265,181"/>
+<area shape="rect" id="node33" href="$d1/d94/pjsip__transport__events_8c.html" title="Manages the global transport event notification callbacks. " alt="" coords="4289,155,4467,181"/>
+<area shape="rect" id="node34" href="$da/db9/pjsip__transport__management_8c.html" title="pjsip_transport_management.c" alt="" coords="477,155,700,181"/>
+<area shape="rect" id="node35" href="$d2/d63/res_2res__pjsip_2security__events_8c.html" title="Generate security events in the PJSIP channel. " alt="" coords="725,155,858,181"/>
+<area shape="rect" id="node36" href="$de/d96/res__pjsip_8c.html" title="res_pjsip.c" alt="" coords="883,155,972,181"/>
+<area shape="rect" id="node37" href="$d5/d5e/res__pjsip__acl_8c.html" title="res_pjsip_acl.c" alt="" coords="997,155,1111,181"/>
+</map>

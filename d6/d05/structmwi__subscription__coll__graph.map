@@ -1,0 +1,15 @@
+<map id="mwi_subscription" name="mwi_subscription">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="287,177,400,204"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="905,85,1083,112"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="590,33,742,60"/>
+<area shape="rect" id="node5" href="$db/d02/structast__sip__subscription.html" title="Structure representing a &quot;virtual&quot; SIP subscription. " alt="" coords="591,320,741,347"/>
+<area shape="rect" id="node9" href="$d0/dd7/structsip__subscription__tree.html" title="A tree of SIP subscriptions. " alt="" coords="915,440,1073,467"/>
+<area shape="rect" id="node6" href="$d8/d6c/structast__sip__subscription__handler.html" title="ast_sip_subscription\l_handler" alt="" coords="268,394,419,435"/>
+<area shape="rect" id="node7" href="$d1/d5b/structast__sip__notifier.html" title="ast_sip_notifier" alt="" coords="16,376,135,403"/>
+<area shape="rect" id="node8" href="$db/dd4/structast__sip__subscriber.html" title="ast_sip_subscriber" alt="" coords="5,427,145,453"/>
+<area shape="rect" id="node10" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="274,527,413,553"/>
+<area shape="rect" id="node12" href="$d5/d3b/structast__sip__sched__task.html" title="ast_sip_sched_task" alt="" coords="593,572,739,599"/>
+<area shape="rect" id="node11" href="$d3/d46/structast__sip__endpoint.html" title="An entity with which Asterisk communicates. " alt="" coords="601,471,731,497"/>
+<area shape="rect" id="node13" href="$d9/df9/structsubscription__persistence.html" title="Structure used for persisting an inbound subscription. " alt="" coords="576,521,756,548"/>
+<area shape="rect" id="node14" href="$df/dc3/structast__sip__pubsub__body__generator.html" title="Pubsub body generator. " alt="" coords="264,290,423,331"/>
+</map>

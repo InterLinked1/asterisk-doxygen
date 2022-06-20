@@ -1,0 +1,20 @@
+<map id="extconf.c" name="extconf.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="508,80,592,107"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="682,155,819,181"/>
+<area shape="rect" id="node22" href="$dd/df2/paths_8h.html" title="Asterisk file paths, configured in asterisk.conf. " alt="" coords="2336,155,2460,181"/>
+<area shape="rect" id="node23" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1503,229,1566,256"/>
+<area shape="rect" id="node25" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="2126,304,2273,331"/>
+<area shape="rect" id="node37" href="$d1/d84/endian_8h.html" title="Asterisk architecture endianess compatibility definitions. " alt="" coords="2761,80,2892,107"/>
+<area shape="rect" id="node38" href="$d0/d93/ast__expr_8h.html" title="asterisk/ast_expr.h" alt="" coords="2916,80,3059,107"/>
+<area shape="rect" id="node39" href="$dd/ddb/extconf_8h.html" title="External configuration handlers (realtime and static configuration) " alt="" coords="3083,80,3218,107"/>
+<area shape="rect" id="node40" href="$d6/da0/hashtab_8h.html" title="Generic (perhaps overly so) hashtable implementation Hash Table support in Asterisk. " alt="" coords="1458,80,1598,107"/>
+<area shape="rect" id="node45" href="$d7/d07/ael__structs_8h.html" title="Structures for AEL &#45; the Asterisk extension language. " alt="" coords="2483,80,2642,107"/>
+<area shape="rect" id="node46" href="$db/db9/pval_8h.html" title="pval.h" alt="" coords="2870,155,2930,181"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="588,304,742,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="471,155,606,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="592,379,738,405"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1336,229,1479,256"/>
+<area shape="rect" id="node41" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1691,155,1804,181"/>
+<area shape="rect" id="node43" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="2011,229,2162,256"/>
+<area shape="rect" id="node44" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1750,229,1876,256"/>
+</map>

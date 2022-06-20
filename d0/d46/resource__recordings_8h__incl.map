@@ -1,0 +1,9 @@
+<map id="resource_recordings.h" name="resource_recordings.h">
+<area shape="rect" id="node2" href="$d4/d59/ari_8h.html" title="Asterisk RESTful API hooks. " alt="" coords="302,80,406,107"/>
+<area shape="rect" id="node3" href="$dd/d56/http_8h.html" title="Support for Private Asterisk HTTP Servers. " alt="" coords="194,155,309,181"/>
+<area shape="rect" id="node8" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="401,155,515,181"/>
+<area shape="rect" id="node4" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="5,229,132,256"/>
+<area shape="rect" id="node5" href="$d4/ddf/tcptls_8h.html" title="Generic support for tcp/tls servers in Asterisk. " alt="" coords="157,229,279,256"/>
+<area shape="rect" id="node7" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="304,229,455,256"/>
+<area shape="rect" id="node6" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="282,304,429,331"/>
+</map>

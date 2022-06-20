@@ -1,0 +1,9 @@
+<map id="ast_channel_monitor" name="ast_channel_monitor">
+<area shape="rect" id="node8" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="191,203,290,229"/>
+<area shape="rect" id="node2" href="$db/dbc/structast__filestream.html" title="This structure is allocated by file.c in one chunk, together with buf_size and desc_size bytes of mem..." alt="" coords="268,308,381,335"/>
+<area shape="rect" id="node3" href="$d0/d57/structast__format__def.html" title="Each supported file format is described by the following structure. " alt="" coords="543,97,661,124"/>
+<area shape="rect" id="node4" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="567,7,664,33"/>
+<area shape="rect" id="node5" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="447,7,539,33"/>
+<area shape="rect" id="node7" href="$d1/d47/structast__trans__pvt.html" title="Default structure for translators, with the basic fields and buffers, all allocated as part of the sa..." alt="" coords="289,97,398,124"/>
+<area shape="rect" id="node6" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="211,7,297,33"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="smdi_msg_datastore" name="smdi_msg_datastore">
+<area shape="rect" id="node2" href="$d4/d84/structast__smdi__md__message.html" title="An SMDI message desk message. " alt="" coords="5,213,180,240"/>
+<area shape="rect" id="node3" href="$d8/d32/structast__smdi__interface.html" title="ast_smdi_interface" alt="" coords="405,213,548,240"/>
+<area shape="rect" id="node4" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="303,95,416,121"/>
+<area shape="rect" id="node5" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="204,213,381,240"/>
+<area shape="rect" id="node6" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="453,95,573,121"/>
+<area shape="rect" id="node7" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="359,5,509,32"/>
+<area shape="rect" id="node8" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="533,5,647,32"/>
+</map>

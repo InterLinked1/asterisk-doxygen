@@ -1,0 +1,25 @@
+<map id="extern.h" name="extern.h">
+<area shape="rect" id="node2" href="$d9/d13/btree_8h.html" title="btree.h" alt="" coords="737,80,805,107"/>
+<area shape="rect" id="node24" href="$d2/d09/recno_2extern_8h.html" title="extern.h" alt="" coords="1095,80,1170,107"/>
+<area shape="rect" id="node3" href="$d2/db6/bt__close_8c.html" title="bt_close.c" alt="" coords="5,155,92,181"/>
+<area shape="rect" id="node4" href="$de/d85/bt__conv_8c.html" title="bt_conv.c" alt="" coords="117,155,199,181"/>
+<area shape="rect" id="node5" href="$d0/d37/bt__delete_8c.html" title="bt_delete.c" alt="" coords="223,155,317,181"/>
+<area shape="rect" id="node6" href="$d9/d48/bt__get_8c.html" title="bt_get.c" alt="" coords="341,155,415,181"/>
+<area shape="rect" id="node7" href="$de/d1e/bt__open_8c.html" title="bt_open.c" alt="" coords="439,155,525,181"/>
+<area shape="rect" id="node8" href="$d6/db4/bt__overflow_8c.html" title="bt_overflow.c" alt="" coords="549,155,653,181"/>
+<area shape="rect" id="node9" href="$d4/de6/bt__page_8c.html" title="bt_page.c" alt="" coords="677,155,762,181"/>
+<area shape="rect" id="node10" href="$d8/d01/bt__put_8c.html" title="bt_put.c" alt="" coords="786,155,861,181"/>
+<area shape="rect" id="node11" href="$de/d41/bt__search_8c.html" title="bt_search.c" alt="" coords="885,155,981,181"/>
+<area shape="rect" id="node12" href="$da/d71/bt__seq_8c.html" title="bt_seq.c" alt="" coords="1005,155,1081,181"/>
+<area shape="rect" id="node13" href="$df/db0/bt__split_8c.html" title="bt_split.c" alt="" coords="1105,155,1184,181"/>
+<area shape="rect" id="node14" href="$d4/d8b/bt__utils_8c.html" title="bt_utils.c" alt="" coords="1208,155,1287,181"/>
+<area shape="rect" id="node15" href="$d6/d0b/recno_8h.html" title="recno.h" alt="" coords="1311,155,1381,181"/>
+<area shape="rect" id="node16" href="$da/dac/rec__close_8c.html" title="rec_close.c" alt="" coords="897,229,990,256"/>
+<area shape="rect" id="node17" href="$d8/d4d/rec__delete_8c.html" title="rec_delete.c" alt="" coords="1015,229,1115,256"/>
+<area shape="rect" id="node18" href="$d8/d89/rec__get_8c.html" title="rec_get.c" alt="" coords="1139,229,1220,256"/>
+<area shape="rect" id="node19" href="$dc/d8a/rec__open_8c.html" title="rec_open.c" alt="" coords="1244,229,1336,256"/>
+<area shape="rect" id="node20" href="$df/d7a/rec__put_8c.html" title="rec_put.c" alt="" coords="1360,229,1441,256"/>
+<area shape="rect" id="node21" href="$d8/dc1/rec__search_8c.html" title="rec_search.c" alt="" coords="1465,229,1568,256"/>
+<area shape="rect" id="node22" href="$dc/d11/rec__seq_8c.html" title="rec_seq.c" alt="" coords="1593,229,1675,256"/>
+<area shape="rect" id="node23" href="$d9/d66/rec__utils_8c.html" title="rec_utils.c" alt="" coords="1700,229,1787,256"/>
+</map>

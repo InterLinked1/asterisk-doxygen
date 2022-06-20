@@ -1,0 +1,5 @@
+<map id="msgsm.h" name="msgsm.h">
+<area shape="rect" id="node2" href="$d0/d10/codec__gsm_8c.html" title="Translate between signed linear and Global System for Mobile Communications (GSM) ..." alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node3" href="$db/dbc/format__gsm_8c.html" title="Save to raw, headerless GSM data. " alt="" coords="137,80,247,107"/>
+<area shape="rect" id="node4" href="$d5/d10/format__wav__gsm_8c.html" title="Save GSM in the proprietary Microsoft format. " alt="" coords="271,80,414,107"/>
+</map>

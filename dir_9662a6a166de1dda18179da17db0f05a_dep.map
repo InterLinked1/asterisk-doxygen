@@ -1,0 +1,20 @@
+<map id="channels" name="channels">
+<area shape="rect" id="node2" href="dir_de3a3c65814ea7ea2fc3050f1deea543.html" title="dahdi" alt="" coords="27,123,99,171"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000031_000035.html" title="1" alt="" coords="114,121,123,136"/>
+<area shape="rect" id="node3" href="dir_52c28db306937e6f9e49b34c2ed61fbb.html" title="iax2" alt="" coords="123,123,195,171"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000031_000032.html" title="20" alt="" coords="205,112,223,127"/>
+<area shape="rect" id="node4" href="dir_62f86ef064dd7cf8657c65561b4dc45b.html" title="misdn" alt="" coords="219,123,291,171"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000031_000046.html" title="3" alt="" coords="278,103,287,118"/>
+<area shape="rect" id="node5" href="dir_b7bb9a821da56a0bf6fed68a5a27cf8d.html" title="pjsip" alt="" coords="315,123,387,171"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000031_000047.html" title="7" alt="" coords="333,95,343,110"/>
+<area shape="rect" id="node6" href="dir_e5bdc1c53b5594ea19d8e5bd361a6405.html" title="sip" alt="" coords="411,123,483,171"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000031_000054.html" title="26" alt="" coords="392,98,409,113"/>
+<area shape="rect" id="node7" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="267,219,339,267"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000031_000010.html" title="552" alt="" coords="345,242,370,257"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000035_000010.html" title="5" alt="" coords="246,214,255,228"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000032_000010.html" title="55" alt="" coords="247,195,264,210"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000046_000010.html" title="4" alt="" coords="285,191,295,206"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000047_000010.html" title="21" alt="" coords="322,199,339,214"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000054_000010.html" title="29" alt="" coords="350,210,367,224"/>
+<area shape="rect" id="clust1" href="dir_9662a6a166de1dda18179da17db0f05a.html" alt="" coords="16,16,493,181"/>
+</map>

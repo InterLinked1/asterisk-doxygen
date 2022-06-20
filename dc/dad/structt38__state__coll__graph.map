@@ -1,0 +1,12 @@
+<map id="t38_state" name="t38_state">
+<area shape="rect" id="node2" href="$de/dd5/structast__sip__session__media__state.html" title="Structure which contains media state information (streams, sessions) " alt="" coords="287,490,457,531"/>
+<area shape="rect" id="node4" href="$d2/dec/structast__sip__session.html" title="A structure describing a SIP session. " alt="" coords="709,504,832,531"/>
+<area shape="rect" id="node3" href="$d0/d23/structast__sip__session__media.html" title="A structure containing SIP session media information. " alt="" coords="988,291,1157,317"/>
+<area shape="rect" id="node5" href="$de/df7/structast__sdp__srtp.html" title="structure for secure RTP audio " alt="" coords="719,44,823,71"/>
+<area shape="rect" id="node6" href="$d2/d29/structast__sip__session__sdp__handler.html" title="A handler for SDPs in SIP sessions. " alt="" coords="695,134,847,175"/>
+<area shape="rect" id="node7" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="319,291,425,317"/>
+<area shape="rect" id="node8" href="$d9/d81/structast__udptl.html" title="Structure for an UDPTL session. " alt="" coords="730,391,811,417"/>
+<area shape="rect" id="node9" href="$df/d7a/structast__rtp__instance.html" title="ast_rtp_instance" alt="" coords="707,239,835,265"/>
+<area shape="rect" id="node10" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="5,497,163,524"/>
+<area shape="rect" id="node11" href="$d5/def/structast__control__t38__parameters.html" title="ast_control_t38_parameters" alt="" coords="271,603,473,629"/>
+</map>

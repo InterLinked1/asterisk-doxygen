@@ -1,0 +1,7 @@
+<map id="ast_sorcery_object_wizard" name="ast_sorcery_object_wizard">
+<area shape="rect" id="node2" href="$d5/db1/structast__sorcery__internal__wizard.html" title="Structure for an internal wizard instance. " alt="" coords="229,216,380,257"/>
+<area shape="rect" id="node3" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="117,97,231,124"/>
+<area shape="rect" id="node4" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="5,223,183,250"/>
+<area shape="rect" id="node5" href="$dd/d0a/structast__sorcery__wizard.html" title="Interface for a sorcery wizard. " alt="" coords="283,97,425,124"/>
+<area shape="rect" id="node6" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="305,7,403,33"/>
+</map>

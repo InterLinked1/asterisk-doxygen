@@ -1,0 +1,19 @@
+<map id="logger_category.c" name="logger_category.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="508,80,592,107"/>
+<area shape="rect" id="node22" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1178,80,1279,107"/>
+<area shape="rect" id="node31" href="$da/dd6/conversions_8h.html" title="Conversion utility functions. " alt="" coords="873,80,1037,107"/>
+<area shape="rect" id="node32" href="$d5/d1f/logger__category_8h.html" title="asterisk/logger_category.h" alt="" coords="1482,155,1671,181"/>
+<area shape="rect" id="node33" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1452,304,1579,331"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="337,155,491,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="617,304,755,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="177,155,312,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="341,229,487,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="883,453,1025,480"/>
+<area shape="rect" id="node23" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1277,304,1428,331"/>
+<area shape="rect" id="node26" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1071,155,1202,181"/>
+<area shape="rect" id="node24" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1405,379,1519,405"/>
+<area shape="rect" id="node25" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1399,453,1525,480"/>
+<area shape="rect" id="node28" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1087,304,1202,331"/>
+<area shape="rect" id="node29" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="909,229,1087,256"/>
+<area shape="rect" id="node30" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1187,229,1321,256"/>
+</map>

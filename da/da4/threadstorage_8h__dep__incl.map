@@ -1,0 +1,51 @@
+<map id="threadstorage.h" name="threadstorage.h">
+<area shape="rect" id="node2" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1609,80,1686,107"/>
+<area shape="rect" id="node4" href="$d3/d93/include_2asterisk_2app_8h.html" title="Application convenience functions, designed to give consistent look and feel to Asterisk apps..." alt="" coords="1215,237,1274,263"/>
+<area shape="rect" id="node9" href="$d8/d40/app__system_8c.html" title="Execute arbitrary system commands. " alt="" coords="5,319,116,345"/>
+<area shape="rect" id="node12" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="1405,319,1505,345"/>
+<area shape="rect" id="node14" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="1984,393,2073,420"/>
+<area shape="rect" id="node15" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="3703,319,3813,345"/>
+<area shape="rect" id="node16" href="$d2/d3c/func__curl_8c.html" title="Curl &#45; Load a URL. " alt="" coords="1901,319,1991,345"/>
+<area shape="rect" id="node18" href="$d3/d83/main_2app_8c.html" title="Convenient Application Routines. " alt="" coords="3621,319,3679,345"/>
+<area shape="rect" id="node19" href="$d4/d28/channel_8c.html" title="Channel Management. " alt="" coords="1794,319,1877,345"/>
+<area shape="rect" id="node20" href="$df/dd3/main_2cli_8c.html" title="Standard Command Line Interface. " alt="" coords="3551,319,3597,345"/>
+<area shape="rect" id="node21" href="$d1/d22/logger_8c.html" title="Asterisk Logger. " alt="" coords="3454,319,3526,345"/>
+<area shape="rect" id="node22" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="1530,319,1621,345"/>
+<area shape="rect" id="node23" href="$d7/d4a/res__odbc_8c.html" title="ODBC resource manager. " alt="" coords="150,319,241,345"/>
+<area shape="rect" id="node24" href="$dd/d55/test__substitution_8c.html" title="Substitution Test. " alt="" coords="923,319,1063,345"/>
+<area shape="rect" id="node25" href="$dd/d18/res__config__mysql_8c.html" title="MySQL CDR backend. " alt="" coords="2496,237,2639,263"/>
+<area shape="rect" id="node26" href="$d2/df4/cdr__custom_8c.html" title="Custom Comma Separated Value CDR records. " alt="" coords="4003,237,4111,263"/>
+<area shape="rect" id="node27" href="$d7/d36/cel__custom_8c.html" title="Custom Comma Separated Value CEL records. " alt="" coords="3301,237,3407,263"/>
+<area shape="rect" id="node28" href="$d2/d72/parser_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Protocol, v 2. " alt="" coords="4135,237,4208,263"/>
+<area shape="rect" id="node32" href="$df/d55/main_2frame_8c.html" title="Frame and codec manipulation routines. " alt="" coords="2816,237,2887,263"/>
+<area shape="rect" id="node33" href="$df/d35/hashtab_8c.html" title="code to implement generic hash tables " alt="" coords="2911,237,2997,263"/>
+<area shape="rect" id="node34" href="$d1/dc8/iostream_8c.html" title="iostream.c" alt="" coords="3887,237,3978,263"/>
+<area shape="rect" id="node35" href="$d4/d27/netsock2_8c.html" title="Network socket handling. " alt="" coords="4233,237,4323,263"/>
+<area shape="rect" id="node36" href="$db/dbe/sched_8c.html" title="Scheduler Routines (from cheops&#45;NG) " alt="" coords="4399,237,4469,263"/>
+<area shape="rect" id="node37" href="$d5/de5/term_8c.html" title="Terminal Routines. " alt="" coords="4494,237,4558,263"/>
+<area shape="rect" id="node38" href="$de/d1f/main_2utils_8c.html" title="Utility functions. " alt="" coords="2413,237,2471,263"/>
+<area shape="rect" id="node39" href="$de/d36/res__config__curl_8c.html" title="curl plugin for portable configuration engine " alt="" coords="4582,237,4710,263"/>
+<area shape="rect" id="node41" href="$db/d70/pbx__functions_8c.html" title="Custom function management routines. " alt="" coords="520,237,641,263"/>
+<area shape="rect" id="node43" href="$d0/d29/cdr__mysql_8c.html" title="MySQL CDR backend. " alt="" coords="1685,237,1783,263"/>
+<area shape="rect" id="node45" href="$d9/d96/res__pjsip__outbound__registration_8c.html" title="res_pjsip_outbound\l_registration.c" alt="" coords="2162,229,2309,271"/>
+<area shape="rect" id="node49" href="$dd/d1e/res__security__log_8c.html" title="Security Event Logging. " alt="" coords="2291,155,2427,181"/>
+<area shape="rect" id="node50" href="$d5/d52/res__http__media__cache_8c.html" title="res_http_media_cache.c" alt="" coords="4937,80,5115,107"/>
+<area shape="rect" id="node3" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="3465,155,3525,181"/>
+<area shape="rect" id="node5" href="$de/dcd/app__jack_8c.html" title="Jack Application. " alt="" coords="1087,319,1176,345"/>
+<area shape="rect" id="node6" href="$da/dfb/app__queue_8c.html" title="True call queues with optional send URL on answer. " alt="" coords="1201,319,1305,345"/>
+<area shape="rect" id="node7" href="$d9/d1a/app__skel_8c.html" title="Skeleton application. " alt="" coords="623,319,712,345"/>
+<area shape="rect" id="node8" href="$d8/d4d/app__statsd_8c.html" title="app_statsd.c" alt="" coords="463,319,567,345"/>
+<area shape="rect" id="node10" href="$dc/df4/app__voicemail_8c.html" title="Comedian Mail &#45; Voicemail System. " alt="" coords="1645,319,1769,345"/>
+<area shape="rect" id="node11" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="788,319,899,345"/>
+<area shape="rect" id="node13" href="$d1/d94/sip_8h.html" title="chan_sip header file " alt="" coords="1329,319,1381,345"/>
+<area shape="rect" id="node17" href="$dc/d1d/func__odbc_8c.html" title="ODBC lookups. " alt="" coords="315,319,414,345"/>
+<area shape="rect" id="node29" href="$d4/dfb/misdn__config_8c.html" title="chan_misdn configuration management " alt="" coords="3159,237,3277,263"/>
+<area shape="rect" id="node30" href="$d6/da6/func__base64_8c.html" title="Use the base64 as functions. " alt="" coords="3021,237,3135,263"/>
+<area shape="rect" id="node31" href="$d0/da6/aoc_8c.html" title="generic AOC payload generation encoding and decoding " alt="" coords="2333,237,2389,263"/>
+<area shape="rect" id="node40" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="570,155,650,181"/>
+<area shape="rect" id="node42" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1897,155,1944,181"/>
+<area shape="rect" id="node44" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1551,237,1610,263"/>
+<area shape="rect" id="node46" href="$de/d96/res__odbc_8h.html" title="ODBC resource manager. " alt="" coords="149,237,241,263"/>
+<area shape="rect" id="node47" href="$d9/d7f/route_8h.html" title="sip_route header file " alt="" coords="869,237,937,263"/>
+<area shape="rect" id="node48" href="$d1/db1/include_2solaris-compat_2compat_8h.html" title="compat.h" alt="" coords="1685,155,1767,181"/>
+</map>

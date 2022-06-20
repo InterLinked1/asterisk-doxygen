@@ -1,0 +1,9 @@
+<map id="dns_synchronous_resolve" name="dns_synchronous_resolve">
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="171,199,291,225"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,109,156,136"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,109,293,136"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="205,5,268,32"/>
+<area shape="rect" id="node6" href="$d5/d8d/structast__dns__result.html" title="The result of a DNS query. " alt="" coords="315,199,430,225"/>
+<area shape="rect" id="node7" href="$df/d30/structast__dns__result_1_1dns__records.html" title="Records returned. " alt="" coords="323,109,423,136"/>
+<area shape="rect" id="node8" href="$d3/db7/structast__dns__record.html" title="For AST_LIST. " alt="" coords="313,5,433,32"/>
+</map>

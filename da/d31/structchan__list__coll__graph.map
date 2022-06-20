@@ -1,0 +1,22 @@
+<map id="chan_list" name="chan_list">
+<area shape="rect" id="node2" href="$d6/de5/structast__dsp.html" title="ast_dsp" alt="" coords="957,184,1029,211"/>
+<area shape="rect" id="node3" href="$d0/d5b/structast__dsp__busy__pattern.html" title="ast_dsp_busy_pattern" alt="" coords="599,5,761,32"/>
+<area shape="rect" id="node4" href="$d6/d6a/structtone__detect__state__t.html" title="tone_detect_state_t" alt="" coords="417,115,568,141"/>
+<area shape="rect" id="node5" href="$d1/d12/structgoertzel__state__t.html" title="goertzel_state_t" alt="" coords="5,133,132,160"/>
+<area shape="rect" id="node8" href="$d5/d5b/structmf__detect__state__t.html" title="mf_detect_state_t" alt="" coords="248,163,387,189"/>
+<area shape="rect" id="node9" href="$df/d42/structdtmf__detect__state__t.html" title="dtmf_detect_state_t" alt="" coords="241,215,393,241"/>
+<area shape="rect" id="node6" href="$d3/d6f/structfragment__t.html" title="fragment_t" alt="" coords="633,235,727,261"/>
+<area shape="rect" id="node7" href="$d7/dd0/structdigit__detect__state__t.html" title="digit_detect_state_t" alt="" coords="605,184,755,211"/>
+<area shape="rect" id="node10" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="637,324,723,351"/>
+<area shape="rect" id="node20" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="944,436,1043,463"/>
+<area shape="rect" id="node11" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="243,324,392,351"/>
+<area shape="rect" id="node12" href="$de/d5b/structhold__info.html" title="hold_info" alt="" coords="954,487,1033,513"/>
+<area shape="rect" id="node13" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="620,556,740,583"/>
+<area shape="rect" id="node21" href="$d6/dfa/structmisdn__jb.html" title="misdn_jb" alt="" coords="954,600,1033,627"/>
+<area shape="rect" id="node14" href="$d4/d5a/structmisdn__bchannel.html" title="B channel control structure. " alt="" coords="930,689,1057,716"/>
+<area shape="rect" id="node15" href="$d8/d8c/structmisdn__party__dialing.html" title="Dialed/Called information struct. " alt="" coords="605,621,755,648"/>
+<area shape="rect" id="node16" href="$d6/d49/structmisdn__party__redirecting.html" title="Redirecting information struct. " alt="" coords="592,749,768,776"/>
+<area shape="rect" id="node17" href="$dc/de3/structmisdn__party__id.html" title="Connected&#45;Line/Calling/Redirecting ID info struct. " alt="" coords="258,716,377,743"/>
+<area shape="rect" id="node18" href="$d8/d5d/structsend__lock.html" title="send_lock" alt="" coords="637,800,723,827"/>
+<area shape="rect" id="node19" href="$d5/dab/structast__tone__zone__sound.html" title="Description of a tone. " alt="" coords="912,779,1075,805"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="sorcery.c" name="sorcery.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="828,453,912,480"/>
+<area shape="rect" id="node22" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1551,379,1677,405"/>
+<area shape="rect" id="node24" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1017,80,1150,107"/>
+<area shape="rect" id="node25" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="1100,155,1280,181"/>
+<area shape="rect" id="node29" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1193,379,1323,405"/>
+<area shape="rect" id="node30" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="972,453,1107,480"/>
+<area shape="rect" id="node32" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="1462,80,1593,107"/>
+<area shape="rect" id="node34" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="1276,80,1437,107"/>
+<area shape="rect" id="node35" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1695,155,1842,181"/>
+<area shape="rect" id="node38" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1305,155,1441,181"/>
+<area shape="rect" id="node39" href="$d0/d1e/taskprocessor_8h.html" title="An API for managing task processing threads that can be shared across modules. " alt="" coords="1807,80,1984,107"/>
+<area shape="rect" id="node40" href="$d3/d40/threadpool_8h.html" title="asterisk/threadpool.h" alt="" coords="2009,80,2166,107"/>
+<area shape="rect" id="node41" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="1667,80,1782,107"/>
+<area shape="rect" id="node42" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2241,80,2368,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1514,528,1669,555"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="813,528,951,555"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="655,528,789,555"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1518,603,1665,629"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="184,603,327,629"/>
+<area shape="rect" id="node23" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="1532,453,1667,480"/>
+<area shape="rect" id="node31" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="961,155,1075,181"/>
+<area shape="rect" id="node27" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1113,229,1240,256"/>
+<area shape="rect" id="node28" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1303,304,1418,331"/>
+<area shape="rect" id="node33" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="1465,155,1592,181"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="test_sorcery_realtime.c" name="test_sorcery_realtime.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="604,80,688,107"/>
+<area shape="rect" id="node22" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="891,80,1004,107"/>
+<area shape="rect" id="node27" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1412,379,1539,405"/>
+<area shape="rect" id="node29" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1302,229,1438,256"/>
+<area shape="rect" id="node30" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1199,80,1333,107"/>
+<area shape="rect" id="node35" href="$de/d4a/astdb_8h.html" title="Persistant data storage (akin to *doze registry) " alt="" coords="1513,80,1637,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="401,155,555,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="681,379,819,405"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="631,155,765,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="405,229,551,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="947,453,1089,480"/>
+<area shape="rect" id="node23" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="809,155,910,181"/>
+<area shape="rect" id="node25" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="850,229,981,256"/>
+<area shape="rect" id="node24" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="843,379,993,405"/>
+<area shape="rect" id="node26" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1266,304,1381,331"/>
+<area shape="rect" id="node28" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="851,304,985,331"/>
+<area shape="rect" id="node31" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="1003,155,1183,181"/>
+<area shape="rect" id="node34" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="1209,155,1323,181"/>
+<area shape="rect" id="node33" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1151,229,1277,256"/>
+</map>

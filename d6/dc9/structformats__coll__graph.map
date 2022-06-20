@@ -1,0 +1,9 @@
+<map id="formats" name="formats">
+<area shape="rect" id="node2" href="$d0/d57/structast__format__def.html" title="Each supported file format is described by the following structure. " alt="" coords="203,187,321,213"/>
+<area shape="rect" id="node3" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="43,96,140,123"/>
+<area shape="rect" id="node4" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="5,187,132,213"/>
+<area shape="rect" id="node5" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="26,5,157,32"/>
+<area shape="rect" id="node6" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="216,96,308,123"/>
+<area shape="rect" id="node7" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="332,96,419,123"/>
+<area shape="rect" id="node8" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="403,187,521,213"/>
+</map>

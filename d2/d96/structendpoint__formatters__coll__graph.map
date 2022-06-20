@@ -1,0 +1,7 @@
+<map id="endpoint_formatters" name="endpoint_formatters">
+<area shape="rect" id="node2" href="$d6/d30/structast__sip__endpoint__formatter.html" title="An entity responsible formatting endpoint information. " alt="" coords="5,184,204,211"/>
+<area shape="rect" id="node3" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="228,184,347,211"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="156,95,307,121"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="331,95,444,121"/>
+<area shape="rect" id="node6" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="356,5,419,32"/>
+</map>

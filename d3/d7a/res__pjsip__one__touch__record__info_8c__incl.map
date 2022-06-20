@@ -1,0 +1,31 @@
+<map id="res_pjsip_one_touch_record_info.c" name="res_pjsip_one_touch_record_info.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="970,259,1054,285"/>
+<area shape="rect" id="node24" href="$de/d47/features_8h.html" title="Call Parking and Pickup API Includes code and algorithms from the Zapata library. ..." alt="" coords="2168,102,2309,129"/>
+<area shape="rect" id="node33" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="2601,102,2745,129"/>
+<area shape="rect" id="node47" href="$d9/de7/res__pjsip__session_8h.html" title="asterisk/res_pjsip\l_session.h" alt="" coords="3713,95,3845,136"/>
+<area shape="rect" id="node49" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1665,102,1801,129"/>
+<area shape="rect" id="node50" href="$d0/daa/include_2asterisk_2features__config_8h.html" title="asterisk/features_config.h" alt="" coords="1913,102,2100,129"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="343,333,497,360"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="863,333,1001,360"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1025,333,1159,360"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,408,152,435"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="621,408,763,435"/>
+<area shape="rect" id="node25" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="1770,184,1881,211"/>
+<area shape="rect" id="node30" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="2341,333,2491,360"/>
+<area shape="rect" id="node32" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="1617,184,1745,211"/>
+<area shape="rect" id="node26" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2007,259,2145,285"/>
+<area shape="rect" id="node28" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1880,408,2037,435"/>
+<area shape="rect" id="node27" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1472,333,1587,360"/>
+<area shape="rect" id="node31" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1887,333,2038,360"/>
+<area shape="rect" id="node29" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2605,483,2731,509"/>
+<area shape="rect" id="node38" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="3537,333,3684,360"/>
+<area shape="rect" id="node39" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="3049,184,3183,211"/>
+<area shape="rect" id="node40" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="3543,259,3679,285"/>
+<area shape="rect" id="node41" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="2321,184,2441,211"/>
+<area shape="rect" id="node42" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="3754,259,3910,285"/>
+<area shape="rect" id="node43" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="2057,184,2247,211"/>
+<area shape="rect" id="node44" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1737,259,1932,285"/>
+<area shape="rect" id="node45" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="3207,184,3342,211"/>
+<area shape="rect" id="node46" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="3213,259,3339,285"/>
+<area shape="rect" id="node48" href="$de/d5f/sdp__srtp_8h.html" title="SRTP and SDP Security descriptions. " alt="" coords="3842,184,3985,211"/>
+</map>

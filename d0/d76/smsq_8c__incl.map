@@ -1,0 +1,10 @@
+<map id="smsq.c" name="smsq.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1363,80,1447,107"/>
+<area shape="rect" id="node27" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1573,80,1636,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1413,155,1567,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="692,155,829,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1253,155,1388,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1417,229,1563,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="949,229,1092,256"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1754,155,1901,181"/>
+</map>

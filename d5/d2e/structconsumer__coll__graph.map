@@ -1,0 +1,6 @@
+<map id="consumer" name="consumer">
+<area shape="rect" id="node2" href="$d7/d55/structstasis__message.html" title="stasis_message" alt="" coords="30,199,155,225"/>
+<area shape="rect" id="node3" href="$d0/d86/structast__eid.html" title="An Entity ID is essentially a MAC address, brief and unique. " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node4" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="98,95,258,121"/>
+<area shape="rect" id="node5" href="$dd/d3e/structstasis__message__vtable.html" title="Virtual table providing methods for messages. " alt="" coords="93,5,263,32"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="io.c" name="io.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="720,229,804,256"/>
+<area shape="rect" id="node24" href="$dc/dac/io_8h.html" title="I/O Management (derived from Cheops&#45;NG) " alt="" coords="2047,80,2146,107"/>
+<area shape="rect" id="node32" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1838,155,1953,181"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1459,379,1614,405"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="680,304,817,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="521,304,656,331"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1463,453,1610,480"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1248,379,1391,405"/>
+<area shape="rect" id="node25" href="$d4/dfb/poll-compat_8h.html" title="asterisk/poll&#45;compat.h" alt="" coords="875,155,1039,181"/>
+<area shape="rect" id="node28" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2205,229,2351,256"/>
+<area shape="rect" id="node26" href="$d9/dab/select_8h.html" title="Bitfield expansions for ast_select. " alt="" coords="893,229,1020,256"/>
+<area shape="rect" id="node31" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2003,304,2129,331"/>
+<area shape="rect" id="node33" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2517,229,2655,256"/>
+<area shape="rect" id="node40" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1864,304,1927,331"/>
+<area shape="rect" id="node42" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1680,229,1793,256"/>
+<area shape="rect" id="node47" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1199,229,1346,256"/>
+<area shape="rect" id="node49" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2679,229,2837,256"/>
+<area shape="rect" id="node50" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1045,229,1175,256"/>
+<area shape="rect" id="node41" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1923,379,2070,405"/>
+<area shape="rect" id="node46" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="1344,304,1495,331"/>
+</map>

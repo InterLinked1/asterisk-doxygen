@@ -1,0 +1,7 @@
+<map id="dns_srv.h" name="dns_srv.h">
+<area shape="rect" id="node2" href="$dc/d00/dns__core_8c.html" title="Core DNS Functionality. " alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$db/d8e/dns__srv_8c.html" title="DNS SRV Record Support. " alt="" coords="121,80,202,107"/>
+<area shape="rect" id="node4" href="$d4/d43/pjsip__resolver_8c.html" title="pjsip_resolver.c" alt="" coords="226,80,345,107"/>
+<area shape="rect" id="node5" href="$d0/d5c/res__resolver__unbound_8c.html" title="res_resolver_unbound.c" alt="" coords="369,80,543,107"/>
+<area shape="rect" id="node6" href="$da/d22/test__dns__srv_8c.html" title="test_dns_srv.c" alt="" coords="567,80,681,107"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="cel.h" name="cel.h">
+<area shape="rect" id="node2" href="$d6/df5/app__celgenuserevent_8c.html" title="Generate User&#45;Defined CEL event. " alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$d1/d0c/cel__beanstalkd_8c.html" title="Asterisk Channel Event Beanstalkd backend. " alt="" coords="200,80,328,107"/>
+<area shape="rect" id="node4" href="$d7/d36/cel__custom_8c.html" title="Custom Comma Separated Value CEL records. " alt="" coords="352,80,459,107"/>
+<area shape="rect" id="node5" href="$d1/d7e/cel__manager_8c.html" title="Asterisk Channel Event records. " alt="" coords="483,80,597,107"/>
+<area shape="rect" id="node6" href="$d1/ddf/cel__odbc_8c.html" title="ODBC CEL backend. " alt="" coords="622,80,711,107"/>
+<area shape="rect" id="node7" href="$de/d1b/cel__pgsql_8c.html" title="PostgreSQL CEL logger. " alt="" coords="735,80,827,107"/>
+<area shape="rect" id="node8" href="$de/dc0/cel__radius_8c.html" title="RADIUS CEL Support. " alt="" coords="851,80,949,107"/>
+<area shape="rect" id="node9" href="$db/d94/cel__sqlite3__custom_8c.html" title="Custom SQLite3 CEL records. " alt="" coords="973,80,1128,107"/>
+<area shape="rect" id="node10" href="$de/d35/cel__tds_8c.html" title="FreeTDS CEL logger. " alt="" coords="1153,80,1231,107"/>
+<area shape="rect" id="node11" href="$da/dc9/cel_8c.html" title="Channel Event Logging API. " alt="" coords="1256,80,1307,107"/>
+<area shape="rect" id="node12" href="$db/dc4/test__cel_8c.html" title="CEL unit tests. " alt="" coords="1331,80,1413,107"/>
+</map>

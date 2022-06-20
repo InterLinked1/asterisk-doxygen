@@ -1,0 +1,13 @@
+<map id="agi.h" name="agi.h">
+<area shape="rect" id="node2" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="402,80,503,107"/>
+<area shape="rect" id="node12" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="581,80,716,107"/>
+<area shape="rect" id="node14" href="$df/d3c/optional__api_8h.html" title="Optional API function macros. " alt="" coords="741,80,906,107"/>
+<area shape="rect" id="node3" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="5,304,156,331"/>
+<area shape="rect" id="node5" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="387,155,518,181"/>
+<area shape="rect" id="node4" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="137,379,251,405"/>
+<area shape="rect" id="node8" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="395,304,510,331"/>
+<area shape="rect" id="node10" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="225,229,403,256"/>
+<area shape="rect" id="node11" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="65,229,200,256"/>
+<area shape="rect" id="node9" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="498,379,655,405"/>
+<area shape="rect" id="node13" href="$d0/d62/xml_8h.html" title="Asterisk XML abstraction layer. " alt="" coords="740,155,851,181"/>
+</map>

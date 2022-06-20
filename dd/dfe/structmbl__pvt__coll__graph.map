@@ -1,0 +1,25 @@
+<map id="mbl_pvt" name="mbl_pvt">
+<area shape="rect" id="node2" href="$d0/d98/structhfp__pvt.html" title="This struct holds state information about the current hfp connection. " alt="" coords="1357,549,1427,576"/>
+<area shape="rect" id="node3" href="$dc/d09/structhfp__ag.html" title="This struct holds HFP features the AG supports. " alt="" coords="1173,476,1238,503"/>
+<area shape="rect" id="node4" href="$d4/d63/structhfp__cind.html" title="This struct holds mappings for indications. " alt="" coords="1168,527,1243,553"/>
+<area shape="rect" id="node5" href="$d6/de5/structast__dsp.html" title="ast_dsp" alt="" coords="918,184,990,211"/>
+<area shape="rect" id="node6" href="$d0/d5b/structast__dsp__busy__pattern.html" title="ast_dsp_busy_pattern" alt="" coords="592,56,755,83"/>
+<area shape="rect" id="node7" href="$d6/d6a/structtone__detect__state__t.html" title="tone_detect_state_t" alt="" coords="417,125,568,152"/>
+<area shape="rect" id="node8" href="$d1/d12/structgoertzel__state__t.html" title="goertzel_state_t" alt="" coords="5,209,132,236"/>
+<area shape="rect" id="node11" href="$d5/d5b/structmf__detect__state__t.html" title="mf_detect_state_t" alt="" coords="248,285,387,312"/>
+<area shape="rect" id="node12" href="$df/d42/structdtmf__detect__state__t.html" title="dtmf_detect_state_t" alt="" coords="241,235,393,261"/>
+<area shape="rect" id="node9" href="$d3/d6f/structfragment__t.html" title="fragment_t" alt="" coords="627,5,720,32"/>
+<area shape="rect" id="node10" href="$d7/dd0/structdigit__detect__state__t.html" title="digit_detect_state_t" alt="" coords="599,235,748,261"/>
+<area shape="rect" id="node13" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="630,431,717,457"/>
+<area shape="rect" id="node19" href="$de/d91/structast__smoother.html" title="ast_smoother" alt="" coords="899,423,1009,449"/>
+<area shape="rect" id="node20" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="905,589,1003,616"/>
+<area shape="rect" id="node14" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="243,397,392,424"/>
+<area shape="rect" id="node15" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="23,357,115,384"/>
+<area shape="rect" id="node16" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="257,676,377,703"/>
+<area shape="rect" id="node21" href="$d7/de8/structast__sched__context.html" title="ast_sched_context" alt="" coords="602,641,745,668"/>
+<area shape="rect" id="node17" href="$de/de7/structmbl__pvt_1_1msg__queue.html" title="msg_queue" alt="" coords="905,753,1003,780"/>
+<area shape="rect" id="node18" href="$d9/db5/structmsg__queue__entry.html" title="msg_queue_entry" alt="" coords="605,792,742,819"/>
+<area shape="rect" id="node22" href="$da/da9/structadapter__pvt.html" title="adapter_pvt" alt="" coords="905,843,1003,869"/>
+<area shape="rect" id="node23" href="$d5/d55/structio__context.html" title="Global IO variables are now in a struct in order to be made threadsafe. " alt="" coords="629,843,717,869"/>
+<area shape="rect" id="node24" href="$da/d54/structio__rec.html" title="Kept for each file descriptor. " alt="" coords="287,843,347,869"/>
+</map>

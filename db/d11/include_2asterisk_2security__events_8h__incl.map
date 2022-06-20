@@ -1,0 +1,8 @@
+<map id="security_events.h" name="security_events.h">
+<area shape="rect" id="node2" href="$dd/d20/event_8h.html" title="asterisk/event.h" alt="" coords="307,87,431,114"/>
+<area shape="rect" id="node4" href="$d7/dc2/security__events__defs_8h.html" title="Security Event Reporting Data Structures. " alt="" coords="455,80,631,121"/>
+<area shape="rect" id="node3" href="$d6/d37/event__defs_8h.html" title="Generic event system. " alt="" coords="289,169,448,196"/>
+<area shape="rect" id="node5" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="473,169,611,196"/>
+<area shape="rect" id="node15" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="863,169,1010,196"/>
+<area shape="rect" id="node16" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1069,244,1196,271"/>
+</map>

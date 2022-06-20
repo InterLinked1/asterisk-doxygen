@@ -1,0 +1,11 @@
+<map id="pbx_private.h" name="pbx_private.h">
+<area shape="rect" id="node2" href="$db/d94/pbx_8c.html" title="Core PBX routines. " alt="" coords="5,80,61,107"/>
+<area shape="rect" id="node3" href="$dd/d16/pbx__app_8c.html" title="Custom function management routines. " alt="" coords="86,80,173,107"/>
+<area shape="rect" id="node4" href="$df/d1d/pbx__builtins_8c.html" title="Core PBX builtin routines. " alt="" coords="197,80,305,107"/>
+<area shape="rect" id="node5" href="$db/d70/pbx__functions_8c.html" title="Custom function management routines. " alt="" coords="329,80,450,107"/>
+<area shape="rect" id="node6" href="$d9/d63/pbx__ignorepat_8c.html" title="Dialplan context ignorepat routines. " alt="" coords="474,80,598,107"/>
+<area shape="rect" id="node7" href="$d6/d0e/pbx__include_8c.html" title="Dialplan context include routines. " alt="" coords="622,80,730,107"/>
+<area shape="rect" id="node8" href="$d9/d5d/pbx__sw_8c.html" title="Dialplan switch routines. " alt="" coords="754,80,833,107"/>
+<area shape="rect" id="node9" href="$d2/df2/pbx__switch_8c.html" title="PBX switch routines. " alt="" coords="857,80,959,107"/>
+<area shape="rect" id="node10" href="$d3/d8c/pbx__variables_8c.html" title="PBX variables routines. " alt="" coords="984,80,1104,107"/>
+</map>

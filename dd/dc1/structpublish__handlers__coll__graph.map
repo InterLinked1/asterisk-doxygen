@@ -1,0 +1,9 @@
+<map id="publish_handlers" name="publish_handlers">
+<area shape="rect" id="node2" href="$d5/d9f/structast__sip__publish__handler.html" title="Callbacks that publication handlers will define. " alt="" coords="5,213,180,240"/>
+<area shape="rect" id="node3" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="148,95,261,121"/>
+<area shape="rect" id="node4" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="261,213,439,240"/>
+<area shape="rect" id="node5" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="463,213,581,240"/>
+<area shape="rect" id="node6" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="405,95,556,121"/>
+<area shape="rect" id="node7" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="580,95,693,121"/>
+<area shape="rect" id="node8" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="605,5,668,32"/>
+</map>

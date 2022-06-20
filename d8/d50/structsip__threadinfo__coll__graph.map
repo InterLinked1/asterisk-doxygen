@@ -1,0 +1,10 @@
+<map id="sip_threadinfo" name="sip_threadinfo">
+<area shape="rect" id="node2" href="$d6/d49/structast__tcptls__session__instance.html" title="describes a server instance " alt="" coords="278,213,417,255"/>
+<area shape="rect" id="node3" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="110,124,177,151"/>
+<area shape="rect" id="node9" href="$db/d9a/structtcptls__packet.html" title="tcptls_packet" alt="" coords="90,221,197,247"/>
+<area shape="rect" id="node4" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node5" href="$da/d2b/structast__tcptls__session__args.html" title="arguments for the accepting thread " alt="" coords="225,124,400,151"/>
+<area shape="rect" id="node6" href="$d5/d90/structast__tls__config.html" title="ast_tls_config" alt="" coords="170,5,279,32"/>
+<area shape="rect" id="node7" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="349,5,455,32"/>
+<area shape="rect" id="node8" href="$de/d03/structast__iostream.html" title="ast_iostream" alt="" coords="582,124,689,151"/>
+</map>

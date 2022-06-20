@@ -1,0 +1,31 @@
+<map id="res_http_websocket.c" name="res_http_websocket.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1083,379,1167,405"/>
+<area shape="rect" id="node22" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1456,229,1592,256"/>
+<area shape="rect" id="node33" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1197,379,1328,405"/>
+<area shape="rect" id="node34" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1635,453,1770,480"/>
+<area shape="rect" id="node36" href="$dd/d56/http_8h.html" title="Support for Private Asterisk HTTP Servers. " alt="" coords="1995,155,2109,181"/>
+<area shape="rect" id="node41" href="$d2/d4d/file_8h.html" title="Generic File Format Support. Should be included by clients of the file handling routines. File service providers should instead include mod_format.h. " alt="" coords="960,80,1067,107"/>
+<area shape="rect" id="node44" href="$d2/d1e/unaligned_8h.html" title="Handle unaligned data access. " alt="" coords="1607,80,1758,107"/>
+<area shape="rect" id="node45" href="$df/d49/uri_8h.html" title="asterisk/uri.h" alt="" coords="1783,80,1887,107"/>
+<area shape="rect" id="node46" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="1911,80,2025,107"/>
+<area shape="rect" id="node47" href="$d0/d0c/http__websocket_8h.html" title="Support for WebSocket connections within the Asterisk HTTP server and client WebSocket connections to..." alt="" coords="1193,80,1381,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1281,752,1436,779"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="774,528,911,555"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="953,453,1087,480"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1285,827,1432,853"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1306,677,1449,704"/>
+<area shape="rect" id="node23" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1467,304,1581,331"/>
+<area shape="rect" id="node24" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1504,379,1643,405"/>
+<area shape="rect" id="node25" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1473,677,1535,704"/>
+<area shape="rect" id="node27" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1719,603,1833,629"/>
+<area shape="rect" id="node30" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1939,677,2066,704"/>
+<area shape="rect" id="node31" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1667,379,1813,405"/>
+<area shape="rect" id="node32" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1453,453,1611,480"/>
+<area shape="rect" id="node26" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1551,752,1697,779"/>
+<area shape="rect" id="node35" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1713,528,1863,555"/>
+<area shape="rect" id="node37" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="2138,229,2265,256"/>
+<area shape="rect" id="node38" href="$d4/ddf/tcptls_8h.html" title="Generic support for tcp/tls servers in Asterisk. " alt="" coords="1991,229,2113,256"/>
+<area shape="rect" id="node39" href="$dd/d27/iostream_8h.html" title="Generic abstraction for input/output streams. " alt="" coords="1189,304,1334,331"/>
+<area shape="rect" id="node40" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2040,528,2187,555"/>
+<area shape="rect" id="node48" href="$df/d3c/optional__api_8h.html" title="Optional API function macros. " alt="" coords="1204,155,1369,181"/>
+</map>

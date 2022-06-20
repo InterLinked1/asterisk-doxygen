@@ -1,0 +1,10 @@
+<map id="stasis_cache" name="stasis_cache">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="234,199,347,225"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="139,453,316,480"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="152,311,304,338"/>
+<area shape="rect" id="node5" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="428,199,526,225"/>
+<area shape="rect" id="node6" href="$d7/d55/structstasis__message.html" title="stasis_message" alt="" coords="586,199,712,225"/>
+<area shape="rect" id="node7" href="$d0/d86/structast__eid.html" title="An Entity ID is essentially a MAC address, brief and unique. " alt="" coords="562,95,630,121"/>
+<area shape="rect" id="node8" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="654,95,814,121"/>
+<area shape="rect" id="node9" href="$dd/d3e/structstasis__message__vtable.html" title="Virtual table providing methods for messages. " alt="" coords="649,5,820,32"/>
+</map>

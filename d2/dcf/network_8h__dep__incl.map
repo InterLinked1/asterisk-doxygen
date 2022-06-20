@@ -1,0 +1,51 @@
+<map id="network.h" name="network.h">
+<area shape="rect" id="node2" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1721,80,1781,107"/>
+<area shape="rect" id="node7" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="3652,379,3719,405"/>
+<area shape="rect" id="node8" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="3863,453,3953,480"/>
+<area shape="rect" id="node25" href="$d1/d6d/chan__unistim_8c.html" title="chan_unistim channel driver for Asterisk " alt="" coords="3309,379,3427,405"/>
+<area shape="rect" id="node26" href="$d9/db8/acl_8c.html" title="Various sorts of access control. " alt="" coords="4284,379,4335,405"/>
+<area shape="rect" id="node27" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="3945,379,4028,405"/>
+<area shape="rect" id="node28" href="$d2/d9d/main_2config_8c.html" title="Configuration File Parser. " alt="" coords="97,379,167,405"/>
+<area shape="rect" id="node29" href="$d9/d54/dns_8c.html" title="DNS Support for Asterisk. " alt="" coords="4153,379,4209,405"/>
+<area shape="rect" id="node30" href="$d1/dc0/pbx__dundi_8c.html" title="Distributed Universal Number Discovery (DUNDi) " alt="" coords="3043,379,3141,405"/>
+<area shape="rect" id="node31" href="$dd/de9/res__agi_8c.html" title="AGI &#45; the Asterisk Gateway Interface. " alt="" coords="2666,379,2745,405"/>
+<area shape="rect" id="node32" href="$de/d1f/main_2utils_8c.html" title="Utility functions. " alt="" coords="397,304,456,331"/>
+<area shape="rect" id="node37" href="$d8/d30/main_2security__events_8c.html" title="Security Event Reporting Helpers. " alt="" coords="480,304,613,331"/>
+<area shape="rect" id="node46" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="2881,155,2972,181"/>
+<area shape="rect" id="node47" href="$d5/d59/acl_8h.html" title="Access Control of various sorts. " alt="" coords="4118,304,4170,331"/>
+<area shape="rect" id="node48" href="$d7/dc2/security__events__defs_8h.html" title="Security Event Reporting Data Structures. " alt="" coords="4460,80,4628,107"/>
+<area shape="rect" id="node49" href="$de/d5a/netsock_8h.html" title="Network socket handling. " alt="" coords="4653,80,4737,107"/>
+<area shape="rect" id="node50" href="$d3/d00/stun_8h.html" title="STUN support. " alt="" coords="4761,80,4823,107"/>
+<area shape="rect" id="node3" href="$dc/d4d/alertpipe_8h.html" title="alertpipe.h" alt="" coords="1216,229,1307,256"/>
+<area shape="rect" id="node4" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2171,304,2255,331"/>
+<area shape="rect" id="node5" href="$d3/d51/chan__mobile_8c.html" title="Bluetooth Mobile Device channel driver. " alt="" coords="2904,379,3019,405"/>
+<area shape="rect" id="node6" href="$d3/d45/chan__ooh323_8h.html" title="chan_ooh323.h" alt="" coords="2132,453,2252,480"/>
+<area shape="rect" id="node9" href="$dd/d18/res__config__mysql_8c.html" title="MySQL CDR backend. " alt="" coords="191,379,334,405"/>
+<area shape="rect" id="node10" href="$db/d62/app__adsiprog_8c.html" title="Program Asterisk ADSI Scripts into phone. " alt="" coords="2333,379,2451,405"/>
+<area shape="rect" id="node11" href="$dc/d5c/app__alarmreceiver_8c.html" title="Central Station Alarm receiver for Ademco Contact ID. " alt="" coords="1457,379,1607,405"/>
+<area shape="rect" id="node12" href="$d9/daa/app__audiosocket_8c.html" title="AudioSocket application – transmit and receive audio through a TCP socket. " alt="" coords="1844,379,1985,405"/>
+<area shape="rect" id="node13" href="$d6/d0f/app__authenticate_8c.html" title="Execute arbitrary authenticate commands. " alt="" coords="2010,379,2155,405"/>
+<area shape="rect" id="node14" href="$dc/d22/app__bridgewait_8c.html" title="Application to place the channel into a holding Bridge. " alt="" coords="2179,379,2309,405"/>
+<area shape="rect" id="node15" href="$dc/d04/app__chanspy_8c.html" title="ChanSpy: Listen in on any channel. " alt="" coords="2476,379,2591,405"/>
+<area shape="rect" id="node16" href="$dc/d4e/stasis__bridges_8h.html" title="stasis_bridges.h" alt="" coords="3452,379,3577,405"/>
+<area shape="rect" id="node17" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="1631,379,1718,405"/>
+<area shape="rect" id="node18" href="$de/d26/app__externalivr_8c.html" title="External IVR application interface. " alt="" coords="689,379,820,405"/>
+<area shape="rect" id="node19" href="$d5/dd6/app__festival_8c.html" title="Connect to festival. " alt="" coords="988,379,1097,405"/>
+<area shape="rect" id="node20" href="$dd/d55/app__followme_8c.html" title="Find&#45;Me Follow&#45;Me application. " alt="" coords="844,379,964,405"/>
+<area shape="rect" id="node21" href="$d0/d1b/app__macro_8c.html" title="Dial plan macro Implementation. " alt="" coords="1122,379,1227,405"/>
+<area shape="rect" id="node22" href="$df/d44/app__meetme_8c.html" title="Meet me conference bridge and Shared Line Appearances. " alt="" coords="3166,379,3285,405"/>
+<area shape="rect" id="node23" href="$de/dfe/app__minivm_8c.html" title="MiniVoiceMail &#45; A Minimal Voicemail System for Asterisk. " alt="" coords="2769,379,2879,405"/>
+<area shape="rect" id="node24" href="$d6/d27/app__osplookup_8c.html" title="Open Settlement Protocol (OSP) Applications. " alt="" coords="1251,379,1381,405"/>
+<area shape="rect" id="node33" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="448,229,525,256"/>
+<area shape="rect" id="node34" href="$d3/d93/include_2asterisk_2app_8h.html" title="Application convenience functions, designed to give consistent look and feel to Asterisk apps..." alt="" coords="1651,304,1709,331"/>
+<area shape="rect" id="node35" href="$d6/dde/app__controlplayback_8c.html" title="Trivial application to control playback of a sound file. " alt="" coords="501,379,665,405"/>
+<area shape="rect" id="node36" href="$d0/de2/app__directory_8c.html" title="Provide a directory of extensions. " alt="" coords="358,379,477,405"/>
+<area shape="rect" id="node38" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="488,155,613,181"/>
+<area shape="rect" id="node39" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1453,229,1525,256"/>
+<area shape="rect" id="node40" href="$da/da2/devicestate_8h.html" title="Device state management. " alt="" coords="3446,304,3554,331"/>
+<area shape="rect" id="node41" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="2686,229,2757,256"/>
+<area shape="rect" id="node42" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1912,304,1995,331"/>
+<area shape="rect" id="node43" href="$d2/d0f/indications_8h.html" title="Tone Indication Support. " alt="" coords="1734,304,1837,331"/>
+<area shape="rect" id="node44" href="$d4/ddf/tcptls_8h.html" title="Generic support for tcp/tls servers in Asterisk. " alt="" coords="840,155,909,181"/>
+<area shape="rect" id="node45" href="$dc/d33/mwi_8h.html" title="Asterisk MWI API. " alt="" coords="3731,304,3789,331"/>
+</map>

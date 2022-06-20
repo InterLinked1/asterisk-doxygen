@@ -1,0 +1,33 @@
+<map id="bridge_softmix.c" name="bridge_softmix.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="333,244,417,271"/>
+<area shape="rect" id="node23" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="2009,80,2143,107"/>
+<area shape="rect" id="node25" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2422,319,2549,345"/>
+<area shape="rect" id="node29" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1122,80,1235,107"/>
+<area shape="rect" id="node35" href="$d2/d0d/message_8h.html" title="Out&#45;of&#45;call text message support. " alt="" coords="2168,80,2315,107"/>
+<area shape="rect" id="node36" href="$d8/df0/bridge__softmix__internal_8h.html" title="Multi&#45;party software based channel mixing (header) " alt="" coords="1541,155,1728,196"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="705,692,860,719"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="543,393,681,420"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="282,319,417,345"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="709,767,856,793"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="858,543,1001,569"/>
+<area shape="rect" id="node24" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="2523,162,2650,189"/>
+<area shape="rect" id="node26" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1443,468,1557,495"/>
+<area shape="rect" id="node27" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1497,543,1623,569"/>
+<area shape="rect" id="node28" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="1493,617,1627,644"/>
+<area shape="rect" id="node30" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="767,162,868,189"/>
+<area shape="rect" id="node32" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="599,244,729,271"/>
+<area shape="rect" id="node31" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1425,393,1575,420"/>
+<area shape="rect" id="node33" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1085,393,1200,420"/>
+<area shape="rect" id="node34" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1359,319,1494,345"/>
+<area shape="rect" id="node39" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="879,319,1015,345"/>
+<area shape="rect" id="node40" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1481,244,1620,271"/>
+<area shape="rect" id="node43" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="1886,319,2013,345"/>
+<area shape="rect" id="node44" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="1103,244,1231,271"/>
+<area shape="rect" id="node45" href="$d0/d3b/bridge__technology_8h.html" title="Channel Bridging API. " alt="" coords="1255,244,1457,271"/>
+<area shape="rect" id="node46" href="$da/d7d/slinfactory_8h.html" title="A machine to gather up arbitrary frames and convert them to raw slinear on demand. " alt="" coords="1645,244,1795,271"/>
+<area shape="rect" id="node47" href="$db/d41/timing_8h.html" title="Timing source management. " alt="" coords="1989,244,2117,271"/>
+<area shape="rect" id="node48" href="$db/d39/translate_8h.html" title="Support for translation of data formats. translate.c. " alt="" coords="1819,244,1965,271"/>
+<area shape="rect" id="node49" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="2142,244,2298,271"/>
+<area shape="rect" id="node41" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="1140,319,1284,345"/>
+<area shape="rect" id="node42" href="$dc/d14/abstract__jb_8h.html" title="Common implementation&#45;independent jitterbuffer stuff. " alt="" coords="1651,319,1810,345"/>
+</map>

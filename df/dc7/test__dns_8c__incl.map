@@ -1,0 +1,21 @@
+<map id="test_dns.c" name="test_dns.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="993,162,1077,189"/>
+<area shape="rect" id="node24" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1209,80,1322,107"/>
+<area shape="rect" id="node30" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1709,162,1845,189"/>
+<area shape="rect" id="node31" href="$d6/d51/dns__core_8h.html" title="Core DNS API. " alt="" coords="1729,80,1876,107"/>
+<area shape="rect" id="node35" href="$d9/da7/dns__resolver_8h.html" title="DNS Resolver API. " alt="" coords="2161,80,2329,107"/>
+<area shape="rect" id="node36" href="$d4/d07/dns__internal_8h.html" title="Internal DNS structure definitions. " alt="" coords="1487,80,1654,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="364,244,519,271"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="905,244,1042,271"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1066,244,1201,271"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,319,152,345"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="177,319,319,345"/>
+<area shape="rect" id="node25" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1215,162,1316,189"/>
+<area shape="rect" id="node27" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1388,244,1519,271"/>
+<area shape="rect" id="node26" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1543,244,1694,271"/>
+<area shape="rect" id="node28" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1593,319,1708,345"/>
+<area shape="rect" id="node29" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1775,393,1902,420"/>
+<area shape="rect" id="node32" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1869,162,2016,189"/>
+<area shape="rect" id="node37" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1507,162,1634,189"/>
+<area shape="rect" id="node38" href="$d7/d38/dns__query__set_8h.html" title="DNS Query Set API. " alt="" coords="1341,155,1483,196"/>
+</map>

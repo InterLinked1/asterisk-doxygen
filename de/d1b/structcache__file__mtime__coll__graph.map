@@ -1,0 +1,4 @@
+<map id="cache_file_mtime" name="cache_file_mtime">
+<area shape="rect" id="node2" href="$db/d6f/structcache__file__mtime_1_1includes.html" title="includes" alt="" coords="37,109,111,136"/>
+<area shape="rect" id="node3" href="$df/dfa/structcache__file__include.html" title="Hold the mtime for config files, so if we don&#39;t need to reread our config, don&#39;t. ..." alt="" coords="5,5,143,32"/>
+</map>

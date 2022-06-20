@@ -1,0 +1,5 @@
+<map id="iax_frames" name="iax_frames">
+<area shape="rect" id="node2" href="$d0/d41/structiax__frame__list.html" title="This is just so iax_frames, a list head struct for holding a list of iax_frame structures, is defined. " alt="" coords="5,199,116,225"/>
+<area shape="rect" id="node3" href="$d1/db5/structiax__frame.html" title="iax_frame" alt="" coords="18,95,103,121"/>
+<area shape="rect" id="node4" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="17,5,104,32"/>
+</map>

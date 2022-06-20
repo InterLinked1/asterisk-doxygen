@@ -1,0 +1,7 @@
+<map id="ast_bridge_softmix" name="ast_bridge_softmix">
+<area shape="rect" id="node2" href="$dc/d4a/structast__bridge__video__mode.html" title="Data structure that defines a video source mode. " alt="" coords="591,93,765,120"/>
+<area shape="rect" id="node3" href="$d0/dad/structast__bridge__video__talker__src__data.html" title="This is used for both SINGLE_SRC_TALKER mode to set what channel should be the current single video f..." alt="" coords="256,21,429,62"/>
+<area shape="rect" id="node4" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="5,59,104,85"/>
+<area shape="rect" id="node5" href="$dd/dbe/structast__bridge__video__single__src__data.html" title="This is used for both SINGLE_SRC mode to set what channel should be the current single video feed..." alt="" coords="255,86,430,127"/>
+<area shape="rect" id="node6" href="$dd/df9/structast__bridge__video__sfu__data.html" title="This is used for selective forwarding unit configuration. " alt="" coords="247,152,439,179"/>
+</map>

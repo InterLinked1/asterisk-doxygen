@@ -1,0 +1,15 @@
+<map id="evententry" name="evententry">
+<area shape="rect" id="node2" href="$dc/d64/structast__calendar__event.html" title="ast_calendar_event" alt="" coords="1092,237,1239,264"/>
+<area shape="rect" id="node3" href="$db/db7/structast__dial.html" title="Main dialing structure. Contains global options, channels being dialed, and more! ..." alt="" coords="896,95,967,121"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="618,5,738,32"/>
+<area shape="rect" id="node5" href="$d3/d1a/structast__dial__channel.html" title="Dialing channel structure. Contains per&#45;channel dialing options, asterisk channel, and more! " alt="" coords="614,95,742,121"/>
+<area shape="rect" id="node6" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="343,127,442,153"/>
+<area shape="rect" id="node7" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="25,155,138,181"/>
+<area shape="rect" id="node11" href="$d4/d1d/structast__calendar.html" title="Asterisk calendar structure. " alt="" coords="626,352,730,379"/>
+<area shape="rect" id="node8" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,349,157,376"/>
+<area shape="rect" id="node14" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="317,240,468,267"/>
+<area shape="rect" id="node9" href="$da/d78/structast__calendar__event_1_1attendees.html" title="attendees" alt="" coords="888,277,975,304"/>
+<area shape="rect" id="node10" href="$d8/dd4/structast__calendar__attendee.html" title="ast_calendar_attendee" alt="" coords="593,301,763,328"/>
+<area shape="rect" id="node12" href="$dd/dca/structast__calendar__tech.html" title="Individual calendaring technology data. " alt="" coords="323,329,462,356"/>
+<area shape="rect" id="node13" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="343,481,442,508"/>
+</map>

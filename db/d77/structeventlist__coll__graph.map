@@ -1,0 +1,10 @@
+<map id="eventlist" name="eventlist">
+<area shape="rect" id="node2" href="$df/db9/structevententry.html" title="evententry" alt="" coords="1085,201,1176,228"/>
+<area shape="rect" id="node3" href="$dc/d64/structast__calendar__event.html" title="ast_calendar_event" alt="" coords="849,201,996,228"/>
+<area shape="rect" id="node4" href="$db/db7/structast__dial.html" title="Main dialing structure. Contains global options, channels being dialed, and more! ..." alt="" coords="645,44,715,71"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,171,157,197"/>
+<area shape="rect" id="node7" href="$d4/d1d/structast__calendar.html" title="Asterisk calendar structure. " alt="" coords="628,173,732,200"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="317,208,468,235"/>
+<area shape="rect" id="node9" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="499,312,597,339"/>
+<area shape="rect" id="node6" href="$da/d78/structast__calendar__event_1_1attendees.html" title="attendees" alt="" coords="637,349,723,376"/>
+</map>

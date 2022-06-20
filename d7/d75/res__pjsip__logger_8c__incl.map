@@ -1,0 +1,30 @@
+<map id="res_pjsip_logger.c" name="res_pjsip_logger.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="785,229,869,256"/>
+<area shape="rect" id="node24" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="2009,80,2153,107"/>
+<area shape="rect" id="node31" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2953,304,3100,331"/>
+<area shape="rect" id="node33" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="3065,379,3191,405"/>
+<area shape="rect" id="node48" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1077,80,1213,107"/>
+<area shape="rect" id="node49" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1564,229,1665,256"/>
+<area shape="rect" id="node50" href="$d5/d59/acl_8h.html" title="Access Control of various sorts. " alt="" coords="3071,155,3177,181"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="256,304,411,331"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="847,304,985,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="689,304,823,331"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,379,152,405"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1233,379,1375,405"/>
+<area shape="rect" id="node29" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2068,379,2225,405"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1941,453,2067,480"/>
+<area shape="rect" id="node34" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1951,304,2102,331"/>
+<area shape="rect" id="node35" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2220,229,2359,256"/>
+<area shape="rect" id="node39" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="2126,304,2277,331"/>
+<area shape="rect" id="node40" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="2408,155,2541,181"/>
+<area shape="rect" id="node41" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="2817,229,2953,256"/>
+<area shape="rect" id="node42" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="2616,155,2736,181"/>
+<area shape="rect" id="node44" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="2586,229,2742,256"/>
+<area shape="rect" id="node45" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="2195,155,2384,181"/>
+<area shape="rect" id="node46" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1951,229,2145,256"/>
+<area shape="rect" id="node47" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="1690,229,1825,256"/>
+<area shape="rect" id="node36" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1652,304,1767,331"/>
+<area shape="rect" id="node37" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2851,379,2989,405"/>
+<area shape="rect" id="node38" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1644,379,1775,405"/>
+<area shape="rect" id="node43" href="$dc/dac/io_8h.html" title="I/O Management (derived from Cheops&#45;NG) " alt="" coords="2977,229,3076,256"/>
+</map>

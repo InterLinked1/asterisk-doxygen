@@ -1,0 +1,8 @@
+<map id="misdn_lib" name="misdn_lib">
+<area shape="rect" id="node2" href="$d9/d1f/structmisdn__stack.html" title="misdn_stack" alt="" coords="207,305,310,332"/>
+<area shape="rect" id="node3" href="$d4/d5a/structmisdn__bchannel.html" title="B channel control structure. " alt="" coords="195,201,322,228"/>
+<area shape="rect" id="node4" href="$d8/d8c/structmisdn__party__dialing.html" title="Dialed/Called information struct. " alt="" coords="5,111,155,137"/>
+<area shape="rect" id="node5" href="$d6/d49/structmisdn__party__redirecting.html" title="Redirecting information struct. " alt="" coords="299,111,475,137"/>
+<area shape="rect" id="node6" href="$dc/de3/structmisdn__party__id.html" title="Connected&#45;Line/Calling/Redirecting ID info struct. " alt="" coords="199,5,318,32"/>
+<area shape="rect" id="node7" href="$d8/d5d/structsend__lock.html" title="send_lock" alt="" coords="499,111,584,137"/>
+</map>

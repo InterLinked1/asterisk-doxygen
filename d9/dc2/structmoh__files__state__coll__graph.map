@@ -1,0 +1,11 @@
+<map id="moh_files_state" name="moh_files_state">
+<area shape="rect" id="node2" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="333,187,425,213"/>
+<area shape="rect" id="node3" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="174,307,329,333"/>
+<area shape="rect" id="node6" href="$d6/df2/structmohclass.html" title="mohclass" alt="" coords="461,307,543,333"/>
+<area shape="rect" id="node9" href="$d3/df8/structmohdata.html" title="mohdata" alt="" coords="337,412,417,439"/>
+<area shape="rect" id="node4" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="444,97,531,124"/>
+<area shape="rect" id="node5" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="511,7,608,33"/>
+<area shape="rect" id="node8" href="$d4/db6/structtiming__holder.html" title="timing_holder" alt="" coords="562,97,671,124"/>
+<area shape="rect" id="node7" href="$da/def/structast__timer.html" title="ast_timer" alt="" coords="647,187,730,213"/>
+<area shape="rect" id="node10" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="5,307,92,333"/>
+</map>

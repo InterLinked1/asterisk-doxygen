@@ -1,0 +1,14 @@
+<map id="object_type_wizard" name="object_type_wizard">
+<area shape="rect" id="node2" href="$dd/d0a/structast__sorcery__wizard.html" title="Interface for a sorcery wizard. " alt="" coords="5,381,148,408"/>
+<area shape="rect" id="node3" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="129,247,227,273"/>
+<area shape="rect" id="node4" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="172,381,299,408"/>
+<area shape="rect" id="node5" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="113,133,243,159"/>
+<area shape="rect" id="node6" href="$d2/d88/structast__sorcery.html" title="Full structure for sorcery. " alt="" coords="323,381,419,408"/>
+<area shape="rect" id="node7" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="313,247,427,273"/>
+<area shape="rect" id="node8" href="$dd/d18/structast__config.html" title="ast_config" alt="" coords="460,381,547,408"/>
+<area shape="rect" id="node9" href="$d7/db2/structast__category.html" title="ast_category" alt="" coords="451,247,556,273"/>
+<area shape="rect" id="node10" href="$d0/d48/structast__category_1_1template__instance__list.html" title="template_instance_list" alt="" coords="269,133,436,159"/>
+<area shape="rect" id="node11" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="622,133,721,159"/>
+<area shape="rect" id="node12" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="500,5,611,32"/>
+<area shape="rect" id="node13" href="$da/d05/structast__config__include.html" title="ast_config_include" alt="" coords="638,247,777,273"/>
+</map>

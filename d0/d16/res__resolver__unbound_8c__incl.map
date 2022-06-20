@@ -1,0 +1,29 @@
+<map id="res_resolver_unbound.c" name="res_resolver_unbound.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="367,379,451,405"/>
+<area shape="rect" id="node25" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1446,155,1582,181"/>
+<area shape="rect" id="node38" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1200,453,1351,480"/>
+<area shape="rect" id="node39" href="$d6/d51/dns__core_8h.html" title="Core DNS API. " alt="" coords="1858,155,2005,181"/>
+<area shape="rect" id="node41" href="$d9/da7/dns__resolver_8h.html" title="DNS Resolver API. " alt="" coords="2210,80,2378,107"/>
+<area shape="rect" id="node42" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1701,155,1828,181"/>
+<area shape="rect" id="node43" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="1547,80,1727,107"/>
+<area shape="rect" id="node45" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1257,155,1371,181"/>
+<area shape="rect" id="node47" href="$d6/d39/dns__srv_8h.html" title="DNS SRV Record Parsing API. " alt="" coords="2402,80,2538,107"/>
+<area shape="rect" id="node48" href="$db/db6/dns__naptr_8h.html" title="DNS NAPTR Record Parsing API. " alt="" coords="2563,80,2713,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="742,677,897,704"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="845,453,983,480"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="5,453,140,480"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="746,752,893,779"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1396,603,1539,629"/>
+<area shape="rect" id="node26" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1558,229,1673,256"/>
+<area shape="rect" id="node27" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2041,304,2179,331"/>
+<area shape="rect" id="node30" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1568,603,1631,629"/>
+<area shape="rect" id="node32" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1519,528,1632,555"/>
+<area shape="rect" id="node33" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1820,603,1947,629"/>
+<area shape="rect" id="node34" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1598,304,1745,331"/>
+<area shape="rect" id="node35" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2001,453,2158,480"/>
+<area shape="rect" id="node36" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1241,304,1371,331"/>
+<area shape="rect" id="node31" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1709,677,1855,704"/>
+<area shape="rect" id="node37" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1283,379,1417,405"/>
+<area shape="rect" id="node40" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1870,304,2017,331"/>
+<area shape="rect" id="node46" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1190,229,1291,256"/>
+</map>

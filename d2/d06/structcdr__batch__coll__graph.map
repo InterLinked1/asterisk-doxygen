@@ -1,0 +1,5 @@
+<map id="cdr_batch" name="cdr_batch">
+<area shape="rect" id="node2" href="$dc/d81/structcdr__batch__item.html" title="Queued CDR waiting to be batched. " alt="" coords="5,184,127,211"/>
+<area shape="rect" id="node3" href="$d4/d5d/structast__cdr.html" title="Responsible for call detail data. " alt="" coords="31,95,101,121"/>
+<area shape="rect" id="node4" href="$dd/de6/structvarshead.html" title="varshead" alt="" coords="25,5,107,32"/>
+</map>

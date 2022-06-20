@@ -1,0 +1,5 @@
+<map id="chan_iax2_pvt::signaling_queue" name="chan_iax2_pvt::signaling_queue">
+<area shape="rect" id="node2" href="$d7/d9e/structsignaling__queue__entry.html" title="signaling_queue_entry" alt="" coords="11,184,177,211"/>
+<area shape="rect" id="node3" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="51,95,137,121"/>
+<area shape="rect" id="node4" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="19,5,169,32"/>
+</map>

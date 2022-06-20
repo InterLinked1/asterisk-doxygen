@@ -1,0 +1,7 @@
+<map id="msg_data" name="msg_data">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="53,5,205,32"/>
+<area shape="rect" id="node3" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="53,95,204,121"/>
+<area shape="rect" id="node4" href="$df/da1/structast__msg.html" title="A message. " alt="" coords="223,213,301,240"/>
+<area shape="rect" id="node5" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="400,95,513,121"/>
+<area shape="rect" id="node6" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="347,213,524,240"/>
+</map>

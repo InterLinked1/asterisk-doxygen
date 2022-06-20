@@ -1,0 +1,9 @@
+<map id="ast_sip_transport" name="ast_sip_transport">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="262,44,414,71"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="639,57,789,84"/>
+<area shape="rect" id="node3" href="$db/dac/structast__sip__transport__state.html" title="Structure for SIP transport information. " alt="" coords="627,255,801,281"/>
+<area shape="rect" id="node4" href="$df/d9f/structast__dnsmgr__entry.html" title="ast_dnsmgr_entry" alt="" coords="269,176,407,203"/>
+<area shape="rect" id="node5" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="5,64,125,91"/>
+<area shape="rect" id="node6" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="12,239,119,265"/>
+<area shape="rect" id="node7" href="$dc/d1d/structast__ha.html" title="internal representation of ACL entries In principle user applications would have no need for this..." alt="" coords="305,375,371,401"/>
+</map>

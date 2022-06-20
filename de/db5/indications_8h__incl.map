@@ -1,0 +1,18 @@
+<map id="indications.h" name="indications.h">
+<area shape="rect" id="node2" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="551,229,686,256"/>
+<area shape="rect" id="node28" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1250,80,1365,107"/>
+<area shape="rect" id="node3" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="864,304,1002,331"/>
+<area shape="rect" id="node19" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="123,379,236,405"/>
+<area shape="rect" id="node22" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="582,528,729,555"/>
+<area shape="rect" id="node27" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="284,304,435,331"/>
+<area shape="rect" id="node4" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="760,453,903,480"/>
+<area shape="rect" id="node21" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1204,453,1267,480"/>
+<area shape="rect" id="node25" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="359,453,510,480"/>
+<area shape="rect" id="node26" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1046,453,1172,480"/>
+<area shape="rect" id="node29" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2129,155,2268,181"/>
+<area shape="rect" id="node39" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="245,155,392,181"/>
+<area shape="rect" id="node41" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="205,229,362,256"/>
+<area shape="rect" id="node43" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1242,155,1373,181"/>
+<area shape="rect" id="node42" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="72,304,199,331"/>
+<area shape="rect" id="node45" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="1336,229,1514,256"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="video_codec_desc" name="video_codec_desc">
+<area shape="rect" id="node3" href="$de/de3/structvideo__dec__desc.html" title="video_dec_desc" alt="" coords="21,395,144,421"/>
+<area shape="rect" id="node2" href="$d1/d86/structfbuf__t.html" title="fbuf_t" alt="" coords="5,184,64,211"/>
+<area shape="rect" id="node4" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="126,184,213,211"/>
+<area shape="rect" id="node5" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="95,95,244,121"/>
+<area shape="rect" id="node6" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="49,5,141,32"/>
+<area shape="rect" id="node7" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="165,5,323,32"/>
+</map>

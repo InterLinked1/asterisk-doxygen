@@ -1,0 +1,31 @@
+<map id="stasis_message_router.h" name="stasis_message_router.h">
+<area shape="rect" id="node2" href="$d1/da0/app__cdr_8c.html" title="Applications connected with CDR engine. " alt="" coords="5,80,88,107"/>
+<area shape="rect" id="node3" href="$d2/db9/app__forkcdr_8c.html" title="Fork CDR application. " alt="" coords="112,80,219,107"/>
+<area shape="rect" id="node4" href="$df/d44/app__meetme_8c.html" title="Meet me conference bridge and Shared Line Appearances. " alt="" coords="243,80,362,107"/>
+<area shape="rect" id="node5" href="$da/dfb/app__queue_8c.html" title="True call queues with optional send URL on answer. " alt="" coords="387,80,491,107"/>
+<area shape="rect" id="node6" href="$dd/d92/confbridge__manager_8c.html" title="Confbridge manager events for stasis messages. " alt="" coords="515,80,679,107"/>
+<area shape="rect" id="node7" href="$d7/dd2/func__cdr_8c.html" title="Call Detail Record related dialplan functions. " alt="" coords="703,80,790,107"/>
+<area shape="rect" id="node8" href="$d0/da6/aoc_8c.html" title="generic AOC payload generation encoding and decoding " alt="" coords="815,80,871,107"/>
+<area shape="rect" id="node9" href="$dc/df2/cdr_8c.html" title="Call Detail Record API. " alt="" coords="895,80,947,107"/>
+<area shape="rect" id="node10" href="$da/dc9/cel_8c.html" title="Channel Event Logging API. " alt="" coords="972,80,1023,107"/>
+<area shape="rect" id="node11" href="$d7/d4b/main_2endpoints_8c.html" title="Asterisk endpoint API. " alt="" coords="1047,80,1143,107"/>
+<area shape="rect" id="node12" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="1167,80,1257,107"/>
+<area shape="rect" id="node13" href="$da/d10/manager__bridges_8c.html" title="The Asterisk Management Interface &#45; AMI (bridge event handling) " alt="" coords="1282,80,1427,107"/>
+<area shape="rect" id="node14" href="$d0/d1c/manager__channels_8c.html" title="The Asterisk Management Interface &#45; AMI (channel event handling) " alt="" coords="1452,80,1607,107"/>
+<area shape="rect" id="node15" href="$df/d10/manager__endpoints_8c.html" title="The Asterisk Management Interface &#45; AMI (endpoint handling) " alt="" coords="1631,80,1793,107"/>
+<area shape="rect" id="node16" href="$d4/d00/manager__mwi_8c.html" title="The Asterisk Management Interface &#45; AMI (MWI event handling) " alt="" coords="1817,80,1940,107"/>
+<area shape="rect" id="node17" href="$dd/d65/manager__system_8c.html" title="System AMI event handling. " alt="" coords="1965,80,2110,107"/>
+<area shape="rect" id="node18" href="$d4/d8b/sounds_8c.html" title="Sound file format and description index. " alt="" coords="2134,80,2213,107"/>
+<area shape="rect" id="node19" href="$d2/d78/stasis__message__router_8c.html" title="Stasis message router implementation. " alt="" coords="2237,80,2419,107"/>
+<area shape="rect" id="node20" href="$d6/d5d/pjsip__outbound__registrations_8c.html" title="Prometheus PJSIP Outbound Registration Metrics. " alt="" coords="2443,80,2661,107"/>
+<area shape="rect" id="node21" href="$dd/de9/res__agi_8c.html" title="AGI &#45; the Asterisk Gateway Interface. " alt="" coords="2685,80,2763,107"/>
+<area shape="rect" id="node22" href="$d0/dff/res__chan__stats_8c.html" title="res_chan_stats.c" alt="" coords="2788,80,2919,107"/>
+<area shape="rect" id="node23" href="$d1/da4/res__corosync_8c.html" title="res_corosync.c" alt="" coords="2943,80,3060,107"/>
+<area shape="rect" id="node24" href="$d6/d6a/res__endpoint__stats_8c.html" title="res_endpoint_stats.c" alt="" coords="3084,80,3239,107"/>
+<area shape="rect" id="node25" href="$d2/dd0/res__mwi__devstate_8c.html" title="res_mwi_devstate.c" alt="" coords="3263,80,3411,107"/>
+<area shape="rect" id="node26" href="$d2/d80/res__stasis_8c.html" title="Stasis application support. " alt="" coords="3435,80,3533,107"/>
+<area shape="rect" id="node27" href="$d3/d5e/res_2stasis_2app_8c.html" title="Stasis application support. " alt="" coords="3557,80,3614,107"/>
+<area shape="rect" id="node28" href="$d6/dd1/test__devicestate_8c.html" title="Device State Test Module. " alt="" coords="3639,80,3777,107"/>
+<area shape="rect" id="node29" href="$db/d00/test__stasis_8c.html" title="Test Stasis message bus. " alt="" coords="3802,80,3905,107"/>
+<area shape="rect" id="node30" href="$d4/dbd/test__stasis__channels_8c.html" title="Test Stasis Channel messages and objects. " alt="" coords="3929,80,4095,107"/>
+</map>

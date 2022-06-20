@@ -1,0 +1,51 @@
+<map id="causes.h" name="causes.h">
+<area shape="rect" id="node2" href="$d3/d51/chan__mobile_8c.html" title="Bluetooth Mobile Device channel driver. " alt="" coords="5,87,120,114"/>
+<area shape="rect" id="node3" href="$d3/d45/chan__ooh323_8h.html" title="chan_ooh323.h" alt="" coords="144,87,264,114"/>
+<area shape="rect" id="node4" href="$de/d11/app__agent__pool_8c.html" title="Call center agent pool. " alt="" coords="289,87,423,114"/>
+<area shape="rect" id="node5" href="$dc/d22/app__bridgewait_8c.html" title="Application to place the channel into a holding Bridge. " alt="" coords="447,87,577,114"/>
+<area shape="rect" id="node6" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="601,87,687,114"/>
+<area shape="rect" id="node7" href="$dd/d55/app__followme_8c.html" title="Find&#45;Me Follow&#45;Me application. " alt="" coords="712,87,832,114"/>
+<area shape="rect" id="node8" href="$df/d44/app__meetme_8c.html" title="Meet me conference bridge and Shared Line Appearances. " alt="" coords="857,87,975,114"/>
+<area shape="rect" id="node9" href="$d6/d27/app__osplookup_8c.html" title="Open Settlement Protocol (OSP) Applications. " alt="" coords="999,87,1129,114"/>
+<area shape="rect" id="node10" href="$da/dfb/app__queue_8c.html" title="True call queues with optional send URL on answer. " alt="" coords="1153,87,1257,114"/>
+<area shape="rect" id="node11" href="$d9/d45/bridge__builtin__features_8c.html" title="Built in bridging features. " alt="" coords="1281,87,1460,114"/>
+<area shape="rect" id="node12" href="$d2/df4/bridge__builtin__interval__features_8c.html" title="Built in bridging interval features. " alt="" coords="1485,80,1646,121"/>
+<area shape="rect" id="node13" href="$da/d45/chan__alsa_8c.html" title="ALSA sound card channel driver. " alt="" coords="1670,87,1767,114"/>
+<area shape="rect" id="node14" href="$dd/d8a/chan__audiosocket_8c.html" title="AudioSocket Channel. " alt="" coords="1791,87,1939,114"/>
+<area shape="rect" id="node15" href="$d3/d4e/chan__console_8c.html" title="Cross&#45;platform console channel driver. " alt="" coords="1964,87,2084,114"/>
+<area shape="rect" id="node16" href="$d1/d97/chan__dahdi_8c.html" title="DAHDI for Pseudo TDM. " alt="" coords="2108,87,2215,114"/>
+<area shape="rect" id="node17" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="2239,87,2337,114"/>
+<area shape="rect" id="node18" href="$d0/dd6/chan__mgcp_8c.html" title="Implementation of Media Gateway Control Protocol. " alt="" coords="2361,87,2468,114"/>
+<area shape="rect" id="node19" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="2493,87,2603,114"/>
+<area shape="rect" id="node20" href="$de/da4/chan__motif_8c.html" title="Motif Jingle Channel Driver. " alt="" coords="2627,87,2730,114"/>
+<area shape="rect" id="node21" href="$d3/dac/chan__oss_8c.html" title="Channel driver for OSS sound cards. " alt="" coords="2755,87,2848,114"/>
+<area shape="rect" id="node22" href="$da/dde/chan__phone_8c.html" title="Generic Linux Telephony Interface driver. " alt="" coords="2873,87,2983,114"/>
+<area shape="rect" id="node23" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="3007,87,3107,114"/>
+<area shape="rect" id="node24" href="$d0/d2b/chan__rtp_8c.html" title="RTP (Multicast and Unicast) Media Channel. " alt="" coords="3131,87,3221,114"/>
+<area shape="rect" id="node25" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="3245,87,3334,114"/>
+<area shape="rect" id="node26" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="3359,87,3468,114"/>
+<area shape="rect" id="node27" href="$d1/d6d/chan__unistim_8c.html" title="chan_unistim channel driver for Asterisk " alt="" coords="3493,87,3611,114"/>
+<area shape="rect" id="node28" href="$de/dfe/isdn__lib_8c.html" title="Interface to mISDN. " alt="" coords="3635,87,3715,114"/>
+<area shape="rect" id="node29" href="$d2/d09/sig__analog_8c.html" title="Analog signaling module. " alt="" coords="3739,87,3840,114"/>
+<area shape="rect" id="node30" href="$d0/d95/bridge_8c.html" title="Bridging API. " alt="" coords="3865,87,3938,114"/>
+<area shape="rect" id="node31" href="$d3/d32/bridge__channel_8c.html" title="Bridging Channel API. " alt="" coords="3963,87,4093,114"/>
+<area shape="rect" id="node32" href="$d3/d5a/ccss_8c.html" title="Call Completion Supplementary Services implementation. " alt="" coords="4117,87,4179,114"/>
+<area shape="rect" id="node33" href="$dc/df2/cdr_8c.html" title="Call Detail Record API. " alt="" coords="4203,87,4255,114"/>
+<area shape="rect" id="node34" href="$d4/d28/channel_8c.html" title="Channel Management. " alt="" coords="4280,87,4363,114"/>
+<area shape="rect" id="node35" href="$df/d2e/core__unreal_8c.html" title="Unreal channel derivatives framework for channel drivers like local channels. " alt="" coords="4387,87,4495,114"/>
+<area shape="rect" id="node36" href="$de/d43/dial_8c.html" title="Dialing API. " alt="" coords="4519,87,4574,114"/>
+<area shape="rect" id="node37" href="$d5/d92/features_8c.html" title="Routines implementing call features as call pickup, parking and transfer. " alt="" coords="4598,87,4685,114"/>
+<area shape="rect" id="node38" href="$db/d94/pbx_8c.html" title="Core PBX routines. " alt="" coords="4709,87,4765,114"/>
+<area shape="rect" id="node39" href="$df/d1d/pbx__builtins_8c.html" title="Core PBX builtin routines. " alt="" coords="4790,87,4898,114"/>
+<area shape="rect" id="node40" href="$d9/dbf/pickup_8c.html" title="Routines implementing call pickup. " alt="" coords="4923,87,4997,114"/>
+<area shape="rect" id="node41" href="$da/d49/resource__channels_8c.html" title="Implementation for ARI stubs. " alt="" coords="5022,87,5175,114"/>
+<area shape="rect" id="node42" href="$d1/db7/parking__bridge__features_8c.html" title="Parking Bridge DTMF and Interval features. " alt="" coords="5200,87,5387,114"/>
+<area shape="rect" id="node43" href="$d6/d14/parking__tests_8c.html" title="Call Parking Unit Tests. " alt="" coords="5411,87,5530,114"/>
+<area shape="rect" id="node44" href="$d1/d75/res__pjsip__refer_8c.html" title="res_pjsip_refer.c" alt="" coords="5555,87,5680,114"/>
+<area shape="rect" id="node45" href="$da/d5c/res__pjsip__rfc3326_8c.html" title="res_pjsip_rfc3326.c" alt="" coords="5704,87,5848,114"/>
+<area shape="rect" id="node46" href="$d5/d82/res__pjsip__sdp__rtp_8c.html" title="SIP SDP media stream handling. " alt="" coords="5872,87,6016,114"/>
+<area shape="rect" id="node47" href="$d4/d92/res__pjsip__session_8c.html" title="res_pjsip_session.c" alt="" coords="6040,87,6184,114"/>
+<area shape="rect" id="node48" href="$d2/d80/res__stasis_8c.html" title="Stasis application support. " alt="" coords="6209,87,6306,114"/>
+<area shape="rect" id="node49" href="$d7/d8e/test__cdr_8c.html" title="CDR unit tests. " alt="" coords="6330,87,6414,114"/>
+<area shape="rect" id="node50" href="$db/dc4/test__cel_8c.html" title="CEL unit tests. " alt="" coords="6439,87,6521,114"/>
+</map>

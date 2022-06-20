@@ -1,0 +1,9 @@
+<map id="unload_strings" name="unload_strings">
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="166,184,286,211"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,95,156,121"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,95,293,121"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="205,5,268,32"/>
+<area shape="rect" id="node6" href="$db/d00/structunload__string.html" title="unload_string" alt="" coords="311,184,419,211"/>
+<area shape="rect" id="node7" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="331,95,398,121"/>
+<area shape="rect" id="node8" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="295,5,435,32"/>
+</map>

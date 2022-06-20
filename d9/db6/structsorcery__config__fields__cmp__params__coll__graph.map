@@ -1,0 +1,8 @@
+<map id="sorcery_config_fields_cmp_params" name="sorcery_config_fields_cmp_params">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="221,5,334,32"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="65,282,242,309"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="77,133,229,159"/>
+<area shape="rect" id="node5" href="$d2/d88/structast__sorcery.html" title="Full structure for sorcery. " alt="" coords="424,133,520,159"/>
+<area shape="rect" id="node6" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="657,133,756,159"/>
+<area shape="rect" id="node7" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="651,5,762,32"/>
+</map>

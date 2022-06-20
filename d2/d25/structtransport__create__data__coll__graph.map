@@ -1,0 +1,7 @@
+<map id="transport_create_data" name="transport_create_data">
+<area shape="rect" id="node2" href="$d9/df4/structws__transport.html" title="Wrapper for pjsip_transport, for storing the WebSocket session. " alt="" coords="292,199,396,225"/>
+<area shape="rect" id="node3" href="$db/db6/structast__websocket.html" title="Structure definition for session. " alt="" coords="155,109,271,136"/>
+<area shape="rect" id="node4" href="$d7/de7/structwebsocket__client.html" title="websocket_client" alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node5" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="160,5,267,32"/>
+<area shape="rect" id="node6" href="$de/d03/structast__iostream.html" title="ast_iostream" alt="" coords="296,5,403,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ast_sip_endpoint_subscription_configuration" name="ast_sip_endpoint_subscription_configuration">
+<area shape="rect" id="node2" href="$d9/dbd/structast__sip__mwi__configuration.html" title="Endpoint configuration for unsolicited MWI. " alt="" coords="18,184,207,211"/>
+<area shape="rect" id="node3" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="79,5,231,32"/>
+<area shape="rect" id="node4" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="228,95,379,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="holding_channel" name="holding_channel">
+<area shape="rect" id="node2" href="$d9/da1/structast__silence__generator.html" title="ast_silence_generator" alt="" coords="5,213,168,240"/>
+<area shape="rect" id="node3" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="182,95,274,121"/>
+<area shape="rect" id="node4" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="263,213,417,240"/>
+<area shape="rect" id="node5" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="185,5,271,32"/>
+</map>

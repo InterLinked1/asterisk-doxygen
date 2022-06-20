@@ -1,0 +1,10 @@
+<map id="internal_state" name="internal_state">
+<area shape="rect" id="node2" href="$db/dac/structast__sip__transport__state.html" title="Structure for SIP transport information. " alt="" coords="5,260,179,287"/>
+<area shape="rect" id="node7" href="$d1/d04/structast__sip__transport.html" title="Transport to bind to. " alt="" coords="353,349,487,376"/>
+<area shape="rect" id="node3" href="$df/d9f/structast__dnsmgr__entry.html" title="ast_dnsmgr_entry" alt="" coords="472,118,611,145"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="519,5,639,32"/>
+<area shape="rect" id="node5" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="315,5,421,32"/>
+<area shape="rect" id="node6" href="$dc/d1d/structast__ha.html" title="internal representation of ACL entries In principle user applications would have no need for this..." alt="" coords="255,118,321,145"/>
+<area shape="rect" id="node8" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="771,118,923,145"/>
+<area shape="rect" id="node9" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="919,260,1070,287"/>
+</map>

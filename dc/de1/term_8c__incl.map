@@ -1,0 +1,22 @@
+<map id="term.c" name="term.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="766,80,850,107"/>
+<area shape="rect" id="node22" href="$d4/d78/__private_8h.html" title="Prototypes for public functions only of internal interest,. " alt="" coords="1326,80,1465,107"/>
+<area shape="rect" id="node27" href="$db/d45/term_8h.html" title="Handy terminal functions for vt* terms. " alt="" coords="1830,80,1948,107"/>
+<area shape="rect" id="node28" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1780,155,1894,181"/>
+<area shape="rect" id="node37" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="2440,80,2554,107"/>
+<area shape="rect" id="node50" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="3406,229,3585,256"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1586,379,1741,405"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="659,155,796,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="820,155,955,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1590,453,1737,480"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1138,229,1280,256"/>
+<area shape="rect" id="node30" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1540,229,1603,256"/>
+<area shape="rect" id="node31" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1870,304,2017,331"/>
+<area shape="rect" id="node34" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="2023,229,2174,256"/>
+<area shape="rect" id="node35" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2198,229,2324,256"/>
+<area shape="rect" id="node36" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="2126,304,2260,331"/>
+<area shape="rect" id="node38" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2529,155,2668,181"/>
+<area shape="rect" id="node47" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="2692,155,2838,181"/>
+<area shape="rect" id="node48" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2862,155,3020,181"/>
+<area shape="rect" id="node49" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="3044,155,3174,181"/>
+</map>

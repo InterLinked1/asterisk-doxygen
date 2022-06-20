@@ -1,0 +1,17 @@
+<map id="http.h" name="http.h">
+<area shape="rect" id="node2" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="394,80,520,107"/>
+<area shape="rect" id="node18" href="$d4/ddf/tcptls_8h.html" title="Generic support for tcp/tls servers in Asterisk. " alt="" coords="561,80,684,107"/>
+<area shape="rect" id="node22" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="242,155,392,181"/>
+<area shape="rect" id="node3" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="573,155,688,181"/>
+<area shape="rect" id="node9" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="202,379,349,405"/>
+<area shape="rect" id="node4" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1088,229,1226,256"/>
+<area shape="rect" id="node7" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="610,304,672,331"/>
+<area shape="rect" id="node11" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="256,229,370,256"/>
+<area shape="rect" id="node14" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="816,304,943,331"/>
+<area shape="rect" id="node15" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="394,229,541,256"/>
+<area shape="rect" id="node16" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="22,304,180,331"/>
+<area shape="rect" id="node17" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="565,229,696,256"/>
+<area shape="rect" id="node19" href="$dd/d27/iostream_8h.html" title="Generic abstraction for input/output streams. " alt="" coords="1083,155,1228,181"/>
+<area shape="rect" id="node21" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="917,229,1064,256"/>
+<area shape="rect" id="node20" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1302,229,1386,256"/>
+</map>

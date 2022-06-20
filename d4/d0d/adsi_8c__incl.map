@@ -1,0 +1,17 @@
+<map id="adsi.c" name="adsi.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="790,80,874,107"/>
+<area shape="rect" id="node22" href="$df/de2/adsi_8h.html" title="ADSI Support (built upon Caller*ID) " alt="" coords="1796,80,1911,107"/>
+<area shape="rect" id="node25" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1433,80,1546,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1755,304,1910,331"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="684,155,821,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="845,155,980,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1759,379,1906,405"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1180,229,1322,256"/>
+<area shape="rect" id="node23" href="$de/d47/callerid_8h.html" title="CallerID (and other GR30) management and generation Includes code and algorithms from the Zapata libr..." alt="" coords="2014,155,2147,181"/>
+<area shape="rect" id="node24" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="2030,229,2160,256"/>
+<area shape="rect" id="node27" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1692,155,1754,181"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1536,229,1683,256"/>
+<area shape="rect" id="node32" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="1414,155,1565,181"/>
+<area shape="rect" id="node33" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1806,155,1933,181"/>
+<area shape="rect" id="node34" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="1870,229,2005,256"/>
+</map>

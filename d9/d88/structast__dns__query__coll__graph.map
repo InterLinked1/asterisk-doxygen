@@ -1,0 +1,6 @@
+<map id="ast_dns_query" name="ast_dns_query">
+<area shape="rect" id="node2" href="$d5/d8d/structast__dns__result.html" title="The result of a DNS query. " alt="" coords="8,199,123,225"/>
+<area shape="rect" id="node3" href="$df/d30/structast__dns__result_1_1dns__records.html" title="Records returned. " alt="" coords="15,109,115,136"/>
+<area shape="rect" id="node4" href="$d3/db7/structast__dns__record.html" title="For AST_LIST. " alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node5" href="$de/d6f/structast__dns__resolver.html" title="DNS resolver implementation. " alt="" coords="147,199,277,225"/>
+</map>

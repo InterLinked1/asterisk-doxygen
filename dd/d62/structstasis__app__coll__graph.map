@@ -1,0 +1,11 @@
+<map id="stasis_app" name="stasis_app">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="234,273,348,300"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="138,543,316,569"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="151,401,303,427"/>
+<area shape="rect" id="node5" href="$d1/da1/structast__json.html" title="Abstract JSON element (object, array, string, int, ...). " alt="" coords="447,273,522,300"/>
+<area shape="rect" id="node6" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="613,5,710,32"/>
+<area shape="rect" id="node9" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="662,95,805,121"/>
+<area shape="rect" id="node7" href="$d4/d1b/structstasis__message__router.html" title="stasis_message_router" alt="" coords="662,273,832,300"/>
+<area shape="rect" id="node8" href="$d6/d05/structstasis__message__route.html" title="stasis_message_route" alt="" coords="840,184,1006,211"/>
+<area shape="rect" id="node10" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="910,95,1070,121"/>
+</map>

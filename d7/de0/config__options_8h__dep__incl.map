@@ -1,0 +1,51 @@
+<map id="config_options.h" name="config_options.h">
+<area shape="rect" id="node2" href="$de/d11/app__agent__pool_8c.html" title="Call center agent pool. " alt="" coords="1154,80,1289,107"/>
+<area shape="rect" id="node3" href="$d9/d1a/app__skel_8c.html" title="Skeleton application. " alt="" coords="1313,80,1402,107"/>
+<area shape="rect" id="node4" href="$dc/d40/conf__config__parser_8c.html" title="ConfBridge config parser. " alt="" coords="1427,80,1579,107"/>
+<area shape="rect" id="node5" href="$de/da4/chan__motif_8c.html" title="Motif Jingle Channel Driver. " alt="" coords="1603,80,1706,107"/>
+<area shape="rect" id="node6" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1730,80,1809,107"/>
+<area shape="rect" id="node27" href="$db/d43/bucket_8c.html" title="Bucket File API. " alt="" coords="2797,229,2873,256"/>
+<area shape="rect" id="node29" href="$d7/d69/sorcery_8c.html" title="Sorcery Data Access Layer API. " alt="" coords="2639,155,2718,181"/>
+<area shape="rect" id="node33" href="$dc/df2/cdr_8c.html" title="Call Detail Record API. " alt="" coords="2351,80,2403,107"/>
+<area shape="rect" id="node34" href="$da/dc9/cel_8c.html" title="Channel Event Logging API. " alt="" coords="2428,80,2479,107"/>
+<area shape="rect" id="node35" href="$d6/dc8/config__options_8c.html" title="Configuration Option&#45;handling. " alt="" coords="2503,80,2628,107"/>
+<area shape="rect" id="node36" href="$de/d71/features__config_8c.html" title="features_config.c" alt="" coords="2652,80,2783,107"/>
+<area shape="rect" id="node37" href="$da/ddd/named__acl_8c.html" title="Named Access Control Lists. " alt="" coords="2807,80,2910,107"/>
+<area shape="rect" id="node38" href="$d0/df4/stasis_8c.html" title="Stasis Message Bus API. " alt="" coords="2934,80,3005,107"/>
+<area shape="rect" id="node39" href="$d2/dce/udptl_8c.html" title="UDPTL support for T.38 faxing. " alt="" coords="3029,80,3094,107"/>
+<area shape="rect" id="node40" href="$dc/dec/res_2ari_2config_8c.html" title="Config framework stuffz for ARI. " alt="" coords="3118,80,3189,107"/>
+<area shape="rect" id="node41" href="$da/ded/parking__applications_8c.html" title="Call Parking Applications. " alt="" coords="3213,80,3376,107"/>
+<area shape="rect" id="node42" href="$d0/d39/parking__manager_8c.html" title="Call Parking Manager Actions and Events. " alt="" coords="3400,80,3544,107"/>
+<area shape="rect" id="node43" href="$d0/daf/parking__ui_8c.html" title="Call Parking CLI commands. " alt="" coords="3568,80,3667,107"/>
+<area shape="rect" id="node44" href="$db/d43/res__hep_8c.html" title="Routines for integration with Homer using HEPv3. " alt="" coords="3691,80,3775,107"/>
+<area shape="rect" id="node45" href="$d7/d45/res__parking_8c.html" title="Call Parking Resource. " alt="" coords="3800,80,3907,107"/>
+<area shape="rect" id="node46" href="$d7/d1b/res__prometheus_8c.html" title="Core Prometheus metrics API. " alt="" coords="3931,80,4069,107"/>
+<area shape="rect" id="node47" href="$d0/d5c/res__resolver__unbound_8c.html" title="res_resolver_unbound.c" alt="" coords="4094,80,4269,107"/>
+<area shape="rect" id="node48" href="$d0/d0c/res__statsd_8c.html" title="res_statsd.c" alt="" coords="4293,80,4393,107"/>
+<area shape="rect" id="node49" href="$dc/d6b/res__xmpp_8c.html" title="XMPP client and component module. " alt="" coords="4417,80,4513,107"/>
+<area shape="rect" id="node50" href="$d8/d4f/test__config_8c.html" title="Configuration unit tests. " alt="" coords="4538,80,4641,107"/>
+<area shape="rect" id="node7" href="$d8/d8c/res__pjsip_8h.html" title="res_pjsip.h" alt="" coords="1207,155,1297,181"/>
+<area shape="rect" id="node8" href="$dd/d92/func__pjsip__aor_8c.html" title="Get information about a PJSIP AOR. " alt="" coords="1508,229,1631,256"/>
+<area shape="rect" id="node9" href="$de/d6a/func__pjsip__contact_8c.html" title="Get information about a PJSIP contact. " alt="" coords="1655,229,1806,256"/>
+<area shape="rect" id="node10" href="$d0/d7b/func__pjsip__endpoint_8c.html" title="Get information about a PJSIP endpoint. " alt="" coords="1830,229,1989,256"/>
+<area shape="rect" id="node11" href="$d5/dcb/config__auth_8c.html" title="config_auth.c" alt="" coords="2013,229,2120,256"/>
+<area shape="rect" id="node12" href="$d9/d9e/config__domain__aliases_8c.html" title="config_domain_aliases.c" alt="" coords="2145,229,2322,256"/>
+<area shape="rect" id="node13" href="$dd/dfd/config__global_8c.html" title="config_global.c" alt="" coords="2346,229,2462,256"/>
+<area shape="rect" id="node14" href="$df/dfd/config__system_8c.html" title="config_system.c" alt="" coords="5,229,131,256"/>
+<area shape="rect" id="node15" href="$d3/d17/config__transport_8c.html" title="config_transport.c" alt="" coords="155,229,293,256"/>
+<area shape="rect" id="node16" href="$d0/dad/location_8c.html" title="location.c" alt="" coords="317,229,400,256"/>
+<area shape="rect" id="node17" href="$d0/df0/pjsip__cli_8c.html" title="pjsip_cli.c" alt="" coords="424,229,507,256"/>
+<area shape="rect" id="node18" href="$dc/df6/pjsip__configuration_8c.html" title="pjsip_configuration.c" alt="" coords="531,229,683,256"/>
+<area shape="rect" id="node19" href="$de/d96/res__pjsip_8c.html" title="res_pjsip.c" alt="" coords="707,229,797,256"/>
+<area shape="rect" id="node20" href="$d5/d5e/res__pjsip__acl_8c.html" title="res_pjsip_acl.c" alt="" coords="821,229,936,256"/>
+<area shape="rect" id="node21" href="$d9/d63/res__pjsip__config__wizard_8c.html" title="PJSIP Configuration Wizard. " alt="" coords="960,229,1141,256"/>
+<area shape="rect" id="node22" href="$d2/d3d/res__pjsip__exten__state_8c.html" title="res_pjsip_exten_state.c" alt="" coords="1166,229,1338,256"/>
+<area shape="rect" id="node23" href="$d8/d25/res__pjsip__mwi_8c.html" title="res_pjsip_mwi.c" alt="" coords="1362,229,1483,256"/>
+<area shape="rect" id="node24" href="$d3/dc6/func__sorcery_8c.html" title="Get a field from a sorcery object. " alt="" coords="1468,155,1580,181"/>
+<area shape="rect" id="node25" href="$dd/d94/bucket_8h.html" title="Bucket File API. " alt="" coords="2487,155,2564,181"/>
+<area shape="rect" id="node26" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="2487,229,2569,256"/>
+<area shape="rect" id="node28" href="$d5/d52/res__http__media__cache_8c.html" title="res_http_media_cache.c" alt="" coords="2593,229,2772,256"/>
+<area shape="rect" id="node30" href="$df/d20/resource__asterisk_8c.html" title="Implementation for ARI stubs. " alt="" coords="1857,155,2004,181"/>
+<area shape="rect" id="node31" href="$d2/d94/res__mwi__external_8c.html" title="Core external MWI support. " alt="" coords="2028,155,2172,181"/>
+<area shape="rect" id="node32" href="$de/deb/res__pjproject_8c.html" title="Bridge PJPROJECT logging to Asterisk logging. " alt="" coords="2196,155,2311,181"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="minivm_accounts" name="minivm_accounts">
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="167,213,287,240"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,124,156,151"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,124,293,151"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="205,5,268,32"/>
+<area shape="rect" id="node6" href="$dc/d7b/structminivm__account.html" title="minivm_account" alt="" coords="312,213,439,240"/>
+<area shape="rect" id="node7" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="326,124,425,151"/>
+<area shape="rect" id="node8" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="320,5,431,32"/>
+</map>

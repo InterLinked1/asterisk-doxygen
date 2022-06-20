@@ -1,0 +1,17 @@
+<map id="xmldoc.h" name="xmldoc.h">
+<area shape="rect" id="node2" href="$d0/d62/xml_8h.html" title="Asterisk XML abstraction layer. " alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="242,304,399,331"/>
+<area shape="rect" id="node10" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="675,80,806,107"/>
+<area shape="rect" id="node4" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="674,603,821,629"/>
+<area shape="rect" id="node5" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="293,379,420,405"/>
+<area shape="rect" id="node6" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="691,453,804,480"/>
+<area shape="rect" id="node7" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="981,528,1044,555"/>
+<area shape="rect" id="node9" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="488,528,615,555"/>
+<area shape="rect" id="node13" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="683,229,798,256"/>
+<area shape="rect" id="node17" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="419,155,598,181"/>
+<area shape="rect" id="node18" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="859,304,993,331"/>
+<area shape="rect" id="node14" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="474,304,613,331"/>
+<area shape="rect" id="node16" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="637,304,783,331"/>
+<area shape="rect" id="node19" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="1171,379,1308,405"/>
+<area shape="rect" id="node20" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="729,379,880,405"/>
+</map>

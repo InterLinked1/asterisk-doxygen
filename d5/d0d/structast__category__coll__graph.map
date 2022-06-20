@@ -1,0 +1,6 @@
+<map id="ast_category" name="ast_category">
+<area shape="rect" id="node3" href="$da/d25/structast__category__template__instance.html" title="ast_category_template\l_instance" alt="" coords="5,337,176,379"/>
+<area shape="rect" id="node2" href="$d0/d48/structast__category_1_1template__instance__list.html" title="template_instance_list" alt="" coords="138,456,305,483"/>
+<area shape="rect" id="node4" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="300,133,399,159"/>
+<area shape="rect" id="node5" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="178,5,289,32"/>
+</map>

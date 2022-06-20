@@ -1,0 +1,11 @@
+<map id="ast_xml_doc_item_list" name="ast_xml_doc_item_list">
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="599,53,719,80"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="313,5,464,32"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="332,56,445,83"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="50,56,113,83"/>
+<area shape="rect" id="node6" href="$d8/d46/structast__xml__doc__item.html" title="Struct that contains the XML documentation for a particular item. Note that this is an ao2 ref counte..." alt="" coords="589,191,728,217"/>
+<area shape="rect" id="node7" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="355,149,422,176"/>
+<area shape="rect" id="node8" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="11,149,151,176"/>
+<area shape="rect" id="node9" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,244,157,271"/>
+<area shape="rect" id="node10" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="313,263,464,289"/>
+</map>

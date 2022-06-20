@@ -1,0 +1,15 @@
+<map id="parking.h" name="parking.h">
+<area shape="rect" id="node2" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="5,379,163,405"/>
+<area shape="rect" id="node6" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="433,80,561,107"/>
+<area shape="rect" id="node3" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="8,603,155,629"/>
+<area shape="rect" id="node4" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="43,453,170,480"/>
+<area shape="rect" id="node5" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="101,528,214,555"/>
+<area shape="rect" id="node7" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="114,229,302,256"/>
+<area shape="rect" id="node10" href="$de/d41/bridge__channel_8h.html" title="asterisk/bridge_channel.h" alt="" coords="335,155,521,181"/>
+<area shape="rect" id="node12" href="$dd/dff/bridge__roles_8h.html" title="Channel Bridging Roles API. " alt="" coords="393,304,559,331"/>
+<area shape="rect" id="node13" href="$d3/d08/dsp_8h.html" title="Convenient Signal Processing routines. " alt="" coords="605,155,715,181"/>
+<area shape="rect" id="node14" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="740,155,855,181"/>
+<area shape="rect" id="node8" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="139,304,277,331"/>
+<area shape="rect" id="node9" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="246,379,397,405"/>
+<area shape="rect" id="node11" href="$d0/d3b/bridge__technology_8h.html" title="Channel Bridging API. " alt="" coords="327,229,529,256"/>
+</map>

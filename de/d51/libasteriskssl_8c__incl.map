@@ -1,0 +1,20 @@
+<map id="libasteriskssl.c" name="libasteriskssl.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1139,80,1223,107"/>
+<area shape="rect" id="node22" href="$d4/d78/__private_8h.html" title="Prototypes for public functions only of internal interest,. " alt="" coords="2003,80,2142,107"/>
+<area shape="rect" id="node29" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1913,155,2027,181"/>
+<area shape="rect" id="node36" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1516,229,1643,256"/>
+<area shape="rect" id="node38" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1865,80,1979,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1502,379,1657,405"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="693,155,831,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1165,155,1300,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1506,453,1653,480"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1257,229,1400,256"/>
+<area shape="rect" id="node30" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="2237,229,2300,256"/>
+<area shape="rect" id="node32" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="2306,304,2453,331"/>
+<area shape="rect" id="node35" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="1885,229,2036,256"/>
+<area shape="rect" id="node37" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="1512,304,1647,331"/>
+<area shape="rect" id="node39" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2687,155,2826,181"/>
+<area shape="rect" id="node48" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="2287,155,2434,181"/>
+<area shape="rect" id="node49" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="3058,155,3215,181"/>
+<area shape="rect" id="node50" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1707,155,1838,181"/>
+</map>

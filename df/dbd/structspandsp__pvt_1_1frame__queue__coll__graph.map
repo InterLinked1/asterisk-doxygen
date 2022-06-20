@@ -1,0 +1,10 @@
+<map id="spandsp_pvt::frame_queue" name="spandsp_pvt::frame_queue">
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="177,184,297,211"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,95,156,121"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,95,293,121"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="205,5,268,32"/>
+<area shape="rect" id="node6" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="328,184,415,211"/>
+<area shape="rect" id="node7" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="318,95,467,121"/>
+<area shape="rect" id="node8" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="319,5,411,32"/>
+<area shape="rect" id="node9" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="435,5,593,32"/>
+</map>

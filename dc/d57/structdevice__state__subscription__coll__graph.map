@@ -1,0 +1,10 @@
+<map id="device_state_subscription" name="device_state_subscription">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="25,95,177,121"/>
+<area shape="rect" id="node9" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="136,184,287,211"/>
+<area shape="rect" id="node3" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="311,184,454,211"/>
+<area shape="rect" id="node4" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="529,95,668,121"/>
+<area shape="rect" id="node7" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="558,184,751,211"/>
+<area shape="rect" id="node5" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="474,5,563,32"/>
+<area shape="rect" id="node6" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="588,5,766,32"/>
+<area shape="rect" id="node8" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="334,95,431,121"/>
+</map>

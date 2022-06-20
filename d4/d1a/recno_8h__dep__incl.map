@@ -1,0 +1,10 @@
+<map id="recno.h" name="recno.h">
+<area shape="rect" id="node2" href="$da/dac/rec__close_8c.html" title="rec_close.c" alt="" coords="5,80,99,107"/>
+<area shape="rect" id="node3" href="$d8/d4d/rec__delete_8c.html" title="rec_delete.c" alt="" coords="123,80,223,107"/>
+<area shape="rect" id="node4" href="$d8/d89/rec__get_8c.html" title="rec_get.c" alt="" coords="247,80,329,107"/>
+<area shape="rect" id="node5" href="$dc/d8a/rec__open_8c.html" title="rec_open.c" alt="" coords="353,80,445,107"/>
+<area shape="rect" id="node6" href="$df/d7a/rec__put_8c.html" title="rec_put.c" alt="" coords="469,80,550,107"/>
+<area shape="rect" id="node7" href="$d8/dc1/rec__search_8c.html" title="rec_search.c" alt="" coords="574,80,677,107"/>
+<area shape="rect" id="node8" href="$dc/d11/rec__seq_8c.html" title="rec_seq.c" alt="" coords="701,80,784,107"/>
+<area shape="rect" id="node9" href="$d9/d66/rec__utils_8c.html" title="rec_utils.c" alt="" coords="809,80,895,107"/>
+</map>

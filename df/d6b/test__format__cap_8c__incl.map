@@ -1,0 +1,19 @@
+<map id="test_format_cap.c" name="test_format_cap.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="919,155,1003,181"/>
+<area shape="rect" id="node22" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1625,80,1738,107"/>
+<area shape="rect" id="node27" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1464,80,1600,107"/>
+<area shape="rect" id="node28" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="2167,229,2294,256"/>
+<area shape="rect" id="node29" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="1854,80,1981,107"/>
+<area shape="rect" id="node31" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="2063,155,2193,181"/>
+<area shape="rect" id="node33" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="2067,80,2229,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="317,229,472,256"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="813,229,950,256"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="974,229,1109,256"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,304,152,331"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1026,304,1169,331"/>
+<area shape="rect" id="node23" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1620,155,1721,181"/>
+<area shape="rect" id="node25" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1588,229,1719,256"/>
+<area shape="rect" id="node24" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1790,229,1941,256"/>
+<area shape="rect" id="node26" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1596,304,1711,331"/>
+<area shape="rect" id="node32" href="$d1/d84/endian_8h.html" title="Asterisk architecture endianess compatibility definitions. " alt="" coords="1745,155,1876,181"/>
+</map>

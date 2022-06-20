@@ -1,0 +1,19 @@
+<map id="exten_state_subscription" name="exten_state_subscription">
+<area shape="rect" id="node2" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="483,171,622,197"/>
+<area shape="rect" id="node6" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="760,373,953,400"/>
+<area shape="rect" id="node14" href="$d0/dd7/structsip__subscription__tree.html" title="A tree of SIP subscriptions. " alt="" coords="1103,171,1261,197"/>
+<area shape="rect" id="node16" href="$d5/d3b/structast__sip__sched__task.html" title="ast_sip_sched_task" alt="" coords="783,171,930,197"/>
+<area shape="rect" id="node3" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="202,144,291,171"/>
+<area shape="rect" id="node4" href="$d3/d60/structtps__task.html" title="tps_task structure is queued to a taskprocessor " alt="" coords="5,144,81,171"/>
+<area shape="rect" id="node5" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="157,195,336,221"/>
+<area shape="rect" id="node7" href="$d0/d01/structast__taskprocessor__listener__callbacks.html" title="ast_taskprocessor_listener\l_callbacks" alt="" coords="456,366,649,407"/>
+<area shape="rect" id="node8" href="$db/d02/structast__sip__subscription.html" title="Structure representing a &quot;virtual&quot; SIP subscription. " alt="" coords="1445,239,1596,265"/>
+<area shape="rect" id="node9" href="$d8/d6c/structast__sip__subscription__handler.html" title="ast_sip_subscription\l_handler" alt="" coords="1107,261,1257,302"/>
+<area shape="rect" id="node10" href="$d1/d5b/structast__sip__notifier.html" title="ast_sip_notifier" alt="" coords="797,272,916,299"/>
+<area shape="rect" id="node11" href="$db/dd4/structast__sip__subscriber.html" title="ast_sip_subscriber" alt="" coords="787,323,927,349"/>
+<area shape="rect" id="node12" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="1125,431,1239,457"/>
+<area shape="rect" id="node13" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1432,452,1609,479"/>
+<area shape="rect" id="node15" href="$d3/d46/structast__sip__endpoint.html" title="An entity with which Asterisk communicates. " alt="" coords="791,120,922,147"/>
+<area shape="rect" id="node17" href="$d9/df9/structsubscription__persistence.html" title="Structure used for persisting an inbound subscription. " alt="" coords="767,221,947,248"/>
+<area shape="rect" id="node18" href="$df/dc3/structast__sip__pubsub__body__generator.html" title="Pubsub body generator. " alt="" coords="1103,365,1261,406"/>
+</map>

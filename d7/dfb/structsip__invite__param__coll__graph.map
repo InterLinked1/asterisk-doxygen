@@ -1,0 +1,4 @@
+<map id="sip_invite_param" name="sip_invite_param">
+<area shape="rect" id="node2" href="$db/da1/structsip__proxy.html" title="definition of a sip proxy server " alt="" coords="29,95,112,121"/>
+<area shape="rect" id="node3" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="17,5,124,32"/>
+</map>

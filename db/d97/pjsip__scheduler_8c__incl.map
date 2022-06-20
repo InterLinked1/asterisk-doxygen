@@ -1,0 +1,29 @@
+<map id="pjsip_scheduler.c" name="pjsip_scheduler.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="854,87,938,114"/>
+<area shape="rect" id="node22" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="2459,87,2603,114"/>
+<area shape="rect" id="node45" href="$d7/d5c/res__pjsip__private_8h.html" title="include/res_pjsip_private.h" alt="" coords="1295,87,1486,114"/>
+<area shape="rect" id="node47" href="$d1/d9f/res__pjsip__cli_8h.html" title="asterisk/res_pjsip\l_cli.h" alt="" coords="2627,80,2759,121"/>
+<area shape="rect" id="node49" href="$d0/d1e/taskprocessor_8h.html" title="An API for managing task processing threads that can be shared across modules. " alt="" coords="2783,87,2961,114"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="260,169,415,196"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="907,169,1045,196"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="749,169,883,196"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,244,152,271"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="715,244,858,271"/>
+<area shape="rect" id="node28" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2937,319,3095,345"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1793,393,1919,420"/>
+<area shape="rect" id="node31" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2008,244,2155,271"/>
+<area shape="rect" id="node35" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="3119,319,3270,345"/>
+<area shape="rect" id="node36" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="3117,244,3256,271"/>
+<area shape="rect" id="node37" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="3302,319,3453,345"/>
+<area shape="rect" id="node38" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="2317,169,2451,196"/>
+<area shape="rect" id="node39" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="2019,169,2155,196"/>
+<area shape="rect" id="node40" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="3040,169,3160,196"/>
+<area shape="rect" id="node41" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="1787,169,1943,196"/>
+<area shape="rect" id="node42" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="3184,169,3373,196"/>
+<area shape="rect" id="node43" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="3280,244,3475,271"/>
+<area shape="rect" id="node44" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="1737,319,1871,345"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="2943,393,3089,420"/>
+<area shape="rect" id="node34" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2066,319,2193,345"/>
+<area shape="rect" id="node46" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1323,169,1459,196"/>
+<area shape="rect" id="node48" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="3549,169,3651,196"/>
+</map>

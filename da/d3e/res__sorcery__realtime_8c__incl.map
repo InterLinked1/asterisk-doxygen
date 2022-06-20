@@ -1,0 +1,22 @@
+<map id="res_sorcery_realtime.c" name="res_sorcery_realtime.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="359,453,443,480"/>
+<area shape="rect" id="node23" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1493,80,1629,107"/>
+<area shape="rect" id="node33" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1285,80,1418,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="795,677,950,704"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="887,528,1024,555"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="5,528,140,555"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="799,752,946,779"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1321,603,1464,629"/>
+<area shape="rect" id="node24" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1487,304,1602,331"/>
+<area shape="rect" id="node25" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1575,379,1714,405"/>
+<area shape="rect" id="node26" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1675,603,1737,629"/>
+<area shape="rect" id="node27" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1336,528,1449,555"/>
+<area shape="rect" id="node28" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1875,603,2001,629"/>
+<area shape="rect" id="node29" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1738,379,1885,405"/>
+<area shape="rect" id="node30" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1909,379,2066,405"/>
+<area shape="rect" id="node31" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1241,379,1371,405"/>
+<area shape="rect" id="node32" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1123,453,1257,480"/>
+<area shape="rect" id="node34" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="1099,155,1279,181"/>
+<area shape="rect" id="node36" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="1303,155,1418,181"/>
+<area shape="rect" id="node35" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1237,229,1364,256"/>
+</map>

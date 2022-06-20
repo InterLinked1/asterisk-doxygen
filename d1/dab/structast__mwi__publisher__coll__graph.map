@@ -1,0 +1,8 @@
+<map id="ast_mwi_publisher" name="ast_mwi_publisher">
+<area shape="rect" id="node2" href="$df/dcc/structstasis__state__publisher.html" title="stasis_state_publisher" alt="" coords="117,288,281,315"/>
+<area shape="rect" id="node3" href="$d6/d75/structstasis__state.html" title="stasis_state" alt="" coords="150,199,248,225"/>
+<area shape="rect" id="node4" href="$d8/d54/structstasis__forward.html" title="Forwarding information. " alt="" coords="61,109,174,136"/>
+<area shape="rect" id="node5" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="69,5,166,32"/>
+<area shape="rect" id="node6" href="$d8/d25/structstasis__state__manager.html" title="stasis_state_manager" alt="" coords="198,109,362,136"/>
+<area shape="rect" id="node7" href="$d7/d55/structstasis__message.html" title="stasis_message" alt="" coords="387,109,512,136"/>
+</map>

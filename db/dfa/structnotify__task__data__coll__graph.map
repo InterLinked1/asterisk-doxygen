@@ -1,0 +1,13 @@
+<map id="notify_task_data" name="notify_task_data">
+<area shape="rect" id="node2" href="$d3/d18/structexten__state__subscription.html" title="A subscription for extension state. " alt="" coords="1153,165,1335,192"/>
+<area shape="rect" id="node3" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="304,336,443,363"/>
+<area shape="rect" id="node6" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="552,355,745,381"/>
+<area shape="rect" id="node10" href="$d0/dd7/structsip__subscription__tree.html" title="A tree of SIP subscriptions. " alt="" coords="570,95,727,121"/>
+<area shape="rect" id="node4" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="50,311,139,337"/>
+<area shape="rect" id="node5" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="5,361,184,388"/>
+<area shape="rect" id="node7" href="$db/d02/structast__sip__subscription.html" title="Structure representing a &quot;virtual&quot; SIP subscription. " alt="" coords="899,140,1049,167"/>
+<area shape="rect" id="node12" href="$de/d41/structast__sip__exten__state__data.html" title="structure used for presence XML bodies " alt="" coords="1151,115,1337,141"/>
+<area shape="rect" id="node8" href="$d8/d6c/structast__sip__subscription__handler.html" title="ast_sip_subscription\l_handler" alt="" coords="573,185,724,226"/>
+<area shape="rect" id="node9" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="592,5,705,32"/>
+<area shape="rect" id="node11" href="$df/dc3/structast__sip__pubsub__body__generator.html" title="Pubsub body generator. " alt="" coords="569,289,728,330"/>
+</map>

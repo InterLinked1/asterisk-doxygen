@@ -1,0 +1,8 @@
+<map id="store_hints" name="store_hints">
+<area shape="rect" id="node2" href="$d0/ddc/structstore__hint.html" title="store_hint" alt="" coords="33,228,119,255"/>
+<area shape="rect" id="node3" href="$d6/d37/structast__state__cb.html" title="ast_state_cb: An extension state notify register item " alt="" coords="5,109,109,136"/>
+<area shape="rect" id="node5" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="207,228,327,255"/>
+<area shape="rect" id="node6" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="191,109,342,136"/>
+<area shape="rect" id="node7" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="366,109,479,136"/>
+<area shape="rect" id="node8" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="391,5,454,32"/>
+</map>

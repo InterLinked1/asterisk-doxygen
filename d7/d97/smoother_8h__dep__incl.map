@@ -1,0 +1,8 @@
+<map id="smoother.h" name="smoother.h">
+<area shape="rect" id="node2" href="$d3/d51/chan__mobile_8c.html" title="Bluetooth Mobile Device channel driver. " alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$d1/d46/codec__builtin_8c.html" title="Built&#45;in supported codecs. " alt="" coords="145,80,261,107"/>
+<area shape="rect" id="node4" href="$dc/dd7/smoother_8c.html" title="Frame smoother manipulation routines. " alt="" coords="285,80,379,107"/>
+<area shape="rect" id="node5" href="$d0/d60/res__fax_8c.html" title="Generic FAX Resource for FAX technology resource modules. " alt="" coords="403,80,482,107"/>
+<area shape="rect" id="node6" href="$d9/d21/res__rtp__asterisk_8c.html" title="Supports RTP and RTCP with Symmetric RTP support for NAT traversal. " alt="" coords="506,80,641,107"/>
+<area shape="rect" id="node7" href="$d4/d6e/res__rtp__multicast_8c.html" title="Multicast RTP Engine. " alt="" coords="665,80,809,107"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sla_trunk" name="sla_trunk">
+<area shape="rect" id="node2" href="$d0/db1/structsla__station__ref.html" title="A reference to a station. " alt="" coords="5,185,120,212"/>
+<area shape="rect" id="node3" href="$dd/d95/structsla__station.html" title="sla_station" alt="" coords="17,95,108,121"/>
+<area shape="rect" id="node4" href="$db/db7/structast__dial.html" title="Main dialing structure. Contains global options, channels being dialed, and more! ..." alt="" coords="27,5,98,32"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="335,95,487,121"/>
+<area shape="rect" id="node6" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="361,185,460,212"/>
+<area shape="rect" id="node7" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="550,185,701,212"/>
+</map>

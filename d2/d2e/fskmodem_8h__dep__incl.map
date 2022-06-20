@@ -1,0 +1,8 @@
+<map id="fskmodem.h" name="fskmodem.h">
+<area shape="rect" id="node2" href="$dc/dd5/callerid_8c.html" title="CallerID Generation support. " alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$df/d9b/fskmodem__float_8c.html" title="FSK Modulator/Demodulator. " alt="" coords="109,80,245,107"/>
+<area shape="rect" id="node5" href="$d5/d38/fskmodem__int_8c.html" title="FSK Modulator/Demodulator. " alt="" coords="269,80,393,107"/>
+<area shape="rect" id="node6" href="$db/d68/tdd_8c.html" title="TTY/TDD Generation support. " alt="" coords="417,80,472,107"/>
+<area shape="rect" id="node7" href="$dd/d27/res__adsi_8c.html" title="ADSI support. " alt="" coords="496,80,583,107"/>
+<area shape="rect" id="node4" href="$d0/d65/fskmodem_8c.html" title="FSK Modem Support. " alt="" coords="126,155,227,181"/>
+</map>

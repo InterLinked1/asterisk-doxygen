@@ -1,0 +1,17 @@
+<map id="test_named_lock.c" name="test_named_lock.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="489,80,573,107"/>
+<area shape="rect" id="node23" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="837,80,951,107"/>
+<area shape="rect" id="node26" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="5,453,119,480"/>
+<area shape="rect" id="node28" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="954,304,1069,331"/>
+<area shape="rect" id="node30" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1049,229,1185,256"/>
+<area shape="rect" id="node31" href="$d1/d32/named__locks_8h.html" title="Named Locks. " alt="" coords="575,155,747,181"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="186,155,341,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="727,379,864,405"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="416,155,551,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="190,229,337,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="37,528,180,555"/>
+<area shape="rect" id="node24" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="822,155,923,181"/>
+<area shape="rect" id="node27" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="843,229,974,256"/>
+<area shape="rect" id="node25" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="449,379,600,405"/>
+<area shape="rect" id="node29" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="593,304,728,331"/>
+</map>

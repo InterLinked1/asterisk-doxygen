@@ -1,0 +1,5 @@
+<map id="ast_security_event_unexpected_addr" name="ast_security_event_unexpected_addr">
+<area shape="rect" id="node2" href="$dd/d40/structast__security__event__common.html" title="Common structure elements. " alt="" coords="180,213,323,255"/>
+<area shape="rect" id="node3" href="$dd/dd8/structast__security__event__ip__addr.html" title="ast_security_event\l_ip_addr" alt="" coords="5,95,148,136"/>
+<area shape="rect" id="node4" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="23,5,130,32"/>
+</map>

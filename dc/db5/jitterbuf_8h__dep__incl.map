@@ -1,0 +1,6 @@
+<map id="jitterbuf.h" name="jitterbuf.h">
+<area shape="rect" id="node2" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="5,80,103,107"/>
+<area shape="rect" id="node3" href="$d3/d1d/abstract__jb_8c.html" title="Common implementation&#45;independent jitterbuffer stuff. " alt="" coords="127,80,231,107"/>
+<area shape="rect" id="node4" href="$d2/da9/jitterbuf_8c.html" title="jitterbuf: an application&#45;independent jitterbuffer " alt="" coords="256,80,337,107"/>
+<area shape="rect" id="node5" href="$d9/de9/test__jitterbuf_8c.html" title="Unit tests for jitterbuf.c. " alt="" coords="361,80,475,107"/>
+</map>

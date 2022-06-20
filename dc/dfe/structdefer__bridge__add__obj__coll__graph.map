@@ -1,0 +1,18 @@
+<map id="defer_bridge_add_obj" name="defer_bridge_add_obj">
+<area shape="rect" id="node2" href="$d4/d84/structast__bridge.html" title="Structure that contains information about a bridge. " alt="" coords="677,239,766,265"/>
+<area shape="rect" id="node7" href="$d5/dca/structast__bridge__channel.html" title="Structure that contains information regarding a channel in a bridge. " alt="" coords="949,459,1095,485"/>
+<area shape="rect" id="node11" href="$d2/dd3/structast__bridge__methods.html" title="Bridge virtual methods table definition. " alt="" coords="945,212,1099,239"/>
+<area shape="rect" id="node3" href="$d1/d04/structast__bridge__technology.html" title="Structure that is the essence of a bridge technology. " alt="" coords="340,125,507,152"/>
+<area shape="rect" id="node4" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="44,168,141,195"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="17,268,169,295"/>
+<area shape="rect" id="node8" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="672,468,771,495"/>
+<area shape="rect" id="node12" href="$d0/d99/structast__bridge__snapshot.html" title="Structure that contains a snapshot of information about a bridge. " alt="" coords="346,176,501,203"/>
+<area shape="rect" id="node17" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="348,227,499,253"/>
+<area shape="rect" id="node6" href="$d3/d0f/structast__bridge__channels__list.html" title="ast_bridge_channels_list" alt="" coords="1177,339,1356,365"/>
+<area shape="rect" id="node9" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="36,437,149,464"/>
+<area shape="rect" id="node10" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="380,492,467,519"/>
+<area shape="rect" id="node13" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="53,64,132,91"/>
+<area shape="rect" id="node14" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="375,340,472,367"/>
+<area shape="rect" id="node15" href="$d0/d50/structast__bridge__softmix.html" title="ast_bridge_softmix" alt="" coords="352,12,495,39"/>
+<area shape="rect" id="node16" href="$dc/d4a/structast__bridge__video__mode.html" title="Data structure that defines a video source mode. " alt="" coords="5,12,180,39"/>
+</map>

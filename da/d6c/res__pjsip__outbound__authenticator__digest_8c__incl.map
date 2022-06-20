@@ -1,0 +1,30 @@
+<map id="res_pjsip_outbound_authenticator_digest.c" name="res_pjsip_outbound_authenticator_digest.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="251,95,335,121"/>
+<area shape="rect" id="node23" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="1434,95,1578,121"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="584,543,711,569"/>
+<area shape="rect" id="node32" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1675,767,1801,793"/>
+<area shape="rect" id="node40" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1367,468,1498,495"/>
+<area shape="rect" id="node50" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="2171,95,2307,121"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="47,169,202,196"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="523,617,660,644"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="277,169,412,196"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="51,244,198,271"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1077,767,1220,793"/>
+<area shape="rect" id="node28" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1826,468,1983,495"/>
+<area shape="rect" id="node33" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1381,244,1527,271"/>
+<area shape="rect" id="node36" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="916,617,1067,644"/>
+<area shape="rect" id="node37" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1630,244,1769,271"/>
+<area shape="rect" id="node42" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1877,319,2028,345"/>
+<area shape="rect" id="node43" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1741,169,1874,196"/>
+<area shape="rect" id="node44" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="1386,169,1522,196"/>
+<area shape="rect" id="node45" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="1597,169,1717,196"/>
+<area shape="rect" id="node46" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="1205,169,1361,196"/>
+<area shape="rect" id="node47" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="1949,169,2138,196"/>
+<area shape="rect" id="node48" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1985,244,2179,271"/>
+<area shape="rect" id="node49" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="539,393,673,420"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1431,767,1578,793"/>
+<area shape="rect" id="node31" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1353,692,1467,719"/>
+<area shape="rect" id="node38" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="1506,319,1650,345"/>
+<area shape="rect" id="node39" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1525,393,1639,420"/>
+<area shape="rect" id="node41" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1187,543,1321,569"/>
+</map>

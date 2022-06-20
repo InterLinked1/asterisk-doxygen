@@ -1,0 +1,12 @@
+<map id="command.c" name="command.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="762,80,846,107"/>
+<area shape="rect" id="node22" href="$d0/d09/command_8h.html" title="Internal API for the Stasis application commands. " alt="" coords="1559,80,1657,107"/>
+<area shape="rect" id="node23" href="$de/d0b/stasis__app__impl_8h.html" title="Backend API for implementing components of res_stasis. " alt="" coords="1623,155,1767,196"/>
+<area shape="rect" id="node25" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1465,162,1578,189"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="641,162,796,189"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="821,162,958,189"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="482,162,617,189"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,244,152,271"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1515,244,1658,271"/>
+<area shape="rect" id="node24" href="$d8/d9c/stasis__app_8h.html" title="Stasis Application API. See Stasis Application API for detailed documentation. " alt="" coords="1682,244,1838,271"/>
+</map>

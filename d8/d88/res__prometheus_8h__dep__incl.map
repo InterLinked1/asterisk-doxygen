@@ -1,0 +1,9 @@
+<map id="res_prometheus.h" name="res_prometheus.h">
+<area shape="rect" id="node2" href="$d8/d3a/bridges_8c.html" title="Prometheus Bridge Metrics. " alt="" coords="5,80,85,107"/>
+<area shape="rect" id="node3" href="$df/d8d/channels_8c.html" title="Prometheus Channel Metrics. " alt="" coords="109,80,200,107"/>
+<area shape="rect" id="node4" href="$d5/db8/res_2prometheus_2cli_8c.html" title="Prometheus CLI Commands. " alt="" coords="225,80,271,107"/>
+<area shape="rect" id="node5" href="$d6/d2c/res_2prometheus_2endpoints_8c.html" title="Prometheus Endpoint Metrics. " alt="" coords="296,80,392,107"/>
+<area shape="rect" id="node6" href="$d6/d5d/pjsip__outbound__registrations_8c.html" title="Prometheus PJSIP Outbound Registration Metrics. " alt="" coords="417,80,634,107"/>
+<area shape="rect" id="node7" href="$d7/d1b/res__prometheus_8c.html" title="Core Prometheus metrics API. " alt="" coords="659,80,797,107"/>
+<area shape="rect" id="node8" href="$d6/d80/test__res__prometheus_8c.html" title="test_res_prometheus.c" alt="" coords="821,80,992,107"/>
+</map>

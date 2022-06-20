@@ -1,0 +1,6 @@
+<map id="internal.h" name="internal.h">
+<area shape="rect" id="node2" href="$d8/d44/ari__websockets_8c.html" title="WebSocket support for RESTful API&#39;s. " alt="" coords="5,80,136,107"/>
+<area shape="rect" id="node3" href="$d8/dfa/res_2ari_2cli_8c.html" title="Command line for ARI. " alt="" coords="161,80,207,107"/>
+<area shape="rect" id="node4" href="$dc/dec/res_2ari_2config_8c.html" title="Config framework stuffz for ARI. " alt="" coords="231,80,302,107"/>
+<area shape="rect" id="node5" href="$d7/dbc/res__ari_8c.html" title="HTTP binding for the Stasis API. " alt="" coords="326,80,402,107"/>
+</map>

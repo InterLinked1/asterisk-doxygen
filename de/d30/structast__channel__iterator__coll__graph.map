@@ -1,0 +1,5 @@
+<map id="ast_channel_iterator" name="ast_channel_iterator">
+<area shape="rect" id="node2" href="$d9/d97/structao2__iterator.html" title="When we need to walk through a container, we use an ao2_iterator to keep track of the current positio..." alt="" coords="32,124,132,151"/>
+<area shape="rect" id="node3" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="68,5,181,32"/>
+<area shape="rect" id="node4" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="172,124,349,151"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="softmix_bridge_data" name="softmix_bridge_data">
+<area shape="rect" id="node2" href="$d4/d84/structast__bridge.html" title="Structure that contains information about a bridge. " alt="" coords="687,388,777,415"/>
+<area shape="rect" id="node7" href="$d5/dca/structast__bridge__channel.html" title="Structure that contains information regarding a channel in a bridge. " alt="" coords="967,269,1114,296"/>
+<area shape="rect" id="node9" href="$d2/dd3/structast__bridge__methods.html" title="Bridge virtual methods table definition. " alt="" coords="964,380,1117,407"/>
+<area shape="rect" id="node3" href="$d1/d04/structast__bridge__technology.html" title="Structure that is the essence of a bridge technology. " alt="" coords="340,273,507,300"/>
+<area shape="rect" id="node4" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="44,252,141,279"/>
+<area shape="rect" id="node22" href="$d4/db6/structtiming__holder.html" title="timing_holder" alt="" coords="369,129,478,156"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="17,361,169,388"/>
+<area shape="rect" id="node10" href="$d0/d99/structast__bridge__snapshot.html" title="Structure that contains a snapshot of information about a bridge. " alt="" coords="346,489,501,516"/>
+<area shape="rect" id="node16" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="348,388,499,415"/>
+<area shape="rect" id="node6" href="$d3/d0f/structast__bridge__channels__list.html" title="ast_bridge_channels_list" alt="" coords="1193,425,1372,452"/>
+<area shape="rect" id="node8" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="380,220,467,247"/>
+<area shape="rect" id="node11" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="36,452,149,479"/>
+<area shape="rect" id="node12" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="53,521,132,548"/>
+<area shape="rect" id="node13" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="375,439,472,465"/>
+<area shape="rect" id="node14" href="$d0/d50/structast__bridge__softmix.html" title="ast_bridge_softmix" alt="" coords="352,603,495,629"/>
+<area shape="rect" id="node15" href="$dc/d4a/structast__bridge__video__mode.html" title="Data structure that defines a video source mode. " alt="" coords="5,603,180,629"/>
+<area shape="rect" id="node17" href="$df/df8/structconvolve__data.html" title="convolve_data" alt="" coords="675,21,789,48"/>
+<area shape="rect" id="node18" href="$d3/dd1/structconvolve__channel__pair.html" title="convolve_channel_pair" alt="" coords="340,21,507,48"/>
+<area shape="rect" id="node19" href="$d3/d90/structconvolve__channel.html" title="convolve_channel" alt="" coords="25,21,160,48"/>
+<area shape="rect" id="node20" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="672,72,792,99"/>
+<area shape="rect" id="node21" href="$da/def/structast__timer.html" title="ast_timer" alt="" coords="691,123,773,149"/>
+<area shape="rect" id="node23" href="$dd/d06/structast__timing__interface.html" title="Timing module interface. " alt="" coords="17,129,169,156"/>
+</map>

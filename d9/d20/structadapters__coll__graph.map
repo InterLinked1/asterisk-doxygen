@@ -1,0 +1,9 @@
+<map id="adapters" name="adapters">
+<area shape="rect" id="node2" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="173,199,292,225"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,95,156,121"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,95,293,121"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="205,5,268,32"/>
+<area shape="rect" id="node6" href="$da/da9/structadapter__pvt.html" title="adapter_pvt" alt="" coords="317,199,415,225"/>
+<area shape="rect" id="node7" href="$d5/d55/structio__context.html" title="Global IO variables are now in a struct in order to be made threadsafe. " alt="" coords="322,95,410,121"/>
+<area shape="rect" id="node8" href="$da/d54/structio__rec.html" title="Kept for each file descriptor. " alt="" coords="336,5,396,32"/>
+</map>

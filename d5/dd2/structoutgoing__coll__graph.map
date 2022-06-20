@@ -1,0 +1,8 @@
+<map id="outgoing" name="outgoing">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node7" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="165,124,315,151"/>
+<area shape="rect" id="node3" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="339,124,418,151"/>
+<area shape="rect" id="node4" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="443,124,541,151"/>
+<area shape="rect" id="node5" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="437,5,547,32"/>
+<area shape="rect" id="node6" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="623,124,745,151"/>
+</map>

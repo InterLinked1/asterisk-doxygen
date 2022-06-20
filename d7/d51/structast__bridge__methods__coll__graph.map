@@ -1,0 +1,16 @@
+<map id="ast_bridge_methods" name="ast_bridge_methods">
+<area shape="rect" id="node2" href="$d4/d84/structast__bridge.html" title="Structure that contains information about a bridge. " alt="" coords="679,337,768,364"/>
+<area shape="rect" id="node7" href="$d5/dca/structast__bridge__channel.html" title="Structure that contains information regarding a channel in a bridge. " alt="" coords="861,285,1008,312"/>
+<area shape="rect" id="node3" href="$d1/d04/structast__bridge__technology.html" title="Structure that is the essence of a bridge technology. " alt="" coords="340,324,507,351"/>
+<area shape="rect" id="node4" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="44,328,141,355"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="17,424,169,451"/>
+<area shape="rect" id="node9" href="$d0/d99/structast__bridge__snapshot.html" title="Structure that contains a snapshot of information about a bridge. " alt="" coords="346,496,501,523"/>
+<area shape="rect" id="node15" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="348,375,499,401"/>
+<area shape="rect" id="node6" href="$d3/d0f/structast__bridge__channels__list.html" title="ast_bridge_channels_list" alt="" coords="1084,313,1263,340"/>
+<area shape="rect" id="node8" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="380,44,467,71"/>
+<area shape="rect" id="node10" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="36,504,149,531"/>
+<area shape="rect" id="node11" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="53,575,132,601"/>
+<area shape="rect" id="node12" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="375,655,472,681"/>
+<area shape="rect" id="node13" href="$d0/d50/structast__bridge__softmix.html" title="ast_bridge_softmix" alt="" coords="352,268,495,295"/>
+<area shape="rect" id="node14" href="$dc/d4a/structast__bridge__video__mode.html" title="Data structure that defines a video source mode. " alt="" coords="5,224,180,251"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="test_scoped_lock.c" name="test_scoped_lock.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="863,80,947,107"/>
+<area shape="rect" id="node22" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1140,80,1253,107"/>
+<area shape="rect" id="node26" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1311,304,1426,331"/>
+<area shape="rect" id="node27" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="952,304,1087,331"/>
+<area shape="rect" id="node28" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1317,229,1453,256"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="659,155,814,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="783,379,920,405"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="889,155,1024,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="663,229,810,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="541,453,684,480"/>
+<area shape="rect" id="node23" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1099,155,1201,181"/>
+<area shape="rect" id="node25" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1162,229,1293,256"/>
+<area shape="rect" id="node24" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1009,379,1160,405"/>
+</map>

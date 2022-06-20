@@ -1,0 +1,11 @@
+<map id="res_parking.h" name="res_parking.h">
+<area shape="rect" id="node2" href="$da/ded/parking__applications_8c.html" title="Call Parking Applications. " alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$d9/dc5/parking__bridge_8c.html" title="Parking Bridge Class. " alt="" coords="193,80,319,107"/>
+<area shape="rect" id="node4" href="$d1/db7/parking__bridge__features_8c.html" title="Parking Bridge DTMF and Interval features. " alt="" coords="344,80,531,107"/>
+<area shape="rect" id="node5" href="$db/d81/parking__controller_8c.html" title="Parking Entry, Exit, and other assorted controls. " alt="" coords="555,80,701,107"/>
+<area shape="rect" id="node6" href="$de/d5d/parking__devicestate_8c.html" title="Call Parking Device State Management. " alt="" coords="726,80,887,107"/>
+<area shape="rect" id="node7" href="$d0/d39/parking__manager_8c.html" title="Call Parking Manager Actions and Events. " alt="" coords="912,80,1056,107"/>
+<area shape="rect" id="node8" href="$d6/d14/parking__tests_8c.html" title="Call Parking Unit Tests. " alt="" coords="1081,80,1199,107"/>
+<area shape="rect" id="node9" href="$d0/daf/parking__ui_8c.html" title="Call Parking CLI commands. " alt="" coords="1224,80,1323,107"/>
+<area shape="rect" id="node10" href="$d7/d45/res__parking_8c.html" title="Call Parking Resource. " alt="" coords="1347,80,1453,107"/>
+</map>

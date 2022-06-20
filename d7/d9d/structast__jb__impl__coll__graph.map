@@ -1,0 +1,7 @@
+<map id="ast_jb_impl" name="ast_jb_impl">
+<area shape="rect" id="node2" href="$d7/dba/structast__jb__conf.html" title="General jitterbuffer configuration. " alt="" coords="5,184,100,211"/>
+<area shape="rect" id="node3" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="124,184,211,211"/>
+<area shape="rect" id="node4" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="93,95,242,121"/>
+<area shape="rect" id="node5" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="47,5,139,32"/>
+<area shape="rect" id="node6" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="163,5,321,32"/>
+</map>

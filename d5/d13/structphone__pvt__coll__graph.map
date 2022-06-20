@@ -1,0 +1,8 @@
+<map id="phone_pvt" name="phone_pvt">
+<area shape="rect" id="node2" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="156,188,248,215"/>
+<area shape="rect" id="node3" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="33,308,188,335"/>
+<area shape="rect" id="node4" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="159,97,246,124"/>
+<area shape="rect" id="node5" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="154,7,251,33"/>
+<area shape="rect" id="node6" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="422,188,521,215"/>
+<area shape="rect" id="node7" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="363,97,450,124"/>
+</map>

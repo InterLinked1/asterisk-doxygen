@@ -1,0 +1,14 @@
+<map id="backtrace.c" name="backtrace.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1555,80,1639,107"/>
+<area shape="rect" id="node22" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="5,229,156,256"/>
+<area shape="rect" id="node23" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="477,80,604,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1678,304,1833,331"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="1448,155,1585,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1609,155,1744,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1682,379,1829,405"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="813,229,956,256"/>
+<area shape="rect" id="node24" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="484,155,597,181"/>
+<area shape="rect" id="node26" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="616,229,679,256"/>
+<area shape="rect" id="node27" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="409,304,555,331"/>
+<area shape="rect" id="node30" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="288,229,415,256"/>
+</map>

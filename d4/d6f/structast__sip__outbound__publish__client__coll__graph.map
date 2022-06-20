@@ -1,0 +1,9 @@
+<map id="ast_sip_outbound_publish_client" name="ast_sip_outbound_publish_client">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="658,193,771,220"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1276,224,1453,251"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="965,295,1117,321"/>
+<area shape="rect" id="node5" href="$d6/d73/structast__sip__outbound__publish.html" title="Outbound publish information. " alt="" coords="621,57,808,84"/>
+<area shape="rect" id="node6" href="$d0/dca/structast__sip__auth__vector.html" title="ast_sip_auth_vector" alt="" coords="313,5,464,32"/>
+<area shape="rect" id="node7" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,81,157,108"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="313,119,464,145"/>
+</map>

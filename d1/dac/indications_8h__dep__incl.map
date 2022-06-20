@@ -1,0 +1,39 @@
+<map id="indications.h" name="indications.h">
+<area shape="rect" id="node2" href="$dc/d5c/app__alarmreceiver_8c.html" title="Central Station Alarm receiver for Ademco Contact ID. " alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="180,80,267,107"/>
+<area shape="rect" id="node4" href="$d4/d7e/app__disa_8c.html" title="DISA – Direct Inward System Access Application. " alt="" coords="291,80,382,107"/>
+<area shape="rect" id="node5" href="$d7/d1d/app__mf_8c.html" title="MF sender and receiver applications. " alt="" coords="406,80,486,107"/>
+<area shape="rect" id="node6" href="$db/dfe/app__milliwatt_8c.html" title="Digital Milliwatt Test. " alt="" coords="511,80,627,107"/>
+<area shape="rect" id="node7" href="$d8/d8f/app__morsecode_8c.html" title="Morsecode application. " alt="" coords="651,80,787,107"/>
+<area shape="rect" id="node8" href="$d2/d57/app__playtones_8c.html" title="Playtones application. " alt="" coords="812,80,939,107"/>
+<area shape="rect" id="node9" href="$d6/dbb/app__read_8c.html" title="Trivial application to read a variable. " alt="" coords="963,80,1057,107"/>
+<area shape="rect" id="node10" href="$d2/de3/app__readexten_8c.html" title="Trivial application to read an extension into a variable. " alt="" coords="1081,80,1211,107"/>
+<area shape="rect" id="node11" href="$d9/d4a/app__tonedetect_8c.html" title="Tone detection module. " alt="" coords="1235,80,1369,107"/>
+<area shape="rect" id="node12" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="1393,80,1504,107"/>
+<area shape="rect" id="node13" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="1528,80,1628,107"/>
+<area shape="rect" id="node14" href="$d1/d94/sip_8h.html" title="chan_sip header file " alt="" coords="1652,80,1704,107"/>
+<area shape="rect" id="node26" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="1729,80,1838,107"/>
+<area shape="rect" id="node27" href="$d1/d6d/chan__unistim_8c.html" title="chan_unistim channel driver for Asterisk " alt="" coords="1863,80,1981,107"/>
+<area shape="rect" id="node28" href="$d9/d3d/func__channel_8c.html" title="Channel info dialplan functions. " alt="" coords="2005,80,2122,107"/>
+<area shape="rect" id="node29" href="$d3/d83/main_2app_8c.html" title="Convenient Application Routines. " alt="" coords="2147,80,2204,107"/>
+<area shape="rect" id="node30" href="$d5/d66/autoservice_8c.html" title="Automatic channel service routines. " alt="" coords="2229,80,2335,107"/>
+<area shape="rect" id="node31" href="$d4/d28/channel_8c.html" title="Channel Management. " alt="" coords="2359,80,2442,107"/>
+<area shape="rect" id="node32" href="$db/de2/channel__internal__api_8c.html" title="Channel Accessor API. " alt="" coords="2467,80,2631,107"/>
+<area shape="rect" id="node33" href="$df/d6e/indications_8c.html" title="Indication Tone Handling. " alt="" coords="2655,80,2757,107"/>
+<area shape="rect" id="node34" href="$db/d94/pbx_8c.html" title="Core PBX routines. " alt="" coords="2781,80,2837,107"/>
+<area shape="rect" id="node35" href="$df/d1d/pbx__builtins_8c.html" title="Core PBX builtin routines. " alt="" coords="2861,80,2969,107"/>
+<area shape="rect" id="node36" href="$d0/d60/res__fax_8c.html" title="Generic FAX Resource for FAX technology resource modules. " alt="" coords="2993,80,3072,107"/>
+<area shape="rect" id="node37" href="$d7/de1/res__stasis__playback_8c.html" title="res_stasis playback support. " alt="" coords="3097,80,3257,107"/>
+<area shape="rect" id="node38" href="$d6/d2b/agent_8c.html" title="SNMP Agent / SubAgent support for Asterisk. " alt="" coords="3281,80,3352,107"/>
+<area shape="rect" id="node15" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="1464,229,1553,256"/>
+<area shape="rect" id="node16" href="$d5/d87/globals_8h.html" title="sip global declaration header file " alt="" coords="1195,155,1273,181"/>
+<area shape="rect" id="node17" href="$d8/d06/sip_2dialplan__functions_8c.html" title="sip channel dialplan functions and unit tests " alt="" coords="1206,229,1353,256"/>
+<area shape="rect" id="node18" href="$d1/d2b/config__parser_8h.html" title="sip.conf parser header file " alt="" coords="1619,155,1737,181"/>
+<area shape="rect" id="node19" href="$d8/d9c/config__parser_8c.html" title="sip config parsing functions and unit tests " alt="" coords="1644,229,1763,256"/>
+<area shape="rect" id="node20" href="$d1/dc9/dialog_8h.html" title="sip dialog management header file " alt="" coords="1298,155,1370,181"/>
+<area shape="rect" id="node21" href="$d4/dd3/sip_2include_2dialplan__functions_8h.html" title="SIP dialplan functions header file. " alt="" coords="1395,155,1543,181"/>
+<area shape="rect" id="node22" href="$d2/d1d/channels_2sip_2include_2security__events_8h.html" title="Generate security events in the SIP channel. " alt="" coords="1813,155,1948,181"/>
+<area shape="rect" id="node23" href="$d4/dea/channels_2sip_2security__events_8c.html" title="Generate security events in the SIP channel. " alt="" coords="1866,229,1999,256"/>
+<area shape="rect" id="node24" href="$d5/d85/reqresp__parser_8c.html" title="sip request parsing functions and unit tests " alt="" coords="2024,155,2153,181"/>
+<area shape="rect" id="node25" href="$d1/dba/channels_2sip_2utils_8c.html" title="Utility functions for chan_sip. " alt="" coords="2178,155,2237,181"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="app_talkdetect.c" name="app_talkdetect.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="241,453,325,480"/>
+<area shape="rect" id="node8" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="905,453,1018,480"/>
+<area shape="rect" id="node16" href="$d2/d4d/file_8h.html" title="Generic File Format Support. Should be included by clients of the file handling routines. File service providers should instead include mod_format.h. " alt="" coords="2897,304,3004,331"/>
+<area shape="rect" id="node19" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1100,155,1239,181"/>
+<area shape="rect" id="node21" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1663,379,1777,405"/>
+<area shape="rect" id="node24" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="2543,379,2673,405"/>
+<area shape="rect" id="node40" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="1942,80,2053,107"/>
+<area shape="rect" id="node45" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="2420,80,2556,107"/>
+<area shape="rect" id="node46" href="$db/d39/translate_8h.html" title="Support for translation of data formats. translate.c. " alt="" coords="2199,155,2345,181"/>
+<area shape="rect" id="node48" href="$db/d1c/format__cache_8h.html" title="Media Format Cache API. " alt="" coords="2345,229,2521,256"/>
+<area shape="rect" id="node49" href="$d3/d08/dsp_8h.html" title="Convenient Signal Processing routines. " alt="" coords="2850,80,2961,107"/>
+<area shape="rect" id="node50" href="$d3/d93/include_2asterisk_2app_8h.html" title="Application convenience functions, designed to give consistent look and feel to Asterisk apps..." alt="" coords="1791,229,1903,256"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="823,603,977,629"/>
+<area shape="rect" id="node4" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="319,528,457,555"/>
+<area shape="rect" id="node7" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="161,528,295,555"/>
+<area shape="rect" id="node5" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="325,603,467,629"/>
+<area shape="rect" id="node10" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1205,528,1267,555"/>
+<area shape="rect" id="node11" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1232,603,1379,629"/>
+<area shape="rect" id="node14" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="745,528,895,555"/>
+<area shape="rect" id="node15" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1653,528,1779,555"/>
+<area shape="rect" id="node20" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="1463,304,1607,331"/>
+<area shape="rect" id="node22" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2284,453,2441,480"/>
+<area shape="rect" id="node23" href="$dc/d14/abstract__jb_8h.html" title="Common implementation&#45;independent jitterbuffer stuff. " alt="" coords="2258,304,2417,331"/>
+<area shape="rect" id="node25" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="671,304,806,331"/>
+<area shape="rect" id="node26" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1198,379,1349,405"/>
+<area shape="rect" id="node27" href="$d4/dfb/poll-compat_8h.html" title="asterisk/poll&#45;compat.h" alt="" coords="642,229,806,256"/>
+<area shape="rect" id="node28" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="1210,304,1337,331"/>
+<area shape="rect" id="node29" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="1265,229,1412,256"/>
+<area shape="rect" id="node30" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1983,304,2110,331"/>
+<area shape="rect" id="node31" href="$dc/d07/cdr_8h.html" title="Call Detail Record API. " alt="" coords="336,229,443,256"/>
+<area shape="rect" id="node32" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="983,304,1134,331"/>
+<area shape="rect" id="node33" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="2029,229,2190,256"/>
+<area shape="rect" id="node34" href="$d9/d95/channelstate_8h.html" title="Channel states. " alt="" coords="136,379,307,405"/>
+<area shape="rect" id="node35" href="$de/dc8/ccss_8h.html" title="Call Completion Supplementary Services API. " alt="" coords="195,229,311,256"/>
+<area shape="rect" id="node37" href="$db/d3c/framehook_8h.html" title="FrameHook Architecture. " alt="" coords="1033,229,1191,256"/>
+<area shape="rect" id="node38" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1732,304,1857,331"/>
+<area shape="rect" id="node39" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="467,229,618,256"/>
+<area shape="rect" id="node36" href="$da/da2/devicestate_8h.html" title="Device state management. " alt="" coords="144,304,307,331"/>
+<area shape="rect" id="node41" href="$d7/d00/sched_8h.html" title="Scheduler Routines (derived from cheops) " alt="" coords="1845,155,1971,181"/>
+<area shape="rect" id="node42" href="$d6/dd7/presencestate_8h.html" title="Presence state management. " alt="" coords="1995,155,2175,181"/>
+<area shape="rect" id="node43" href="$d6/da0/hashtab_8h.html" title="Generic (perhaps overly so) hashtable implementation Hash Table support in Asterisk. " alt="" coords="1629,155,1769,181"/>
+<area shape="rect" id="node44" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="2538,155,2673,181"/>
+<area shape="rect" id="node47" href="$d2/d66/plc_8h.html" title="SpanDSP &#45; a series of DSP components for telephony. " alt="" coords="2215,229,2321,256"/>
+</map>

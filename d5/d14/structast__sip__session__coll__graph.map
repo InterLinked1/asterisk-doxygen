@@ -1,0 +1,51 @@
+<map id="ast_sip_session" name="ast_sip_session">
+<area shape="rect" id="node6" href="$d0/d23/structast__sip__session__media.html" title="A structure containing SIP session media information. " alt="" coords="2145,1784,2315,1811"/>
+<area shape="rect" id="node31" href="$d5/dfa/structast__sip__session__delayed__request.html" title="Structure used for sending delayed requests. " alt="" coords="2859,1173,3037,1214"/>
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="335,1353,449,1380"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1054,1352,1231,1379"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="687,1280,839,1307"/>
+<area shape="rect" id="node19" href="$d4/d03/structast__sip__aor.html" title="A SIP address of record. " alt="" coords="716,1179,811,1205"/>
+<area shape="rect" id="node36" href="$d4/df2/structast__endpoint.html" title="ast_endpoint" alt="" coords="711,1015,816,1041"/>
+<area shape="rect" id="node50" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="1437,1556,1536,1583"/>
+<area shape="rect" id="node5" href="$de/dd5/structast__sip__session__media__state.html" title="Structure which contains media state information (streams, sessions) " alt="" coords="2499,1281,2668,1322"/>
+<area shape="rect" id="node7" href="$de/df7/structast__sdp__srtp.html" title="structure for secure RTP audio " alt="" coords="1855,1973,1959,2000"/>
+<area shape="rect" id="node8" href="$d2/d29/structast__sip__session__sdp__handler.html" title="A handler for SDPs in SIP sessions. " alt="" coords="1831,2063,1983,2105"/>
+<area shape="rect" id="node9" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="1433,1812,1540,1839"/>
+<area shape="rect" id="node10" href="$d9/d81/structast__udptl.html" title="Structure for an UDPTL session. " alt="" coords="1867,1732,1948,1759"/>
+<area shape="rect" id="node12" href="$df/d7a/structast__rtp__instance.html" title="ast_rtp_instance" alt="" coords="1843,1884,1971,1911"/>
+<area shape="rect" id="node11" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="1099,1676,1186,1703"/>
+<area shape="rect" id="node23" href="$d6/de5/structast__dsp.html" title="ast_dsp" alt="" coords="1451,1761,1523,1788"/>
+<area shape="rect" id="node13" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="313,1133,471,1160"/>
+<area shape="rect" id="node46" href="$d3/d35/structast__sip__endpoint__media__configuration.html" title="Media configuration for SIP endpoints. " alt="" coords="675,483,852,525"/>
+<area shape="rect" id="node14" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="1417,2084,1556,2111"/>
+<area shape="rect" id="node18" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="1811,2129,2004,2156"/>
+<area shape="rect" id="node15" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="1098,2057,1187,2084"/>
+<area shape="rect" id="node16" href="$d3/d60/structtps__task.html" title="tps_task structure is queued to a taskprocessor " alt="" coords="725,2057,801,2084"/>
+<area shape="rect" id="node17" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="1053,2108,1232,2135"/>
+<area shape="rect" id="node20" href="$db/da2/structast__sorcery__object__details.html" title="Structure which contains details about a sorcery object. " alt="" coords="321,1014,463,1055"/>
+<area shape="rect" id="node34" href="$d3/d46/structast__sip__endpoint.html" title="An entity with which Asterisk communicates. " alt="" coords="1077,681,1208,708"/>
+<area shape="rect" id="node21" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,1080,157,1107"/>
+<area shape="rect" id="node22" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="317,1080,467,1107"/>
+<area shape="rect" id="node49" href="$d8/d8a/structast__sip__contact.html" title="Contact associated with an address of record. " alt="" coords="1425,1145,1548,1172"/>
+<area shape="rect" id="node24" href="$d0/d5b/structast__dsp__busy__pattern.html" title="ast_dsp_busy_pattern" alt="" coords="1061,1727,1224,1753"/>
+<area shape="rect" id="node25" href="$d6/d6a/structtone__detect__state__t.html" title="tone_detect_state_t" alt="" coords="1067,1891,1218,1917"/>
+<area shape="rect" id="node26" href="$d1/d12/structgoertzel__state__t.html" title="goertzel_state_t" alt="" coords="700,1835,827,1861"/>
+<area shape="rect" id="node27" href="$d3/d6f/structfragment__t.html" title="fragment_t" alt="" coords="1096,1840,1189,1867"/>
+<area shape="rect" id="node28" href="$d7/dd0/structdigit__detect__state__t.html" title="digit_detect_state_t" alt="" coords="1068,1941,1217,1968"/>
+<area shape="rect" id="node29" href="$dd/da0/structast__sip__session__suspender.html" title="struct controlling the suspension of the session&#39;s serializer. " alt="" coords="1389,1005,1585,1032"/>
+<area shape="rect" id="node30" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="332,24,452,51"/>
+<area shape="rect" id="node38" href="$d3/da4/structast__acl__list.html" title="Wrapper for an ast_acl linked list. " alt="" coords="717,199,809,225"/>
+<area shape="rect" id="node32" href="$df/db8/structast__sip__session__supplement.html" title="A supplement to SIP message processing. " alt="" coords="1384,1095,1589,1121"/>
+<area shape="rect" id="node33" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="1094,1077,1191,1104"/>
+<area shape="rect" id="node35" href="$d0/dca/structast__sip__auth__vector.html" title="ast_sip_auth_vector" alt="" coords="688,367,839,393"/>
+<area shape="rect" id="node37" href="$d4/d84/structast__sip__endpoint__nat__configuration.html" title="NAT configuration options for endpoints. " alt="" coords="684,418,843,459"/>
+<area shape="rect" id="node39" href="$de/d30/structast__sip__identify__by__vector.html" title="ast_sip_identify_by\l_vector" alt="" coords="692,614,835,655"/>
+<area shape="rect" id="node40" href="$d4/df6/structast__sip__endpoint__id__configuration.html" title="Party identification options for endpoints. " alt="" coords="689,250,837,291"/>
+<area shape="rect" id="node41" href="$d1/dcb/structast__party__id.html" title="Information needed to identify an endpoint in a call. " alt="" coords="342,103,442,129"/>
+<area shape="rect" id="node42" href="$df/de5/structast__sip__endpoint__extensions.html" title="Endpoint configuration for SIP extensions. " alt="" coords="660,832,867,859"/>
+<area shape="rect" id="node43" href="$d8/dc8/structast__sip__endpoint__pickup__configuration.html" title="Call pickup configuration options for endpoints. " alt="" coords="674,883,853,925"/>
+<area shape="rect" id="node44" href="$db/d70/structast__sip__endpoint__subscription__configuration.html" title="Endpoint subscription configuration. " alt="" coords="656,949,871,990"/>
+<area shape="rect" id="node45" href="$d9/d19/structast__sip__endpoint__info__configuration.html" title="Endpoint configuration options for INFO packages. " alt="" coords="683,549,843,590"/>
+<area shape="rect" id="node47" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="331,232,453,259"/>
+<area shape="rect" id="node48" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="714,781,813,808"/>
+</map>

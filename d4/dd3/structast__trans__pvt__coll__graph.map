@@ -1,0 +1,9 @@
+<map id="ast_trans_pvt" name="ast_trans_pvt">
+<area shape="rect" id="node2" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="150,231,242,257"/>
+<area shape="rect" id="node3" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="33,349,188,376"/>
+<area shape="rect" id="node4" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="219,97,306,124"/>
+<area shape="rect" id="node7" href="$db/d29/structast__translator.html" title="Descriptor of a translator. " alt="" coords="298,231,408,257"/>
+<area shape="rect" id="node5" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="294,7,391,33"/>
+<area shape="rect" id="node6" href="$d8/dc7/structplc__state__t.html" title="plc_state_t" alt="" coords="548,231,640,257"/>
+<area shape="rect" id="node8" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="467,97,554,124"/>
+</map>

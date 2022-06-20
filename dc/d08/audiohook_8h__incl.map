@@ -1,0 +1,14 @@
+<map id="audiohook.h" name="audiohook.h">
+<area shape="rect" id="node2" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="435,155,548,181"/>
+<area shape="rect" id="node16" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="529,80,680,107"/>
+<area shape="rect" id="node17" href="$da/d7d/slinfactory_8h.html" title="A machine to gather up arbitrary frames and convert them to raw slinear on demand. " alt="" coords="917,80,1068,107"/>
+<area shape="rect" id="node4" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="113,229,176,256"/>
+<area shape="rect" id="node8" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="259,304,406,331"/>
+<area shape="rect" id="node11" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="488,229,639,256"/>
+<area shape="rect" id="node12" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="663,229,789,256"/>
+<area shape="rect" id="node14" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="813,229,956,256"/>
+<area shape="rect" id="node5" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="221,379,375,405"/>
+<area shape="rect" id="node13" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="519,304,653,331"/>
+<area shape="rect" id="node18" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="998,155,1129,181"/>
+<area shape="rect" id="node19" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="1072,229,1199,256"/>
+</map>

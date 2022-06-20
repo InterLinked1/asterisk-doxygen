@@ -1,0 +1,10 @@
+<map id="fm_args" name="fm_args">
+<area shape="rect" id="node2" href="$dc/d9e/structast__party__connected__line.html" title="Connected Line/Party information. " alt="" coords="169,213,354,240"/>
+<area shape="rect" id="node3" href="$d1/dcb/structast__party__id.html" title="Information needed to identify an endpoint in a call. " alt="" coords="211,95,311,121"/>
+<area shape="rect" id="node4" href="$d7/d41/structast__party__subaddress.html" title="Information needed to specify a subaddress in a call. " alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node5" href="$d6/dbb/structast__party__number.html" title="Information needed to specify a number in a call. " alt="" coords="192,5,331,32"/>
+<area shape="rect" id="node6" href="$d8/d6f/structast__party__name.html" title="Information needed to specify a name in a call. " alt="" coords="355,5,482,32"/>
+<area shape="rect" id="node7" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="378,213,457,240"/>
+<area shape="rect" id="node8" href="$d2/ded/structfm__args_1_1cnumbers.html" title="cnumbers" alt="" coords="495,213,582,240"/>
+<area shape="rect" id="node9" href="$d6/d49/structnumber.html" title="Number structure. " alt="" coords="503,95,575,121"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ast_sip_session_delayed_request" name="ast_sip_session_delayed_request">
+<area shape="rect" id="node4" href="$d2/dec/structast__sip__session.html" title="A structure describing a SIP session. " alt="" coords="88,146,211,173"/>
+<area shape="rect" id="node2" href="$de/dd5/structast__sip__session__media__state.html" title="Structure which contains media state information (streams, sessions) " alt="" coords="218,349,387,391"/>
+<area shape="rect" id="node3" href="$d0/d23/structast__sip__session__media.html" title="A structure containing SIP session media information. " alt="" coords="401,259,570,285"/>
+<area shape="rect" id="node5" href="$de/df7/structast__sdp__srtp.html" title="structure for secure RTP audio " alt="" coords="1056,146,1160,173"/>
+<area shape="rect" id="node6" href="$d2/d29/structast__sip__session__sdp__handler.html" title="A handler for SDPs in SIP sessions. " alt="" coords="235,139,387,180"/>
+<area shape="rect" id="node7" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="628,13,735,39"/>
+<area shape="rect" id="node8" href="$d9/d81/structast__udptl.html" title="Structure for an UDPTL session. " alt="" coords="641,146,722,173"/>
+<area shape="rect" id="node9" href="$df/d7a/structast__rtp__instance.html" title="ast_rtp_instance" alt="" coords="827,146,955,173"/>
+<area shape="rect" id="node10" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="595,259,752,285"/>
+</map>

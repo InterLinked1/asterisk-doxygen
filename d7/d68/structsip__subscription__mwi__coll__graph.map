@@ -1,0 +1,51 @@
+<map id="sip_subscription_mwi" name="sip_subscription_mwi">
+<area shape="rect" id="node8" href="$d2/df2/structsip__pvt.html" title="Structure used for each SIP dialog, ie. a call, a registration, a subscribe. Created and initialized ..." alt="" coords="1296,1401,1363,1428"/>
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="241,663,393,689"/>
+<area shape="rect" id="node11" href="$d1/d7a/structsip__peer.html" title="Structure for SIP peer data, we place calls to peers if registered or fixed IP address (host) ..." alt="" coords="1515,761,1591,788"/>
+<area shape="rect" id="node13" href="$d4/df2/structast__endpoint.html" title="ast_endpoint" alt="" coords="989,251,1095,277"/>
+<area shape="rect" id="node38" href="$db/d30/structsip__refer.html" title="Structure to handle SIP transfers. Dynamically allocated when needed. " alt="" coords="1003,948,1081,975"/>
+<area shape="rect" id="node39" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="621,823,771,849"/>
+<area shape="rect" id="node45" href="$d9/d20/structsip__registry.html" title="Registrations with other SIP proxies. " alt="" coords="1505,264,1600,291"/>
+<area shape="rect" id="node46" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="993,1052,1091,1079"/>
+<area shape="rect" id="node3" href="$df/d9f/structast__dnsmgr__entry.html" title="ast_dnsmgr_entry" alt="" coords="627,407,765,433"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="257,39,377,65"/>
+<area shape="rect" id="node14" href="$d3/da4/structast__acl__list.html" title="Wrapper for an ast_acl linked list. " alt="" coords="996,504,1088,531"/>
+<area shape="rect" id="node5" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,13,156,40"/>
+<area shape="rect" id="node6" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="24,64,137,91"/>
+<area shape="rect" id="node7" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="264,1300,371,1327"/>
+<area shape="rect" id="node22" href="$db/da1/structsip__proxy.html" title="definition of a sip proxy server " alt="" coords="655,1687,737,1713"/>
+<area shape="rect" id="node43" href="$d9/d81/structast__udptl.html" title="Structure for an UDPTL session. " alt="" coords="1001,1407,1083,1433"/>
+<area shape="rect" id="node48" href="$df/d7a/structast__rtp__instance.html" title="ast_rtp_instance" alt="" coords="801,1913,929,1940"/>
+<area shape="rect" id="node50" href="$db/d34/structsip__pkt.html" title="sip packet &#45; raw format for outbound packets that are sent or scheduled for transmission Packets are ..." alt="" coords="1519,2508,1586,2535"/>
+<area shape="rect" id="node9" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="639,348,753,375"/>
+<area shape="rect" id="node10" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="953,301,1131,328"/>
+<area shape="rect" id="node21" href="$d9/d0d/structsip__mailbox.html" title="A peer&#39;s mailbox. " alt="" coords="1681,763,1779,789"/>
+<area shape="rect" id="node12" href="$df/d23/structsip__st__cfg.html" title="Structure that encapsulates all attributes related to configuration of SIP Session&#45;Timers feature on ..." alt="" coords="1287,2285,1372,2312"/>
+<area shape="rect" id="node15" href="$d5/da7/structsip__socket.html" title="The SIP socket definition. " alt="" coords="273,2068,362,2095"/>
+<area shape="rect" id="node33" href="$d7/d82/structsip__request.html" title="sip_request: The data grabbed from the UDP socket " alt="" coords="648,2007,744,2033"/>
+<area shape="rect" id="node16" href="$da/d7a/structsip__route.html" title="Structure to store route information. " alt="" coords="1001,683,1083,709"/>
+<area shape="rect" id="node17" href="$dd/d54/structsip__auth__container.html" title="Container of SIP authentication credentials. " alt="" coords="971,897,1113,924"/>
+<area shape="rect" id="node18" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="1003,2348,1081,2375"/>
+<area shape="rect" id="node19" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="647,1100,745,1127"/>
+<area shape="rect" id="node49" href="$d6/d23/structsip__notify.html" title="Struct to handle custom SIP notify requests. Dynamically allocated when needed. " alt="" coords="1001,1153,1083,1180"/>
+<area shape="rect" id="node20" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="981,632,1103,659"/>
+<area shape="rect" id="node34" href="$dd/d9b/structsip__invite__param.html" title="Parameters to the transmit_invite function. " alt="" coords="977,1508,1107,1535"/>
+<area shape="rect" id="node23" href="$d4/dca/structast__rtp__dtls__cfg.html" title="DTLS configuration structure. " alt="" coords="981,733,1103,760"/>
+<area shape="rect" id="node24" href="$d4/d2e/structast__cc__config__params.html" title="ast_cc_config_params" alt="" coords="960,2297,1124,2324"/>
+<area shape="rect" id="node25" href="$d6/de5/structast__dsp.html" title="ast_dsp" alt="" coords="1006,1317,1078,1344"/>
+<area shape="rect" id="node26" href="$d0/d5b/structast__dsp__busy__pattern.html" title="ast_dsp_busy_pattern" alt="" coords="615,1404,777,1431"/>
+<area shape="rect" id="node27" href="$d6/d6a/structtone__detect__state__t.html" title="tone_detect_state_t" alt="" coords="621,1151,771,1177"/>
+<area shape="rect" id="node28" href="$d1/d12/structgoertzel__state__t.html" title="goertzel_state_t" alt="" coords="254,985,381,1012"/>
+<area shape="rect" id="node29" href="$d3/d6f/structfragment__t.html" title="fragment_t" alt="" coords="649,1455,743,1481"/>
+<area shape="rect" id="node30" href="$d7/dd0/structdigit__detect__state__t.html" title="digit_detect_state_t" alt="" coords="621,1264,771,1291"/>
+<area shape="rect" id="node31" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="653,1353,739,1380"/>
+<area shape="rect" id="node32" href="$dd/d02/structsip__pvt_1_1request__queue.html" title="request_queue" alt="" coords="983,1955,1101,1981"/>
+<area shape="rect" id="node35" href="$de/d9a/structsip__msg__hdr.html" title="sip_msg_hdr" alt="" coords="991,2157,1093,2184"/>
+<area shape="rect" id="node36" href="$de/df7/structast__sdp__srtp.html" title="structure for secure RTP audio " alt="" coords="990,2247,1094,2273"/>
+<area shape="rect" id="node37" href="$dc/da1/structast__sdp__crypto.html" title="ast_sdp_crypto" alt="" coords="637,2247,755,2273"/>
+<area shape="rect" id="node40" href="$dc/d1e/structsip__st__dlg.html" title="Structure that encapsulates all attributes related to running SIP Session&#45;Timers feature on a per dia..." alt="" coords="999,1204,1085,1231"/>
+<area shape="rect" id="node41" href="$db/d43/structoffered__media.html" title="Structure for remembering offered media in an INVITE, to make sure we reply to all media streams..." alt="" coords="985,1597,1099,1624"/>
+<area shape="rect" id="node42" href="$d8/de4/structsip__history__head.html" title="sip_history_head" alt="" coords="977,1803,1107,1829"/>
+<area shape="rect" id="node44" href="$d9/d87/structsip__epa__entry.html" title="sip_epa_entry" alt="" coords="987,1853,1097,1880"/>
+<area shape="rect" id="node47" href="$d3/d7f/structt38properties.html" title="T.38 channel settings (at some point we need to make this alloc&#39;ed. " alt="" coords="988,1904,1096,1931"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="publisher_handlers" name="publisher_handlers">
+<area shape="rect" id="node2" href="$de/d7d/structast__sip__event__publisher__handler.html" title="Callbacks that event publisher handlers will define. " alt="" coords="5,184,180,225"/>
+<area shape="rect" id="node3" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="261,191,380,218"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="189,95,340,121"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="364,95,477,121"/>
+<area shape="rect" id="node6" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="389,5,452,32"/>
+</map>

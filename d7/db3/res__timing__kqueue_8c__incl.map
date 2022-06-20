@@ -1,0 +1,24 @@
+<map id="res_timing_kqueue.c" name="res_timing_kqueue.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="159,304,243,331"/>
+<area shape="rect" id="node24" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1719,80,1855,107"/>
+<area shape="rect" id="node25" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1461,155,1575,181"/>
+<area shape="rect" id="node27" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1428,528,1491,555"/>
+<area shape="rect" id="node29" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1861,528,1988,555"/>
+<area shape="rect" id="node33" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="921,304,1056,331"/>
+<area shape="rect" id="node35" href="$db/d41/timing_8h.html" title="Timing source management. " alt="" coords="2369,80,2497,107"/>
+<area shape="rect" id="node36" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="900,80,1013,107"/>
+<area shape="rect" id="node38" href="$d4/dfb/poll-compat_8h.html" title="asterisk/poll&#45;compat.h" alt="" coords="1959,229,2123,256"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="673,603,827,629"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="813,379,951,405"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="5,379,140,405"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="677,677,823,704"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1515,528,1657,555"/>
+<area shape="rect" id="node26" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1593,229,1731,256"/>
+<area shape="rect" id="node28" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1621,453,1735,480"/>
+<area shape="rect" id="node30" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1241,229,1387,256"/>
+<area shape="rect" id="node31" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1411,229,1569,256"/>
+<area shape="rect" id="node32" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="883,229,1014,256"/>
+<area shape="rect" id="node34" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1027,379,1177,405"/>
+<area shape="rect" id="node37" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="913,155,1014,181"/>
+<area shape="rect" id="node39" href="$d9/dab/select_8h.html" title="Bitfield expansions for ast_select. " alt="" coords="1908,304,2035,331"/>
+</map>

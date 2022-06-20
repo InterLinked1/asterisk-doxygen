@@ -1,0 +1,12 @@
+<map id="ast_calendar" name="ast_calendar">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="25,164,138,191"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="668,120,845,147"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="317,112,469,139"/>
+<area shape="rect" id="node8" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="344,329,443,356"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,380,157,407"/>
+<area shape="rect" id="node11" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="493,439,644,465"/>
+<area shape="rect" id="node6" href="$dd/dca/structast__calendar__tech.html" title="Individual calendaring technology data. " alt="" coords="988,328,1127,355"/>
+<area shape="rect" id="node7" href="$d4/d98/structast__module__user.html" title="ast_module_user" alt="" coords="691,328,823,355"/>
+<area shape="rect" id="node9" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="1008,531,1107,557"/>
+<area shape="rect" id="node10" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="701,531,812,557"/>
+</map>

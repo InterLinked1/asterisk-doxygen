@@ -1,0 +1,51 @@
+<map id="http.h" name="http.h">
+<area shape="rect" id="node2" href="$d0/d0c/http__websocket_8h.html" title="Support for WebSocket connections within the Asterisk HTTP server and client WebSocket connections to..." alt="" coords="3233,80,3368,107"/>
+<area shape="rect" id="node8" href="$de/d4c/res__http__websocket_8c.html" title="WebSocket support for the Asterisk internal HTTP server. " alt="" coords="3927,162,4087,189"/>
+<area shape="rect" id="node12" href="$d4/d59/ari_8h.html" title="Asterisk RESTful API hooks. " alt="" coords="1918,80,1969,107"/>
+<area shape="rect" id="node43" href="$dd/d43/http_8c.html" title="http server for AMI access " alt="" coords="3443,80,3502,107"/>
+<area shape="rect" id="node44" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="3526,80,3617,107"/>
+<area shape="rect" id="node45" href="$db/dde/internal_8h.html" title="Internal API&#39;s for res_ari. " alt="" coords="2999,80,3082,107"/>
+<area shape="rect" id="node47" href="$d6/dc9/res__http__post_8c.html" title="HTTP POST upload support for Asterisk HTTP server. " alt="" coords="3641,80,3763,107"/>
+<area shape="rect" id="node48" href="$d9/de9/res__phoneprov_8c.html" title="Phone provisioning application for the asterisk internal http server. " alt="" coords="3787,80,3913,107"/>
+<area shape="rect" id="node49" href="$d7/d1b/res__prometheus_8c.html" title="Core Prometheus metrics API. " alt="" coords="3938,80,4077,107"/>
+<area shape="rect" id="node50" href="$d4/d45/test__http__media__cache_8c.html" title="Tests for the HTTP media cache backend. " alt="" coords="4101,80,4284,107"/>
+<area shape="rect" id="node3" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="3813,162,3903,189"/>
+<area shape="rect" id="node4" href="$d8/d44/ari__websockets_8c.html" title="WebSocket support for RESTful API&#39;s. " alt="" coords="2862,162,2993,189"/>
+<area shape="rect" id="node5" href="$dc/dec/res_2ari_2config_8c.html" title="Config framework stuffz for ARI. " alt="" coords="3088,162,3159,189"/>
+<area shape="rect" id="node6" href="$dd/df4/resource__events_8c.html" title="/api&#45;docs/events.{format} implementation&#45; WebSocket resource " alt="" coords="3034,244,3173,271"/>
+<area shape="rect" id="node7" href="$d6/d87/res__ari__events_8c.html" title="WebSocket resource. " alt="" coords="3197,244,3324,271"/>
+<area shape="rect" id="node9" href="$d3/d17/config__transport_8c.html" title="config_transport.c" alt="" coords="3285,162,3423,189"/>
+<area shape="rect" id="node10" href="$d2/db8/res__pjsip__transport__websocket_8c.html" title="res_pjsip_transport\l_websocket.c" alt="" coords="3447,155,3591,196"/>
+<area shape="rect" id="node11" href="$de/de9/test__websocket__client_8c.html" title="Websocket Client Unit Tests. " alt="" coords="3615,162,3789,189"/>
+<area shape="rect" id="node13" href="$d7/d0c/resource__applications_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_applications.c. " alt="" coords="1857,162,2030,189"/>
+<area shape="rect" id="node16" href="$d3/ddb/resource__asterisk_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_asterisk.c. ..." alt="" coords="2054,162,2201,189"/>
+<area shape="rect" id="node19" href="$d5/d36/resource__bridges_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_bridges.c. " alt="" coords="2250,162,2394,189"/>
+<area shape="rect" id="node22" href="$d0/d12/resource__channels_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_channels.c. ..." alt="" coords="2418,162,2573,189"/>
+<area shape="rect" id="node25" href="$db/d87/resource__device__states_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_deviceStates.c. " alt="" coords="1099,162,1284,189"/>
+<area shape="rect" id="node28" href="$d6/d2d/resource__endpoints_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_endpoints.c. " alt="" coords="1399,162,1559,189"/>
+<area shape="rect" id="node31" href="$d1/dda/resource__events_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_events.c. " alt="" coords="2597,162,2737,189"/>
+<area shape="rect" id="node32" href="$d0/db9/resource__mailboxes_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_mailboxes.c. " alt="" coords="177,162,339,189"/>
+<area shape="rect" id="node35" href="$de/d64/resource__playbacks_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_playbacks.c. " alt="" coords="534,162,694,189"/>
+<area shape="rect" id="node38" href="$dd/dfd/resource__recordings_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_recordings.c. " alt="" coords="815,162,979,189"/>
+<area shape="rect" id="node40" href="$d3/dde/resource__sounds_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_sounds.c. " alt="" coords="1584,162,1727,189"/>
+<area shape="rect" id="node41" href="$d7/dbc/res__ari_8c.html" title="HTTP binding for the Stasis API. " alt="" coords="2761,162,2837,189"/>
+<area shape="rect" id="node42" href="$da/d03/test__ari_8c.html" title="Test ARI API. David M. Lee, II &lt;dlee@digium.com&gt; . " alt="" coords="1751,162,1832,189"/>
+<area shape="rect" id="node14" href="$d5/dbc/resource__applications_8c.html" title="/api&#45;docs/applications.{format} implementation &#45; Stasis application resources " alt="" coords="1844,244,2016,271"/>
+<area shape="rect" id="node15" href="$d3/d82/res__ari__applications_8c.html" title="Stasis application resources. " alt="" coords="1661,244,1820,271"/>
+<area shape="rect" id="node17" href="$df/d20/resource__asterisk_8c.html" title="Implementation for ARI stubs. " alt="" coords="2041,244,2187,271"/>
+<area shape="rect" id="node18" href="$dd/d87/res__ari__asterisk_8c.html" title="Asterisk resources. " alt="" coords="2211,244,2345,271"/>
+<area shape="rect" id="node20" href="$db/d0b/resource__bridges_8c.html" title="Implementation for ARI stubs. " alt="" coords="2369,244,2512,271"/>
+<area shape="rect" id="node21" href="$d6/dcd/res__ari__bridges_8c.html" title="Bridge resources. " alt="" coords="2537,244,2667,271"/>
+<area shape="rect" id="node23" href="$da/d49/resource__channels_8c.html" title="Implementation for ARI stubs. " alt="" coords="2856,244,3009,271"/>
+<area shape="rect" id="node24" href="$de/daa/res__ari__channels_8c.html" title="Channel resources. " alt="" coords="2692,244,2832,271"/>
+<area shape="rect" id="node26" href="$da/d20/resource__device__states_8c.html" title="/api&#45;docs/deviceStates.{format} implementation&#45; Device state resources " alt="" coords="1099,244,1283,271"/>
+<area shape="rect" id="node27" href="$dc/d85/res__ari__device__states_8c.html" title="Device state resources. " alt="" coords="905,244,1075,271"/>
+<area shape="rect" id="node29" href="$d1/d5a/resource__endpoints_8c.html" title="/api&#45;docs/endpoints.{format} implementation&#45; Endpoint resources " alt="" coords="1479,244,1637,271"/>
+<area shape="rect" id="node30" href="$d1/dd2/res__ari__endpoints_8c.html" title="Endpoint resources. " alt="" coords="1307,244,1454,271"/>
+<area shape="rect" id="node33" href="$d9/d8a/resource__mailboxes_8c.html" title="/api&#45;docs/mailboxes.{format} implementation&#45; Mailboxes resources " alt="" coords="177,244,339,271"/>
+<area shape="rect" id="node34" href="$d0/dd5/res__ari__mailboxes_8c.html" title="Mailboxes resources. " alt="" coords="5,244,153,271"/>
+<area shape="rect" id="node36" href="$d1/db1/resource__playbacks_8c.html" title="/api&#45;docs/playbacks.{format} implementation&#45; Playback control resources " alt="" coords="535,244,693,271"/>
+<area shape="rect" id="node37" href="$d0/d2f/res__ari__playbacks_8c.html" title="Playback control resources. " alt="" coords="363,244,510,271"/>
+<area shape="rect" id="node39" href="$d6/d1b/resource__recordings_8c.html" title="/api&#45;docs/recordings.{format} implementation&#45; Recording resources " alt="" coords="718,244,881,271"/>
+<area shape="rect" id="node46" href="$d8/dfa/res_2ari_2cli_8c.html" title="Command line for ARI. " alt="" coords="3017,162,3064,189"/>
+</map>

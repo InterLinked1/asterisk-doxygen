@@ -1,0 +1,30 @@
+<map id="res_pjsip_history.c" name="res_pjsip_history.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="530,304,614,331"/>
+<area shape="rect" id="node21" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="1925,80,2069,107"/>
+<area shape="rect" id="node28" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2770,453,2897,480"/>
+<area shape="rect" id="node29" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1251,528,1365,555"/>
+<area shape="rect" id="node30" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1781,603,1907,629"/>
+<area shape="rect" id="node31" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2136,229,2283,256"/>
+<area shape="rect" id="node46" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1179,80,1315,107"/>
+<area shape="rect" id="node47" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1091,229,1192,256"/>
+<area shape="rect" id="node48" href="$df/dd5/res__pjproject_8h.html" title="asterisk/res_pjproject.h" alt="" coords="3144,80,3315,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="409,379,564,405"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="589,379,726,405"/>
+<area shape="rect" id="node18" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="250,379,385,405"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,453,152,480"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="971,603,1114,629"/>
+<area shape="rect" id="node26" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1635,379,1792,405"/>
+<area shape="rect" id="node34" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1474,304,1625,331"/>
+<area shape="rect" id="node35" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1496,229,1635,256"/>
+<area shape="rect" id="node38" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1751,304,1902,331"/>
+<area shape="rect" id="node39" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1411,155,1544,181"/>
+<area shape="rect" id="node40" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="2035,155,2171,181"/>
+<area shape="rect" id="node41" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="1267,155,1387,181"/>
+<area shape="rect" id="node42" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="2761,155,2917,181"/>
+<area shape="rect" id="node43" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="1619,155,1808,181"/>
+<area shape="rect" id="node44" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1852,229,2047,256"/>
+<area shape="rect" id="node45" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="2833,229,2967,256"/>
+<area shape="rect" id="node27" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1319,603,1465,629"/>
+<area shape="rect" id="node36" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1248,304,1363,331"/>
+<area shape="rect" id="node37" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1093,379,1224,405"/>
+</map>

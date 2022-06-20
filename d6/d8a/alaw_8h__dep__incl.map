@@ -1,0 +1,12 @@
+<map id="alaw.h" name="alaw.h">
+<area shape="rect" id="node2" href="$d7/d81/app__sms_8c.html" title="SMS application &#45; ETSI ES 201 912 protocol 1 implementation. " alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$d1/d97/chan__dahdi_8c.html" title="DAHDI for Pseudo TDM. " alt="" coords="120,80,227,107"/>
+<area shape="rect" id="node4" href="$d2/d35/codec__a__mu_8c.html" title="codec_a_mu.c &#45; translate between alaw and ulaw directly " alt="" coords="251,80,365,107"/>
+<area shape="rect" id="node5" href="$d2/d58/codec__alaw_8c.html" title="codec_alaw.c &#45; translate between signed linear and alaw " alt="" coords="390,80,495,107"/>
+<area shape="rect" id="node6" href="$d2/d48/format__pcm_8c.html" title="Flat, binary, ulaw PCM file format. " alt="" coords="519,80,630,107"/>
+<area shape="rect" id="node7" href="$df/d27/alaw_8c.html" title="a&#45;Law to Signed linear conversion " alt="" coords="654,80,714,107"/>
+<area shape="rect" id="node8" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="739,80,821,107"/>
+<area shape="rect" id="node9" href="$dc/dd5/callerid_8c.html" title="CallerID Generation support. " alt="" coords="846,80,925,107"/>
+<area shape="rect" id="node10" href="$d5/d3b/dsp_8c.html" title="Convenience Signal Processing routines. " alt="" coords="949,80,1005,107"/>
+<area shape="rect" id="node11" href="$dd/d27/res__adsi_8c.html" title="ADSI support. " alt="" coords="1030,80,1117,107"/>
+</map>

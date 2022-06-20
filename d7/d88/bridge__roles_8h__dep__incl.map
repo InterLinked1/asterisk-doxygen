@@ -1,0 +1,51 @@
+<map id="bridge_roles.h" name="bridge_roles.h">
+<area shape="rect" id="node2" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="2394,80,2469,107"/>
+<area shape="rect" id="node49" href="$dd/d13/bridge__roles_8c.html" title="Channel Bridging Roles API. " alt="" coords="5205,162,5316,189"/>
+<area shape="rect" id="node3" href="$de/d11/app__agent__pool_8c.html" title="Call center agent pool. " alt="" coords="4668,162,4803,189"/>
+<area shape="rect" id="node4" href="$d0/df4/app__attended__transfer_8c.html" title="Attended transfer by caller channel. " alt="" coords="4827,162,5006,189"/>
+<area shape="rect" id="node5" href="$d7/d7c/app__blind__transfer_8c.html" title="Blind transfer by caller channel. " alt="" coords="5031,162,5181,189"/>
+<area shape="rect" id="node6" href="$d8/d6e/app__bridgeaddchan_8c.html" title="Application to place the channel into an existing Bridge. " alt="" coords="5,244,164,271"/>
+<area shape="rect" id="node7" href="$de/d47/features_8h.html" title="Call Parking and Pickup API Includes code and algorithms from the Zapata library. ..." alt="" coords="857,162,944,189"/>
+<area shape="rect" id="node8" href="$dc/d22/app__bridgewait_8c.html" title="Application to place the channel into a holding Bridge. " alt="" coords="188,244,317,271"/>
+<area shape="rect" id="node9" href="$d1/d97/chan__dahdi_8c.html" title="DAHDI for Pseudo TDM. " alt="" coords="598,244,705,271"/>
+<area shape="rect" id="node10" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="341,244,439,271"/>
+<area shape="rect" id="node11" href="$d0/dd6/chan__mgcp_8c.html" title="Implementation of Media Gateway Control Protocol. " alt="" coords="729,244,835,271"/>
+<area shape="rect" id="node12" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="463,244,573,271"/>
+<area shape="rect" id="node13" href="$d2/d09/sig__analog_8c.html" title="Analog signaling module. " alt="" coords="1330,244,1431,271"/>
+<area shape="rect" id="node14" href="$d0/d95/bridge_8c.html" title="Bridging API. " alt="" coords="2107,244,2180,271"/>
+<area shape="rect" id="node15" href="$d7/d9b/bridge__basic_8c.html" title="Basic bridge class. It is a subclass of struct ast_bridge. " alt="" coords="1077,244,1191,271"/>
+<area shape="rect" id="node16" href="$d4/d28/channel_8c.html" title="Channel Management. " alt="" coords="859,244,942,271"/>
+<area shape="rect" id="node17" href="$d5/d92/features_8c.html" title="Routines implementing call features as call pickup, parking and transfer. " alt="" coords="967,244,1053,271"/>
+<area shape="rect" id="node18" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="1215,244,1306,271"/>
+<area shape="rect" id="node19" href="$d0/dcf/app__confbridge_8c.html" title="Conference Bridge application. " alt="" coords="1778,319,1909,345"/>
+<area shape="rect" id="node20" href="$d4/de3/confbridge_8h.html" title="confbridge.h" alt="" coords="1629,244,1730,271"/>
+<area shape="rect" id="node21" href="$d8/d4f/conf__chan__announce_8c.html" title="ConfBridge announcer channel driver. " alt="" coords="1985,319,2153,345"/>
+<area shape="rect" id="node22" href="$d9/d44/conf__chan__record_8c.html" title="ConfBridge recorder channel driver. " alt="" coords="1403,319,1550,345"/>
+<area shape="rect" id="node23" href="$dd/d92/confbridge__manager_8c.html" title="Confbridge manager events for stasis messages. " alt="" coords="1589,319,1753,345"/>
+<area shape="rect" id="node24" href="$dc/d4e/stasis__bridges_8h.html" title="stasis_bridges.h" alt="" coords="1767,162,1893,189"/>
+<area shape="rect" id="node25" href="$d3/d32/bridge__channel_8c.html" title="Bridging Channel API. " alt="" coords="2205,244,2335,271"/>
+<area shape="rect" id="node26" href="$da/dc9/cel_8c.html" title="Channel Event Logging API. " alt="" coords="2359,244,2410,271"/>
+<area shape="rect" id="node27" href="$df/dd3/main_2cli_8c.html" title="Standard Command Line Interface. " alt="" coords="1557,244,1604,271"/>
+<area shape="rect" id="node28" href="$da/d0f/stasis__bridges_8c.html" title="Stasis Messages and Data Types for Bridge Objects. " alt="" coords="1856,244,1980,271"/>
+<area shape="rect" id="node29" href="$db/d0b/resource__bridges_8c.html" title="Implementation for ARI stubs. " alt="" coords="2989,244,3132,271"/>
+<area shape="rect" id="node30" href="$d2/ddd/app__dumpchan_8c.html" title="Application to dump channel variables. " alt="" coords="2365,162,2497,189"/>
+<area shape="rect" id="node31" href="$de/dea/core__unreal_8h.html" title="Unreal channel derivative framework. " alt="" coords="2775,162,2885,189"/>
+<area shape="rect" id="node32" href="$df/d0c/chan__bridge__media_8c.html" title="Bridge Media Channels driver. " alt="" coords="3208,244,3367,271"/>
+<area shape="rect" id="node33" href="$de/d47/core__local_8c.html" title="Local proxy channel driver. " alt="" coords="3391,244,3488,271"/>
+<area shape="rect" id="node34" href="$df/d2e/core__unreal_8c.html" title="Unreal channel derivatives framework for channel drivers like local channels. " alt="" coords="3512,244,3620,271"/>
+<area shape="rect" id="node35" href="$d9/d45/bridge__builtin__features_8c.html" title="Built in bridging features. " alt="" coords="2434,244,2613,271"/>
+<area shape="rect" id="node36" href="$d2/d33/parking_8h.html" title="Call Parking API. " alt="" coords="2208,162,2289,189"/>
+<area shape="rect" id="node37" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="2637,244,2727,271"/>
+<area shape="rect" id="node38" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="2751,244,2861,271"/>
+<area shape="rect" id="node39" href="$d3/d2a/parking_8c.html" title="Parking Core. " alt="" coords="2885,244,2965,271"/>
+<area shape="rect" id="node40" href="$d2/df4/bridge__builtin__interval__features_8c.html" title="Built in bridging interval features. " alt="" coords="3061,155,3223,196"/>
+<area shape="rect" id="node41" href="$d8/d66/bridge__holding_8c.html" title="Bridging technology for storing channels in a bridge for the purpose of holding, parking, queues, and other such states where a channel may need to be in a bridge but not actually communicating with anything. " alt="" coords="3247,162,3373,189"/>
+<area shape="rect" id="node42" href="$d1/d27/bridge__native__rtp_8c.html" title="Native RTP bridging technology module. " alt="" coords="3398,162,3542,189"/>
+<area shape="rect" id="node43" href="$da/daf/bridge__simple_8c.html" title="Simple two channel bridging module. " alt="" coords="3566,162,3689,189"/>
+<area shape="rect" id="node44" href="$d8/df0/bridge__softmix__internal_8h.html" title="Multi&#45;party software based channel mixing (header) " alt="" coords="3713,162,3896,189"/>
+<area shape="rect" id="node45" href="$d3/dac/chan__oss_8c.html" title="Channel driver for OSS sound cards. " alt="" coords="3921,162,4014,189"/>
+<area shape="rect" id="node46" href="$d1/d6d/chan__unistim_8c.html" title="chan_unistim channel driver for Asterisk " alt="" coords="4039,162,4157,189"/>
+<area shape="rect" id="node47" href="$d9/da5/bridge__native__dahdi_8c.html" title="Native DAHDI bridging support. " alt="" coords="4181,162,4343,189"/>
+<area shape="rect" id="node48" href="$d9/d3d/func__channel_8c.html" title="Channel info dialplan functions. " alt="" coords="4367,162,4485,189"/>
+<area shape="rect" id="node50" href="$dc/d2b/stasis__channels_8c.html" title="Stasis Messages and Data Types for Channel Objects. " alt="" coords="4509,162,4644,189"/>
+</map>

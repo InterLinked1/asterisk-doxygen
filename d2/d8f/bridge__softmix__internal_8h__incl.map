@@ -1,0 +1,43 @@
+<map id="bridge_softmix_internal.h" name="bridge_softmix_internal.h">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="301,453,385,480"/>
+<area shape="rect" id="node13" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1016,155,1152,181"/>
+<area shape="rect" id="node16" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1590,752,1717,779"/>
+<area shape="rect" id="node17" href="$d7/d5b/options_8h.html" title="Options provided by main asterisk program. " alt="" coords="1586,827,1721,853"/>
+<area shape="rect" id="node19" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2005,603,2131,629"/>
+<area shape="rect" id="node20" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1573,304,1712,331"/>
+<area shape="rect" id="node24" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="622,453,757,480"/>
+<area shape="rect" id="node27" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="2611,453,2738,480"/>
+<area shape="rect" id="node39" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="2000,80,2128,107"/>
+<area shape="rect" id="node42" href="$d0/d3b/bridge__technology_8h.html" title="Channel Bridging API. " alt="" coords="2128,229,2331,256"/>
+<area shape="rect" id="node46" href="$da/d7d/slinfactory_8h.html" title="A machine to gather up arbitrary frames and convert them to raw slinear on demand. " alt="" coords="2809,229,2959,256"/>
+<area shape="rect" id="node47" href="$db/d41/timing_8h.html" title="Timing source management. " alt="" coords="2903,80,3031,107"/>
+<area shape="rect" id="node48" href="$db/d39/translate_8h.html" title="Support for translation of data formats. translate.c. " alt="" coords="2635,304,2781,331"/>
+<area shape="rect" id="node49" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="2406,304,2562,331"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="868,901,1023,928"/>
+<area shape="rect" id="node4" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="426,528,563,555"/>
+<area shape="rect" id="node10" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="267,528,402,555"/>
+<area shape="rect" id="node14" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="985,453,1100,480"/>
+<area shape="rect" id="node15" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1495,677,1609,704"/>
+<area shape="rect" id="node18" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1691,528,1848,555"/>
+<area shape="rect" id="node21" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="891,379,1035,405"/>
+<area shape="rect" id="node22" href="$dc/d14/abstract__jb_8h.html" title="Common implementation&#45;independent jitterbuffer stuff. " alt="" coords="2814,453,2973,480"/>
+<area shape="rect" id="node25" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1954,528,2105,555"/>
+<area shape="rect" id="node26" href="$d4/dfb/poll-compat_8h.html" title="asterisk/poll&#45;compat.h" alt="" coords="1350,379,1514,405"/>
+<area shape="rect" id="node29" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="1725,453,1872,480"/>
+<area shape="rect" id="node30" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1059,379,1186,405"/>
+<area shape="rect" id="node31" href="$dc/d07/cdr_8h.html" title="Call Detail Record API. " alt="" coords="1589,379,1696,405"/>
+<area shape="rect" id="node32" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="1897,453,2047,480"/>
+<area shape="rect" id="node33" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="2558,379,2719,405"/>
+<area shape="rect" id="node34" href="$d9/d95/channelstate_8h.html" title="Channel states. " alt="" coords="267,379,437,405"/>
+<area shape="rect" id="node35" href="$de/dc8/ccss_8h.html" title="Call Completion Supplementary Services API. " alt="" coords="1210,379,1326,405"/>
+<area shape="rect" id="node36" href="$db/d3c/framehook_8h.html" title="FrameHook Architecture. " alt="" coords="2173,379,2331,405"/>
+<area shape="rect" id="node37" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1973,379,2099,405"/>
+<area shape="rect" id="node38" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="665,379,815,405"/>
+<area shape="rect" id="node23" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="2711,528,2841,555"/>
+<area shape="rect" id="node28" href="$d1/d84/endian_8h.html" title="Asterisk architecture endianess compatibility definitions. " alt="" coords="2556,528,2687,555"/>
+<area shape="rect" id="node40" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="1681,229,1869,256"/>
+<area shape="rect" id="node41" href="$de/d41/bridge__channel_8h.html" title="asterisk/bridge_channel.h" alt="" coords="1731,155,1917,181"/>
+<area shape="rect" id="node43" href="$dd/dff/bridge__roles_8h.html" title="Channel Bridging Roles API. " alt="" coords="1937,229,2103,256"/>
+<area shape="rect" id="node44" href="$d3/d08/dsp_8h.html" title="Convenient Signal Processing routines. " alt="" coords="1941,155,2051,181"/>
+<area shape="rect" id="node45" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="2076,155,2191,181"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="switches" name="switches">
+<area shape="rect" id="node2" href="$d9/df6/structast__switch.html" title="ast_switch" alt="" coords="5,184,93,211"/>
+<area shape="rect" id="node3" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="175,184,294,211"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="103,95,254,121"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="278,95,391,121"/>
+<area shape="rect" id="node6" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="303,5,366,32"/>
+</map>

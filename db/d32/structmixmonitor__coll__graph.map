@@ -1,0 +1,15 @@
+<map id="mixmonitor" name="mixmonitor">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="221,96,373,123"/>
+<area shape="rect" id="node9" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="544,475,643,501"/>
+<area shape="rect" id="node14" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="677,45,828,72"/>
+<area shape="rect" id="node3" href="$d7/d69/structmixmonitor__ds.html" title="mixmonitor_ds" alt="" coords="1092,253,1209,280"/>
+<area shape="rect" id="node4" href="$db/dbc/structast__filestream.html" title="This structure is allocated by file.c in one chunk, together with buf_size and desc_size bytes of mem..." alt="" coords="853,481,966,508"/>
+<area shape="rect" id="node5" href="$d0/d57/structast__format__def.html" title="Each supported file format is described by the following structure. " alt="" coords="238,577,357,604"/>
+<area shape="rect" id="node6" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="5,449,97,476"/>
+<area shape="rect" id="node8" href="$d1/d47/structast__trans__pvt.html" title="Default structure for translators, with the basic fields and buffers, all allocated as part of the sa..." alt="" coords="243,427,352,453"/>
+<area shape="rect" id="node11" href="$d2/d49/structast__audiohook.html" title="ast_audiohook" alt="" coords="852,211,967,237"/>
+<area shape="rect" id="node7" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="8,619,95,645"/>
+<area shape="rect" id="node13" href="$d8/d7f/structast__autochan.html" title="ast_autochan" alt="" coords="855,363,964,389"/>
+<area shape="rect" id="node10" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="533,263,653,289"/>
+<area shape="rect" id="node12" href="$d6/d7b/structvm__recipient.html" title="vm_recipient" alt="" coords="1099,471,1203,497"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sip_notify" name="sip_notify">
+<area shape="rect" id="node2" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="58,124,125,151"/>
+<area shape="rect" id="node3" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node4" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="157,124,255,151"/>
+<area shape="rect" id="node5" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="169,5,280,32"/>
+</map>

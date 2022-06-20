@@ -1,0 +1,32 @@
+<map id="stasis_app_control" name="stasis_app_control">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="25,1025,138,1052"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="671,1275,848,1301"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="319,1344,471,1371"/>
+<area shape="rect" id="node13" href="$db/dba/structast__bridge__features.html" title="Structure that contains features information. " alt="" coords="320,603,469,629"/>
+<area shape="rect" id="node15" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="345,547,444,573"/>
+<area shape="rect" id="node18" href="$d0/d99/structast__bridge__snapshot.html" title="Structure that contains a snapshot of information about a bridge. " alt="" coords="317,165,472,192"/>
+<area shape="rect" id="node26" href="$d4/de3/structstasis__app.html" title="stasis_app" alt="" coords="1427,1077,1518,1104"/>
+<area shape="rect" id="node5" href="$d6/d83/structast__pbx.html" title="ast_pbx" alt="" coords="45,636,117,663"/>
+<area shape="rect" id="node6" href="$d4/d84/structast__bridge.html" title="Structure that contains information about a bridge. " alt="" coords="1428,337,1517,364"/>
+<area shape="rect" id="node11" href="$d5/dca/structast__bridge__channel.html" title="Structure that contains information regarding a channel in a bridge. " alt="" coords="686,503,833,529"/>
+<area shape="rect" id="node17" href="$d2/dd3/structast__bridge__methods.html" title="Bridge virtual methods table definition. " alt="" coords="1712,303,1865,329"/>
+<area shape="rect" id="node7" href="$d1/d04/structast__bridge__technology.html" title="Structure that is the essence of a bridge technology. " alt="" coords="1065,223,1231,249"/>
+<area shape="rect" id="node8" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="711,223,808,249"/>
+<area shape="rect" id="node9" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,229,157,256"/>
+<area shape="rect" id="node22" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="496,76,647,103"/>
+<area shape="rect" id="node10" href="$d3/d0f/structast__bridge__channels__list.html" title="ast_bridge_channels_list" alt="" coords="1059,501,1237,528"/>
+<area shape="rect" id="node12" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="349,664,441,691"/>
+<area shape="rect" id="node31" href="$d9/da1/structast__silence__generator.html" title="ast_silence_generator" alt="" coords="872,807,1035,833"/>
+<area shape="rect" id="node14" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="42,49,121,76"/>
+<area shape="rect" id="node16" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="38,432,125,459"/>
+<area shape="rect" id="node19" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="33,868,130,895"/>
+<area shape="rect" id="node30" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="323,1001,466,1028"/>
+<area shape="rect" id="node20" href="$d0/d50/structast__bridge__softmix.html" title="ast_bridge_softmix" alt="" coords="1077,388,1219,415"/>
+<area shape="rect" id="node21" href="$dc/d4a/structast__bridge__video__mode.html" title="Data structure that defines a video source mode. " alt="" coords="672,413,847,440"/>
+<area shape="rect" id="node23" href="$de/d4f/structapp__control__rules.html" title="app_control_rules" alt="" coords="1405,817,1540,844"/>
+<area shape="rect" id="node24" href="$d3/dc3/structstasis__app__control__rule.html" title="Rule to check to see if an operation is allowed. " alt="" coords="1062,817,1234,844"/>
+<area shape="rect" id="node25" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="1088,728,1208,755"/>
+<area shape="rect" id="node27" href="$d1/da1/structast__json.html" title="Abstract JSON element (object, array, string, int, ...). " alt="" coords="1111,1204,1185,1231"/>
+<area shape="rect" id="node28" href="$d4/d1b/structstasis__message__router.html" title="stasis_message_router" alt="" coords="1063,1025,1233,1052"/>
+<area shape="rect" id="node29" href="$d6/d05/structstasis__message__route.html" title="stasis_message_route" alt="" coords="676,1025,843,1052"/>
+</map>

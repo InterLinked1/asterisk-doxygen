@@ -1,0 +1,18 @@
+<map id="res_statsd.c" name="res_statsd.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="868,80,952,107"/>
+<area shape="rect" id="node22" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="1161,80,1341,107"/>
+<area shape="rect" id="node29" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1403,80,1539,107"/>
+<area shape="rect" id="node30" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1563,80,1710,107"/>
+<area shape="rect" id="node33" href="$d4/d67/statsd_8h.html" title="asterisk/statsd.h" alt="" coords="1791,80,1919,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="638,155,793,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="788,229,925,256"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="895,155,1029,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="617,229,763,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="355,304,497,331"/>
+<area shape="rect" id="node24" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1307,155,1433,181"/>
+<area shape="rect" id="node28" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1148,155,1283,181"/>
+<area shape="rect" id="node25" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1397,229,1511,256"/>
+<area shape="rect" id="node27" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1183,229,1330,256"/>
+<area shape="rect" id="node26" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1513,304,1640,331"/>
+<area shape="rect" id="node34" href="$df/d3c/optional__api_8h.html" title="Optional API function macros. " alt="" coords="1831,155,1997,181"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="update2_prepare_struct" name="update2_prepare_struct">
+<area shape="rect" id="node2" href="$d5/d5c/structodbc__cache__tables.html" title="odbc_cache_tables" alt="" coords="94,228,238,255"/>
+<area shape="rect" id="node3" href="$d6/d3b/structodbc__cache__tables_1_1__columns.html" title="_columns" alt="" coords="125,109,207,136"/>
+<area shape="rect" id="node4" href="$d0/d5f/structodbc__cache__columns.html" title="These structures are used for adaptive capabilities. " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node5" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="188,5,307,32"/>
+<area shape="rect" id="node6" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="262,228,361,255"/>
+<area shape="rect" id="node7" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="256,109,367,136"/>
+</map>

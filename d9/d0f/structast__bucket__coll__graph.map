@@ -1,0 +1,11 @@
+<map id="ast_bucket" name="ast_bucket">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="627,96,741,123"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="766,337,943,364"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="929,195,1081,222"/>
+<area shape="rect" id="node9" href="$d9/da9/structast__bucket__file.html" title="Bucket file structure, contains reference to file and information about it. " alt="" coords="237,195,355,222"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="85,5,237,32"/>
+<area shape="rect" id="node10" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="86,96,237,123"/>
+<area shape="rect" id="node6" href="$d6/da0/structast__bucket__scheme.html" title="Structure for available schemes. " alt="" coords="230,337,381,364"/>
+<area shape="rect" id="node7" href="$dd/d0a/structast__sorcery__wizard.html" title="Interface for a sorcery wizard. " alt="" coords="385,195,527,222"/>
+<area shape="rect" id="node8" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="433,96,530,123"/>
+</map>

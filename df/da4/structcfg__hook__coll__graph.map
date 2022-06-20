@@ -1,0 +1,8 @@
+<map id="cfg_hook" name="cfg_hook">
+<area shape="rect" id="node2" href="$dd/d18/structast__config.html" title="ast_config" alt="" coords="297,381,384,408"/>
+<area shape="rect" id="node3" href="$d7/db2/structast__category.html" title="ast_category" alt="" coords="187,247,292,273"/>
+<area shape="rect" id="node4" href="$d0/d48/structast__category_1_1template__instance__list.html" title="template_instance_list" alt="" coords="5,133,172,159"/>
+<area shape="rect" id="node5" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="358,133,457,159"/>
+<area shape="rect" id="node6" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="236,5,347,32"/>
+<area shape="rect" id="node7" href="$da/d05/structast__config__include.html" title="ast_config_include" alt="" coords="374,247,513,273"/>
+</map>

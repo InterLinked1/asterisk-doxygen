@@ -1,0 +1,22 @@
+<map id="mwi.h" name="mwi.h">
+<area shape="rect" id="node2" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1369,229,1483,256"/>
+<area shape="rect" id="node36" href="$d1/d96/stasis__state_8h.html" title="Stasis State API. " alt="" coords="1135,80,1301,107"/>
+<area shape="rect" id="node3" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="633,304,771,331"/>
+<area shape="rect" id="node13" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1943,528,2005,555"/>
+<area shape="rect" id="node19" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1045,453,1159,480"/>
+<area shape="rect" id="node24" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1424,528,1551,555"/>
+<area shape="rect" id="node27" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1867,304,2014,331"/>
+<area shape="rect" id="node29" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1686,304,1843,331"/>
+<area shape="rect" id="node31" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1235,304,1366,331"/>
+<area shape="rect" id="node14" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1894,603,2049,629"/>
+<area shape="rect" id="node17" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1566,603,1713,629"/>
+<area shape="rect" id="node23" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="1249,528,1400,555"/>
+<area shape="rect" id="node25" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="645,528,788,555"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1740,379,1867,405"/>
+<area shape="rect" id="node34" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="1537,379,1715,405"/>
+<area shape="rect" id="node35" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1327,379,1461,405"/>
+<area shape="rect" id="node37" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1038,155,1163,181"/>
+<area shape="rect" id="node38" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="1043,229,1158,256"/>
+<area shape="rect" id="node39" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="659,229,804,256"/>
+<area shape="rect" id="node40" href="$dd/d20/event_8h.html" title="asterisk/event.h" alt="" coords="511,229,635,256"/>
+</map>

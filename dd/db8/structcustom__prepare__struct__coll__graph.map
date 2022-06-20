@@ -1,0 +1,6 @@
+<map id="custom_prepare_struct" name="custom_prepare_struct">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="6,5,158,32"/>
+<area shape="rect" id="node5" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="138,124,289,151"/>
+<area shape="rect" id="node3" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="314,124,412,151"/>
+<area shape="rect" id="node4" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="308,5,418,32"/>
+</map>

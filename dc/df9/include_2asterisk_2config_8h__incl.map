@@ -1,0 +1,17 @@
+<map id="config.h" name="config.h">
+<area shape="rect" id="node2" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="670,80,785,107"/>
+<area shape="rect" id="node17" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1149,453,1295,480"/>
+<area shape="rect" id="node3" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1787,155,1926,181"/>
+<area shape="rect" id="node13" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="115,379,177,405"/>
+<area shape="rect" id="node19" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="596,304,709,331"/>
+<area shape="rect" id="node24" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="201,379,328,405"/>
+<area shape="rect" id="node27" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="566,155,713,181"/>
+<area shape="rect" id="node29" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="737,155,894,181"/>
+<area shape="rect" id="node31" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="922,155,1053,181"/>
+<area shape="rect" id="node14" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="103,453,258,480"/>
+<area shape="rect" id="node23" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="749,379,900,405"/>
+<area shape="rect" id="node25" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="924,379,1067,405"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="661,229,788,256"/>
+<area shape="rect" id="node34" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="1209,229,1387,256"/>
+<area shape="rect" id="node35" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1049,229,1184,256"/>
+</map>

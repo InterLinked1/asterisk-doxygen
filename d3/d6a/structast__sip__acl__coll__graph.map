@@ -1,0 +1,8 @@
+<map id="ast_sip_acl" name="ast_sip_acl">
+<area shape="rect" id="node2" href="$d3/da4/structast__acl__list.html" title="Wrapper for an ast_acl linked list. " alt="" coords="253,199,345,225"/>
+<area shape="rect" id="node3" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="174,95,294,121"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,5,293,32"/>
+<area shape="rect" id="node6" href="$d9/dc8/structast__acl.html" title="an ast_acl is a linked list node of ast_ha structs which may have names. " alt="" coords="318,95,385,121"/>
+<area shape="rect" id="node7" href="$dc/d1d/structast__ha.html" title="internal representation of ACL entries In principle user applications would have no need for this..." alt="" coords="319,5,384,32"/>
+</map>

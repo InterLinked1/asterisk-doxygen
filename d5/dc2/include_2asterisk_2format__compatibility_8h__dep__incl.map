@@ -1,0 +1,11 @@
+<map id="format_compatibility.h" name="format_compatibility.h">
+<area shape="rect" id="node2" href="$df/d44/app__meetme_8c.html" title="Meet me conference bridge and Shared Line Appearances. " alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="148,80,245,107"/>
+<area shape="rect" id="node4" href="$da/dde/chan__phone_8c.html" title="Generic Linux Telephony Interface driver. " alt="" coords="269,80,380,107"/>
+<area shape="rect" id="node5" href="$d2/d17/codec__pref_8c.html" title="Media Format Bitfield Compatibility API. " alt="" coords="404,80,507,107"/>
+<area shape="rect" id="node6" href="$db/d09/channels_2iax2_2format__compatibility_8c.html" title="Media Format Bitfield Compatibility API. " alt="" coords="531,80,694,107"/>
+<area shape="rect" id="node7" href="$d2/d72/parser_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Protocol, v 2. " alt="" coords="719,80,792,107"/>
+<area shape="rect" id="node8" href="$d8/d4f/provision_8c.html" title="IAX Provisioning Protocol. " alt="" coords="817,80,907,107"/>
+<area shape="rect" id="node9" href="$de/d52/codec__dahdi_8c.html" title="Translate between various formats natively through DAHDI transcoding. " alt="" coords="932,80,1045,107"/>
+<area shape="rect" id="node10" href="$d9/de1/main_2format__compatibility_8c.html" title="Media Format Bitfield Compatibility API. " alt="" coords="1070,80,1233,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="g722.h" name="g722.h">
+<area shape="rect" id="node2" href="$d2/dba/codec__g722_8c.html" title="codec_g722.c &#45; translate between signed linear and ITU G.722&#45;64kbps " alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$d5/d0f/g722__decode_8c.html" title="g722_decode.c" alt="" coords="140,80,259,107"/>
+<area shape="rect" id="node4" href="$d8/d63/g722__encode_8c.html" title="g722_encode.c" alt="" coords="283,80,401,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="buildinfo.h" name="buildinfo.h">
+<area shape="rect" id="node2" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="5,80,88,107"/>
+<area shape="rect" id="node3" href="$d4/d42/buildinfo_8c.html" title="Build timestamp variables. " alt="" coords="113,80,199,107"/>
+<area shape="rect" id="node4" href="$d1/d22/logger_8c.html" title="Asterisk Logger. " alt="" coords="224,80,296,107"/>
+<area shape="rect" id="node5" href="$df/d20/resource__asterisk_8c.html" title="Implementation for ARI stubs. " alt="" coords="320,80,467,107"/>
+<area shape="rect" id="node6" href="$d7/d1b/res__prometheus_8c.html" title="Core Prometheus metrics API. " alt="" coords="491,80,629,107"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="res_odbc.h" name="res_odbc.h">
+<area shape="rect" id="node2" href="$df/ddb/cdr__adaptive__odbc_8c.html" title="Adaptive ODBC CDR backend. " alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node3" href="$d8/d56/cdr__odbc_8c.html" title="ODBC CDR Backend. " alt="" coords="183,80,274,107"/>
+<area shape="rect" id="node4" href="$d1/ddf/cel__odbc_8c.html" title="ODBC CEL backend. " alt="" coords="299,80,388,107"/>
+<area shape="rect" id="node5" href="$dc/d1d/func__odbc_8c.html" title="ODBC lookups. " alt="" coords="413,80,511,107"/>
+<area shape="rect" id="node6" href="$dd/d53/res__config__odbc_8c.html" title="odbc+odbc plugin for portable configuration engine " alt="" coords="535,80,671,107"/>
+<area shape="rect" id="node7" href="$d7/d4a/res__odbc_8c.html" title="ODBC resource manager. " alt="" coords="695,80,786,107"/>
+<area shape="rect" id="node8" href="$da/d92/res__odbc__transaction_8c.html" title="res_odbc_transaction.c" alt="" coords="810,80,981,107"/>
+</map>

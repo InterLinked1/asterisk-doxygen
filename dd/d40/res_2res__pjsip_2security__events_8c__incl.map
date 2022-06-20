@@ -1,0 +1,30 @@
+<map id="security_events.c" name="security_events.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="785,393,869,420"/>
+<area shape="rect" id="node23" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="1657,80,1801,107"/>
+<area shape="rect" id="node48" href="$d0/d29/include_2asterisk_2security__events_8h.html" title="Security Event Reporting API. " alt="" coords="2775,80,2963,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="289,468,444,495"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="758,468,895,495"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="919,468,1054,495"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,543,152,569"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1422,543,1565,569"/>
+<area shape="rect" id="node28" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1141,319,1299,345"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1157,393,1283,420"/>
+<area shape="rect" id="node33" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2000,244,2147,271"/>
+<area shape="rect" id="node36" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1726,319,1877,345"/>
+<area shape="rect" id="node37" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1456,244,1595,271"/>
+<area shape="rect" id="node40" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="915,319,1066,345"/>
+<area shape="rect" id="node41" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1197,162,1331,189"/>
+<area shape="rect" id="node42" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="1995,162,2131,189"/>
+<area shape="rect" id="node43" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="1669,162,1789,189"/>
+<area shape="rect" id="node44" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="1814,162,1970,189"/>
+<area shape="rect" id="node45" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="1355,162,1544,189"/>
+<area shape="rect" id="node46" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="965,244,1160,271"/>
+<area shape="rect" id="node47" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="1185,244,1319,271"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1681,543,1828,569"/>
+<area shape="rect" id="node31" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1631,468,1745,495"/>
+<area shape="rect" id="node32" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1965,543,2091,569"/>
+<area shape="rect" id="node38" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="1507,319,1651,345"/>
+<area shape="rect" id="node39" href="$dc/d14/abstract__jb_8h.html" title="Common implementation&#45;independent jitterbuffer stuff. " alt="" coords="1323,319,1482,345"/>
+<area shape="rect" id="node49" href="$dd/d20/event_8h.html" title="asterisk/event.h" alt="" coords="2807,162,2931,189"/>
+<area shape="rect" id="node50" href="$d7/dc2/security__events__defs_8h.html" title="Security Event Reporting Data Structures. " alt="" coords="2956,155,3132,196"/>
+</map>

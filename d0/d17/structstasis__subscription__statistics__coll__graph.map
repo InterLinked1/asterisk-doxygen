@@ -1,0 +1,16 @@
+<map id="stasis_subscription_statistics" name="stasis_subscription_statistics">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="623,60,736,87"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1307,60,1484,87"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="1013,131,1165,157"/>
+<area shape="rect" id="node5" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="608,200,751,227"/>
+<area shape="rect" id="node6" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="325,111,464,137"/>
+<area shape="rect" id="node9" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="583,111,776,137"/>
+<area shape="rect" id="node7" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="53,80,142,107"/>
+<area shape="rect" id="node8" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="8,131,187,157"/>
+<area shape="rect" id="node10" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="346,201,443,228"/>
+<area shape="rect" id="node11" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="599,251,759,277"/>
+<area shape="rect" id="node12" href="$dd/d3e/structstasis__message__vtable.html" title="Virtual table providing methods for messages. " alt="" coords="309,252,480,279"/>
+<area shape="rect" id="node13" href="$d5/d78/structast__event.html" title="An event. " alt="" coords="55,201,140,228"/>
+<area shape="rect" id="node14" href="$d1/da1/structast__json.html" title="Abstract JSON element (object, array, string, int, ...). " alt="" coords="60,252,135,279"/>
+<area shape="rect" id="node15" href="$dd/d96/structast__manager__event__blob.html" title="Struct containing info for an AMI event to send out. " alt="" coords="5,303,189,329"/>
+</map>

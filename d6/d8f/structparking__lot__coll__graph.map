@@ -1,0 +1,20 @@
+<map id="parking_lot" name="parking_lot">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="36,727,149,753"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="673,789,851,816"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="347,860,499,887"/>
+<area shape="rect" id="node13" href="$d0/d99/structast__bridge__snapshot.html" title="Structure that contains a snapshot of information about a bridge. " alt="" coords="346,451,501,477"/>
+<area shape="rect" id="node5" href="$d4/d84/structast__bridge.html" title="Structure that contains information about a bridge. " alt="" coords="717,264,807,291"/>
+<area shape="rect" id="node10" href="$d5/dca/structast__bridge__channel.html" title="Structure that contains information regarding a channel in a bridge. " alt="" coords="1026,85,1173,112"/>
+<area shape="rect" id="node12" href="$d2/dd3/structast__bridge__methods.html" title="Bridge virtual methods table definition. " alt="" coords="1023,196,1176,223"/>
+<area shape="rect" id="node6" href="$d1/d04/structast__bridge__technology.html" title="Structure that is the essence of a bridge technology. " alt="" coords="340,167,507,193"/>
+<area shape="rect" id="node7" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="44,184,141,211"/>
+<area shape="rect" id="node8" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="17,457,169,484"/>
+<area shape="rect" id="node18" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="348,393,499,420"/>
+<area shape="rect" id="node19" href="$d3/d86/structparking__lot__cfg.html" title="parking_lot_cfg" alt="" coords="531,539,649,565"/>
+<area shape="rect" id="node9" href="$d3/d0f/structast__bridge__channels__list.html" title="ast_bridge_channels_list" alt="" coords="1252,241,1431,268"/>
+<area shape="rect" id="node11" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="380,44,467,71"/>
+<area shape="rect" id="node14" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="53,320,132,347"/>
+<area shape="rect" id="node15" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="375,280,472,307"/>
+<area shape="rect" id="node16" href="$d0/d50/structast__bridge__softmix.html" title="ast_bridge_softmix" alt="" coords="352,104,495,131"/>
+<area shape="rect" id="node17" href="$dc/d4a/structast__bridge__video__mode.html" title="Data structure that defines a video source mode. " alt="" coords="5,80,180,107"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="ast_hint" name="ast_hint">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="848,85,961,112"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1400,60,1577,87"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="1101,129,1253,156"/>
+<area shape="rect" id="node5" href="$d7/d00/structast__exten.html" title="ast_exten: An extension The dialplan is saved as a linked list with each context having it&#39;s own link..." alt="" coords="862,369,947,396"/>
+<area shape="rect" id="node6" href="$d6/d7c/structast__context.html" title="ast_context: An extension context &#45; must remain in sync with fake_context " alt="" coords="1440,592,1537,619"/>
+<area shape="rect" id="node11" href="$da/d14/structmatch__char.html" title="match_char: forms a syntax tree for quick matching of extension patterns " alt="" coords="1128,445,1227,472"/>
+<area shape="rect" id="node7" href="$d3/def/structast__sw.html" title="ast_sw: Switch statement in extensions.conf " alt="" coords="1145,648,1210,675"/>
+<area shape="rect" id="node8" href="$d5/db2/structast__include.html" title="ast_include: include= support in extensions.conf " alt="" coords="1130,737,1225,764"/>
+<area shape="rect" id="node9" href="$d0/d11/structast__ignorepat.html" title="ast_ignorepat: Ignore patterns in dial plan " alt="" coords="1122,827,1233,853"/>
+<area shape="rect" id="node10" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="1117,928,1237,955"/>
+<area shape="rect" id="node12" href="$d7/dfe/structnamelist.html" title="namelist" alt="" coords="1139,279,1216,305"/>
+<area shape="rect" id="node13" href="$d0/d4a/structast__hashtab.html" title="ast_hashtab" alt="" coords="589,559,691,585"/>
+<area shape="rect" id="node14" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="329,787,448,813"/>
+<area shape="rect" id="node15" href="$d0/da3/structast__app.html" title="ast_app: A registered application " alt="" coords="603,256,677,283"/>
+<area shape="rect" id="node16" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,256,157,283"/>
+<area shape="rect" id="node17" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="313,293,464,320"/>
+<area shape="rect" id="node18" href="$d6/d37/structast__state__cb.html" title="ast_state_cb: An extension state notify register item " alt="" coords="853,253,957,280"/>
+</map>

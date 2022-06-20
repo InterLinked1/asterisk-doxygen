@@ -1,0 +1,18 @@
+<map id="test_netsock2.c" name="test_netsock2.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="954,155,1038,181"/>
+<area shape="rect" id="node22" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1435,80,1549,107"/>
+<area shape="rect" id="node27" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1861,379,1987,405"/>
+<area shape="rect" id="node28" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1584,80,1720,107"/>
+<area shape="rect" id="node29" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1917,80,2064,107"/>
+<area shape="rect" id="node32" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1745,80,1871,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="335,229,489,256"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="847,229,985,256"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1009,229,1143,256"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,304,152,331"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1283,304,1426,331"/>
+<area shape="rect" id="node23" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1441,155,1543,181"/>
+<area shape="rect" id="node25" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1308,229,1439,256"/>
+<area shape="rect" id="node24" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1463,229,1614,256"/>
+<area shape="rect" id="node26" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1595,304,1709,331"/>
+<area shape="rect" id="node33" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1740,155,1887,181"/>
+</map>

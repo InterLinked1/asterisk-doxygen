@@ -1,0 +1,5 @@
+<map id="ast_sip_subscription_response_data" name="ast_sip_subscription_response_data">
+<area shape="rect" id="node2" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="11,124,110,151"/>
+<area shape="rect" id="node3" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node4" href="$d5/d80/structast__sip__body.html" title="SIP body description. " alt="" coords="192,124,297,151"/>
+</map>

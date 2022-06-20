@@ -1,0 +1,11 @@
+<map id="stasis_state" name="stasis_state">
+<area shape="rect" id="node2" href="$d8/d54/structstasis__forward.html" title="Forwarding information. " alt="" coords="62,213,175,240"/>
+<area shape="rect" id="node3" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="56,95,154,121"/>
+<area shape="rect" id="node4" href="$d8/d25/structstasis__state__manager.html" title="stasis_state_manager" alt="" coords="199,213,363,240"/>
+<area shape="rect" id="node5" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="312,95,426,121"/>
+<area shape="rect" id="node6" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="387,213,564,240"/>
+<area shape="rect" id="node7" href="$d7/d55/structstasis__message.html" title="stasis_message" alt="" coords="589,213,714,240"/>
+<area shape="rect" id="node8" href="$d0/d86/structast__eid.html" title="An Entity ID is essentially a MAC address, brief and unique. " alt="" coords="599,95,667,121"/>
+<area shape="rect" id="node9" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="692,95,852,121"/>
+<area shape="rect" id="node10" href="$dd/d3e/structstasis__message__vtable.html" title="Virtual table providing methods for messages. " alt="" coords="686,5,857,32"/>
+</map>

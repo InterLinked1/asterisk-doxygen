@@ -1,0 +1,24 @@
+<map id="res_hep.c" name="res_hep.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="107,379,191,405"/>
+<area shape="rect" id="node22" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1266,155,1402,181"/>
+<area shape="rect" id="node36" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1236,379,1371,405"/>
+<area shape="rect" id="node37" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="2027,80,2207,107"/>
+<area shape="rect" id="node40" href="$d0/d1e/taskprocessor_8h.html" title="An API for managing task processing threads that can be shared across modules. " alt="" coords="2381,80,2559,107"/>
+<area shape="rect" id="node41" href="$d0/d35/res__hep_8h.html" title="Routines for integration with Homer using HEPv3. " alt="" coords="1870,155,2009,181"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="611,603,766,629"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="1049,453,1187,480"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="5,453,140,480"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="615,677,762,704"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1559,528,1701,555"/>
+<area shape="rect" id="node23" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1533,229,1647,256"/>
+<area shape="rect" id="node24" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2066,304,2205,331"/>
+<area shape="rect" id="node29" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1725,528,1788,555"/>
+<area shape="rect" id="node31" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1573,453,1687,480"/>
+<area shape="rect" id="node32" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1915,528,2041,555"/>
+<area shape="rect" id="node33" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1573,304,1719,331"/>
+<area shape="rect" id="node34" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1983,453,2141,480"/>
+<area shape="rect" id="node35" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1367,304,1498,331"/>
+<area shape="rect" id="node30" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1803,603,1950,629"/>
+<area shape="rect" id="node39" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="2128,155,2255,181"/>
+<area shape="rect" id="node42" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1895,304,2042,331"/>
+</map>

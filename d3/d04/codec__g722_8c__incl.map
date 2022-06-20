@@ -1,0 +1,32 @@
+<map id="codec_g722.c" name="codec_g722.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="457,229,541,256"/>
+<area shape="rect" id="node22" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="2463,229,2613,256"/>
+<area shape="rect" id="node32" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1930,80,2066,107"/>
+<area shape="rect" id="node33" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1826,229,1941,256"/>
+<area shape="rect" id="node38" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="2329,155,2456,181"/>
+<area shape="rect" id="node39" href="$db/d39/translate_8h.html" title="Support for translation of data formats. translate.c. " alt="" coords="2532,80,2677,107"/>
+<area shape="rect" id="node47" href="$d2/d20/g722_8h.html" title="g722/g722.h" alt="" coords="2701,80,2804,107"/>
+<area shape="rect" id="node48" href="$d1/d28/slin_8h.html" title="asterisk/slin.h" alt="" coords="2829,80,2938,107"/>
+<area shape="rect" id="node49" href="$da/df2/ex__g722_8h.html" title="8&#45;bit data " alt="" coords="2962,80,3050,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="705,453,859,480"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="807,304,944,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="5,304,140,331"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="709,528,855,555"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1561,379,1704,405"/>
+<area shape="rect" id="node23" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="2153,304,2267,331"/>
+<area shape="rect" id="node25" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1879,379,1941,405"/>
+<area shape="rect" id="node27" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1931,453,2078,480"/>
+<area shape="rect" id="node30" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="2304,379,2455,405"/>
+<area shape="rect" id="node31" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1728,379,1855,405"/>
+<area shape="rect" id="node34" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1537,304,1675,331"/>
+<area shape="rect" id="node35" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1699,304,1846,331"/>
+<area shape="rect" id="node36" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1971,304,2129,331"/>
+<area shape="rect" id="node37" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1281,304,1411,331"/>
+<area shape="rect" id="node40" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="2583,155,2709,181"/>
+<area shape="rect" id="node44" href="$d2/d66/plc_8h.html" title="SpanDSP &#45; a series of DSP components for telephony. " alt="" coords="2919,155,3026,181"/>
+<area shape="rect" id="node45" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="2733,155,2895,181"/>
+<area shape="rect" id="node46" href="$db/d1c/format__cache_8h.html" title="Media Format Cache API. " alt="" coords="3050,155,3226,181"/>
+<area shape="rect" id="node41" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="2689,229,2819,256"/>
+<area shape="rect" id="node43" href="$d1/d84/endian_8h.html" title="Asterisk architecture endianess compatibility definitions. " alt="" coords="2843,229,2974,256"/>
+<area shape="rect" id="node42" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="2819,304,2945,331"/>
+</map>

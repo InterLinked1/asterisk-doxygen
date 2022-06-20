@@ -1,0 +1,14 @@
+<map id="bridge_manager_controller" name="bridge_manager_controller">
+<area shape="rect" id="node2" href="$db/d89/structbridge__manager__request.html" title="bridge_manager_request" alt="" coords="923,107,1105,133"/>
+<area shape="rect" id="node3" href="$d4/d84/structast__bridge.html" title="Structure that contains information about a bridge. " alt="" coords="661,240,751,267"/>
+<area shape="rect" id="node7" href="$d2/dd3/structast__bridge__methods.html" title="Bridge virtual methods table definition. " alt="" coords="937,263,1091,289"/>
+<area shape="rect" id="node4" href="$d1/d04/structast__bridge__technology.html" title="Structure that is the essence of a bridge technology. " alt="" coords="323,15,490,41"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,116,157,143"/>
+<area shape="rect" id="node8" href="$d0/d99/structast__bridge__snapshot.html" title="Structure that contains a snapshot of information about a bridge. " alt="" coords="329,188,484,215"/>
+<area shape="rect" id="node12" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="331,65,482,92"/>
+<area shape="rect" id="node6" href="$d3/d0f/structast__bridge__channels__list.html" title="ast_bridge_channels_list" alt="" coords="317,301,496,328"/>
+<area shape="rect" id="node9" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="42,217,121,244"/>
+<area shape="rect" id="node10" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="358,352,455,379"/>
+<area shape="rect" id="node11" href="$d0/d50/structast__bridge__softmix.html" title="ast_bridge_softmix" alt="" coords="335,403,478,429"/>
+<area shape="rect" id="node13" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="363,492,450,519"/>
+</map>

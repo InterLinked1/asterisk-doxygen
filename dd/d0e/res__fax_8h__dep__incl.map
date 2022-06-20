@@ -1,0 +1,4 @@
+<map id="res_fax.h" name="res_fax.h">
+<area shape="rect" id="node2" href="$d0/d60/res__fax_8c.html" title="Generic FAX Resource for FAX technology resource modules. " alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$d5/d47/res__fax__spandsp_8c.html" title="Spandsp T.38 and G.711 FAX Resource. " alt="" coords="108,80,248,107"/>
+</map>

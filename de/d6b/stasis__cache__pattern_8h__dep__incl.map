@@ -1,0 +1,51 @@
+<map id="stasis_cache_pattern.h" name="stasis_cache_pattern.h">
+<area shape="rect" id="node2" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="2981,80,3122,107"/>
+<area shape="rect" id="node48" href="$d0/d95/bridge_8c.html" title="Bridging API. " alt="" coords="3147,80,3220,107"/>
+<area shape="rect" id="node49" href="$da/d0f/stasis__bridges_8c.html" title="Stasis Messages and Data Types for Bridge Objects. " alt="" coords="3244,80,3368,107"/>
+<area shape="rect" id="node50" href="$dc/d1c/stasis__cache__pattern_8c.html" title="Typical cache pattern for Stasis topics. " alt="" coords="3392,80,3561,107"/>
+<area shape="rect" id="node3" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="1949,155,2047,181"/>
+<area shape="rect" id="node4" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="5,229,105,256"/>
+<area shape="rect" id="node5" href="$d8/d8c/res__pjsip_8h.html" title="res_pjsip.h" alt="" coords="2122,155,2213,181"/>
+<area shape="rect" id="node33" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="2237,155,2327,181"/>
+<area shape="rect" id="node34" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="2351,155,2461,181"/>
+<area shape="rect" id="node35" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="2485,155,2567,181"/>
+<area shape="rect" id="node36" href="$db/de2/channel__internal__api_8c.html" title="Channel Accessor API. " alt="" coords="2592,155,2756,181"/>
+<area shape="rect" id="node37" href="$d7/d4b/main_2endpoints_8c.html" title="Asterisk endpoint API. " alt="" coords="2781,155,2877,181"/>
+<area shape="rect" id="node38" href="$df/d10/manager__endpoints_8c.html" title="The Asterisk Management Interface &#45; AMI (endpoint handling) " alt="" coords="2901,155,3063,181"/>
+<area shape="rect" id="node39" href="$d0/df4/stasis_8c.html" title="Stasis Message Bus API. " alt="" coords="3087,155,3157,181"/>
+<area shape="rect" id="node40" href="$d3/daf/stasis__endpoints_8c.html" title="Stasis endpoint API. " alt="" coords="3181,155,3321,181"/>
+<area shape="rect" id="node41" href="$d1/d5a/resource__endpoints_8c.html" title="/api&#45;docs/endpoints.{format} implementation&#45; Endpoint resources " alt="" coords="3345,155,3504,181"/>
+<area shape="rect" id="node42" href="$d6/d2c/res_2prometheus_2endpoints_8c.html" title="Prometheus Endpoint Metrics. " alt="" coords="3529,155,3625,181"/>
+<area shape="rect" id="node43" href="$d6/d6a/res__endpoint__stats_8c.html" title="res_endpoint_stats.c" alt="" coords="3649,155,3803,181"/>
+<area shape="rect" id="node44" href="$d2/d80/res__stasis_8c.html" title="Stasis application support. " alt="" coords="3828,155,3925,181"/>
+<area shape="rect" id="node45" href="$d3/d5e/res_2stasis_2app_8c.html" title="Stasis application support. " alt="" coords="3949,155,4007,181"/>
+<area shape="rect" id="node46" href="$da/d81/test__endpoints_8c.html" title="Test endpoints. " alt="" coords="4031,155,4159,181"/>
+<area shape="rect" id="node47" href="$d5/d3c/test__stasis__endpoints_8c.html" title="Test endpoints. " alt="" coords="4184,155,4356,181"/>
+<area shape="rect" id="node6" href="$d9/d6d/cli__commands_8c.html" title="PJSIP channel CLI functions. " alt="" coords="130,229,255,256"/>
+<area shape="rect" id="node7" href="$de/dfc/pjsip_2dialplan__functions_8c.html" title="PJSIP channel dialplan functions. " alt="" coords="279,229,426,256"/>
+<area shape="rect" id="node8" href="$dd/d92/func__pjsip__aor_8c.html" title="Get information about a PJSIP AOR. " alt="" coords="450,229,573,256"/>
+<area shape="rect" id="node9" href="$de/d6a/func__pjsip__contact_8c.html" title="Get information about a PJSIP contact. " alt="" coords="597,229,748,256"/>
+<area shape="rect" id="node10" href="$d0/d7b/func__pjsip__endpoint_8c.html" title="Get information about a PJSIP endpoint. " alt="" coords="772,229,931,256"/>
+<area shape="rect" id="node11" href="$d6/d5d/pjsip__outbound__registrations_8c.html" title="Prometheus PJSIP Outbound Registration Metrics. " alt="" coords="955,229,1172,256"/>
+<area shape="rect" id="node12" href="$d7/da2/res__hep__pjsip_8c.html" title="PJSIP logging with Homer. " alt="" coords="1197,229,1317,256"/>
+<area shape="rect" id="node13" href="$d5/dcb/config__auth_8c.html" title="config_auth.c" alt="" coords="1341,229,1447,256"/>
+<area shape="rect" id="node14" href="$d9/d9e/config__domain__aliases_8c.html" title="config_domain_aliases.c" alt="" coords="1472,229,1649,256"/>
+<area shape="rect" id="node15" href="$dd/dfd/config__global_8c.html" title="config_global.c" alt="" coords="1673,229,1789,256"/>
+<area shape="rect" id="node16" href="$df/dfd/config__system_8c.html" title="config_system.c" alt="" coords="1814,229,1939,256"/>
+<area shape="rect" id="node17" href="$d3/d17/config__transport_8c.html" title="config_transport.c" alt="" coords="1964,229,2101,256"/>
+<area shape="rect" id="node18" href="$d0/dad/location_8c.html" title="location.c" alt="" coords="2126,229,2209,256"/>
+<area shape="rect" id="node19" href="$d0/df0/pjsip__cli_8c.html" title="pjsip_cli.c" alt="" coords="2233,229,2315,256"/>
+<area shape="rect" id="node20" href="$dc/df6/pjsip__configuration_8c.html" title="pjsip_configuration.c" alt="" coords="2339,229,2491,256"/>
+<area shape="rect" id="node21" href="$d7/dad/pjsip__distributor_8c.html" title="pjsip_distributor.c" alt="" coords="2515,229,2649,256"/>
+<area shape="rect" id="node22" href="$db/d73/pjsip__global__headers_8c.html" title="pjsip_global_headers.c" alt="" coords="2673,229,2840,256"/>
+<area shape="rect" id="node23" href="$d3/d9e/pjsip__message__filter_8c.html" title="pjsip_message_filter.c" alt="" coords="2865,229,3027,256"/>
+<area shape="rect" id="node24" href="$df/dda/pjsip__options_8c.html" title="pjsip_options.c" alt="" coords="3052,229,3168,256"/>
+<area shape="rect" id="node25" href="$d4/d43/pjsip__resolver_8c.html" title="pjsip_resolver.c" alt="" coords="3192,229,3311,256"/>
+<area shape="rect" id="node26" href="$de/dfa/pjsip__scheduler_8c.html" title="res_pjsip Scheduler " alt="" coords="3334,229,3465,256"/>
+<area shape="rect" id="node27" href="$d2/dc0/pjsip__session_8c.html" title="pjsip_session.c" alt="" coords="3489,229,3606,256"/>
+<area shape="rect" id="node28" href="$d1/d94/pjsip__transport__events_8c.html" title="Manages the global transport event notification callbacks. " alt="" coords="3630,229,3809,256"/>
+<area shape="rect" id="node29" href="$da/db9/pjsip__transport__management_8c.html" title="pjsip_transport_management.c" alt="" coords="3833,229,4056,256"/>
+<area shape="rect" id="node30" href="$d2/d63/res_2res__pjsip_2security__events_8c.html" title="Generate security events in the PJSIP channel. " alt="" coords="4081,229,4214,256"/>
+<area shape="rect" id="node31" href="$de/d96/res__pjsip_8c.html" title="res_pjsip.c" alt="" coords="4239,229,4328,256"/>
+<area shape="rect" id="node32" href="$d5/d5e/res__pjsip__acl_8c.html" title="res_pjsip_acl.c" alt="" coords="4353,229,4467,256"/>
+</map>

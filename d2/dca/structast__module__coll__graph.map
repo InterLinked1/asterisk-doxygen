@@ -1,0 +1,9 @@
+<map id="ast_module" name="ast_module">
+<area shape="rect" id="node2" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="249,383,376,409"/>
+<area shape="rect" id="node3" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="247,201,378,228"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="166,97,286,124"/>
+<area shape="rect" id="node5" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,7,156,33"/>
+<area shape="rect" id="node6" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,7,293,33"/>
+<area shape="rect" id="node7" href="$d4/d98/structast__module__user.html" title="ast_module_user" alt="" coords="311,97,443,124"/>
+<area shape="rect" id="node8" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="327,7,426,33"/>
+</map>

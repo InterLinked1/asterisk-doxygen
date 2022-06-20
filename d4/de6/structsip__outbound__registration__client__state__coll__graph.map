@@ -1,0 +1,9 @@
+<map id="sip_outbound_registration_client_state" name="sip_outbound_registration_client_state">
+<area shape="rect" id="node2" href="$d0/dca/structast__sip__auth__vector.html" title="ast_sip_auth_vector" alt="" coords="5,206,156,233"/>
+<area shape="rect" id="node3" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="217,206,355,233"/>
+<area shape="rect" id="node7" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="272,310,465,337"/>
+<area shape="rect" id="node4" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="148,109,237,136"/>
+<area shape="rect" id="node5" href="$d3/d60/structtps__task.html" title="tps_task structure is queued to a taskprocessor " alt="" coords="155,5,231,32"/>
+<area shape="rect" id="node6" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="262,109,441,136"/>
+<area shape="rect" id="node8" href="$d0/d01/structast__taskprocessor__listener__callbacks.html" title="ast_taskprocessor_listener\l_callbacks" alt="" coords="380,199,573,240"/>
+</map>

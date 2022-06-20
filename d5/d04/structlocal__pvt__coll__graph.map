@@ -1,0 +1,21 @@
+<map id="local_pvt" name="local_pvt">
+<area shape="rect" id="node2" href="$d2/d17/structlocal__bridge.html" title="local_bridge" alt="" coords="1077,431,1175,457"/>
+<area shape="rect" id="node3" href="$d4/d84/structast__bridge.html" title="Structure that contains information about a bridge. " alt="" coords="739,235,829,261"/>
+<area shape="rect" id="node7" href="$d2/dd3/structast__bridge__methods.html" title="Bridge virtual methods table definition. " alt="" coords="1049,236,1203,263"/>
+<area shape="rect" id="node4" href="$d1/d04/structast__bridge__technology.html" title="Structure that is the essence of a bridge technology. " alt="" coords="323,15,490,41"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,256,157,283"/>
+<area shape="rect" id="node8" href="$d0/d99/structast__bridge__snapshot.html" title="Structure that contains a snapshot of information about a bridge. " alt="" coords="329,280,484,307"/>
+<area shape="rect" id="node12" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="331,229,482,256"/>
+<area shape="rect" id="node15" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="735,404,833,431"/>
+<area shape="rect" id="node6" href="$d3/d0f/structast__bridge__channels__list.html" title="ast_bridge_channels_list" alt="" coords="317,65,496,92"/>
+<area shape="rect" id="node9" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="42,445,121,472"/>
+<area shape="rect" id="node14" href="$db/dba/structast__bridge__features.html" title="Structure that contains features information. " alt="" coords="520,592,669,619"/>
+<area shape="rect" id="node10" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="358,116,455,143"/>
+<area shape="rect" id="node11" href="$d0/d50/structast__bridge__softmix.html" title="ast_bridge_softmix" alt="" coords="335,331,478,357"/>
+<area shape="rect" id="node13" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="363,545,450,572"/>
+<area shape="rect" id="node16" href="$d6/df3/structast__unreal__pvt.html" title="The base pvt structure for local channel derivatives. " alt="" coords="1068,595,1184,621"/>
+<area shape="rect" id="node17" href="$d7/dba/structast__jb__conf.html" title="General jitterbuffer configuration. " alt="" coords="737,620,831,647"/>
+<area shape="rect" id="node18" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="723,671,845,697"/>
+<area shape="rect" id="node19" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="705,743,863,769"/>
+<area shape="rect" id="node20" href="$df/d09/structast__unreal__pvt__callbacks.html" title="Callbacks that can be provided by concrete implementations of the unreal channel driver that will be ..." alt="" coords="693,569,875,596"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="asterisk_mwi_publisher_state" name="asterisk_mwi_publisher_state">
+<area shape="rect" id="node2" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="1032,121,1175,148"/>
+<area shape="rect" id="node3" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="673,31,812,57"/>
+<area shape="rect" id="node6" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="1007,8,1200,35"/>
+<area shape="rect" id="node4" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="358,5,447,32"/>
+<area shape="rect" id="node5" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="313,56,492,83"/>
+<area shape="rect" id="node7" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="694,121,791,148"/>
+<area shape="rect" id="node8" href="$d3/dd9/structast__sip__outbound__publish__client.html" title="Outbound publish client state information (persists for lifetime of a publish) " alt="" coords="1010,294,1197,335"/>
+<area shape="rect" id="node9" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="686,241,799,268"/>
+<area shape="rect" id="node10" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1015,219,1192,245"/>
+<area shape="rect" id="node11" href="$d6/d73/structast__sip__outbound__publish.html" title="Outbound publish information. " alt="" coords="649,347,836,373"/>
+<area shape="rect" id="node12" href="$d0/dca/structast__sip__auth__vector.html" title="ast_sip_auth_vector" alt="" coords="327,295,478,321"/>
+<area shape="rect" id="node13" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,371,157,397"/>
+<area shape="rect" id="node14" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="327,408,478,435"/>
+</map>

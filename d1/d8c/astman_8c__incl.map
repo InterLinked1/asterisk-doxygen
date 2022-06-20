@@ -1,0 +1,15 @@
+<map id="astman.c" name="astman.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1507,80,1591,107"/>
+<area shape="rect" id="node30" href="$da/db0/md5_8h.html" title="MD5 digest functions. " alt="" coords="3178,80,3295,107"/>
+<area shape="rect" id="node31" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="707,80,857,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="846,304,1001,331"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="1560,155,1697,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1401,155,1536,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="850,379,997,405"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="815,229,957,256"/>
+<area shape="rect" id="node32" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="545,155,659,181"/>
+<area shape="rect" id="node34" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="728,229,791,256"/>
+<area shape="rect" id="node35" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="481,304,627,331"/>
+<area shape="rect" id="node38" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="5,229,156,256"/>
+<area shape="rect" id="node39" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="232,229,359,256"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="res_stir_shaken.c" name="res_stir_shaken.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="333,319,417,345"/>
+<area shape="rect" id="node15" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1782,244,1918,271"/>
+<area shape="rect" id="node17" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="839,393,901,420"/>
+<area shape="rect" id="node21" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="651,87,785,114"/>
+<area shape="rect" id="node24" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="650,319,765,345"/>
+<area shape="rect" id="node26" href="$de/d4a/astdb_8h.html" title="Persistant data storage (akin to *doze registry) " alt="" coords="980,87,1104,114"/>
+<area shape="rect" id="node27" href="$dd/df2/paths_8h.html" title="Asterisk file paths, configured in asterisk.conf. " alt="" coords="1128,87,1252,114"/>
+<area shape="rect" id="node28" href="$da/dd6/conversions_8h.html" title="Conversion utility functions. " alt="" coords="448,319,612,345"/>
+<area shape="rect" id="node29" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="1504,87,1615,114"/>
+<area shape="rect" id="node40" href="$d2/dc3/global__datastores_8h.html" title="globally accessible channel datastores " alt="" coords="1277,87,1479,114"/>
+<area shape="rect" id="node41" href="$d3/d93/include_2asterisk_2app_8h.html" title="Application convenience functions, designed to give consistent look and feel to Asterisk apps..." alt="" coords="2063,169,2175,196"/>
+<area shape="rect" id="node43" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="884,169,997,196"/>
+<area shape="rect" id="node45" href="$d2/db7/res__stir__shaken_8h.html" title="asterisk/res_stir_shaken.h" alt="" coords="1912,87,2100,114"/>
+<area shape="rect" id="node46" href="$de/df9/stir__shaken_8h.html" title="res_stir_shaken/stir\l_shaken.h" alt="" coords="1741,80,1887,121"/>
+<area shape="rect" id="node47" href="$d9/d14/general_8h.html" title="res_stir_shaken/general.h" alt="" coords="2350,87,2537,114"/>
+<area shape="rect" id="node48" href="$d5/d3f/store_8h.html" title="res_stir_shaken/store.h" alt="" coords="2561,87,2731,114"/>
+<area shape="rect" id="node49" href="$d0/dc9/certificate_8h.html" title="res_stir_shaken/certificate.h" alt="" coords="2124,87,2325,114"/>
+<area shape="rect" id="node50" href="$d2/dd2/curl_8h.html" title="res_stir_shaken/curl.h" alt="" coords="2807,87,2968,114"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="686,468,841,495"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="359,393,496,420"/>
+<area shape="rect" id="node13" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="200,393,335,420"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="690,543,837,569"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="5,468,148,495"/>
+<area shape="rect" id="node16" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1378,319,1493,345"/>
+<area shape="rect" id="node18" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1615,393,1773,420"/>
+<area shape="rect" id="node19" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1073,393,1203,420"/>
+<area shape="rect" id="node20" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="1346,468,1525,495"/>
+<area shape="rect" id="node22" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="628,169,808,196"/>
+<area shape="rect" id="node23" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="489,169,603,196"/>
+<area shape="rect" id="node25" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="634,393,781,420"/>
+<area shape="rect" id="node30" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1123,169,1262,196"/>
+<area shape="rect" id="node31" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="1073,244,1219,271"/>
+<area shape="rect" id="node34" href="$d7/d00/sched_8h.html" title="Scheduler Routines (derived from cheops) " alt="" coords="1811,169,1937,196"/>
+<area shape="rect" id="node35" href="$da/da2/devicestate_8h.html" title="Device state management. " alt="" coords="1494,244,1657,271"/>
+<area shape="rect" id="node36" href="$d6/dd7/presencestate_8h.html" title="Presence state management. " alt="" coords="1287,169,1467,196"/>
+<area shape="rect" id="node37" href="$d6/da0/hashtab_8h.html" title="Generic (perhaps overly so) hashtable implementation Hash Table support in Asterisk. " alt="" coords="1491,169,1631,196"/>
+<area shape="rect" id="node38" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="1023,319,1157,345"/>
+<area shape="rect" id="node39" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="1655,169,1786,196"/>
+<area shape="rect" id="node32" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1181,319,1332,345"/>
+<area shape="rect" id="node33" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1294,244,1419,271"/>
+<area shape="rect" id="node42" href="$d2/d4d/file_8h.html" title="Generic File Format Support. Should be included by clients of the file handling routines. File service providers should instead include mod_format.h. " alt="" coords="2043,244,2150,271"/>
+<area shape="rect" id="node44" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="897,244,998,271"/>
+</map>

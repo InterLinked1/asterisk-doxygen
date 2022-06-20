@@ -1,0 +1,4 @@
+<map id="corosync_node" name="corosync_node">
+<area shape="rect" id="node2" href="$d0/d86/structast__eid.html" title="An Entity ID is essentially a MAC address, brief and unique. " alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node3" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="98,5,205,32"/>
+</map>

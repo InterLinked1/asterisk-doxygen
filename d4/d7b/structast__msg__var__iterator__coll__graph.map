@@ -1,0 +1,8 @@
+<map id="ast_msg_var_iterator" name="ast_msg_var_iterator">
+<area shape="rect" id="node2" href="$d3/d60/structmsg__data.html" title="msg_data" alt="" coords="119,285,206,312"/>
+<area shape="rect" id="node3" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="50,5,202,32"/>
+<area shape="rect" id="node4" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="51,95,202,121"/>
+<area shape="rect" id="node5" href="$df/da1/structast__msg.html" title="A message. " alt="" coords="222,184,300,211"/>
+<area shape="rect" id="node6" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="398,95,511,121"/>
+<area shape="rect" id="node7" href="$d9/d97/structao2__iterator.html" title="When we need to walk through a container, we use an ao2_iterator to keep track of the current positio..." alt="" coords="284,235,384,261"/>
+</map>

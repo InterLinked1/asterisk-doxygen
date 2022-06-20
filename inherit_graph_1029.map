@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d9/d9b/classspandspflow2pcap_1_1FaxPcap.html" title="FaxPcap" alt="" coords="161,233,236,260"/>
+<area shape="rect" id="node3" href="$d6/d75/classswagger__model_1_1ParsingContext.html" title="ParsingContext" alt="" coords="139,284,258,311"/>
+<area shape="rect" id="node4" href="$d6/d04/classswagger__model_1_1Stringify.html" title="Stringify" alt="" coords="161,335,236,361"/>
+<area shape="rect" id="node18" href="$d1/d00/classswagger__model_1_1SwaggerPostProcessor.html" title="SwaggerPostProcessor" alt="" coords="115,385,283,412"/>
+<area shape="rect" id="node20" href="$d5/d71/classtransform_1_1Transform.html" title="Transform" alt="" coords="156,436,241,463"/>
+<area shape="rect" id="node5" href="$d0/d09/classasterisk__processor_1_1PathSegment.html" title="PathSegment" alt="" coords="344,5,453,32"/>
+<area shape="rect" id="node6" href="$dc/da1/classswagger__model_1_1AllowableList.html" title="AllowableList" alt="" coords="347,56,450,83"/>
+<area shape="rect" id="node7" href="$d9/dd0/classswagger__model_1_1AllowableRange.html" title="AllowableRange" alt="" coords="338,107,459,133"/>
+<area shape="rect" id="node8" href="$da/d51/classswagger__model_1_1Api.html" title="Api" alt="" coords="377,157,420,184"/>
+<area shape="rect" id="node9" href="$d8/d93/classswagger__model_1_1ApiDeclaration.html" title="ApiDeclaration" alt="" coords="341,208,456,235"/>
+<area shape="rect" id="node10" href="$d2/d23/classswagger__model_1_1ErrorResponse.html" title="ErrorResponse" alt="" coords="341,259,456,285"/>
+<area shape="rect" id="node11" href="$dc/d3f/classswagger__model_1_1Model.html" title="Model" alt="" coords="369,309,429,336"/>
+<area shape="rect" id="node12" href="$db/df5/classswagger__model_1_1Operation.html" title="Operation" alt="" coords="356,360,441,387"/>
+<area shape="rect" id="node13" href="$df/d69/classswagger__model_1_1Parameter.html" title="Parameter" alt="" coords="354,411,443,437"/>
+<area shape="rect" id="node14" href="$dc/dee/classswagger__model_1_1Property.html" title="Property" alt="" coords="361,461,437,488"/>
+<area shape="rect" id="node15" href="$d6/d26/classswagger__model_1_1ResourceApi.html" title="ResourceApi" alt="" coords="349,512,449,539"/>
+<area shape="rect" id="node16" href="$dc/da1/classswagger__model_1_1ResourceListing.html" title="ResourceListing" alt="" coords="338,563,459,589"/>
+<area shape="rect" id="node17" href="$d0/ddf/classswagger__model_1_1SwaggerType.html" title="SwaggerType" alt="" coords="346,613,451,640"/>
+<area shape="rect" id="node19" href="$d8/df1/classasterisk__processor_1_1AsteriskProcessor.html" title="AsteriskProcessor" alt="" coords="331,664,467,691"/>
+</map>

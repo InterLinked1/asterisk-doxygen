@@ -1,0 +1,22 @@
+<map id="optional_api.c" name="optional_api.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="129,229,213,256"/>
+<area shape="rect" id="node22" href="$df/d3c/optional__api_8h.html" title="Optional API function macros. " alt="" coords="2809,80,2975,107"/>
+<area shape="rect" id="node23" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1516,80,1631,107"/>
+<area shape="rect" id="node46" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2727,229,2854,256"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="5,453,160,480"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="695,304,833,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="91,304,226,331"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="9,528,156,555"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1503,379,1646,405"/>
+<area shape="rect" id="node24" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1692,155,1831,181"/>
+<area shape="rect" id="node34" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1670,379,1733,405"/>
+<area shape="rect" id="node37" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1754,304,1867,331"/>
+<area shape="rect" id="node42" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2329,379,2455,405"/>
+<area shape="rect" id="node43" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="2027,155,2173,181"/>
+<area shape="rect" id="node45" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2577,155,2735,181"/>
+<area shape="rect" id="node47" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1321,155,1452,181"/>
+<area shape="rect" id="node36" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="2420,453,2567,480"/>
+<area shape="rect" id="node41" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="2154,379,2305,405"/>
+<area shape="rect" id="node49" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="2473,229,2652,256"/>
+<area shape="rect" id="node50" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1103,229,1238,256"/>
+</map>

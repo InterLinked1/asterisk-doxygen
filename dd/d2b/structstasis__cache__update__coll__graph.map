@@ -1,0 +1,6 @@
+<map id="stasis_cache_update" name="stasis_cache_update">
+<area shape="rect" id="node2" href="$d7/d55/structstasis__message.html" title="stasis_message" alt="" coords="5,199,131,225"/>
+<area shape="rect" id="node3" href="$d0/d86/structast__eid.html" title="An Entity ID is essentially a MAC address, brief and unique. " alt="" coords="7,95,75,121"/>
+<area shape="rect" id="node4" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="100,95,260,121"/>
+<area shape="rect" id="node5" href="$dd/d3e/structstasis__message__vtable.html" title="Virtual table providing methods for messages. " alt="" coords="95,5,265,32"/>
+</map>

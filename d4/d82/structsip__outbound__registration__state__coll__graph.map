@@ -1,0 +1,11 @@
+<map id="sip_outbound_registration_state" name="sip_outbound_registration_state">
+<area shape="rect" id="node2" href="$d8/d03/structsip__outbound__registration__client__state.html" title="Outbound registration client state information (persists for lifetime of regc) " alt="" coords="365,184,553,225"/>
+<area shape="rect" id="node3" href="$d0/dca/structast__sip__auth__vector.html" title="ast_sip_auth_vector" alt="" coords="365,95,515,121"/>
+<area shape="rect" id="node8" href="$df/df4/structsip__outbound__registration.html" title="Outbound registration information. " alt="" coords="134,191,322,218"/>
+<area shape="rect" id="node4" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="621,95,760,121"/>
+<area shape="rect" id="node7" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="635,191,829,218"/>
+<area shape="rect" id="node5" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="566,5,655,32"/>
+<area shape="rect" id="node6" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="680,5,859,32"/>
+<area shape="rect" id="node9" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node10" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="154,95,305,121"/>
+</map>

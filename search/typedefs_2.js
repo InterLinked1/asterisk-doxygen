@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['c_5ff',['C_f',['../dc/dc2/f2c_8h.html#a74d0b5102d42c395f70d31d215fa547a',1,'f2c.h']]],
+  ['c_5ffp',['C_fp',['../dc/dc2/f2c_8h.html#a284e4e754026ea0e1baae425b7c14a1c',1,'f2c.h']]],
+  ['cache_5faggregate_5fcalc_5ffn',['cache_aggregate_calc_fn',['../dd/d79/stasis_8h.html#aa4a7b629d3125dc329b43715f5f5663b',1,'stasis.h']]],
+  ['cache_5faggregate_5fpublish_5ffn',['cache_aggregate_publish_fn',['../dd/d79/stasis_8h.html#a9a0eb1c6ec2920123af41e05b5592a7c',1,'stasis.h']]],
+  ['callback_5ft',['callback_t',['../d6/dbf/res__config__sqlite3_8c.html#a36ba1b812d972b37249ce42e5f8b68a2',1,'res_config_sqlite3.c']]],
+  ['callno_5fentry',['callno_entry',['../d5/dff/chan__iax2_8c.html#acc208544f7e68c5c8141b6ec253ebb0f',1,'chan_iax2.c']]],
+  ['cel_5fchannel_5fsnapshot_5fmonitor',['cel_channel_snapshot_monitor',['../da/dc9/cel_8c.html#a43919a9a402d652e4029637277c48011',1,'cel.c']]],
+  ['channel_5fsnapshot_5fmonitor',['channel_snapshot_monitor',['../d0/d1c/manager__channels_8c.html#add3ae7426f6a5c9e443844522743ca1b',1,'channel_snapshot_monitor():&#160;manager_channels.c'],['../d3/d5e/res_2stasis_2app_8c.html#adce21d442a247829a8080aff1bd1a4d0',1,'channel_snapshot_monitor():&#160;app.c']]],
+  ['cidstate',['CIDSTATE',['../de/d47/callerid_8h.html#a9786e257622782e0a709b109b19c1045',1,'callerid.h']]],
+  ['command_5fdata_5fdestructor_5ffn',['command_data_destructor_fn',['../de/d0b/stasis__app__impl_8h.html#a66ead0f2f762f64bbad7eb8a026cf62c',1,'stasis_app_impl.h']]],
+  ['conference_5fentry_5ffn',['conference_entry_fn',['../d6/dcb/conf__state_8h.html#a35c8704b26dc75825fec31739efcc2f3',1,'conf_state.h']]],
+  ['conference_5fevent_5ffn',['conference_event_fn',['../d6/dcb/conf__state_8h.html#aa9228b773d320374118e7c20656ae52f',1,'conf_state.h']]],
+  ['conference_5fexit_5ffn',['conference_exit_fn',['../d6/dcb/conf__state_8h.html#a7328230b175c85de7ad73127ab79df76',1,'conf_state.h']]],
+  ['config_5fhook_5fcb',['config_hook_cb',['../d3/de6/include_2asterisk_2config_8h.html#ae88e3fc2ae88cfb5567f05200231f04b',1,'config.h']]],
+  ['config_5fload_5ffunc',['config_load_func',['../d3/de6/include_2asterisk_2config_8h.html#a6065208cc8c8274a7807454204b9b859',1,'config_load_func():&#160;config.h'],['../d4/dc5/extconf_8c.html#a501bee08185ad5014d912430fddcbaae',1,'config_load_func():&#160;extconf.c']]],
+  ['create_5fdlg_5fuac',['create_dlg_uac',['../de/d96/res__pjsip_8c.html#a16e7a09746725d7b3e7a41bdd83cd40f',1,'res_pjsip.c']]],
+  ['cursor',['CURSOR',['../d9/d13/btree_8h.html#a47b00e8f1c429c16cef379285ab5167c',1,'btree.h']]]
+];

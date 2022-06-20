@@ -1,0 +1,8 @@
+<map id="sorcery_config" name="sorcery_config">
+<area shape="rect" id="node2" href="$d2/dd8/structao2__global__obj.html" title="ao2_global_obj" alt="" coords="103,213,221,240"/>
+<area shape="rect" id="node3" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="99,95,217,121"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,5,293,32"/>
+<area shape="rect" id="node6" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="246,213,345,240"/>
+<area shape="rect" id="node7" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="241,95,352,121"/>
+</map>

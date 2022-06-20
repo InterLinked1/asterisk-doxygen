@@ -1,0 +1,33 @@
+<map id="res_pjsip_endpoint_identifier_ip.c" name="res_pjsip_endpoint_identifier_ip.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="746,273,830,300"/>
+<area shape="rect" id="node22" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="2364,102,2508,129"/>
+<area shape="rect" id="node45" href="$d1/d9f/res__pjsip__cli_8h.html" title="asterisk/res_pjsip\l_cli.h" alt="" coords="1382,95,1514,136"/>
+<area shape="rect" id="node47" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1112,273,1248,300"/>
+<area shape="rect" id="node48" href="$d5/d59/acl_8h.html" title="Access Control of various sorts. " alt="" coords="1532,191,1639,218"/>
+<area shape="rect" id="node49" href="$db/d45/manager_8h.html" title="The AMI &#45; Asterisk Manager Interface &#45; is a TCP protocol created to manage Asterisk with third&#45;party ..." alt="" coords="1273,273,1418,300"/>
+<area shape="rect" id="node50" href="$d7/d5c/res__pjsip__private_8h.html" title="res_pjsip/include/res\l_pjsip_private.h" alt="" coords="1105,184,1255,225"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="625,348,780,375"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="805,348,942,375"/>
+<area shape="rect" id="node20" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="466,348,601,375"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,423,152,449"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1286,647,1429,673"/>
+<area shape="rect" id="node27" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2472,423,2629,449"/>
+<area shape="rect" id="node28" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2603,497,2730,524"/>
+<area shape="rect" id="node30" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2111,348,2257,375"/>
+<area shape="rect" id="node31" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1717,423,1867,449"/>
+<area shape="rect" id="node32" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2371,273,2509,300"/>
+<area shape="rect" id="node36" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="2705,348,2855,375"/>
+<area shape="rect" id="node37" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="2473,191,2607,218"/>
+<area shape="rect" id="node38" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="1936,273,2072,300"/>
+<area shape="rect" id="node39" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="2279,191,2399,218"/>
+<area shape="rect" id="node41" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="2585,273,2741,300"/>
+<area shape="rect" id="node42" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="2631,191,2820,218"/>
+<area shape="rect" id="node43" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="2816,273,3011,300"/>
+<area shape="rect" id="node44" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="3086,273,3221,300"/>
+<area shape="rect" id="node29" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1449,572,1562,599"/>
+<area shape="rect" id="node33" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1383,348,1497,375"/>
+<area shape="rect" id="node35" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="1850,348,2001,375"/>
+<area shape="rect" id="node34" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1543,423,1681,449"/>
+<area shape="rect" id="node40" href="$dc/dac/io_8h.html" title="I/O Management (derived from Cheops&#45;NG) " alt="" coords="2096,273,2195,300"/>
+<area shape="rect" id="node46" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1623,348,1724,375"/>
+</map>

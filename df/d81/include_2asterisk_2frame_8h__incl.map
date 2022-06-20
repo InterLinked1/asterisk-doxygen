@@ -1,0 +1,12 @@
+<map id="frame.h" name="frame.h">
+<area shape="rect" id="node3" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="46,80,176,107"/>
+<area shape="rect" id="node5" href="$d1/d84/endian_8h.html" title="Asterisk architecture endianess compatibility definitions. " alt="" coords="200,80,331,107"/>
+<area shape="rect" id="node6" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="360,80,510,107"/>
+<area shape="rect" id="node4" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="48,155,174,181"/>
+<area shape="rect" id="node7" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="393,155,506,181"/>
+<area shape="rect" id="node9" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="146,229,209,256"/>
+<area shape="rect" id="node10" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="139,304,286,331"/>
+<area shape="rect" id="node13" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="521,229,672,256"/>
+<area shape="rect" id="node14" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="696,229,822,256"/>
+<area shape="rect" id="node15" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="846,229,989,256"/>
+</map>

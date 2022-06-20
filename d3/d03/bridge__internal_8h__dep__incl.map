@@ -1,0 +1,10 @@
+<map id="bridge_internal.h" name="bridge_internal.h">
+<area shape="rect" id="node2" href="$de/d11/app__agent__pool_8c.html" title="Call center agent pool. " alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$d0/d95/bridge_8c.html" title="Bridging API. " alt="" coords="164,80,237,107"/>
+<area shape="rect" id="node4" href="$d7/d9b/bridge__basic_8c.html" title="Basic bridge class. It is a subclass of struct ast_bridge. " alt="" coords="261,80,375,107"/>
+<area shape="rect" id="node5" href="$d3/d32/bridge__channel_8c.html" title="Bridging Channel API. " alt="" coords="399,80,530,107"/>
+<area shape="rect" id="node6" href="$d9/dc5/parking__bridge_8c.html" title="Parking Bridge Class. " alt="" coords="555,80,681,107"/>
+<area shape="rect" id="node7" href="$d1/db7/parking__bridge__features_8c.html" title="Parking Bridge DTMF and Interval features. " alt="" coords="706,80,893,107"/>
+<area shape="rect" id="node8" href="$d7/de1/res__stasis__playback_8c.html" title="res_stasis playback support. " alt="" coords="917,80,1077,107"/>
+<area shape="rect" id="node9" href="$d9/de0/stasis__bridge_8c.html" title="Stasis bridge subclass. " alt="" coords="1101,80,1218,107"/>
+</map>

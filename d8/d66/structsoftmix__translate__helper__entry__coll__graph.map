@@ -1,0 +1,10 @@
+<map id="softmix_translate_helper_entry" name="softmix_translate_helper_entry">
+<area shape="rect" id="node2" href="$d1/d47/structast__trans__pvt.html" title="Default structure for translators, with the basic fields and buffers, all allocated as part of the sa..." alt="" coords="385,349,494,376"/>
+<area shape="rect" id="node3" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="168,231,260,257"/>
+<area shape="rect" id="node4" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="112,349,266,376"/>
+<area shape="rect" id="node5" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="294,97,380,124"/>
+<area shape="rect" id="node8" href="$db/d29/structast__translator.html" title="Descriptor of a translator. " alt="" coords="406,231,516,257"/>
+<area shape="rect" id="node6" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="368,7,466,33"/>
+<area shape="rect" id="node7" href="$d8/dc7/structplc__state__t.html" title="plc_state_t" alt="" coords="290,231,382,257"/>
+<area shape="rect" id="node9" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="579,97,666,124"/>
+</map>

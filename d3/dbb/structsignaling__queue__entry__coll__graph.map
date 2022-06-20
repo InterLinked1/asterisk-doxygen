@@ -1,0 +1,6 @@
+<map id="signaling_queue_entry" name="signaling_queue_entry">
+<area shape="rect" id="node2" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="83,184,169,211"/>
+<area shape="rect" id="node3" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="51,95,201,121"/>
+<area shape="rect" id="node4" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node5" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="122,5,279,32"/>
+</map>

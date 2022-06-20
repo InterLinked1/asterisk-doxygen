@@ -1,0 +1,19 @@
+<map id="fax_gateway" name="fax_gateway">
+<area shape="rect" id="node2" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="539,113,631,140"/>
+<area shape="rect" id="node3" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="885,89,1039,116"/>
+<area shape="rect" id="node12" href="$de/d91/structast__smoother.html" title="ast_smoother" alt="" coords="907,159,1017,185"/>
+<area shape="rect" id="node4" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="217,113,303,140"/>
+<area shape="rect" id="node5" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="5,141,103,168"/>
+<area shape="rect" id="node7" href="$d9/d0e/structast__fax__tech.html" title="used to register a FAX technology module with res_fax " alt="" coords="534,172,637,199"/>
+<area shape="rect" id="node6" href="$d1/d16/structast__fax__session.html" title="The data required to handle a fax session. " alt="" coords="1217,235,1340,261"/>
+<area shape="rect" id="node8" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="217,277,303,304"/>
+<area shape="rect" id="node10" href="$d6/de5/structast__dsp.html" title="ast_dsp" alt="" coords="549,223,621,249"/>
+<area shape="rect" id="node18" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="536,404,635,431"/>
+<area shape="rect" id="node9" href="$d3/d84/structast__fax__debug__info.html" title="ast_fax_debug_info" alt="" coords="889,272,1035,299"/>
+<area shape="rect" id="node11" href="$d2/d1c/structdebug__info__history.html" title="debug_info_history" alt="" coords="514,455,657,481"/>
+<area shape="rect" id="node13" href="$d8/dc2/structast__fax__session__details.html" title="The data communicated between the high level applications and the generic fax function. " alt="" coords="876,568,1048,595"/>
+<area shape="rect" id="node14" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="184,507,336,533"/>
+<area shape="rect" id="node17" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="510,568,661,595"/>
+<area shape="rect" id="node15" href="$d7/d8b/structast__fax__documents.html" title="ast_fax_documents" alt="" coords="512,619,659,645"/>
+<area shape="rect" id="node16" href="$d3/df6/structast__fax__t38__parameters.html" title="ast_fax_t38_parameters" alt="" coords="496,676,675,703"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ast_sip_endpoint_media_configuration" name="ast_sip_endpoint_media_configuration">
+<area shape="rect" id="node2" href="$d0/d9d/structast__sip__direct__media__configuration.html" title="Direct media options for SIP endpoints. " alt="" coords="660,13,817,54"/>
+<area shape="rect" id="node3" href="$d7/dfe/structast__stream__codec__negotiation__prefs.html" title="ast_stream_codec_negotiation\l_prefs" alt="" coords="629,153,848,194"/>
+<area shape="rect" id="node4" href="$dd/d14/structast__sip__media__rtp__configuration.html" title="RTP configuration for SIP endpoints. " alt="" coords="624,332,853,359"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,284,157,311"/>
+<area shape="rect" id="node6" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="313,284,464,311"/>
+<area shape="rect" id="node7" href="$d4/dca/structast__rtp__dtls__cfg.html" title="DTLS configuration structure. " alt="" coords="327,411,450,437"/>
+<area shape="rect" id="node8" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="699,383,778,409"/>
+<area shape="rect" id="node9" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="677,433,800,460"/>
+<area shape="rect" id="node10" href="$d3/dae/structast__sip__t38__configuration.html" title="ast_sip_t38_configuration" alt="" coords="646,484,831,511"/>
+<area shape="rect" id="node11" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="660,535,817,561"/>
+</map>

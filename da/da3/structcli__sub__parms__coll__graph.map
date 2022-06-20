@@ -1,0 +1,9 @@
+<map id="cli_sub_parms" name="cli_sub_parms">
+<area shape="rect" id="node2" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="42,187,109,213"/>
+<area shape="rect" id="node3" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="5,96,145,123"/>
+<area shape="rect" id="node4" href="$d3/dad/structast__cli__args.html" title="ast_cli_args" alt="" coords="133,187,231,213"/>
+<area shape="rect" id="node5" href="$d8/d07/structast__cli__entry.html" title="descriptor for a cli entry. " alt="" coords="255,187,357,213"/>
+<area shape="rect" id="node6" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="396,96,493,123"/>
+<area shape="rect" id="node7" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="439,187,565,213"/>
+<area shape="rect" id="node8" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="379,5,510,32"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="dsp.h" name="dsp.h">
+<area shape="rect" id="node2" href="$d3/d51/chan__mobile_8c.html" title="Bluetooth Mobile Device channel driver. " alt="" coords="13,80,127,107"/>
+<area shape="rect" id="node3" href="$d3/d45/chan__ooh323_8h.html" title="chan_ooh323.h" alt="" coords="151,80,271,107"/>
+<area shape="rect" id="node6" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="1253,80,1327,107"/>
+<area shape="rect" id="node13" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="1841,229,1928,256"/>
+<area shape="rect" id="node14" href="$dd/d55/app__followme_8c.html" title="Find&#45;Me Follow&#45;Me application. " alt="" coords="1965,229,2085,256"/>
+<area shape="rect" id="node15" href="$d1/d97/chan__dahdi_8c.html" title="DAHDI for Pseudo TDM. " alt="" coords="2115,229,2222,256"/>
+<area shape="rect" id="node16" href="$d0/dd6/chan__mgcp_8c.html" title="Implementation of Media Gateway Control Protocol. " alt="" coords="895,229,1002,256"/>
+<area shape="rect" id="node17" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="1681,229,1792,256"/>
+<area shape="rect" id="node24" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="1763,155,1852,181"/>
+<area shape="rect" id="node25" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="1877,155,1986,181"/>
+<area shape="rect" id="node26" href="$dc/d5c/app__alarmreceiver_8c.html" title="Central Station Alarm receiver for Ademco Contact ID. " alt="" coords="2213,80,2364,107"/>
+<area shape="rect" id="node27" href="$d2/d48/app__amd_8c.html" title="Answering machine detection. " alt="" coords="2389,80,2482,107"/>
+<area shape="rect" id="node28" href="$df/dde/app__fax_8c.html" title="app_fax.c" alt="" coords="2506,80,2589,107"/>
+<area shape="rect" id="node29" href="$df/d44/app__meetme_8c.html" title="Meet me conference bridge and Shared Line Appearances. " alt="" coords="2613,80,2732,107"/>
+<area shape="rect" id="node30" href="$d7/d1d/app__mf_8c.html" title="MF sender and receiver applications. " alt="" coords="2755,80,2835,107"/>
+<area shape="rect" id="node31" href="$de/dfe/app__minivm_8c.html" title="MiniVoiceMail &#45; A Minimal Voicemail System for Asterisk. " alt="" coords="2860,80,2971,107"/>
+<area shape="rect" id="node32" href="$dd/dd5/app__record_8c.html" title="Trivial application to record a sound file. " alt="" coords="2995,80,3100,107"/>
+<area shape="rect" id="node33" href="$d3/dba/app__talkdetect_8c.html" title="Playback a file with audio detect. " alt="" coords="3125,80,3253,107"/>
+<area shape="rect" id="node34" href="$d9/d4a/app__tonedetect_8c.html" title="Tone detection module. " alt="" coords="3277,80,3412,107"/>
+<area shape="rect" id="node35" href="$dc/df4/app__voicemail_8c.html" title="Comedian Mail &#45; Voicemail System. " alt="" coords="3436,80,3560,107"/>
+<area shape="rect" id="node36" href="$d5/d4c/app__waitforsilence_8c.html" title="Wait for Silence. " alt="" coords="3584,80,3735,107"/>
+<area shape="rect" id="node37" href="$d5/db3/chan__dahdi_8h.html" title="DAHDI internal API definitions. " alt="" coords="2966,155,3073,181"/>
+<area shape="rect" id="node38" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="3811,80,3911,107"/>
+<area shape="rect" id="node39" href="$de/dfc/pjsip_2dialplan__functions_8c.html" title="PJSIP channel dialplan functions. " alt="" coords="3935,80,4082,107"/>
+<area shape="rect" id="node40" href="$d4/df5/func__talkdetect_8c.html" title="Function that raises events when talking is detected on a channel. " alt="" coords="4106,80,4237,107"/>
+<area shape="rect" id="node41" href="$d3/d83/main_2app_8c.html" title="Convenient Application Routines. " alt="" coords="4261,80,4319,107"/>
+<area shape="rect" id="node42" href="$da/d21/main_2db_8c.html" title="ASTdb Management. " alt="" coords="4343,80,4392,107"/>
+<area shape="rect" id="node43" href="$d5/d3b/dsp_8c.html" title="Convenience Signal Processing routines. " alt="" coords="4417,80,4473,107"/>
+<area shape="rect" id="node44" href="$df/d55/main_2frame_8c.html" title="Frame and codec manipulation routines. " alt="" coords="4497,80,4568,107"/>
+<area shape="rect" id="node45" href="$da/de0/privacy_8c.html" title="Privacy Routines. " alt="" coords="4592,80,4668,107"/>
+<area shape="rect" id="node46" href="$dd/de9/res__agi_8c.html" title="AGI &#45; the Asterisk Gateway Interface. " alt="" coords="4692,80,4771,107"/>
+<area shape="rect" id="node47" href="$d0/d60/res__fax_8c.html" title="Generic FAX Resource for FAX technology resource modules. " alt="" coords="4795,80,4873,107"/>
+<area shape="rect" id="node48" href="$d5/d82/res__pjsip__sdp__rtp_8c.html" title="SIP SDP media stream handling. " alt="" coords="4898,80,5042,107"/>
+<area shape="rect" id="node49" href="$d4/d92/res__pjsip__session_8c.html" title="res_pjsip_session.c" alt="" coords="5066,80,5210,107"/>
+<area shape="rect" id="node50" href="$d8/d4c/res__stasis__recording_8c.html" title="res_stasis recording support. " alt="" coords="5235,80,5399,107"/>
+<area shape="rect" id="node4" href="$d7/d49/chan__ooh323_8c.html" title="chan_ooh323.c" alt="" coords="5,155,124,181"/>
+<area shape="rect" id="node5" href="$d3/d3d/ooh323cDriver_8h.html" title="ooh323cDriver.h" alt="" coords="148,155,275,181"/>
+<area shape="rect" id="node7" href="$de/d11/app__agent__pool_8c.html" title="Call center agent pool. " alt="" coords="608,155,743,181"/>
+<area shape="rect" id="node8" href="$d0/df4/app__attended__transfer_8c.html" title="Attended transfer by caller channel. " alt="" coords="767,155,946,181"/>
+<area shape="rect" id="node9" href="$d7/d7c/app__blind__transfer_8c.html" title="Blind transfer by caller channel. " alt="" coords="1272,155,1423,181"/>
+<area shape="rect" id="node10" href="$d8/d6e/app__bridgeaddchan_8c.html" title="Application to place the channel into an existing Bridge. " alt="" coords="1499,229,1657,256"/>
+<area shape="rect" id="node11" href="$de/d47/features_8h.html" title="Call Parking and Pickup API Includes code and algorithms from the Zapata library. ..." alt="" coords="1549,155,1636,181"/>
+<area shape="rect" id="node12" href="$dc/d22/app__bridgewait_8c.html" title="Application to place the channel into a holding Bridge. " alt="" coords="1263,229,1392,256"/>
+<area shape="rect" id="node18" href="$d0/dcf/app__confbridge_8c.html" title="Conference Bridge application. " alt="" coords="1099,304,1230,331"/>
+<area shape="rect" id="node19" href="$d4/de3/confbridge_8h.html" title="confbridge.h" alt="" coords="1026,229,1127,256"/>
+<area shape="rect" id="node20" href="$d8/d4f/conf__chan__announce_8c.html" title="ConfBridge announcer channel driver. " alt="" coords="321,304,489,331"/>
+<area shape="rect" id="node21" href="$dc/d4e/stasis__bridges_8h.html" title="stasis_bridges.h" alt="" coords="1071,155,1197,181"/>
+<area shape="rect" id="node22" href="$d2/ddd/app__dumpchan_8c.html" title="Application to dump channel variables. " alt="" coords="452,155,584,181"/>
+<area shape="rect" id="node23" href="$de/dea/core__unreal_8h.html" title="Unreal channel derivative framework. " alt="" coords="350,229,459,256"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ast_bucket_scheme" name="ast_bucket_scheme">
+<area shape="rect" id="node6" href="$d9/da9/structast__bucket__file.html" title="Bucket file structure, contains reference to file and information about it. " alt="" coords="267,395,385,421"/>
+<area shape="rect" id="node2" href="$dd/d0a/structast__sorcery__wizard.html" title="Interface for a sorcery wizard. " alt="" coords="483,187,625,213"/>
+<area shape="rect" id="node3" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="607,96,704,123"/>
+<area shape="rect" id="node4" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="649,187,776,213"/>
+<area shape="rect" id="node5" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="590,5,721,32"/>
+<area shape="rect" id="node7" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="5,291,119,317"/>
+<area shape="rect" id="node8" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="155,187,307,213"/>
+<area shape="rect" id="node9" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="304,291,455,317"/>
+</map>

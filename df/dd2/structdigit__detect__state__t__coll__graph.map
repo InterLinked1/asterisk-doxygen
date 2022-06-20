@@ -1,0 +1,5 @@
+<map id="digit_detect_state_t" name="digit_detect_state_t">
+<area shape="rect" id="node2" href="$d5/d5b/structmf__detect__state__t.html" title="mf_detect_state_t" alt="" coords="5,109,144,136"/>
+<area shape="rect" id="node3" href="$d1/d12/structgoertzel__state__t.html" title="goertzel_state_t" alt="" coords="105,5,231,32"/>
+<area shape="rect" id="node4" href="$df/d42/structdtmf__detect__state__t.html" title="dtmf_detect_state_t" alt="" coords="168,109,320,136"/>
+</map>

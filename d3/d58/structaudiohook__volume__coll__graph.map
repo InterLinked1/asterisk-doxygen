@@ -1,0 +1,11 @@
+<map id="audiohook_volume" name="audiohook_volume">
+<area shape="rect" id="node2" href="$d2/d49/structast__audiohook.html" title="ast_audiohook" alt="" coords="146,396,261,423"/>
+<area shape="rect" id="node3" href="$d1/d47/structast__trans__pvt.html" title="Default structure for translators, with the basic fields and buffers, all allocated as part of the sa..." alt="" coords="169,200,278,227"/>
+<area shape="rect" id="node10" href="$d8/dc7/structast__slinfactory.html" title="ast_slinfactory" alt="" coords="41,291,155,317"/>
+<area shape="rect" id="node4" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="5,109,97,136"/>
+<area shape="rect" id="node5" href="$d8/dc7/structplc__state__t.html" title="plc_state_t" alt="" coords="139,109,231,136"/>
+<area shape="rect" id="node6" href="$db/d29/structast__translator.html" title="Descriptor of a translator. " alt="" coords="313,109,424,136"/>
+<area shape="rect" id="node7" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="269,5,356,32"/>
+<area shape="rect" id="node8" href="$da/d77/structast__audiohook__options.html" title="ast_audiohook_options" alt="" coords="293,291,463,317"/>
+<area shape="rect" id="node9" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="487,291,607,317"/>
+</map>

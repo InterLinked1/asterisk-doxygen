@@ -1,0 +1,25 @@
+<map id="vcodecs.c" name="vcodecs.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="559,229,643,256"/>
+<area shape="rect" id="node22" href="$d7/dda/console__video_8h.html" title="console_video.h" alt="" coords="2298,80,2422,107"/>
+<area shape="rect" id="node23" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="2935,155,3062,181"/>
+<area shape="rect" id="node33" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="2108,80,2222,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="598,453,753,480"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="612,304,750,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="454,304,588,331"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="602,528,749,555"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1320,379,1463,405"/>
+<area shape="rect" id="node25" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="3138,229,3269,256"/>
+<area shape="rect" id="node27" href="$d1/d84/endian_8h.html" title="Asterisk architecture endianess compatibility definitions. " alt="" coords="2933,229,3064,256"/>
+<area shape="rect" id="node28" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="2758,229,2908,256"/>
+<area shape="rect" id="node26" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="3140,304,3267,331"/>
+<area shape="rect" id="node29" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="2160,304,2274,331"/>
+<area shape="rect" id="node30" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="2104,379,2167,405"/>
+<area shape="rect" id="node31" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="2248,453,2394,480"/>
+<area shape="rect" id="node32" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2258,379,2384,405"/>
+<area shape="rect" id="node34" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1536,155,1674,181"/>
+<area shape="rect" id="node44" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="825,155,972,181"/>
+<area shape="rect" id="node46" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2202,155,2360,181"/>
+<area shape="rect" id="node48" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="2434,155,2565,181"/>
+<area shape="rect" id="node47" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="2208,229,2335,256"/>
+<area shape="rect" id="node50" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="2554,229,2733,256"/>
+</map>

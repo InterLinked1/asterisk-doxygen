@@ -1,0 +1,9 @@
+<map id="unbound_global_config" name="unbound_global_config">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="236,95,349,121"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="140,335,317,361"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="152,193,304,219"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="526,5,678,32"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="642,95,793,121"/>
+<area shape="rect" id="node6" href="$d1/d62/structunbound__config__state.html" title="Unbound configuration state information. " alt="" coords="818,95,980,121"/>
+<area shape="rect" id="node7" href="$d2/de8/structunbound__resolver.html" title="Structure for an unbound resolver. " alt="" coords="831,5,967,32"/>
+</map>

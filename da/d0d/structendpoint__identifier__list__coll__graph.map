@@ -1,0 +1,19 @@
+<map id="endpoint_identifier_list" name="endpoint_identifier_list">
+<area shape="rect" id="node2" href="$d0/d97/structast__sip__endpoint__identifier.html" title="An entity responsible for identifying the source of a SIP message. " alt="" coords="1317,461,1509,488"/>
+<area shape="rect" id="node3" href="$d3/d46/structast__sip__endpoint.html" title="An entity with which Asterisk communicates. " alt="" coords="1025,461,1156,488"/>
+<area shape="rect" id="node4" href="$d0/dca/structast__sip__auth__vector.html" title="ast_sip_auth_vector" alt="" coords="660,35,811,61"/>
+<area shape="rect" id="node5" href="$d4/df2/structast__endpoint.html" title="ast_endpoint" alt="" coords="495,137,601,164"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,163,157,189"/>
+<area shape="rect" id="node16" href="$d3/d35/structast__sip__endpoint__media__configuration.html" title="Media configuration for SIP endpoints. " alt="" coords="647,199,824,241"/>
+<area shape="rect" id="node17" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="317,249,468,276"/>
+<area shape="rect" id="node7" href="$d4/d84/structast__sip__endpoint__nat__configuration.html" title="NAT configuration options for endpoints. " alt="" coords="656,329,815,370"/>
+<area shape="rect" id="node8" href="$db/da2/structast__sorcery__object__details.html" title="Structure which contains details about a sorcery object. " alt="" coords="664,394,807,435"/>
+<area shape="rect" id="node9" href="$d3/da4/structast__acl__list.html" title="Wrapper for an ast_acl linked list. " alt="" coords="689,460,781,487"/>
+<area shape="rect" id="node10" href="$de/d30/structast__sip__identify__by__vector.html" title="ast_sip_identify_by\l_vector" alt="" coords="664,511,807,553"/>
+<area shape="rect" id="node11" href="$d4/df6/structast__sip__endpoint__id__configuration.html" title="Party identification options for endpoints. " alt="" coords="661,577,809,618"/>
+<area shape="rect" id="node12" href="$df/de5/structast__sip__endpoint__extensions.html" title="Endpoint configuration for SIP extensions. " alt="" coords="632,643,839,669"/>
+<area shape="rect" id="node13" href="$d8/dc8/structast__sip__endpoint__pickup__configuration.html" title="Call pickup configuration options for endpoints. " alt="" coords="646,694,825,735"/>
+<area shape="rect" id="node14" href="$db/d70/structast__sip__endpoint__subscription__configuration.html" title="Endpoint subscription configuration. " alt="" coords="628,759,843,801"/>
+<area shape="rect" id="node15" href="$d9/d19/structast__sip__endpoint__info__configuration.html" title="Endpoint configuration options for INFO packages. " alt="" coords="655,825,815,866"/>
+<area shape="rect" id="node18" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="686,929,785,956"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="curl_bucket_file_data" name="curl_bucket_file_data">
+<area shape="rect" id="node2" href="$d9/da9/structast__bucket__file.html" title="Bucket file structure, contains reference to file and information about it. " alt="" coords="374,213,491,240"/>
+<area shape="rect" id="node6" href="$d6/da0/structast__bucket__scheme.html" title="Structure for available schemes. " alt="" coords="217,317,368,344"/>
+<area shape="rect" id="node3" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="207,95,320,121"/>
+<area shape="rect" id="node4" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="172,213,349,240"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="421,5,573,32"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="569,95,720,121"/>
+<area shape="rect" id="node7" href="$dd/d0a/structast__sorcery__wizard.html" title="Interface for a sorcery wizard. " alt="" coords="5,213,148,240"/>
+</map>

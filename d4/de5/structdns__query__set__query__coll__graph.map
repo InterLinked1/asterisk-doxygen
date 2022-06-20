@@ -1,0 +1,6 @@
+<map id="dns_query_set_query" name="dns_query_set_query">
+<area shape="rect" id="node2" href="$dd/daa/structast__dns__query.html" title="A DNS query. " alt="" coords="115,184,229,211"/>
+<area shape="rect" id="node3" href="$d5/d8d/structast__dns__result.html" title="The result of a DNS query. " alt="" coords="5,95,120,121"/>
+<area shape="rect" id="node4" href="$df/d30/structast__dns__result_1_1dns__records.html" title="Records returned. " alt="" coords="13,5,113,32"/>
+<area shape="rect" id="node5" href="$de/d6f/structast__dns__resolver.html" title="DNS resolver implementation. " alt="" coords="144,95,275,121"/>
+</map>

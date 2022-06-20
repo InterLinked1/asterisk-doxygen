@@ -1,0 +1,8 @@
+<map id="host_candidates" name="host_candidates">
+<area shape="rect" id="node2" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="151,199,269,225"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,95,156,121"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,95,293,121"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="205,5,268,32"/>
+<area shape="rect" id="node6" href="$d4/db5/structast__ice__host__candidate.html" title="Structure which contains ICE host candidate mapping information. " alt="" coords="293,199,465,225"/>
+<area shape="rect" id="node7" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="326,95,433,121"/>
+</map>

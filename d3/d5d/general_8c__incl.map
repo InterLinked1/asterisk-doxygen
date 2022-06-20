@@ -1,0 +1,22 @@
+<map id="general.c" name="general.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="439,80,523,107"/>
+<area shape="rect" id="node22" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="795,80,897,107"/>
+<area shape="rect" id="node30" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="1099,80,1233,107"/>
+<area shape="rect" id="node35" href="$de/df9/stir__shaken_8h.html" title="stir_shaken.h" alt="" coords="1257,80,1363,107"/>
+<area shape="rect" id="node37" href="$d9/d14/general_8h.html" title="general.h" alt="" coords="1387,80,1470,107"/>
+<area shape="rect" id="node38" href="$d2/db7/res__stir__shaken_8h.html" title="asterisk/res_stir_shaken.h" alt="" coords="1495,80,1683,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="237,155,391,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="728,304,865,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="467,155,601,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="241,229,387,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="625,453,768,480"/>
+<area shape="rect" id="node23" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="996,304,1147,331"/>
+<area shape="rect" id="node25" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="781,155,911,181"/>
+<area shape="rect" id="node24" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1355,379,1468,405"/>
+<area shape="rect" id="node27" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1171,304,1286,331"/>
+<area shape="rect" id="node28" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="895,229,1074,256"/>
+<area shape="rect" id="node29" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1099,229,1233,256"/>
+<area shape="rect" id="node31" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="1076,155,1256,181"/>
+<area shape="rect" id="node34" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="1281,155,1395,181"/>
+<area shape="rect" id="node33" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1352,229,1479,256"/>
+</map>

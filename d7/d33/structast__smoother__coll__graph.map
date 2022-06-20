@@ -1,0 +1,7 @@
+<map id="ast_smoother" name="ast_smoother">
+<area shape="rect" id="node2" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="156,187,248,213"/>
+<area shape="rect" id="node3" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="40,305,194,332"/>
+<area shape="rect" id="node4" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="159,97,246,124"/>
+<area shape="rect" id="node5" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="154,7,251,33"/>
+<area shape="rect" id="node6" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="330,187,416,213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="format_interface" name="format_interface">
+<area shape="rect" id="node2" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="84,5,239,32"/>
+<area shape="rect" id="node3" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="207,124,299,151"/>
+<area shape="rect" id="node4" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="394,5,481,32"/>
+</map>

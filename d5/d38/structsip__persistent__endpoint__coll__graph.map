@@ -1,0 +1,13 @@
+<map id="sip_persistent_endpoint" name="sip_persistent_endpoint">
+<area shape="rect" id="node2" href="$d4/df2/structast__endpoint.html" title="ast_endpoint" alt="" coords="1171,205,1276,232"/>
+<area shape="rect" id="node3" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="822,371,935,397"/>
+<area shape="rect" id="node4" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1135,393,1312,420"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="803,308,955,335"/>
+<area shape="rect" id="node6" href="$d8/d54/structstasis__forward.html" title="Forwarding information. " alt="" coords="460,135,573,161"/>
+<area shape="rect" id="node11" href="$db/d59/structstasis__cp__single.html" title="stasis_cp_single" alt="" coords="816,68,941,95"/>
+<area shape="rect" id="node7" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="5,96,103,123"/>
+<area shape="rect" id="node10" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="187,235,329,261"/>
+<area shape="rect" id="node12" href="$d3/de2/structstasis__caching__topic.html" title="stasis_caching_topic" alt="" coords="440,57,593,84"/>
+<area shape="rect" id="node8" href="$d4/d1b/structstasis__message__router.html" title="stasis_message_router" alt="" coords="793,219,964,245"/>
+<area shape="rect" id="node9" href="$d6/d05/structstasis__message__route.html" title="stasis_message_route" alt="" coords="433,279,600,305"/>
+</map>

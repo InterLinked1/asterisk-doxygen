@@ -1,0 +1,9 @@
+<map id="cc_status_response_args" name="cc_status_response_args">
+<area shape="rect" id="node2" href="$d0/d63/structcc__core__instance.html" title="cc_core_instance" alt="" coords="274,199,406,225"/>
+<area shape="rect" id="node3" href="$d4/dcc/structcc__monitor__tree.html" title="The &quot;tree&quot; of interfaces that is dialed. " alt="" coords="146,109,273,136"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node5" href="$d0/d6e/structast__cc__monitor.html" title="ast_cc_monitor" alt="" coords="149,5,269,32"/>
+<area shape="rect" id="node6" href="$d0/db3/structast__cc__agent.html" title="ast_cc_agent" alt="" coords="384,109,491,136"/>
+<area shape="rect" id="node7" href="$d1/dec/structast__cc__agent__callbacks.html" title="ast_cc_agent_callbacks" alt="" coords="351,5,523,32"/>
+<area shape="rect" id="node8" href="$d4/d2e/structast__cc__config__params.html" title="ast_cc_config_params" alt="" coords="547,5,711,32"/>
+</map>

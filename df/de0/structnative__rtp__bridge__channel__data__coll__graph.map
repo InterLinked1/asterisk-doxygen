@@ -1,0 +1,10 @@
+<map id="native_rtp_bridge_channel_data" name="native_rtp_bridge_channel_data">
+<area shape="rect" id="node2" href="$d9/dd3/structnative__rtp__framehook__data.html" title="Internal structure which contains bridged RTP channel hook data. " alt="" coords="5,469,204,496"/>
+<area shape="rect" id="node3" href="$d8/dc9/structast__rtp__glue.html" title="ast_rtp_glue" alt="" coords="301,187,402,213"/>
+<area shape="rect" id="node7" href="$dc/db1/structrtp__glue__data.html" title="rtp_glue_data" alt="" coords="296,469,407,496"/>
+<area shape="rect" id="node9" href="$df/d7a/structast__rtp__instance.html" title="ast_rtp_instance" alt="" coords="389,276,517,303"/>
+<area shape="rect" id="node4" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="384,96,481,123"/>
+<area shape="rect" id="node5" href="$dd/d5f/structast__module__info.html" title="ast_module_info" alt="" coords="427,187,553,213"/>
+<area shape="rect" id="node6" href="$d7/d5b/structmodule__user__list.html" title="module_user_list" alt="" coords="367,5,498,32"/>
+<area shape="rect" id="node8" href="$d8/d6b/structrtp__glue__stream.html" title="rtp_glue_stream" alt="" coords="389,365,516,392"/>
+</map>

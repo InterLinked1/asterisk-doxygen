@@ -1,0 +1,44 @@
+<map id="acl.h" name="acl.h">
+<area shape="rect" id="node2" href="$d3/d45/chan__ooh323_8h.html" title="chan_ooh323.h" alt="" coords="151,87,271,114"/>
+<area shape="rect" id="node6" href="$d9/d1a/app__skel_8c.html" title="Skeleton application. " alt="" coords="296,87,385,114"/>
+<area shape="rect" id="node7" href="$dd/d8a/chan__audiosocket_8c.html" title="AudioSocket Channel. " alt="" coords="409,87,557,114"/>
+<area shape="rect" id="node8" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="581,87,679,114"/>
+<area shape="rect" id="node9" href="$d0/dd6/chan__mgcp_8c.html" title="Implementation of Media Gateway Control Protocol. " alt="" coords="703,87,810,114"/>
+<area shape="rect" id="node10" href="$de/da4/chan__motif_8c.html" title="Motif Jingle Channel Driver. " alt="" coords="835,87,937,114"/>
+<area shape="rect" id="node11" href="$d0/d29/chan__pjsip_8c.html" title="PSJIP SIP Channel Driver. " alt="" coords="961,87,1061,114"/>
+<area shape="rect" id="node12" href="$d0/d2b/chan__rtp_8c.html" title="RTP (Multicast and Unicast) Media Channel. " alt="" coords="1085,87,1175,114"/>
+<area shape="rect" id="node13" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="1199,87,1288,114"/>
+<area shape="rect" id="node14" href="$d0/d80/chan__skinny_8c.html" title="Implementation of the Skinny protocol. " alt="" coords="1313,87,1422,114"/>
+<area shape="rect" id="node15" href="$d1/d6d/chan__unistim_8c.html" title="chan_unistim channel driver for Asterisk " alt="" coords="1447,87,1565,114"/>
+<area shape="rect" id="node16" href="$d8/d4f/provision_8c.html" title="IAX Provisioning Protocol. " alt="" coords="1590,87,1681,114"/>
+<area shape="rect" id="node17" href="$de/dfc/pjsip_2dialplan__functions_8c.html" title="PJSIP channel dialplan functions. " alt="" coords="1705,87,1851,114"/>
+<area shape="rect" id="node18" href="$d8/d06/sip_2dialplan__functions_8c.html" title="sip channel dialplan functions and unit tests " alt="" coords="1875,87,2022,114"/>
+<area shape="rect" id="node19" href="$d9/db8/acl_8c.html" title="Various sorts of access control. " alt="" coords="2046,87,2097,114"/>
+<area shape="rect" id="node20" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="2121,87,2203,114"/>
+<area shape="rect" id="node21" href="$d6/dc8/config__options_8c.html" title="Configuration Option&#45;handling. " alt="" coords="2227,87,2353,114"/>
+<area shape="rect" id="node22" href="$d0/d5d/dnsmgr_8c.html" title="Background DNS update manager. " alt="" coords="2377,87,2459,114"/>
+<area shape="rect" id="node23" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="2483,87,2574,114"/>
+<area shape="rect" id="node24" href="$da/ddd/named__acl_8c.html" title="Named Access Control Lists. " alt="" coords="2599,87,2701,114"/>
+<area shape="rect" id="node25" href="$d2/dce/udptl_8c.html" title="UDPTL support for T.38 faxing. " alt="" coords="2725,87,2791,114"/>
+<area shape="rect" id="node26" href="$d1/dc0/pbx__dundi_8c.html" title="Distributed Universal Number Discovery (DUNDi) " alt="" coords="2815,87,2914,114"/>
+<area shape="rect" id="node27" href="$d9/de9/res__phoneprov_8c.html" title="Phone provisioning application for the asterisk internal http server. " alt="" coords="2939,87,3065,114"/>
+<area shape="rect" id="node28" href="$d3/d17/config__transport_8c.html" title="config_transport.c" alt="" coords="3089,87,3227,114"/>
+<area shape="rect" id="node29" href="$d0/df0/pjsip__cli_8c.html" title="pjsip_cli.c" alt="" coords="3251,87,3334,114"/>
+<area shape="rect" id="node30" href="$dc/df6/pjsip__configuration_8c.html" title="pjsip_configuration.c" alt="" coords="3358,87,3510,114"/>
+<area shape="rect" id="node31" href="$d7/dad/pjsip__distributor_8c.html" title="pjsip_distributor.c" alt="" coords="3534,87,3667,114"/>
+<area shape="rect" id="node32" href="$d5/d5e/res__pjsip__acl_8c.html" title="res_pjsip_acl.c" alt="" coords="3691,87,3806,114"/>
+<area shape="rect" id="node33" href="$df/d91/res__pjsip__endpoint__identifier__ip_8c.html" title="res_pjsip_endpoint\l_identifier_ip.c" alt="" coords="3830,80,3971,121"/>
+<area shape="rect" id="node34" href="$d0/d73/res__pjsip__logger_8c.html" title="res_pjsip_logger.c" alt="" coords="3996,87,4131,114"/>
+<area shape="rect" id="node35" href="$d4/dc3/res__pjsip__nat_8c.html" title="res_pjsip_nat.c" alt="" coords="4155,87,4273,114"/>
+<area shape="rect" id="node36" href="$d5/d82/res__pjsip__sdp__rtp_8c.html" title="SIP SDP media stream handling. " alt="" coords="4297,87,4441,114"/>
+<area shape="rect" id="node37" href="$d4/d92/res__pjsip__session_8c.html" title="res_pjsip_session.c" alt="" coords="4465,87,4609,114"/>
+<area shape="rect" id="node38" href="$dc/d80/res__pjsip__t38_8c.html" title="SIP T.38 handling. " alt="" coords="4633,87,4750,114"/>
+<area shape="rect" id="node39" href="$d9/d21/res__rtp__asterisk_8c.html" title="Supports RTP and RTCP with Symmetric RTP support for NAT traversal. " alt="" coords="4775,87,4909,114"/>
+<area shape="rect" id="node40" href="$d4/d6e/res__rtp__multicast_8c.html" title="Multicast RTP Engine. " alt="" coords="4934,87,5078,114"/>
+<area shape="rect" id="node41" href="$db/dd3/res__stun__monitor_8c.html" title="STUN Network Monitor. " alt="" coords="5102,87,5246,114"/>
+<area shape="rect" id="node42" href="$d2/dcf/test__acl_8c.html" title="ACL unit tests. " alt="" coords="5270,87,5353,114"/>
+<area shape="rect" id="node43" href="$d8/d4f/test__config_8c.html" title="Configuration unit tests. " alt="" coords="5377,87,5480,114"/>
+<area shape="rect" id="node3" href="$d7/d49/chan__ooh323_8c.html" title="chan_ooh323.c" alt="" coords="5,169,124,196"/>
+<area shape="rect" id="node4" href="$d3/d3d/ooh323cDriver_8h.html" title="ooh323cDriver.h" alt="" coords="148,169,275,196"/>
+<area shape="rect" id="node5" href="$d2/dae/ooh323cDriver_8c.html" title="ooh323cDriver.c" alt="" coords="149,244,274,271"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="security_events_defs.h" name="security_events_defs.h">
+<area shape="rect" id="node2" href="$d0/d29/include_2asterisk_2security__events_8h.html" title="Security Event Reporting API. " alt="" coords="991,80,1125,107"/>
+<area shape="rect" id="node3" href="$d5/dff/chan__iax2_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Version 2 as specified in RFC 5456. " alt="" coords="361,155,459,181"/>
+<area shape="rect" id="node4" href="$d1/d94/sip_8h.html" title="chan_sip header file " alt="" coords="483,155,535,181"/>
+<area shape="rect" id="node16" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="559,155,642,181"/>
+<area shape="rect" id="node17" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="666,155,757,181"/>
+<area shape="rect" id="node18" href="$da/ddd/named__acl_8c.html" title="Named Access Control Lists. " alt="" coords="781,155,884,181"/>
+<area shape="rect" id="node19" href="$d8/d30/main_2security__events_8c.html" title="Security Event Reporting Helpers. " alt="" coords="909,155,1042,181"/>
+<area shape="rect" id="node20" href="$dc/df6/pjsip__configuration_8c.html" title="pjsip_configuration.c" alt="" coords="1066,155,1218,181"/>
+<area shape="rect" id="node21" href="$d2/d63/res_2res__pjsip_2security__events_8c.html" title="Generate security events in the PJSIP channel. " alt="" coords="1242,155,1375,181"/>
+<area shape="rect" id="node22" href="$d5/d5e/res__pjsip__acl_8c.html" title="res_pjsip_acl.c" alt="" coords="1399,155,1514,181"/>
+<area shape="rect" id="node23" href="$d9/d21/res__rtp__asterisk_8c.html" title="Supports RTP and RTCP with Symmetric RTP support for NAT traversal. " alt="" coords="1539,155,1673,181"/>
+<area shape="rect" id="node24" href="$dd/d1e/res__security__log_8c.html" title="Security Event Logging. " alt="" coords="1698,155,1834,181"/>
+<area shape="rect" id="node25" href="$d3/d70/test__security__events_8c.html" title="Test security event generation. " alt="" coords="1858,155,2023,181"/>
+<area shape="rect" id="node5" href="$d5/dfe/chan__sip_8c.html" title="Implementation of Session Initiation Protocol. " alt="" coords="295,304,384,331"/>
+<area shape="rect" id="node6" href="$d5/d87/globals_8h.html" title="sip global declaration header file " alt="" coords="25,229,104,256"/>
+<area shape="rect" id="node7" href="$d8/d06/sip_2dialplan__functions_8c.html" title="sip channel dialplan functions and unit tests " alt="" coords="37,304,183,331"/>
+<area shape="rect" id="node8" href="$d1/d2b/config__parser_8h.html" title="sip.conf parser header file " alt="" coords="449,229,568,256"/>
+<area shape="rect" id="node9" href="$d8/d9c/config__parser_8c.html" title="sip config parsing functions and unit tests " alt="" coords="475,304,593,331"/>
+<area shape="rect" id="node10" href="$d1/dc9/dialog_8h.html" title="sip dialog management header file " alt="" coords="129,229,201,256"/>
+<area shape="rect" id="node11" href="$d4/dd3/sip_2include_2dialplan__functions_8h.html" title="SIP dialplan functions header file. " alt="" coords="225,229,373,256"/>
+<area shape="rect" id="node12" href="$d2/d1d/channels_2sip_2include_2security__events_8h.html" title="Generate security events in the SIP channel. " alt="" coords="644,229,779,256"/>
+<area shape="rect" id="node13" href="$d4/dea/channels_2sip_2security__events_8c.html" title="Generate security events in the SIP channel. " alt="" coords="697,304,830,331"/>
+<area shape="rect" id="node14" href="$d5/d85/reqresp__parser_8c.html" title="sip request parsing functions and unit tests " alt="" coords="855,229,984,256"/>
+<area shape="rect" id="node15" href="$d1/dba/channels_2sip_2utils_8c.html" title="Utility functions for chan_sip. " alt="" coords="1009,229,1067,256"/>
+</map>

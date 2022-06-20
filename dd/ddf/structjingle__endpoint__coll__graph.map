@@ -1,0 +1,18 @@
+<map id="jingle_endpoint" name="jingle_endpoint">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="351,57,503,84"/>
+<area shape="rect" id="node7" href="$df/d42/structast__xmpp__client.html" title="XMPP Client Connection. " alt="" coords="1067,289,1193,316"/>
+<area shape="rect" id="node9" href="$d4/df2/structast__endpoint.html" title="ast_endpoint" alt="" coords="719,209,824,236"/>
+<area shape="rect" id="node17" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="696,44,847,71"/>
+<area shape="rect" id="node3" href="$d8/d4d/structjingle__endpoint__state.html" title="Endpoint state information. " alt="" coords="884,479,1043,505"/>
+<area shape="rect" id="node4" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="370,403,483,429"/>
+<area shape="rect" id="node5" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="683,279,860,305"/>
+<area shape="rect" id="node6" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="1069,156,1191,183"/>
+<area shape="rect" id="node8" href="$d6/d73/structast__xmpp__message.html" title="XMPP Message. " alt="" coords="696,431,847,457"/>
+<area shape="rect" id="node10" href="$d8/d54/structstasis__forward.html" title="Forwarding information. " alt="" coords="20,183,133,209"/>
+<area shape="rect" id="node13" href="$db/d59/structstasis__cp__single.html" title="stasis_cp_single" alt="" coords="364,219,489,245"/>
+<area shape="rect" id="node11" href="$d4/d1b/structstasis__message__router.html" title="stasis_message_router" alt="" coords="341,311,512,337"/>
+<area shape="rect" id="node12" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="5,541,148,568"/>
+<area shape="rect" id="node14" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="711,532,831,559"/>
+<area shape="rect" id="node15" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="351,575,502,601"/>
+<area shape="rect" id="node16" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="370,524,483,551"/>
+</map>

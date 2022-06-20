@@ -1,0 +1,9 @@
+<map id="gosub_stack_list" name="gosub_stack_list">
+<area shape="rect" id="node2" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="158,199,278,225"/>
+<area shape="rect" id="node3" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="5,109,156,136"/>
+<area shape="rect" id="node4" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="180,109,293,136"/>
+<area shape="rect" id="node5" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="205,5,268,32"/>
+<area shape="rect" id="node6" href="$de/d91/structgosub__stack__frame.html" title="gosub_stack_frame" alt="" coords="302,199,449,225"/>
+<area shape="rect" id="node7" href="$dd/de6/structvarshead.html" title="varshead" alt="" coords="335,109,416,136"/>
+<area shape="rect" id="node8" href="$d0/d7d/structast__var__t.html" title="ast_var_t" alt="" coords="335,5,416,32"/>
+</map>

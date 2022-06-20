@@ -1,0 +1,16 @@
+<map id="sorcery_observer_invocation" name="sorcery_observer_invocation">
+<area shape="rect" id="node2" href="$d9/d60/structast__sorcery__object__type.html" title="Structure for registered object type. " alt="" coords="1035,223,1212,249"/>
+<area shape="rect" id="node3" href="$d5/d13/structaco__info.html" title="aco_info" alt="" coords="808,345,883,372"/>
+<area shape="rect" id="node4" href="$d9/d9c/structaco__file.html" title="The representation of a single configuration file to be processed. " alt="" coords="509,275,579,301"/>
+<area shape="rect" id="node5" href="$de/d71/structaco__type.html" title="Type information about a category&#45;level configurable object. " alt="" coords="231,223,311,249"/>
+<area shape="rect" id="node6" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="5,172,119,199"/>
+<area shape="rect" id="node13" href="$d2/d88/structast__sorcery.html" title="Full structure for sorcery. " alt="" coords="335,172,431,199"/>
+<area shape="rect" id="node7" href="$de/d60/structaco__info__internal.html" title="Bits of aco_info that shouldn&#39;t be assigned outside this file. " alt="" coords="479,403,609,429"/>
+<area shape="rect" id="node8" href="$d2/dd8/structao2__global__obj.html" title="ao2_global_obj" alt="" coords="485,352,603,379"/>
+<area shape="rect" id="node9" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="776,453,915,480"/>
+<area shape="rect" id="node12" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="1027,453,1220,480"/>
+<area shape="rect" id="node10" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="499,504,589,531"/>
+<area shape="rect" id="node11" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="455,453,633,480"/>
+<area shape="rect" id="node14" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="796,56,895,83"/>
+<area shape="rect" id="node15" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="489,44,599,71"/>
+</map>

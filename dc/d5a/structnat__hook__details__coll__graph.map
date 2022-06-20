@@ -1,0 +1,9 @@
+<map id="nat_hook_details" name="nat_hook_details">
+<area shape="rect" id="node2" href="$d1/d04/structast__sip__transport.html" title="Transport to bind to. " alt="" coords="916,135,1049,161"/>
+<area shape="rect" id="node3" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="249,44,401,71"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="625,57,776,84"/>
+<area shape="rect" id="node4" href="$db/dac/structast__sip__transport__state.html" title="Structure for SIP transport information. " alt="" coords="614,260,787,287"/>
+<area shape="rect" id="node5" href="$df/d9f/structast__dnsmgr__entry.html" title="ast_dnsmgr_entry" alt="" coords="255,201,394,228"/>
+<area shape="rect" id="node6" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="5,252,112,279"/>
+<area shape="rect" id="node7" href="$dc/d1d/structast__ha.html" title="internal representation of ACL entries In principle user applications would have no need for this..." alt="" coords="292,383,357,409"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="refer_progress_notification" name="refer_progress_notification">
+<area shape="rect" id="node2" href="$d0/d4b/structrefer__progress.html" title="REFER Progress structure. " alt="" coords="219,273,334,300"/>
+<area shape="rect" id="node3" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="229,95,367,121"/>
+<area shape="rect" id="node6" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="363,184,556,211"/>
+<area shape="rect" id="node7" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="5,184,148,211"/>
+<area shape="rect" id="node4" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="175,5,264,32"/>
+<area shape="rect" id="node5" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="289,5,467,32"/>
+<area shape="rect" id="node8" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="28,95,125,121"/>
+<area shape="rect" id="node9" href="$da/d84/structtransfer__channel__data.html" title="AO2 object that wraps data for transfer_channel_cb. " alt="" coords="581,184,746,211"/>
+</map>

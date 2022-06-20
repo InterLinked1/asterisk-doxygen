@@ -1,0 +1,7 @@
+<map id="verb_consoles" name="verb_consoles">
+<area shape="rect" id="node2" href="$d9/d9c/structverb__console.html" title="verb_console" alt="" coords="5,184,112,211"/>
+<area shape="rect" id="node3" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="194,184,313,211"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="122,95,273,121"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="297,95,410,121"/>
+<area shape="rect" id="node6" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="322,5,385,32"/>
+</map>

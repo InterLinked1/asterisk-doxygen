@@ -1,0 +1,8 @@
+<map id="stasis_app_recording.h" name="stasis_app_recording.h">
+<area shape="rect" id="node2" href="$db/d0b/resource__bridges_8c.html" title="Implementation for ARI stubs. " alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$da/d49/resource__channels_8c.html" title="Implementation for ARI stubs. " alt="" coords="172,80,325,107"/>
+<area shape="rect" id="node4" href="$d6/d1b/resource__recordings_8c.html" title="/api&#45;docs/recordings.{format} implementation&#45; Recording resources " alt="" coords="350,80,513,107"/>
+<area shape="rect" id="node5" href="$d7/de1/res__stasis__playback_8c.html" title="res_stasis playback support. " alt="" coords="537,80,697,107"/>
+<area shape="rect" id="node6" href="$d8/d4c/res__stasis__recording_8c.html" title="res_stasis recording support. " alt="" coords="721,80,885,107"/>
+<area shape="rect" id="node7" href="$d3/d74/stored_8c.html" title="Stored file operations for Stasis. " alt="" coords="910,80,985,107"/>
+</map>

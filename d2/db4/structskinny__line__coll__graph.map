@@ -1,0 +1,31 @@
+<map id="skinny_line" name="skinny_line">
+<area shape="rect" id="node11" href="$d1/db3/structskinny__device.html" title="skinny_device" alt="" coords="1597,483,1707,509"/>
+<area shape="rect" id="node25" href="$d1/de2/structskinny__subline.html" title="skinny_subline" alt="" coords="1595,175,1709,201"/>
+<area shape="rect" id="node26" href="$dd/dcc/structskinny__subchannel.html" title="skinny_subchannel" alt="" coords="1811,160,1953,187"/>
+<area shape="rect" id="node2" href="$de/d41/structast__mwi__subscriber.html" title="ast_mwi_subscriber" alt="" coords="960,193,1107,220"/>
+<area shape="rect" id="node3" href="$d7/d67/structstasis__state__subscriber.html" title="stasis_state_subscriber" alt="" coords="628,97,800,124"/>
+<area shape="rect" id="node4" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="312,313,455,340"/>
+<area shape="rect" id="node15" href="$d4/d1b/structstasis__message__router.html" title="stasis_message_router" alt="" coords="629,385,799,412"/>
+<area shape="rect" id="node5" href="$d6/d75/structstasis__state.html" title="stasis_state" alt="" coords="334,185,433,212"/>
+<area shape="rect" id="node6" href="$d8/d54/structstasis__forward.html" title="Forwarding information. " alt="" coords="5,436,119,463"/>
+<area shape="rect" id="node12" href="$d4/df2/structast__endpoint.html" title="ast_endpoint" alt="" coords="981,436,1086,463"/>
+<area shape="rect" id="node16" href="$db/d59/structstasis__cp__single.html" title="stasis_cp_single" alt="" coords="479,488,604,515"/>
+<area shape="rect" id="node7" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="973,712,1093,739"/>
+<area shape="rect" id="node17" href="$dc/d11/structskinny__addon.html" title="skinny_addon" alt="" coords="1827,797,1937,824"/>
+<area shape="rect" id="node20" href="$db/d98/structskinnysession.html" title="skinnysession" alt="" coords="1827,487,1937,513"/>
+<area shape="rect" id="node23" href="$d8/d0f/structskinny__speeddial.html" title="skinny_speeddial" alt="" coords="1817,667,1947,693"/>
+<area shape="rect" id="node8" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="639,736,789,763"/>
+<area shape="rect" id="node9" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="657,685,771,712"/>
+<area shape="rect" id="node10" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="352,685,415,712"/>
+<area shape="rect" id="node21" href="$d3/d52/structskinny__serviceurl.html" title="skinny_serviceurl" alt="" coords="1817,367,1947,393"/>
+<area shape="rect" id="node13" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="657,148,771,175"/>
+<area shape="rect" id="node27" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="984,92,1083,119"/>
+<area shape="rect" id="node14" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="638,237,790,264"/>
+<area shape="rect" id="node18" href="$dc/d1d/structast__ha.html" title="internal representation of ACL entries In principle user applications would have no need for this..." alt="" coords="1341,145,1406,172"/>
+<area shape="rect" id="node19" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="980,143,1087,169"/>
+<area shape="rect" id="node28" href="$df/d7a/structast__rtp__instance.html" title="ast_rtp_instance" alt="" coords="1443,75,1571,101"/>
+<area shape="rect" id="node22" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="972,385,1095,412"/>
+<area shape="rect" id="node24" href="$d6/dbc/structskinny__container.html" title="skinny_container" alt="" coords="969,333,1098,360"/>
+<area shape="rect" id="node29" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="984,283,1083,309"/>
+<area shape="rect" id="node30" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="659,327,769,353"/>
+</map>

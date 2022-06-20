@@ -1,0 +1,9 @@
+<map id="http_route" name="http_route">
+<area shape="rect" id="node2" href="$d0/d01/structphoneprov__file.html" title="structure to hold file data " alt="" coords="111,95,225,121"/>
+<area shape="rect" id="node5" href="$d3/dc7/structphone__profile.html" title="structure to hold phone profiles read from phoneprov.conf " alt="" coords="277,199,385,225"/>
+<area shape="rect" id="node3" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="188,5,340,32"/>
+<area shape="rect" id="node4" href="$d8/dbc/structuser.html" title="structure to hold users read from users.conf " alt="" coords="267,303,317,329"/>
+<area shape="rect" id="node7" href="$d0/d5a/structextension.html" title="structure to hold extensions " alt="" coords="511,199,595,225"/>
+<area shape="rect" id="node8" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="734,95,885,121"/>
+<area shape="rect" id="node6" href="$dd/de6/structvarshead.html" title="varshead" alt="" coords="467,95,549,121"/>
+</map>

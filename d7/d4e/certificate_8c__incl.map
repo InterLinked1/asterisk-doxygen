@@ -1,0 +1,22 @@
+<map id="certificate.c" name="certificate.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="574,80,658,107"/>
+<area shape="rect" id="node23" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1075,80,1176,107"/>
+<area shape="rect" id="node31" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="917,80,1051,107"/>
+<area shape="rect" id="node36" href="$de/df9/stir__shaken_8h.html" title="stir_shaken.h" alt="" coords="1431,80,1537,107"/>
+<area shape="rect" id="node38" href="$d0/dc9/certificate_8h.html" title="certificate.h" alt="" coords="1309,80,1406,107"/>
+<area shape="rect" id="node39" href="$d2/db7/res__stir__shaken_8h.html" title="asterisk/res_stir_shaken.h" alt="" coords="1562,80,1750,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="317,155,472,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="611,304,749,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="497,155,631,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="321,229,468,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="662,453,805,480"/>
+<area shape="rect" id="node24" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="987,304,1138,331"/>
+<area shape="rect" id="node26" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1237,155,1368,181"/>
+<area shape="rect" id="node25" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1354,379,1467,405"/>
+<area shape="rect" id="node28" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1245,304,1360,331"/>
+<area shape="rect" id="node29" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="1213,229,1392,256"/>
+<area shape="rect" id="node30" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="802,229,937,256"/>
+<area shape="rect" id="node32" href="$db/dfe/config__options_8h.html" title="Configuration option&#45;handling. " alt="" coords="769,155,949,181"/>
+<area shape="rect" id="node35" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="973,155,1088,181"/>
+<area shape="rect" id="node34" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="961,229,1087,256"/>
+</map>

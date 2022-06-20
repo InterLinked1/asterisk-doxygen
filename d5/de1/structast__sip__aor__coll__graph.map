@@ -1,0 +1,10 @@
+<map id="ast_sip_aor" name="ast_sip_aor">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="235,191,349,218"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="139,439,317,465"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="152,297,304,323"/>
+<area shape="rect" id="node5" href="$db/da2/structast__sorcery__object__details.html" title="Structure which contains details about a sorcery object. " alt="" coords="439,184,582,225"/>
+<area shape="rect" id="node6" href="$de/da7/structast__sorcery__object.html" title="Structure for internal sorcery object information. " alt="" coords="439,95,582,121"/>
+<area shape="rect" id="node7" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="461,5,560,32"/>
+<area shape="rect" id="node8" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="647,95,799,121"/>
+<area shape="rect" id="node9" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="767,191,918,218"/>
+</map>

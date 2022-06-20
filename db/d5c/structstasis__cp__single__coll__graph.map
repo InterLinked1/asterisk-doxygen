@@ -1,0 +1,10 @@
+<map id="stasis_cp_single" name="stasis_cp_single">
+<area shape="rect" id="node2" href="$d8/d54/structstasis__forward.html" title="Forwarding information. " alt="" coords="5,163,119,189"/>
+<area shape="rect" id="node3" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="235,5,332,32"/>
+<area shape="rect" id="node4" href="$d3/de2/structstasis__caching__topic.html" title="stasis_caching_topic" alt="" coords="283,215,436,241"/>
+<area shape="rect" id="node5" href="$dd/d25/structstasis__cache.html" title="stasis_cache" alt="" coords="393,111,497,137"/>
+<area shape="rect" id="node8" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="521,111,664,137"/>
+<area shape="rect" id="node6" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="443,5,556,32"/>
+<area shape="rect" id="node7" href="$d7/d55/structstasis__message.html" title="stasis_message" alt="" coords="583,5,709,32"/>
+<area shape="rect" id="node9" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="733,5,871,32"/>
+</map>

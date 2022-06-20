@@ -1,0 +1,5 @@
+<map id="iax_ies" name="iax_ies">
+<area shape="rect" id="node2" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="11,124,110,151"/>
+<area shape="rect" id="node3" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node4" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="191,124,298,151"/>
+</map>

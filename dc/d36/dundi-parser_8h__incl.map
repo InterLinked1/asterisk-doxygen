@@ -1,0 +1,26 @@
+<map id="dundi&#45;parser.h" name="dundi&#45;parser.h">
+<area shape="rect" id="node2" href="$d2/d59/dundi_8h.html" title="Distributed Universal Number Discovery (DUNDi) See also. " alt="" coords="2119,80,2242,107"/>
+<area shape="rect" id="node24" href="$da/da0/crypto_8h.html" title="Provide cryptographic signature routines. " alt="" coords="2276,80,2404,107"/>
+<area shape="rect" id="node3" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="950,155,1088,181"/>
+<area shape="rect" id="node5" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1814,304,1928,331"/>
+<area shape="rect" id="node4" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="1799,229,1943,256"/>
+<area shape="rect" id="node6" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="597,453,710,480"/>
+<area shape="rect" id="node8" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1555,379,1712,405"/>
+<area shape="rect" id="node9" href="$dc/d14/abstract__jb_8h.html" title="Common implementation&#45;independent jitterbuffer stuff. " alt="" coords="50,229,209,256"/>
+<area shape="rect" id="node10" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="153,304,288,331"/>
+<area shape="rect" id="node11" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="578,379,729,405"/>
+<area shape="rect" id="node12" href="$d4/dfb/poll-compat_8h.html" title="asterisk/poll&#45;compat.h" alt="" coords="336,229,500,256"/>
+<area shape="rect" id="node13" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="692,304,818,331"/>
+<area shape="rect" id="node14" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="920,304,1067,331"/>
+<area shape="rect" id="node15" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1648,229,1774,256"/>
+<area shape="rect" id="node16" href="$dc/d07/cdr_8h.html" title="Call Detail Record API. " alt="" coords="756,229,863,256"/>
+<area shape="rect" id="node17" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="464,304,614,331"/>
+<area shape="rect" id="node18" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="938,229,1100,256"/>
+<area shape="rect" id="node19" href="$d9/d95/channelstate_8h.html" title="Channel states. " alt="" coords="1124,229,1295,256"/>
+<area shape="rect" id="node20" href="$de/dc8/ccss_8h.html" title="Call Completion Supplementary Services API. " alt="" coords="1246,304,1362,331"/>
+<area shape="rect" id="node21" href="$db/d3c/framehook_8h.html" title="FrameHook Architecture. " alt="" coords="575,229,732,256"/>
+<area shape="rect" id="node22" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="2018,229,2143,256"/>
+<area shape="rect" id="node23" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1421,229,1572,256"/>
+<area shape="rect" id="node7" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1808,528,1934,555"/>
+<area shape="rect" id="node25" href="$df/d3c/optional__api_8h.html" title="Optional API function macros. " alt="" coords="2268,155,2434,181"/>
+</map>

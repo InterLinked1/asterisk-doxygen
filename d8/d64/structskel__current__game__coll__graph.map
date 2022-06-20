@@ -1,0 +1,6 @@
+<map id="skel_current_game" name="skel_current_game">
+<area shape="rect" id="node2" href="$da/d04/structskel__level.html" title="Object to hold level config information. " alt="" coords="188,184,271,211"/>
+<area shape="rect" id="node3" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node4" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="154,95,305,121"/>
+<area shape="rect" id="node5" href="$de/ddb/structskel__level__state.html" title="A structure to maintain level state across reloads. " alt="" coords="329,95,452,121"/>
+</map>

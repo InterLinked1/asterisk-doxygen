@@ -1,0 +1,6 @@
+<map id="fast_originate_helper" name="fast_originate_helper">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,124,157,151"/>
+<area shape="rect" id="node3" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="239,124,337,151"/>
+<area shape="rect" id="node4" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="233,5,343,32"/>
+<area shape="rect" id="node5" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="419,124,541,151"/>
+</map>

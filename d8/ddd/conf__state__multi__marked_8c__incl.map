@@ -1,0 +1,27 @@
+<map id="conf_state_multi_marked.c" name="conf_state_multi_marked.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1014,453,1098,480"/>
+<area shape="rect" id="node22" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="2004,453,2119,480"/>
+<area shape="rect" id="node40" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="2664,528,2814,555"/>
+<area shape="rect" id="node41" href="$d4/de3/confbridge_8h.html" title="include/confbridge.h" alt="" coords="2528,80,2678,107"/>
+<area shape="rect" id="node48" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="2676,304,2786,331"/>
+<area shape="rect" id="node49" href="$d6/dcb/conf__state_8h.html" title="Confbridge state handling. " alt="" coords="2767,155,2868,181"/>
+<area shape="rect" id="node50" href="$dc/d07/musiconhold_8h.html" title="Music on hold handling. " alt="" coords="2994,80,3164,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1834,752,1988,779"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="661,528,798,555"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="502,528,637,555"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1838,827,1984,853"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1094,677,1237,704"/>
+<area shape="rect" id="node23" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="1822,528,1960,555"/>
+<area shape="rect" id="node33" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="2228,677,2290,704"/>
+<area shape="rect" id="node35" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="2500,603,2613,629"/>
+<area shape="rect" id="node36" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2588,677,2714,704"/>
+<area shape="rect" id="node37" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="2039,528,2186,555"/>
+<area shape="rect" id="node38" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2362,528,2519,555"/>
+<area shape="rect" id="node39" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1127,528,1258,555"/>
+<area shape="rect" id="node42" href="$d3/d93/include_2asterisk_2app_8h.html" title="Application convenience functions, designed to give consistent look and feel to Asterisk apps..." alt="" coords="2124,379,2236,405"/>
+<area shape="rect" id="node43" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="2412,379,2551,405"/>
+<area shape="rect" id="node45" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="2463,229,2591,256"/>
+<area shape="rect" id="node46" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="2464,304,2652,331"/>
+<area shape="rect" id="node47" href="$dc/d4e/stasis__bridges_8h.html" title="asterisk/stasis_bridges.h" alt="" coords="2362,155,2540,181"/>
+<area shape="rect" id="node44" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="2666,453,2812,480"/>
+</map>

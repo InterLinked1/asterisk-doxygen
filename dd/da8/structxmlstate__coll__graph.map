@@ -1,0 +1,13 @@
+<map id="xmlstate" name="xmlstate">
+<area shape="rect" id="node2" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="989,81,1055,108"/>
+<area shape="rect" id="node3" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="653,5,793,32"/>
+<area shape="rect" id="node4" href="$d6/d9f/structcaldav__pvt.html" title="caldav_pvt" alt="" coords="977,208,1067,235"/>
+<area shape="rect" id="node5" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="332,423,445,449"/>
+<area shape="rect" id="node6" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="635,507,812,533"/>
+<area shape="rect" id="node8" href="$d4/d1d/structast__calendar.html" title="Asterisk calendar structure. " alt="" coords="671,261,775,288"/>
+<area shape="rect" id="node12" href="$dd/d67/structexchangecal__pvt.html" title="exchangecal_pvt" alt="" coords="957,261,1087,288"/>
+<area shape="rect" id="node7" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,219,157,245"/>
+<area shape="rect" id="node11" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="313,124,464,151"/>
+<area shape="rect" id="node9" href="$dd/dca/structast__calendar__tech.html" title="Individual calendaring technology data. " alt="" coords="319,365,458,392"/>
+<area shape="rect" id="node10" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="339,213,438,240"/>
+</map>

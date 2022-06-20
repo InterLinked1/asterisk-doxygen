@@ -1,0 +1,9 @@
+<map id="unaligned.h" name="unaligned.h">
+<area shape="rect" id="node2" href="$d1/d6d/chan__unistim_8c.html" title="chan_unistim channel driver for Asterisk " alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$d2/d72/parser_8c.html" title="Implementation of Inter&#45;Asterisk eXchange Protocol, v 2. " alt="" coords="148,80,221,107"/>
+<area shape="rect" id="node4" href="$d0/deb/event_8c.html" title="Internal generic event system. " alt="" coords="246,80,315,107"/>
+<area shape="rect" id="node5" href="$d2/dce/udptl_8c.html" title="UDPTL support for T.38 faxing. " alt="" coords="340,80,405,107"/>
+<area shape="rect" id="node6" href="$de/d4c/res__http__websocket_8c.html" title="WebSocket support for the Asterisk internal HTTP server. " alt="" coords="430,80,590,107"/>
+<area shape="rect" id="node7" href="$d9/d21/res__rtp__asterisk_8c.html" title="Supports RTP and RTCP with Symmetric RTP support for NAT traversal. " alt="" coords="615,80,749,107"/>
+<area shape="rect" id="node8" href="$d4/d6e/res__rtp__multicast_8c.html" title="Multicast RTP Engine. " alt="" coords="774,80,918,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="state_changes" name="state_changes">
+<area shape="rect" id="node2" href="$d9/d66/structstate__change.html" title="state_change" alt="" coords="5,184,115,211"/>
+<area shape="rect" id="node3" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="196,184,316,211"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="125,95,275,121"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="299,95,413,121"/>
+<area shape="rect" id="node6" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="325,5,387,32"/>
+</map>

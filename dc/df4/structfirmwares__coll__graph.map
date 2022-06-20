@@ -1,0 +1,8 @@
+<map id="firmwares" name="firmwares">
+<area shape="rect" id="node2" href="$dd/dfc/structiax__firmware.html" title="iax_firmware" alt="" coords="50,184,153,211"/>
+<area shape="rect" id="node3" href="$d1/dfb/structast__iax2__firmware__header.html" title="ast_iax2_firmware_header" alt="" coords="5,95,195,121"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="235,184,355,211"/>
+<area shape="rect" id="node5" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="219,95,370,121"/>
+<area shape="rect" id="node6" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="394,95,507,121"/>
+<area shape="rect" id="node7" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="419,5,482,32"/>
+</map>

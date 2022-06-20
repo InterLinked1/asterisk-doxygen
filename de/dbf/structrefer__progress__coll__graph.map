@@ -1,0 +1,11 @@
+<map id="refer_progress" name="refer_progress">
+<area shape="rect" id="node2" href="$db/d17/structast__taskprocessor.html" title="A ast_taskprocessor structure is a singleton by name. " alt="" coords="207,206,346,233"/>
+<area shape="rect" id="node6" href="$d7/d52/structast__taskprocessor__listener.html" title="A listener for taskprocessors. " alt="" coords="363,303,556,329"/>
+<area shape="rect" id="node8" href="$d9/de4/structstasis__subscription.html" title="stasis_subscription" alt="" coords="5,303,148,329"/>
+<area shape="rect" id="node3" href="$d5/d82/structast__taskprocessor_1_1tps__queue.html" title="Taskprocessor queue. " alt="" coords="125,109,215,136"/>
+<area shape="rect" id="node4" href="$d3/d60/structtps__task.html" title="tps_task structure is queued to a taskprocessor " alt="" coords="132,5,208,32"/>
+<area shape="rect" id="node5" href="$db/d1c/structtps__taskprocessor__stats.html" title="tps_taskprocessor_stats maintain statistics for a taskprocessor. " alt="" coords="239,109,418,136"/>
+<area shape="rect" id="node7" href="$d0/d01/structast__taskprocessor__listener__callbacks.html" title="ast_taskprocessor_listener\l_callbacks" alt="" coords="371,199,564,240"/>
+<area shape="rect" id="node9" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="28,206,125,233"/>
+<area shape="rect" id="node10" href="$da/d84/structtransfer__channel__data.html" title="AO2 object that wraps data for transfer_channel_cb. " alt="" coords="581,303,746,329"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="stasis_message_type" name="stasis_message_type">
+<area shape="rect" id="node2" href="$dd/d3e/structstasis__message__vtable.html" title="Virtual table providing methods for messages. " alt="" coords="67,273,237,300"/>
+<area shape="rect" id="node3" href="$d5/d78/structast__event.html" title="An event. " alt="" coords="5,184,91,211"/>
+<area shape="rect" id="node4" href="$d1/da1/structast__json.html" title="Abstract JSON element (object, array, string, int, ...). " alt="" coords="115,184,189,211"/>
+<area shape="rect" id="node5" href="$dd/d96/structast__manager__event__blob.html" title="Struct containing info for an AMI event to send out. " alt="" coords="213,184,397,211"/>
+<area shape="rect" id="node6" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="187,5,339,32"/>
+<area shape="rect" id="node7" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="335,95,486,121"/>
+</map>

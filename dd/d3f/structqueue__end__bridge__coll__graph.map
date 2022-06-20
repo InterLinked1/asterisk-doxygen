@@ -1,0 +1,11 @@
+<map id="queue_end_bridge" name="queue_end_bridge">
+<area shape="rect" id="node2" href="$df/db5/structcall__queue.html" title="call_queue" alt="" coords="307,222,398,249"/>
+<area shape="rect" id="node7" href="$dc/d79/structqueue__ent.html" title="queue_ent" alt="" coords="275,320,366,347"/>
+<area shape="rect" id="node3" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="741,95,855,121"/>
+<area shape="rect" id="node4" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="812,222,989,249"/>
+<area shape="rect" id="node9" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="541,222,639,249"/>
+<area shape="rect" id="node5" href="$dd/da2/structast__str.html" title="The descriptor of a dynamic string XXX storage will be optimized later if needed We use the ts field ..." alt="" coords="187,95,254,121"/>
+<area shape="rect" id="node6" href="$dd/d17/structast__threadstorage.html" title="data for a thread locally stored variable " alt="" coords="151,5,291,32"/>
+<area shape="rect" id="node8" href="$d5/dd5/structpenalty__rule.html" title="penalty_rule" alt="" coords="5,95,105,121"/>
+<area shape="rect" id="node10" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="425,95,577,121"/>
+</map>

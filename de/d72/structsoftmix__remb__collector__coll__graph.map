@@ -1,0 +1,8 @@
+<map id="softmix_remb_collector" name="softmix_remb_collector">
+<area shape="rect" id="node2" href="$d7/dd3/structast__rtp__rtcp__feedback.html" title="An object that represents data received in a feedback report. " alt="" coords="39,184,203,211"/>
+<area shape="rect" id="node3" href="$d4/d88/structast__rtp__rtcp__feedback__remb.html" title="A REMB feedback message (see draft&#45;alvestrand&#45;rmcat&#45;remb&#45;03 for details) " alt="" coords="5,95,211,121"/>
+<area shape="rect" id="node4" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="234,184,321,211"/>
+<area shape="rect" id="node5" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="235,95,384,121"/>
+<area shape="rect" id="node6" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="189,5,281,32"/>
+<area shape="rect" id="node7" href="$da/d35/structast__stream__topology.html" title="ast_stream_topology" alt="" coords="305,5,463,32"/>
+</map>

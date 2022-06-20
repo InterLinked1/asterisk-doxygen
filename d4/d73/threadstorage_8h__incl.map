@@ -1,0 +1,16 @@
+<map id="threadstorage.h" name="threadstorage.h">
+<area shape="rect" id="node2" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1321,80,1436,107"/>
+<area shape="rect" id="node17" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1633,453,1780,480"/>
+<area shape="rect" id="node3" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="759,155,897,181"/>
+<area shape="rect" id="node13" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="445,379,507,405"/>
+<area shape="rect" id="node19" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1395,304,1509,331"/>
+<area shape="rect" id="node24" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="713,379,839,405"/>
+<area shape="rect" id="node27" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="5,155,152,181"/>
+<area shape="rect" id="node29" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1489,155,1647,181"/>
+<area shape="rect" id="node31" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1695,155,1825,181"/>
+<area shape="rect" id="node14" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="472,453,627,480"/>
+<area shape="rect" id="node23" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="1209,379,1359,405"/>
+<area shape="rect" id="node25" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1383,379,1526,405"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1490,229,1617,256"/>
+<area shape="rect" id="node34" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1693,229,1827,256"/>
+</map>

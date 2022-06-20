@@ -1,0 +1,5 @@
+<map id="ast_sip_media_rtp_configuration" name="ast_sip_media_rtp_configuration">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node3" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="154,95,305,121"/>
+<area shape="rect" id="node4" href="$d4/dca/structast__rtp__dtls__cfg.html" title="DTLS configuration structure. " alt="" coords="329,95,452,121"/>
+</map>

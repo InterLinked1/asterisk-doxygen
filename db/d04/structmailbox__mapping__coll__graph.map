@@ -1,0 +1,10 @@
+<map id="mailbox_mapping" name="mailbox_mapping">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,95,157,121"/>
+<area shape="rect" id="node9" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="190,213,341,240"/>
+<area shape="rect" id="node3" href="$d8/d32/structast__smdi__interface.html" title="ast_smdi_interface" alt="" coords="365,213,507,240"/>
+<area shape="rect" id="node4" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="505,95,618,121"/>
+<area shape="rect" id="node5" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="578,213,755,240"/>
+<area shape="rect" id="node6" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="321,95,441,121"/>
+<area shape="rect" id="node7" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="227,5,378,32"/>
+<area shape="rect" id="node8" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="402,5,515,32"/>
+</map>

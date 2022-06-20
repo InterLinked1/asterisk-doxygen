@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['r_5ffp',['R_fp',['../dc/dc2/f2c_8h.html#a42e8f96fd1b13a6aa7751e5d92f002f1',1,'f2c.h']]],
+  ['real',['real',['../d9/d8a/lpc10_8h.html#a031f8951175b43076c2084a6c2173410',1,'lpc10.h']]],
+  ['realtime_5fdestroy',['realtime_destroy',['../d3/de6/include_2asterisk_2config_8h.html#aeb531247b82f75339bd367bf671af4b4',1,'config.h']]],
+  ['realtime_5fmulti_5fget',['realtime_multi_get',['../d3/de6/include_2asterisk_2config_8h.html#ac280a75edd50e1a22866f3cbc7ecebec',1,'realtime_multi_get():&#160;config.h'],['../d4/dc5/extconf_8c.html#acf209fbef7d60d82f81e32fb92850f32',1,'realtime_multi_get():&#160;extconf.c']]],
+  ['realtime_5frequire',['realtime_require',['../d3/de6/include_2asterisk_2config_8h.html#a16d6ac69ca472fa206f577ea0b0d847c',1,'config.h']]],
+  ['realtime_5fstore',['realtime_store',['../d3/de6/include_2asterisk_2config_8h.html#af1fc3cad5cf5835503395f84a4623ede',1,'config.h']]],
+  ['realtime_5funload',['realtime_unload',['../d3/de6/include_2asterisk_2config_8h.html#a254dcb357bb147c8af0c5646521a626b',1,'config.h']]],
+  ['realtime_5fupdate',['realtime_update',['../d3/de6/include_2asterisk_2config_8h.html#ac1de34346503239a5c262e287a6c92a9',1,'realtime_update():&#160;config.h'],['../d4/dc5/extconf_8c.html#a0d2ddf0f92f210648878b082bcd67c20',1,'realtime_update():&#160;extconf.c']]],
+  ['realtime_5fupdate2',['realtime_update2',['../d3/de6/include_2asterisk_2config_8h.html#ac8b06623a308ede3c28d47b321a0537f',1,'config.h']]],
+  ['realtime_5fvar_5fget',['realtime_var_get',['../d3/de6/include_2asterisk_2config_8h.html#a06f8a2b76c8554875ac5a51616ba3d20',1,'realtime_var_get():&#160;config.h'],['../d4/dc5/extconf_8c.html#a602a9564c9fb3fa2b17efd9018e05e7f',1,'realtime_var_get():&#160;extconf.c']]],
+  ['recno_5ft',['recno_t',['../da/d4e/db_8h.html#ab89fa08063e1fdba7ef2ca3cb0c742e5',1,'db.h']]],
+  ['record_5ffn',['record_fn',['../d3/df0/dns__test_8h.html#a1130119f32a486882b42aa346f564ddf',1,'dns_test.h']]],
+  ['recording_5foperation_5fcb',['recording_operation_cb',['../d8/d4c/res__stasis__recording_8c.html#a7af3f2eea566d6fc987c202d437e6466',1,'res_stasis_recording.c']]],
+  ['resampler_5fbasic_5ffunc',['resampler_basic_func',['../dc/d7f/resample_8c.html#a0d65959e287948b90f48a92c07cee230',1,'resample.c']]],
+  ['resolve_5ffn',['resolve_fn',['../d0/d5c/res__resolver__unbound_8c.html#affd13bfdc85e2e7b7a73de4fd877be05',1,'res_resolver_unbound.c']]],
+  ['rinternal',['RINTERNAL',['../d9/d13/btree_8h.html#a16af11669c61f0843239e29b9ba45df7',1,'btree.h']]],
+  ['rleaf',['RLEAF',['../d9/d13/btree_8h.html#a9ff3ec9396a549990825a9084217e570',1,'btree.h']]]
+];

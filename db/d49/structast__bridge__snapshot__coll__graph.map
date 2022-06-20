@@ -1,0 +1,7 @@
+<map id="ast_bridge_snapshot" name="ast_bridge_snapshot">
+<area shape="rect" id="node2" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="217,5,330,32"/>
+<area shape="rect" id="node3" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="139,245,317,272"/>
+<area shape="rect" id="node4" href="$da/d68/structao2__container__node.html" title="Generic container node. " alt="" coords="152,103,304,130"/>
+<area shape="rect" id="node5" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="396,5,548,32"/>
+<area shape="rect" id="node6" href="$dc/dac/structast__flags.html" title="Structure used to handle boolean flags. " alt="" coords="630,5,709,32"/>
+</map>

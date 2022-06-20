@@ -1,0 +1,51 @@
+<map id="inline_api.h" name="inline_api.h">
+<area shape="rect" id="node2" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="3120,80,3183,107"/>
+<area shape="rect" id="node4" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="966,304,1092,331"/>
+<area shape="rect" id="node10" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="3520,304,3592,331"/>
+<area shape="rect" id="node36" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="2764,155,2822,181"/>
+<area shape="rect" id="node37" href="$d5/da5/astobj2_8h.html" title="astobj2.h" alt="" coords="1232,229,1314,256"/>
+<area shape="rect" id="node41" href="$dd/dbb/check__expr_8c.html" title="check_expr.c" alt="" coords="4376,229,4480,256"/>
+<area shape="rect" id="node48" href="$d4/dc5/extconf_8c.html" title="extconf.c" alt="" coords="4707,155,4786,181"/>
+<area shape="rect" id="node49" href="$d1/d0f/stringfields_8h.html" title="stringfields.h" alt="" coords="1374,155,1476,181"/>
+<area shape="rect" id="node50" href="$d7/d50/phoneprov_8h.html" title="phoneprov.h" alt="" coords="4912,80,5013,107"/>
+<area shape="rect" id="node3" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="2262,229,2322,256"/>
+<area shape="rect" id="node5" href="$d2/df4/cdr__custom_8c.html" title="Custom Comma Separated Value CDR records. " alt="" coords="2688,379,2796,405"/>
+<area shape="rect" id="node6" href="$d1/dc8/iostream_8c.html" title="iostream.c" alt="" coords="1694,379,1785,405"/>
+<area shape="rect" id="node7" href="$d1/d22/logger_8c.html" title="Asterisk Logger. " alt="" coords="893,379,965,405"/>
+<area shape="rect" id="node8" href="$de/d1f/main_2utils_8c.html" title="Utility functions. " alt="" coords="1366,379,1425,405"/>
+<area shape="rect" id="node9" href="$d7/d4a/res__odbc_8c.html" title="ODBC resource manager. " alt="" coords="778,379,869,405"/>
+<area shape="rect" id="node11" href="$de/dfe/app__minivm_8c.html" title="MiniVoiceMail &#45; A Minimal Voicemail System for Asterisk. " alt="" coords="3734,379,3844,405"/>
+<area shape="rect" id="node12" href="$dc/df4/app__voicemail_8c.html" title="Comedian Mail &#45; Voicemail System. " alt="" coords="2688,453,2812,480"/>
+<area shape="rect" id="node13" href="$dc/dca/smdi_8h.html" title="SMDI support for Asterisk. " alt="" coords="3644,379,3710,405"/>
+<area shape="rect" id="node14" href="$df/ddb/cdr__adaptive__odbc_8c.html" title="Adaptive ODBC CDR backend. " alt="" coords="4008,379,4162,405"/>
+<area shape="rect" id="node15" href="$d9/d47/cdr__beanstalkd_8c.html" title="Asterisk Beanstalkd CDR records. " alt="" coords="3349,379,3480,405"/>
+<area shape="rect" id="node16" href="$df/d5a/cdr__manager_8c.html" title="Asterisk Call Manager CDR records. " alt="" coords="3504,379,3621,405"/>
+<area shape="rect" id="node17" href="$d1/ddf/cel__odbc_8c.html" title="ODBC CEL backend. " alt="" coords="4186,379,4275,405"/>
+<area shape="rect" id="node18" href="$de/d35/cel__tds_8c.html" title="FreeTDS CEL logger. " alt="" coords="4442,379,4520,405"/>
+<area shape="rect" id="node19" href="$d7/d9b/chan__misdn_8c.html" title="the chan_misdn channel driver for Asterisk " alt="" coords="2987,379,3098,405"/>
+<area shape="rect" id="node20" href="$d2/d9d/main_2config_8c.html" title="Configuration File Parser. " alt="" coords="3203,379,3274,405"/>
+<area shape="rect" id="node21" href="$dd/d43/http_8c.html" title="http server for AMI access " alt="" coords="662,379,721,405"/>
+<area shape="rect" id="node22" href="$db/d94/pbx_8c.html" title="Core PBX routines. " alt="" coords="3122,379,3178,405"/>
+<area shape="rect" id="node23" href="$dd/d27/res__adsi_8c.html" title="ADSI support. " alt="" coords="4544,379,4631,405"/>
+<area shape="rect" id="node24" href="$d3/d97/res__musiconhold_8c.html" title="Routines implementing music on hold. " alt="" coords="2522,379,2664,405"/>
+<area shape="rect" id="node25" href="$dd/d95/res__pktccops_8c.html" title="PacketCable COPS. " alt="" coords="4300,379,4417,405"/>
+<area shape="rect" id="node26" href="$dc/dd5/callerid_8c.html" title="CallerID Generation support. " alt="" coords="2854,304,2932,331"/>
+<area shape="rect" id="node27" href="$df/d98/json_8c.html" title="JSON abstraction layer. " alt="" coords="1665,304,1724,331"/>
+<area shape="rect" id="node28" href="$da/dbe/rtp__engine_8c.html" title="Pluggable RTP Architecture. " alt="" coords="1900,304,2001,331"/>
+<area shape="rect" id="node29" href="$d7/d01/say_8c.html" title="Say numbers and dates (maybe words one day too) " alt="" coords="3088,304,3141,331"/>
+<area shape="rect" id="node30" href="$dc/dd7/smoother_8c.html" title="Frame smoother manipulation routines. " alt="" coords="1463,304,1558,331"/>
+<area shape="rect" id="node31" href="$db/d68/tdd_8c.html" title="TTY/TDD Generation support. " alt="" coords="3008,304,3063,331"/>
+<area shape="rect" id="node32" href="$d8/db9/test_8c.html" title="Unit Test Framework. " alt="" coords="1582,304,1641,331"/>
+<area shape="rect" id="node33" href="$d3/d62/timing_8c.html" title="Timing source management. " alt="" coords="2756,304,2830,331"/>
+<area shape="rect" id="node34" href="$d9/dd4/pbx__spool_8c.html" title="Full&#45;featured outgoing call spool support. " alt="" coords="2482,304,2579,331"/>
+<area shape="rect" id="node35" href="$d6/d14/parking__tests_8c.html" title="Call Parking Unit Tests. " alt="" coords="1116,304,1235,331"/>
+<area shape="rect" id="node38" href="$d9/d6d/cli__commands_8c.html" title="PJSIP channel CLI functions. " alt="" coords="73,304,198,331"/>
+<area shape="rect" id="node39" href="$d4/deb/taskprocessor_8c.html" title="Maintain a container of uniquely&#45;named taskprocessor threads that can be shared across modules..." alt="" coords="273,304,396,331"/>
+<area shape="rect" id="node40" href="$df/dda/pjsip__options_8c.html" title="pjsip_options.c" alt="" coords="471,304,587,331"/>
+<area shape="rect" id="node42" href="$db/dce/say_8h.html" title="Say numbers and dates (maybe words one day too) " alt="" coords="3368,229,3423,256"/>
+<area shape="rect" id="node43" href="$d6/dda/iLBC__test_8c.html" title="iLBC_test.c" alt="" coords="3621,155,3714,181"/>
+<area shape="rect" id="node44" href="$dd/d7c/eagi__proxy_8c.html" title="eagi_proxy.c" alt="" coords="3739,155,3839,181"/>
+<area shape="rect" id="node45" href="$d1/d6e/main_2stdtime_2private_8h.html" title="private.h" alt="" coords="3863,155,3942,181"/>
+<area shape="rect" id="node46" href="$df/d73/time_8c.html" title="Date/Time utility functions. " alt="" coords="3966,155,4028,181"/>
+<area shape="rect" id="node47" href="$d0/dff/res__chan__stats_8c.html" title="res_chan_stats.c" alt="" coords="4053,155,4184,181"/>
+</map>

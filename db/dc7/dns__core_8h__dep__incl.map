@@ -1,0 +1,19 @@
+<map id="dns_core.h" name="dns_core.h">
+<area shape="rect" id="node2" href="$d0/d2b/chan__rtp_8c.html" title="RTP (Multicast and Unicast) Media Channel. " alt="" coords="5,80,95,107"/>
+<area shape="rect" id="node3" href="$dc/d00/dns__core_8c.html" title="Core DNS Functionality. " alt="" coords="119,80,210,107"/>
+<area shape="rect" id="node4" href="$d3/de7/dns__naptr_8c.html" title="DNS NAPTR Record Support. " alt="" coords="234,80,330,107"/>
+<area shape="rect" id="node5" href="$d5/da5/dns__query__set_8c.html" title="DNS Query Set API. " alt="" coords="355,80,481,107"/>
+<area shape="rect" id="node6" href="$d8/dad/dns__recurring_8c.html" title="DNS Recurring Query Support. " alt="" coords="506,80,626,107"/>
+<area shape="rect" id="node7" href="$db/d8e/dns__srv_8c.html" title="DNS SRV Record Support. " alt="" coords="651,80,732,107"/>
+<area shape="rect" id="node8" href="$df/d3a/dns__system__resolver_8c.html" title="The default DNS resolver for Asterisk. " alt="" coords="756,80,923,107"/>
+<area shape="rect" id="node9" href="$db/d71/dns__test_8c.html" title="dns_test.c" alt="" coords="947,80,1035,107"/>
+<area shape="rect" id="node10" href="$d1/dc3/dns__tlsa_8c.html" title="DNS TLSA Record Support. " alt="" coords="1060,80,1147,107"/>
+<area shape="rect" id="node11" href="$da/d40/dns__txt_8c.html" title="DNS TXT Record Parsing API. " alt="" coords="1171,80,1251,107"/>
+<area shape="rect" id="node12" href="$d4/d43/pjsip__resolver_8c.html" title="pjsip_resolver.c" alt="" coords="1276,80,1395,107"/>
+<area shape="rect" id="node13" href="$d0/d5c/res__resolver__unbound_8c.html" title="res_resolver_unbound.c" alt="" coords="1419,80,1593,107"/>
+<area shape="rect" id="node14" href="$da/d14/test__dns_8c.html" title="test_dns.c" alt="" coords="1618,80,1706,107"/>
+<area shape="rect" id="node15" href="$d4/db3/test__dns__naptr_8c.html" title="test_dns_naptr.c" alt="" coords="1730,80,1858,107"/>
+<area shape="rect" id="node16" href="$d3/d10/test__dns__query__set_8c.html" title="test_dns_query_set.c" alt="" coords="1883,80,2041,107"/>
+<area shape="rect" id="node17" href="$d5/d36/test__dns__recurring_8c.html" title="test_dns_recurring.c" alt="" coords="2066,80,2218,107"/>
+<area shape="rect" id="node18" href="$da/d22/test__dns__srv_8c.html" title="test_dns_srv.c" alt="" coords="2243,80,2356,107"/>
+</map>

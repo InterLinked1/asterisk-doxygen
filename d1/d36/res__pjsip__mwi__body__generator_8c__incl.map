@@ -1,0 +1,30 @@
+<map id="res_pjsip_mwi_body_generator.c" name="res_pjsip_mwi_body_generator.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="243,102,327,129"/>
+<area shape="rect" id="node25" href="$d8/d8c/res__pjsip_8h.html" title="asterisk/res_pjsip.h" alt="" coords="1053,102,1197,129"/>
+<area shape="rect" id="node38" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="2205,415,2335,442"/>
+<area shape="rect" id="node47" href="$dc/db0/res__pjsip__pubsub_8h.html" title="asterisk/res_pjsip\l_pubsub.h" alt="" coords="519,408,651,449"/>
+<area shape="rect" id="node48" href="$db/d4c/res__pjsip__body__generator__types_8h.html" title="asterisk/res_pjsip\l_body_generator_types.h" alt="" coords="1447,95,1631,136"/>
+<area shape="rect" id="node50" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="2109,102,2245,129"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="165,184,319,211"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="1467,572,1604,599"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="5,184,140,211"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="169,259,315,285"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1349,647,1492,673"/>
+<area shape="rect" id="node28" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1835,415,1993,442"/>
+<area shape="rect" id="node30" href="$d6/d68/vector_8h.html" title="Vector container support. " alt="" coords="1147,497,1273,524"/>
+<area shape="rect" id="node31" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="1198,259,1345,285"/>
+<area shape="rect" id="node34" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1628,572,1779,599"/>
+<area shape="rect" id="node35" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1974,259,2113,285"/>
+<area shape="rect" id="node39" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1725,333,1876,360"/>
+<area shape="rect" id="node40" href="$d8/d25/sorcery_8h.html" title="Sorcery Data Access Layer API. " alt="" coords="802,184,935,211"/>
+<area shape="rect" id="node41" href="$db/dc4/dnsmgr_8h.html" title="Background DNS update manager. " alt="" coords="1162,184,1298,211"/>
+<area shape="rect" id="node42" href="$d5/da1/udptl_8h.html" title="UDPTL support for T.38. " alt="" coords="1901,184,2021,211"/>
+<area shape="rect" id="node43" href="$d5/dde/rtp__engine_8h.html" title="Pluggable RTP Architecture. " alt="" coords="1323,184,1479,211"/>
+<area shape="rect" id="node44" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="2045,184,2234,211"/>
+<area shape="rect" id="node45" href="$d7/d44/stasis__endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="1631,259,1826,285"/>
+<area shape="rect" id="node46" href="$d8/d95/stream_8h.html" title="Media Stream API. " alt="" coords="851,415,985,442"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1822,572,1969,599"/>
+<area shape="rect" id="node36" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="1741,497,1876,524"/>
+<area shape="rect" id="node37" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="2187,333,2302,360"/>
+<area shape="rect" id="node49" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="2309,184,2420,211"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="resource_playbacks.c" name="resource_playbacks.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1030,87,1114,114"/>
+<area shape="rect" id="node22" href="$d3/d1e/stasis__app__playback_8h.html" title="Stasis Application Playback API. See StasisApplication API&quot; for detailed documentation. " alt="" coords="1667,80,1811,121"/>
+<area shape="rect" id="node25" href="$de/d64/resource__playbacks_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_playbacks.c. " alt="" coords="1835,87,1995,114"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="373,169,528,196"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="923,169,1061,196"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1085,169,1219,196"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,244,152,271"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="177,244,319,271"/>
+<area shape="rect" id="node23" href="$d8/d9c/stasis__app_8h.html" title="Stasis Application API. See Stasis Application API for detailed documentation. " alt="" coords="1671,169,1827,196"/>
+<area shape="rect" id="node24" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1684,244,1823,271"/>
+<area shape="rect" id="node26" href="$d4/d59/ari_8h.html" title="Asterisk RESTful API hooks. " alt="" coords="1863,169,1967,196"/>
+<area shape="rect" id="node27" href="$dd/d56/http_8h.html" title="Support for Private Asterisk HTTP Servers. " alt="" coords="1853,244,1968,271"/>
+<area shape="rect" id="node28" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="1992,244,2107,271"/>
+</map>

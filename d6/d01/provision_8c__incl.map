@@ -1,0 +1,34 @@
+<map id="provision.c" name="provision.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="424,304,508,331"/>
+<area shape="rect" id="node24" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="1385,229,1512,256"/>
+<area shape="rect" id="node25" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1195,304,1310,331"/>
+<area shape="rect" id="node30" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1573,379,1687,405"/>
+<area shape="rect" id="node35" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1209,229,1310,256"/>
+<area shape="rect" id="node37" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="1679,229,1805,256"/>
+<area shape="rect" id="node40" href="$da/db0/md5_8h.html" title="MD5 digest functions. " alt="" coords="2609,80,2726,107"/>
+<area shape="rect" id="node41" href="$de/d4a/astdb_8h.html" title="Persistant data storage (akin to *doze registry) " alt="" coords="2749,80,2873,107"/>
+<area shape="rect" id="node42" href="$d5/d59/acl_8h.html" title="Access Control of various sorts. " alt="" coords="2166,229,2273,256"/>
+<area shape="rect" id="node45" href="$db/d1c/format__cache_8h.html" title="Media Format Cache API. " alt="" coords="2898,80,3074,107"/>
+<area shape="rect" id="node46" href="$d1/d18/include_2asterisk_2format__compatibility_8h.html" title="Media Format Bitfield Compatibility API. " alt="" coords="3099,80,3316,107"/>
+<area shape="rect" id="node47" href="$d8/de0/iax2_8h.html" title="Implementation of Inter&#45;Asterisk eXchange, version 2 iax2&#45;parser::c iax2&#45;parser.h chan_iax2..." alt="" coords="2033,229,2142,256"/>
+<area shape="rect" id="node48" href="$df/d9f/provision_8h.html" title="IAX2 Provisioning protocol. " alt="" coords="1929,80,2069,107"/>
+<area shape="rect" id="node49" href="$d5/d36/parser_8h.html" title="Implementation of the IAX2 protocol. " alt="" coords="1958,155,2033,181"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="659,528,814,555"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="685,379,823,405"/>
+<area shape="rect" id="node18" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="5,379,140,405"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="663,603,810,629"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1161,453,1304,480"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1525,528,1671,555"/>
+<area shape="rect" id="node26" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2294,379,2433,405"/>
+<area shape="rect" id="node27" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1472,453,1535,480"/>
+<area shape="rect" id="node31" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="1661,453,1788,480"/>
+<area shape="rect" id="node32" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="1069,379,1215,405"/>
+<area shape="rect" id="node33" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1391,379,1549,405"/>
+<area shape="rect" id="node34" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="914,379,1045,405"/>
+<area shape="rect" id="node36" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="1436,304,1587,331"/>
+<area shape="rect" id="node38" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="1766,304,1897,331"/>
+<area shape="rect" id="node39" href="$d1/d84/endian_8h.html" title="Asterisk architecture endianess compatibility definitions. " alt="" coords="1611,304,1742,331"/>
+<area shape="rect" id="node43" href="$db/df1/netsock2_8h.html" title="Network socket handling. " alt="" coords="2022,379,2169,405"/>
+<area shape="rect" id="node44" href="$dc/dac/io_8h.html" title="I/O Management (derived from Cheops&#45;NG) " alt="" coords="2073,304,2171,331"/>
+<area shape="rect" id="node50" href="$da/da0/crypto_8h.html" title="Provide cryptographic signature routines. " alt="" coords="1830,229,1958,256"/>
+</map>

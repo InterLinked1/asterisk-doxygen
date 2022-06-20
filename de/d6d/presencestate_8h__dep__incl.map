@@ -1,0 +1,51 @@
+<map id="presencestate.h" name="presencestate.h">
+<area shape="rect" id="node2" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="2910,87,2967,114"/>
+<area shape="rect" id="node20" href="$d4/d10/manager_8c.html" title="The Asterisk Management Interface &#45; AMI. " alt="" coords="5,244,96,271"/>
+<area shape="rect" id="node45" href="$d0/d81/func__presencestate_8c.html" title="Custom presence provider. " alt="" coords="5286,169,5445,196"/>
+<area shape="rect" id="node46" href="$d5/d03/asterisk_8c.html" title="Top level source file for Asterisk &#45; the Open Source PBX. Implementation of PBX core functions and CL..." alt="" coords="5469,169,5552,196"/>
+<area shape="rect" id="node47" href="$db/d94/pbx_8c.html" title="Core PBX routines. " alt="" coords="5576,169,5632,196"/>
+<area shape="rect" id="node48" href="$d5/d07/presencestate_8c.html" title="Presence state management. " alt="" coords="5656,169,5781,196"/>
+<area shape="rect" id="node49" href="$d3/d2d/res__manager__presencestate_8c.html" title="res_manager_presencestate.c" alt="" coords="5626,87,5843,114"/>
+<area shape="rect" id="node50" href="$d7/d45/res__pjsip__pidf__digium__body__supplement_8c.html" title="res_pjsip_pidf_digium\l_body_supplement.c" alt="" coords="5867,80,6026,121"/>
+<area shape="rect" id="node3" href="$d0/db6/app__mysql_8c.html" title="MYSQL dialplan application. " alt="" coords="3269,169,3371,196"/>
+<area shape="rect" id="node4" href="$d3/d51/chan__mobile_8c.html" title="Bluetooth Mobile Device channel driver. " alt="" coords="3396,169,3511,196"/>
+<area shape="rect" id="node5" href="$d3/d45/chan__ooh323_8h.html" title="chan_ooh323.h" alt="" coords="3535,169,3655,196"/>
+<area shape="rect" id="node6" href="$d2/dae/ooh323cDriver_8c.html" title="ooh323cDriver.c" alt="" coords="3679,169,3804,196"/>
+<area shape="rect" id="node7" href="$db/d62/app__adsiprog_8c.html" title="Program Asterisk ADSI Scripts into phone. " alt="" coords="3829,169,3947,196"/>
+<area shape="rect" id="node8" href="$de/d11/app__agent__pool_8c.html" title="Call center agent pool. " alt="" coords="3971,169,4106,196"/>
+<area shape="rect" id="node9" href="$dc/d5c/app__alarmreceiver_8c.html" title="Central Station Alarm receiver for Ademco Contact ID. " alt="" coords="4130,169,4281,196"/>
+<area shape="rect" id="node10" href="$d2/d48/app__amd_8c.html" title="Answering machine detection. " alt="" coords="4305,169,4399,196"/>
+<area shape="rect" id="node11" href="$d0/df4/app__attended__transfer_8c.html" title="Attended transfer by caller channel. " alt="" coords="4423,169,4601,196"/>
+<area shape="rect" id="node12" href="$d6/d0f/app__authenticate_8c.html" title="Execute arbitrary authenticate commands. " alt="" coords="4626,169,4771,196"/>
+<area shape="rect" id="node13" href="$d7/d7c/app__blind__transfer_8c.html" title="Blind transfer by caller channel. " alt="" coords="4958,169,5109,196"/>
+<area shape="rect" id="node14" href="$de/d47/features_8h.html" title="Call Parking and Pickup API Includes code and algorithms from the Zapata library. ..." alt="" coords="4847,169,4934,196"/>
+<area shape="rect" id="node15" href="$dc/d22/app__bridgewait_8c.html" title="Application to place the channel into a holding Bridge. " alt="" coords="4871,244,5001,271"/>
+<area shape="rect" id="node16" href="$d7/d1b/app__channelredirect_8c.html" title="ChannelRedirect application. " alt="" coords="5025,244,5188,271"/>
+<area shape="rect" id="node17" href="$dc/d04/app__chanspy_8c.html" title="ChanSpy: Listen in on any channel. " alt="" coords="5212,244,5327,271"/>
+<area shape="rect" id="node18" href="$d9/d12/app__dial_8c.html" title="dial() &amp; retrydial() &#45; Trivial application to dial a channel and send an URL on answer ..." alt="" coords="445,244,531,271"/>
+<area shape="rect" id="node19" href="$dd/d55/app__followme_8c.html" title="Find&#45;Me Follow&#45;Me application. " alt="" coords="4727,244,4847,271"/>
+<area shape="rect" id="node21" href="$d2/d43/app__chanisavail_8c.html" title="Check if Channel is Available. " alt="" coords="189,169,323,196"/>
+<area shape="rect" id="node22" href="$d0/dcf/app__confbridge_8c.html" title="Conference Bridge application. " alt="" coords="219,244,349,271"/>
+<area shape="rect" id="node23" href="$dc/d4e/stasis__bridges_8h.html" title="stasis_bridges.h" alt="" coords="39,169,164,196"/>
+<area shape="rect" id="node24" href="$d6/dde/app__controlplayback_8c.html" title="Trivial application to control playback of a sound file. " alt="" coords="450,169,614,196"/>
+<area shape="rect" id="node25" href="$d3/d3a/app__dahdiras_8c.html" title="Execute an ISDN RAS. " alt="" coords="638,169,757,196"/>
+<area shape="rect" id="node26" href="$dc/dc4/app__db_8c.html" title="Database access functions. " alt="" coords="780,169,860,196"/>
+<area shape="rect" id="node27" href="$dd/d32/app__dictate_8c.html" title="Virtual Dictation Machine Application For Asterisk. " alt="" coords="885,169,993,196"/>
+<area shape="rect" id="node28" href="$d9/db1/app__directed__pickup_8c.html" title="Directed Call Pickup Support. " alt="" coords="1017,169,1181,196"/>
+<area shape="rect" id="node29" href="$d0/de2/app__directory_8c.html" title="Provide a directory of extensions. " alt="" coords="1205,169,1323,196"/>
+<area shape="rect" id="node30" href="$d4/d7e/app__disa_8c.html" title="DISA – Direct Inward System Access Application. " alt="" coords="1348,169,1439,196"/>
+<area shape="rect" id="node31" href="$dc/dc1/app__dtmfstore_8c.html" title="Technology independent asynchronous DTMF collection. " alt="" coords="1463,169,1590,196"/>
+<area shape="rect" id="node32" href="$d2/ddd/app__dumpchan_8c.html" title="Application to dump channel variables. " alt="" coords="1614,169,1746,196"/>
+<area shape="rect" id="node33" href="$d9/d7c/app__exec_8c.html" title="Exec application. " alt="" coords="1770,169,1865,196"/>
+<area shape="rect" id="node34" href="$de/d26/app__externalivr_8c.html" title="External IVR application interface. " alt="" coords="1889,169,2020,196"/>
+<area shape="rect" id="node35" href="$df/dde/app__fax_8c.html" title="app_fax.c" alt="" coords="2044,169,2127,196"/>
+<area shape="rect" id="node36" href="$d5/dd6/app__festival_8c.html" title="Connect to festival. " alt="" coords="2151,169,2260,196"/>
+<area shape="rect" id="node37" href="$d0/dd8/app__flash_8c.html" title="App to flash a DAHDI trunk. " alt="" coords="2285,169,2379,196"/>
+<area shape="rect" id="node38" href="$d2/db9/app__forkcdr_8c.html" title="Fork CDR application. " alt="" coords="2404,169,2511,196"/>
+<area shape="rect" id="node39" href="$dc/d7b/app__getcpeid_8c.html" title="Get ADSI CPE ID. " alt="" coords="2535,169,2654,196"/>
+<area shape="rect" id="node40" href="$da/d8a/app__ices_8c.html" title="Stream to an icecast server via ICES (see contrib/asterisk&#45;ices.xml) " alt="" coords="2678,169,2767,196"/>
+<area shape="rect" id="node41" href="$d1/d02/app__if_8c.html" title="If Branch Implementation. " alt="" coords="2791,169,2862,196"/>
+<area shape="rect" id="node42" href="$dc/d71/app__image_8c.html" title="App to transmit an image. " alt="" coords="2887,169,2991,196"/>
+<area shape="rect" id="node43" href="$d1/d14/app__ivrdemo_8c.html" title="IVR Demo application. " alt="" coords="3015,169,3131,196"/>
+<area shape="rect" id="node44" href="$de/dcd/app__jack_8c.html" title="Jack Application. " alt="" coords="3155,169,3245,196"/>
+</map>

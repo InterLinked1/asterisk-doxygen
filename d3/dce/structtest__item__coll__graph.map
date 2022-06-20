@@ -1,0 +1,7 @@
+<map id="test_item" name="test_item">
+<area shape="rect" id="node2" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node6" href="$de/dd9/structast__string__field__mgr.html" title="ast_string_field_mgr" alt="" coords="145,109,295,136"/>
+<area shape="rect" id="node3" href="$dc/d1d/structast__ha.html" title="internal representation of ACL entries In principle user applications would have no need for this..." alt="" coords="453,109,518,136"/>
+<area shape="rect" id="node4" href="$d3/db3/structast__sockaddr.html" title="Socket address structure. " alt="" coords="312,5,419,32"/>
+<area shape="rect" id="node5" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="600,109,723,136"/>
+</map>

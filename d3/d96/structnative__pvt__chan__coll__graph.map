@@ -1,0 +1,27 @@
+<map id="native_pvt_chan" name="native_pvt_chan">
+<area shape="rect" id="node2" href="$d2/da4/structdahdi__pvt.html" title="dahdi_pvt" alt="" coords="913,603,997,629"/>
+<area shape="rect" id="node3" href="$de/d41/structast__mwi__subscriber.html" title="ast_mwi_subscriber" alt="" coords="607,13,754,40"/>
+<area shape="rect" id="node4" href="$d7/d67/structstasis__state__subscriber.html" title="stasis_state_subscriber" alt="" coords="275,13,447,40"/>
+<area shape="rect" id="node5" href="$d0/d5b/structast__dsp__busy__pattern.html" title="ast_dsp_busy_pattern" alt="" coords="279,76,442,103"/>
+<area shape="rect" id="node6" href="$d6/de5/structast__dsp.html" title="ast_dsp" alt="" coords="645,252,717,279"/>
+<area shape="rect" id="node7" href="$d6/d6a/structtone__detect__state__t.html" title="tone_detect_state_t" alt="" coords="285,139,436,165"/>
+<area shape="rect" id="node8" href="$d1/d12/structgoertzel__state__t.html" title="goertzel_state_t" alt="" coords="5,167,132,193"/>
+<area shape="rect" id="node9" href="$d3/d6f/structfragment__t.html" title="fragment_t" alt="" coords="314,252,407,279"/>
+<area shape="rect" id="node10" href="$d7/dd0/structdigit__detect__state__t.html" title="digit_detect_state_t" alt="" coords="286,303,435,329"/>
+<area shape="rect" id="node11" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="25,469,112,496"/>
+<area shape="rect" id="node23" href="$d8/d88/structdahdi__subchannel.html" title="dahdi_subchannel" alt="" coords="612,523,749,549"/>
+<area shape="rect" id="node24" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="311,469,410,496"/>
+<area shape="rect" id="node12" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="301,660,421,687"/>
+<area shape="rect" id="node13" href="$d8/d32/structast__smdi__interface.html" title="ast_smdi_interface" alt="" coords="609,575,752,601"/>
+<area shape="rect" id="node14" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="12,576,125,603"/>
+<area shape="rect" id="node15" href="$dd/d3d/structtdd__state.html" title="tdd_state" alt="" coords="639,688,722,715"/>
+<area shape="rect" id="node16" href="$d0/d4b/structfsk__data.html" title="fsk_data" alt="" coords="323,720,399,747"/>
+<area shape="rect" id="node26" href="$d2/d76/structcallerid__state.html" title="callerid_state" alt="" coords="627,739,734,765"/>
+<area shape="rect" id="node17" href="$d9/d21/structdahdi__distRings.html" title="dahdi_distRings" alt="" coords="620,789,741,816"/>
+<area shape="rect" id="node18" href="$d2/d4d/structringContextData.html" title="ringContextData" alt="" coords="297,781,424,808"/>
+<area shape="rect" id="node19" href="$d2/daa/structdistRingData.html" title="distRingData" alt="" coords="309,832,412,859"/>
+<area shape="rect" id="node20" href="$dd/d02/structast__variable.html" title="Structure for variables, used for configurations and for channel variables. " alt="" coords="631,879,730,905"/>
+<area shape="rect" id="node21" href="$da/dc9/structast__comment.html" title="Structure to keep comments for rewriting configuration files. " alt="" coords="305,921,416,948"/>
+<area shape="rect" id="node22" href="$d6/df2/structmwisend__info.html" title="mwisend_info" alt="" coords="627,929,735,956"/>
+<area shape="rect" id="node25" href="$d4/d2e/structast__cc__config__params.html" title="ast_cc_config_params" alt="" coords="599,980,763,1007"/>
+</map>

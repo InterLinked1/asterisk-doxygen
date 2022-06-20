@@ -1,0 +1,11 @@
+<map id="dns_resolver.h" name="dns_resolver.h">
+<area shape="rect" id="node2" href="$dc/d00/dns__core_8c.html" title="Core DNS Functionality. " alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$d5/da5/dns__query__set_8c.html" title="DNS Query Set API. " alt="" coords="121,80,247,107"/>
+<area shape="rect" id="node4" href="$df/d3a/dns__system__resolver_8c.html" title="The default DNS resolver for Asterisk. " alt="" coords="271,80,438,107"/>
+<area shape="rect" id="node5" href="$d0/d5c/res__resolver__unbound_8c.html" title="res_resolver_unbound.c" alt="" coords="462,80,637,107"/>
+<area shape="rect" id="node6" href="$da/d14/test__dns_8c.html" title="test_dns.c" alt="" coords="661,80,749,107"/>
+<area shape="rect" id="node7" href="$d4/db3/test__dns__naptr_8c.html" title="test_dns_naptr.c" alt="" coords="773,80,901,107"/>
+<area shape="rect" id="node8" href="$d3/d10/test__dns__query__set_8c.html" title="test_dns_query_set.c" alt="" coords="926,80,1085,107"/>
+<area shape="rect" id="node9" href="$d5/d36/test__dns__recurring_8c.html" title="test_dns_recurring.c" alt="" coords="1109,80,1261,107"/>
+<area shape="rect" id="node10" href="$da/d22/test__dns__srv_8c.html" title="test_dns_srv.c" alt="" coords="1286,80,1399,107"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="srv.c" name="srv.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1509,229,1593,256"/>
+<area shape="rect" id="node25" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1096,80,1235,107"/>
+<area shape="rect" id="node27" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1867,229,1981,256"/>
+<area shape="rect" id="node35" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="399,304,550,331"/>
+<area shape="rect" id="node49" href="$d5/d60/srv_8h.html" title="Support for DNS SRV records, used in to locate SIP services. " alt="" coords="2157,80,2264,107"/>
+<area shape="rect" id="node50" href="$d5/d2e/dns_8h.html" title="DNS support for Asterisk. " alt="" coords="2289,80,2399,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="1676,304,1831,331"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="1279,304,1417,331"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1493,304,1627,331"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="1989,379,2136,405"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="578,453,721,480"/>
+<area shape="rect" id="node26" href="$dc/d4d/alertpipe_8h.html" title="asterisk/alertpipe.h" alt="" coords="1787,155,1931,181"/>
+<area shape="rect" id="node28" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="593,379,706,405"/>
+<area shape="rect" id="node30" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2012,304,2169,331"/>
+<area shape="rect" id="node31" href="$dc/d14/abstract__jb_8h.html" title="Common implementation&#45;independent jitterbuffer stuff. " alt="" coords="777,229,935,256"/>
+<area shape="rect" id="node34" href="$d5/da5/astobj2_8h.html" title="asterisk/astobj2.h" alt="" coords="959,229,1094,256"/>
+<area shape="rect" id="node36" href="$d4/dfb/poll-compat_8h.html" title="asterisk/poll&#45;compat.h" alt="" coords="1254,155,1418,181"/>
+<area shape="rect" id="node38" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="626,229,753,256"/>
+<area shape="rect" id="node39" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="23,229,169,256"/>
+<area shape="rect" id="node40" href="$d3/de6/include_2asterisk_2config_8h.html" title="Configuration File Parser. " alt="" coords="2158,155,2285,181"/>
+<area shape="rect" id="node41" href="$dc/d07/cdr_8h.html" title="Call Detail Record API. " alt="" coords="184,155,291,181"/>
+<area shape="rect" id="node42" href="$d9/db6/datastore_8h.html" title="Asterisk datastore objects. " alt="" coords="194,229,345,256"/>
+<area shape="rect" id="node43" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="366,155,527,181"/>
+<area shape="rect" id="node44" href="$d9/d95/channelstate_8h.html" title="Channel states. " alt="" coords="1443,155,1613,181"/>
+<area shape="rect" id="node45" href="$de/dc8/ccss_8h.html" title="Call Completion Supplementary Services API. " alt="" coords="961,155,1077,181"/>
+<area shape="rect" id="node46" href="$db/d3c/framehook_8h.html" title="FrameHook Architecture. " alt="" coords="552,155,709,181"/>
+<area shape="rect" id="node47" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1637,155,1763,181"/>
+<area shape="rect" id="node48" href="$d4/d61/endpoints_8h.html" title="Endpoint abstractions. " alt="" coords="734,155,885,181"/>
+<area shape="rect" id="node29" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1565,453,1712,480"/>
+<area shape="rect" id="node33" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="625,304,756,331"/>
+<area shape="rect" id="node37" href="$d9/dab/select_8h.html" title="Bitfield expansions for ast_select. " alt="" coords="1186,229,1313,256"/>
+</map>

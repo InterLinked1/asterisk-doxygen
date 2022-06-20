@@ -1,0 +1,23 @@
+<map id="test_ari_model.c" name="test_ari_model.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="748,169,832,196"/>
+<area shape="rect" id="node22" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1442,169,1557,196"/>
+<area shape="rect" id="node46" href="$d5/d16/module_8h.html" title="Asterisk module definitions. " alt="" coords="1326,87,1462,114"/>
+<area shape="rect" id="node47" href="$d2/ddc/test_8h.html" title="Test Framework API. " alt="" coords="1119,87,1232,114"/>
+<area shape="rect" id="node49" href="$d8/d1e/ari__model__validators_8h.html" title="Generated file &#45; Build validators for ARI model objects. " alt="" coords="1551,80,1693,121"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="467,393,622,420"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="641,244,779,271"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="803,244,937,271"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="471,468,618,495"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="1371,319,1513,345"/>
+<area shape="rect" id="node23" href="$d9/d94/network_8h.html" title="Wrapper for network related headers, masking differences between various operating systems..." alt="" coords="2834,244,2973,271"/>
+<area shape="rect" id="node33" href="$de/df7/time_8h.html" title="Time&#45;related functions and macros. " alt="" coords="1537,319,1600,345"/>
+<area shape="rect" id="node36" href="$dd/d42/lock_8h.html" title="Asterisk locking&#45;related definitions: " alt="" coords="1633,244,1747,271"/>
+<area shape="rect" id="node41" href="$d1/d8c/logger_8h.html" title="Support for logging to various files, console and syslog Configuration in file logger.conf. " alt="" coords="2195,319,2321,345"/>
+<area shape="rect" id="node42" href="$d5/deb/localtime_8h.html" title="Custom localtime functions for multiple timezones. " alt="" coords="2311,244,2458,271"/>
+<area shape="rect" id="node44" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="2035,244,2193,271"/>
+<area shape="rect" id="node45" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1022,244,1153,271"/>
+<area shape="rect" id="node35" href="$d5/d9d/inline__api_8h.html" title="Inlinable API function macro. " alt="" coords="1673,393,1819,420"/>
+<area shape="rect" id="node40" href="$d3/dda/backtrace_8h.html" title="Asterisk backtrace generation. " alt="" coords="2020,319,2171,345"/>
+<area shape="rect" id="node48" href="$dc/db0/cli_8h.html" title="Standard Command Line Interface. " alt="" coords="1125,169,1226,196"/>
+<area shape="rect" id="node50" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="1581,169,1695,196"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ast_party_id" name="ast_party_id">
+<area shape="rect" id="node2" href="$d7/d41/structast__party__subaddress.html" title="Information needed to specify a subaddress in a call. " alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$d6/dbb/structast__party__number.html" title="Information needed to specify a number in a call. " alt="" coords="192,5,331,32"/>
+<area shape="rect" id="node4" href="$d8/d6f/structast__party__name.html" title="Information needed to specify a name in a call. " alt="" coords="355,5,482,32"/>
+</map>

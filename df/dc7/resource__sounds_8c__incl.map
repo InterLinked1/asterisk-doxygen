@@ -1,0 +1,17 @@
+<map id="resource_sounds.c" name="resource_sounds.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="1030,80,1114,107"/>
+<area shape="rect" id="node22" href="$d3/dde/resource__sounds_8h.html" title="Generated file &#45; declares stubs to be implemented in res/ari/resource_sounds.c. " alt="" coords="1685,80,1827,107"/>
+<area shape="rect" id="node25" href="$d4/d05/json_8h.html" title="Asterisk JSON abstraction layer. " alt="" coords="1823,229,1937,256"/>
+<area shape="rect" id="node26" href="$dd/d35/media__index_8h.html" title="Media file format and description indexing engine. " alt="" coords="1903,80,2073,107"/>
+<area shape="rect" id="node27" href="$d4/d8b/sounds__index_8h.html" title="Sound file format and description indexer. " alt="" coords="2097,80,2271,107"/>
+<area shape="rect" id="node28" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="2296,80,2427,107"/>
+<area shape="rect" id="node30" href="$d0/d3c/format__cap_8h.html" title="Format Capabilities API. " alt="" coords="2451,80,2613,107"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="373,155,528,181"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="923,155,1061,181"/>
+<area shape="rect" id="node21" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="1085,155,1219,181"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,229,152,256"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="177,229,319,256"/>
+<area shape="rect" id="node23" href="$d4/d59/ari_8h.html" title="Asterisk RESTful API hooks. " alt="" coords="1704,155,1808,181"/>
+<area shape="rect" id="node24" href="$dd/d56/http_8h.html" title="Support for Private Asterisk HTTP Servers. " alt="" coords="1684,229,1799,256"/>
+<area shape="rect" id="node29" href="$d1/d16/codec_8h.html" title="Codec API. " alt="" coords="2383,155,2510,181"/>
+</map>

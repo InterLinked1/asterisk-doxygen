@@ -1,0 +1,9 @@
+<map id="cli_perms" name="cli_perms">
+<area shape="rect" id="node2" href="$d4/dbb/structusergroup__cli__perm.html" title="list of users to apply restrictions. " alt="" coords="5,199,153,225"/>
+<area shape="rect" id="node3" href="$df/daf/structcli__perm__head.html" title="cli_perm_head" alt="" coords="22,109,137,136"/>
+<area shape="rect" id="node4" href="$d1/d0a/structcli__perm.html" title="List of restrictions per user. " alt="" coords="41,5,117,32"/>
+<area shape="rect" id="node5" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="235,199,353,225"/>
+<area shape="rect" id="node6" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="189,109,340,136"/>
+<area shape="rect" id="node7" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="364,109,477,136"/>
+<area shape="rect" id="node8" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="389,5,452,32"/>
+</map>

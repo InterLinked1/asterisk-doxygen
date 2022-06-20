@@ -1,0 +1,7 @@
+<map id="uri_redirects" name="uri_redirects">
+<area shape="rect" id="node2" href="$db/d02/structhttp__uri__redirect.html" title="http_uri_redirect" alt="" coords="5,184,132,211"/>
+<area shape="rect" id="node3" href="$dc/d9e/structast__rwlock__info.html" title="Structure for rwlock and tracking information. " alt="" coords="213,184,332,211"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="141,95,292,121"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="316,95,429,121"/>
+<area shape="rect" id="node6" href="$dd/d95/structast__bt.html" title="ast_bt" alt="" coords="341,5,404,32"/>
+</map>

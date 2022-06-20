@@ -1,0 +1,42 @@
+<map id="control.c" name="control.c">
+<area shape="rect" id="node2" href="$db/db2/asterisk_8h.html" title="Asterisk main include file. File version handling, generic pbx functions. " alt="" coords="495,393,579,420"/>
+<area shape="rect" id="node17" href="$d9/d4a/stasis__channels_8h.html" title="asterisk/stasis_channels.h" alt="" coords="1453,244,1643,271"/>
+<area shape="rect" id="node24" href="$d6/d66/include_2asterisk_2frame_8h.html" title="Asterisk internal frame definitions. " alt="" coords="698,393,825,420"/>
+<area shape="rect" id="node28" href="$d8/d9c/stasis__app_8h.html" title="Stasis Application API. See Stasis Application API for detailed documentation. " alt="" coords="1273,244,1429,271"/>
+<area shape="rect" id="node29" href="$d0/d09/command_8h.html" title="Internal API for the Stasis application commands. " alt="" coords="1307,80,1405,107"/>
+<area shape="rect" id="node31" href="$d9/d02/control_8h.html" title="Internal API for the Stasis application controller. " alt="" coords="1513,162,1591,189"/>
+<area shape="rect" id="node32" href="$df/d5f/res_2stasis_2app_8h.html" title="Internal API for the Stasis application controller. " alt="" coords="1261,162,1320,189"/>
+<area shape="rect" id="node33" href="$df/dcf/dial_8h.html" title="Dialing API. " alt="" coords="1481,80,1591,107"/>
+<area shape="rect" id="node34" href="$d4/d56/bridge_8h.html" title="Bridging API. " alt="" coords="893,80,1021,107"/>
+<area shape="rect" id="node35" href="$dc/d7a/bridge__features_8h.html" title="Channel Bridging API. " alt="" coords="817,244,1005,271"/>
+<area shape="rect" id="node40" href="$d8/d85/bridge__after_8h.html" title="After Bridge Execution API. " alt="" coords="1718,80,1882,107"/>
+<area shape="rect" id="node41" href="$d4/d1e/bridge__basic_8h.html" title="Basic bridge subclass API. " alt="" coords="1907,80,2075,107"/>
+<area shape="rect" id="node42" href="$db/de0/pbx_8h.html" title="Core PBX routines and definitions. " alt="" coords="2002,244,2113,271"/>
+<area shape="rect" id="node48" href="$dc/d07/musiconhold_8h.html" title="Music on hold handling. " alt="" coords="2150,80,2319,107"/>
+<area shape="rect" id="node49" href="$d3/d93/include_2asterisk_2app_8h.html" title="Application convenience functions, designed to give consistent look and feel to Asterisk apps..." alt="" coords="1405,319,1517,345"/>
+<area shape="rect" id="node3" href="$d8/d20/autoconfig_8h.html" title="asterisk/autoconfig.h" alt="" coords="157,468,312,495"/>
+<area shape="rect" id="node5" href="$de/da3/include_2asterisk_2compat_8h.html" title="General Definitions for Asterisk top level program Included by asterisk.h to handle platform&#45;specific..." alt="" coords="493,468,630,495"/>
+<area shape="rect" id="node16" href="$d8/d8a/astmm_8h.html" title="Asterisk memory management routines. " alt="" coords="654,468,789,495"/>
+<area shape="rect" id="node4" href="$dc/dba/buildopts_8h.html" title="asterisk/buildopts.h" alt="" coords="5,543,152,569"/>
+<area shape="rect" id="node6" href="$d4/dd1/compiler_8h.html" title="Compiler&#45;specific macros and other items. " alt="" coords="271,543,414,569"/>
+<area shape="rect" id="node18" href="$d1/d0f/stringfields_8h.html" title="asterisk/stringfields.h" alt="" coords="1616,543,1773,569"/>
+<area shape="rect" id="node19" href="$dd/d79/stasis_8h.html" title="Stasis Message Bus API. See Stasis Message Bus API for detailed documentation. " alt="" coords="1172,393,1297,420"/>
+<area shape="rect" id="node23" href="$d5/d7b/channel_8h.html" title="General Asterisk PBX channel definitions. " alt="" coords="1059,319,1197,345"/>
+<area shape="rect" id="node20" href="$d5/d60/utils_8h.html" title="Utility functions. " alt="" coords="1284,468,1399,495"/>
+<area shape="rect" id="node21" href="$d6/d90/strings_8h.html" title="String manipulation functions. " alt="" coords="1319,543,1449,569"/>
+<area shape="rect" id="node22" href="$dc/d7d/threadstorage_8h.html" title="Definitions to aid in the use of thread local storage. " alt="" coords="1295,617,1473,644"/>
+<area shape="rect" id="node26" href="$df/d90/linkedlists_8h.html" title="A set of macros to manage forward&#45;linked lists. " alt="" coords="813,468,963,495"/>
+<area shape="rect" id="node27" href="$d9/de7/chanvars_8h.html" title="Channel Variables. " alt="" coords="951,393,1097,420"/>
+<area shape="rect" id="node25" href="$d0/d0a/format_8h.html" title="Media Format API. " alt="" coords="1093,468,1224,495"/>
+<area shape="rect" id="node30" href="$de/d0b/stasis__app__impl_8h.html" title="Backend API for implementing components of res_stasis. " alt="" coords="1344,155,1488,196"/>
+<area shape="rect" id="node36" href="$de/d41/bridge__channel_8h.html" title="asterisk/bridge_channel.h" alt="" coords="778,162,963,189"/>
+<area shape="rect" id="node37" href="$dd/dff/bridge__roles_8h.html" title="Channel Bridging Roles API. " alt="" coords="626,244,793,271"/>
+<area shape="rect" id="node38" href="$d3/d08/dsp_8h.html" title="Convenient Signal Processing routines. " alt="" coords="987,162,1098,189"/>
+<area shape="rect" id="node39" href="$dd/d1d/uuid_8h.html" title="Universally unique identifier support. " alt="" coords="1123,162,1237,189"/>
+<area shape="rect" id="node43" href="$d7/d00/sched_8h.html" title="Scheduler Routines (derived from cheops) " alt="" coords="2045,319,2171,345"/>
+<area shape="rect" id="node44" href="$da/da2/devicestate_8h.html" title="Device state management. " alt="" coords="1756,393,1919,420"/>
+<area shape="rect" id="node45" href="$d6/dd7/presencestate_8h.html" title="Presence state management. " alt="" coords="2195,319,2375,345"/>
+<area shape="rect" id="node46" href="$d6/da0/hashtab_8h.html" title="Generic (perhaps overly so) hashtable implementation Hash Table support in Asterisk. " alt="" coords="2399,319,2539,345"/>
+<area shape="rect" id="node47" href="$d1/d99/xmldoc_8h.html" title="Asterisk XML Documentation API. " alt="" coords="1575,468,1710,495"/>
+<area shape="rect" id="node50" href="$d2/d4d/file_8h.html" title="Generic File Format Support. Should be included by clients of the file handling routines. File service providers should instead include mod_format.h. " alt="" coords="1524,393,1631,420"/>
+</map>

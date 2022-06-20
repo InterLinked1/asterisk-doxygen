@@ -1,0 +1,13 @@
+<map id="spandsp_pvt" name="spandsp_pvt">
+<area shape="rect" id="node2" href="$d1/dbe/structspandsp__pvt_1_1frame__queue.html" title="frame_queue" alt="" coords="496,128,603,155"/>
+<area shape="rect" id="node3" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="265,39,385,65"/>
+<area shape="rect" id="node4" href="$d6/d11/structast__lock__track__flags.html" title="ast_lock_track_flags" alt="" coords="6,5,157,32"/>
+<area shape="rect" id="node5" href="$d0/de9/structast__lock__track.html" title="Lock tracking information. " alt="" coords="25,56,138,83"/>
+<area shape="rect" id="node6" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="282,128,369,155"/>
+<area shape="rect" id="node7" href="$d1/d9f/structast__frame__subclass.html" title="ast_frame_subclass" alt="" coords="7,127,156,153"/>
+<area shape="rect" id="node8" href="$dd/df2/structspandsp__fax__stats.html" title="spandsp_fax_stats" alt="" coords="479,179,620,205"/>
+<area shape="rect" id="node9" href="$da/def/structast__timer.html" title="ast_timer" alt="" coords="508,229,591,256"/>
+<area shape="rect" id="node10" href="$d4/db6/structtiming__holder.html" title="timing_holder" alt="" coords="271,231,380,257"/>
+<area shape="rect" id="node11" href="$d9/df5/structast__module.html" title="ast_module" alt="" coords="33,231,130,257"/>
+<area shape="rect" id="node12" href="$dd/d06/structast__timing__interface.html" title="Timing module interface. " alt="" coords="5,281,157,308"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="stasis_state_publisher" name="stasis_state_publisher">
+<area shape="rect" id="node2" href="$d6/d75/structstasis__state.html" title="stasis_state" alt="" coords="150,199,248,225"/>
+<area shape="rect" id="node3" href="$d8/d54/structstasis__forward.html" title="Forwarding information. " alt="" coords="61,109,174,136"/>
+<area shape="rect" id="node4" href="$d9/d1d/structstasis__topic.html" title="stasis_topic" alt="" coords="56,5,153,32"/>
+<area shape="rect" id="node5" href="$d8/d25/structstasis__state__manager.html" title="stasis_state_manager" alt="" coords="198,109,362,136"/>
+<area shape="rect" id="node6" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="236,5,349,32"/>
+<area shape="rect" id="node7" href="$d7/d55/structstasis__message.html" title="stasis_message" alt="" coords="387,109,512,136"/>
+<area shape="rect" id="node8" href="$d0/d86/structast__eid.html" title="An Entity ID is essentially a MAC address, brief and unique. " alt="" coords="400,5,468,32"/>
+<area shape="rect" id="node9" href="$d4/d8f/structstasis__message__type.html" title="stasis_message_type" alt="" coords="492,5,652,32"/>
+</map>

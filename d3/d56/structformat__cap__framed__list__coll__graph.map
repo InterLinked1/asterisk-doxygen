@@ -1,0 +1,6 @@
+<map id="format_cap_framed_list" name="format_cap_framed_list">
+<area shape="rect" id="node2" href="$d1/d0e/structformat__cap__framed.html" title="Structure used for capability formats, adds framing. " alt="" coords="18,213,166,240"/>
+<area shape="rect" id="node3" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="125,95,217,121"/>
+<area shape="rect" id="node4" href="$dd/d1f/structast__format__interface.html" title="Optional format interface to extend format operations. " alt="" coords="263,213,417,240"/>
+<area shape="rect" id="node5" href="$d5/d53/structast__codec.html" title="Represents a media codec within Asterisk. " alt="" coords="127,5,214,32"/>
+</map>

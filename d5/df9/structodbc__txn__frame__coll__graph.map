@@ -1,0 +1,51 @@
+<map id="odbc_txn_frame" name="odbc_txn_frame">
+<area shape="rect" id="node2" href="$df/d36/structodbc__obj.html" title="ODBC container. " alt="" coords="266,51,345,77"/>
+<area shape="rect" id="node3" href="$d4/d3e/structodbc__class.html" title="odbc_class" alt="" coords="589,44,681,71"/>
+<area shape="rect" id="node4" href="$d8/dc5/structast__mutex__info.html" title="Structure for mutex and tracking information. " alt="" coords="245,592,365,619"/>
+<area shape="rect" id="node14" href="$d8/d7f/structast__autochan.html" title="ast_autochan" alt="" coords="580,729,689,756"/>
+<area shape="rect" id="node32" href="$d2/d49/structast__audiohook.html" title="ast_audiohook" alt="" coords="577,884,692,911"/>
+<area shape="rect" id="node44" href="$d7/de8/structast__sched__context.html" title="ast_sched_context" alt="" coords="920,553,1063,580"/>
+<area shape="rect" id="node5" href="$df/d3c/structast__channel.html" title="Main Channel structure associated with a channel. " alt="" coords="1309,1105,1407,1132"/>
+<area shape="rect" id="node8" href="$db/dbc/structast__filestream.html" title="This structure is allocated by file.c in one chunk, together with buf_size and desc_size bytes of mem..." alt="" coords="1653,476,1767,503"/>
+<area shape="rect" id="node41" href="$df/df9/structast__framehook.html" title="ast_framehook" alt="" coords="1651,1076,1769,1103"/>
+<area shape="rect" id="node49" href="$d4/d85/structast__channel__tech.html" title="Structure to describe a channel &quot;technology&quot;, ie a channel driver See for examples: ..." alt="" coords="1643,1711,1777,1737"/>
+<area shape="rect" id="node6" href="$d2/da9/structao2__container.html" title="Generic container type. " alt="" coords="935,1852,1048,1879"/>
+<area shape="rect" id="node7" href="$df/d93/structao2__container__methods.html" title="ao2_container_methods" alt="" coords="1269,1911,1447,1937"/>
+<area shape="rect" id="node15" href="$d9/daf/structast__channel__monitor.html" title="ast_channel_monitor" alt="" coords="1912,807,2068,833"/>
+<area shape="rect" id="node9" href="$d0/d57/structast__format__def.html" title="Each supported file format is described by the following structure. " alt="" coords="246,275,365,301"/>
+<area shape="rect" id="node10" href="$d0/d98/structast__format.html" title="Definition of a media format. " alt="" coords="7,676,99,703"/>
+<area shape="rect" id="node12" href="$d1/d47/structast__trans__pvt.html" title="Default structure for translators, with the basic fields and buffers, all allocated as part of the sa..." alt="" coords="251,872,360,899"/>
+<area shape="rect" id="node22" href="$d8/dec/structast__jb.html" title="General jitterbuffer state. " alt="" coords="605,1751,665,1777"/>
+<area shape="rect" id="node31" href="$d6/d81/structast__audiohook__translate.html" title="ast_audiohook_translate" alt="" coords="545,780,724,807"/>
+<area shape="rect" id="node11" href="$d0/d99/structast__frame.html" title="Data structure associated with a single frame of data. " alt="" coords="9,1460,96,1487"/>
+<area shape="rect" id="node24" href="$d0/dea/structast__jb__impl.html" title="Jitterbuffer implementation struct. " alt="" coords="258,1665,353,1692"/>
+<area shape="rect" id="node35" href="$de/d3f/structast__readq__list.html" title="ast_readq_list" alt="" coords="411,1365,521,1392"/>
+<area shape="rect" id="node13" href="$dd/d2f/structast__autochan__list.html" title="ast_autochan_list" alt="" coords="924,699,1059,725"/>
+<area shape="rect" id="node16" href="$d4/d5d/structast__cdr.html" title="Responsible for call detail data. " alt="" coords="957,1155,1026,1181"/>
+<area shape="rect" id="node17" href="$dd/de6/structvarshead.html" title="varshead" alt="" coords="594,1247,675,1273"/>
+<area shape="rect" id="node18" href="$d6/d83/structast__pbx.html" title="ast_pbx" alt="" coords="955,1268,1027,1295"/>
+<area shape="rect" id="node19" href="$dd/d77/structast__tone__zone.html" title="A set of tones for a given locale. " alt="" coords="933,1509,1049,1536"/>
+<area shape="rect" id="node20" href="$d5/dab/structast__tone__zone__sound.html" title="Description of a tone. " alt="" coords="553,1459,716,1485"/>
+<area shape="rect" id="node21" href="$d3/dd3/structast__string__field__pool.html" title="ast_string_field_pool" alt="" coords="915,1408,1067,1435"/>
+<area shape="rect" id="node23" href="$d7/dba/structast__jb__conf.html" title="General jitterbuffer configuration. " alt="" coords="5,1719,100,1745"/>
+<area shape="rect" id="node25" href="$dc/d9e/structast__party__connected__line.html" title="Connected Line/Party information. " alt="" coords="899,952,1084,979"/>
+<area shape="rect" id="node26" href="$d1/dcb/structast__party__id.html" title="Information needed to identify an endpoint in a call. " alt="" coords="585,987,685,1013"/>
+<area shape="rect" id="node28" href="$d4/d77/structast__party__caller.html" title="Caller Party information. " alt="" coords="930,901,1053,928"/>
+<area shape="rect" id="node37" href="$df/d44/structast__party__redirecting.html" title="Redirecting Line information. RDNIS (Redirecting Directory Number Information Service) Where a call d..." alt="" coords="913,1065,1070,1092"/>
+<area shape="rect" id="node27" href="$d7/d41/structast__party__subaddress.html" title="Information needed to specify a subaddress in a call. " alt="" coords="224,1100,387,1127"/>
+<area shape="rect" id="node36" href="$d1/dd1/structast__party__dialed.html" title="Dialed/Called Party information. " alt="" coords="748,1012,875,1039"/>
+<area shape="rect" id="node29" href="$d0/d0b/structast__channel__id.html" title="Channel UniqueId structure. " alt="" coords="933,749,1050,776"/>
+<area shape="rect" id="node30" href="$dd/d12/structast__audiohook__list.html" title="ast_audiohook_list" alt="" coords="921,800,1061,827"/>
+<area shape="rect" id="node33" href="$d5/d49/structast__hangup__handler__list.html" title="ast_hangup_handler_list" alt="" coords="903,1611,1080,1637"/>
+<area shape="rect" id="node34" href="$d7/d16/structast__hangup__handler.html" title="ast_hangup_handler" alt="" coords="559,1611,711,1637"/>
+<area shape="rect" id="node38" href="$d1/dee/structast__party__redirecting__reason.html" title="Redirecting reason information. " alt="" coords="556,1173,713,1214"/>
+<area shape="rect" id="node39" href="$de/d2a/structast__generator.html" title="ast_generator" alt="" coords="935,851,1047,877"/>
+<area shape="rect" id="node40" href="$dc/d36/structast__framehook__list.html" title="ast_framehook_list" alt="" coords="1919,1104,2061,1131"/>
+<area shape="rect" id="node42" href="$dc/dc1/structast__datastore__list.html" title="ast_datastore_list" alt="" coords="923,1665,1059,1692"/>
+<area shape="rect" id="node43" href="$d4/d5d/structast__datastore.html" title="Structure for a data store object. " alt="" coords="579,1700,690,1727"/>
+<area shape="rect" id="node45" href="$d0/da0/structsched.html" title="sched" alt="" coords="605,348,665,375"/>
+<area shape="rect" id="node46" href="$d1/dab/structsched__id.html" title="Scheduler ID holder. " alt="" coords="266,415,345,441"/>
+<area shape="rect" id="node47" href="$dc/dec/structast__heap.html" title="ast_heap" alt="" coords="594,640,675,667"/>
+<area shape="rect" id="node48" href="$d7/ddd/structsched__thread.html" title="sched_thread" alt="" coords="580,527,689,553"/>
+<area shape="rect" id="node50" href="$d8/d69/structast__format__cap.html" title="Format capabilities structure, holds formats + preference order + etc. " alt="" coords="1297,1852,1419,1879"/>
+</map>
